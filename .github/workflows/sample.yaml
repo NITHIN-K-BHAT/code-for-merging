@@ -22,13 +22,13 @@ jobs:
         distribution: 'adopt'
         java-version: '11'
 
-    - name: Build with Gradle
+    - name: Compile Java code
       run: |
-        ./gradlew build
+        javac -d out src/**/*.java
 
     - name: Run Java program
       run: |
-        java -cp build/classes/java/main DitaMapProcessor
+        java -cp out DitaMapProcessor
       env:
         INPUT_FILE_PATH: "Maps/Region/ass/countries/angola/content-types/directory.ditamap"
         OUTPUT_FILE_PATH: "output.dita"
