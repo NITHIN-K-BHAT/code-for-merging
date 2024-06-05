@@ -1,6 +1,10 @@
-version: '1.0'
-
 name: Run DitaMapProcessor
+
+on: 
+  push:
+    branches:
+      - main
+  
 
 jobs:
   run-ditamap-processor:
@@ -15,7 +19,7 @@ jobs:
           java-version: '17.0.11'
 
       - name: Compile DitaMapProcessor
-        run: javac path/to/DitaMapProcessor.java
+        run: javac DitaMapProcessor.java
 
       - name: Run DitaMapProcessor
-        run: java -cp path/to DitaMapProcessor
+        run: java -cp DitaMapProcessor.java
