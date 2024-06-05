@@ -20,15 +20,15 @@ jobs:
       uses: actions/setup-java@v2
       with:
         distribution: 'adopt'
-        java-version: '11'
+        java-version: '17.0.11'
 
     - name: Compile Java code
       run: |
-        javac -d out src/**/*.java
+        javac -d out java code for merging in runner 1/*.java
 
     - name: Run Java program
       run: |
-        java -cp out DitaMapProcessor
+        java -cp out DitaMapProcessor.java
       env:
         INPUT_FILE_PATH: "Maps/Region/ass/countries/angola/content-types/directory.ditamap"
         OUTPUT_FILE_PATH: "output.dita"
