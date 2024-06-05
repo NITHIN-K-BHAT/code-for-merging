@@ -24,7 +24,7 @@ jobs:
 
     - name: Compile Java code
       run: |
-        javac -d out 'java code for merging in runner 1'/DitaMapProcessor.java
+        javac -d out java code for merging in runner 1/DitaMapProcessor.java
 
     - name: Run Java program
       run: |
