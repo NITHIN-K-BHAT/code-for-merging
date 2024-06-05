@@ -1,0 +1,37 @@
+<org-entryref id="SL1741265" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741264" slsdocid="249571" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.959" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Orlando Sentinel</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>633 N Orange Ave, Orlando, FL 32801</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(407) 420-5353</telephone>
+                                                       <email>social@orlandosentinel.com</email>
+                                                       <internet>orlandosentinel.com</internet>
+                                                  </address-block>
+                                                  <found-date>1876</found-date>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Roger</forename>
+                                                                 <surname>Simmons</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Julie</forename>
+                                                                 <surname>Anderson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 64,442, Sun. 141,327 (2018)</stats>
+                                             </org-entry>
+                                        </org-entryref>

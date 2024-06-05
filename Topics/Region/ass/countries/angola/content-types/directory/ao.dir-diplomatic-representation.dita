@@ -1,0 +1,1382 @@
+<dir-sectref xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL89950" sllink="SLSDOCRF" sllinkid="89949" slsdocid="73690" slsdocty="dir-section dir-sectiondtd" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="AO.DIR.146" id-root="ao.dir" iso="ao" sect-type="diplomatic" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                    <heading>Diplomatic Representation</heading>
+                    <dir-section id="AO.DIR.147" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>Embassies in Angola</heading>
+                         <org-list>
+                              <org-entryref id="SL93740" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93739" slsdocid="73733" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="dz" id="AO.DIR.148" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <org-entry-head>
+                                             <org-entry-name>Algeria</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Houari Boumediene 118, CP 1389, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222445020</telephone>
+                                             <email>ambalg.lda@gmail.com</email>
+                                             <internet>embluanda.mfa.gov.dz</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Abderlhakim</forename>
+                                                       <surname>Mihoub</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2905082" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2905081" slsdocid="2905066" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="ar" id="AO.DIR.1268645582" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Argentina</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Comandante Stona 190, Bairro Alvalade, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222323286</telephone>
+                                             <email>eango@mrecic.gov.ar</email>
+                                             <internet>eango.cancilleria.gob.ar</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Alejandro Guilhermo</forename>
+                                                       <surname>Verdier</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93742" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93741" slsdocid="73731" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="be" id="AO.DIR.149" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <!--https://twitter.com/angola_Mirex/status/1689353584083656704-->
+                                        <data-protection date-added="30.07.2019" ticked-box="Y"/>
+                                        <org-entry-head>
+                                             <org-entry-name>Belgium</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Houari Boumedienne 100, Miramar, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222449396</telephone>
+                                             <email>luanda@diplobel.fed.be</email>
+                                             <internet>angola.diplomatie.belgium.be</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>St&#233;phane</forename>
+                                                       <surname>Doppagne</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93744" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93743" slsdocid="73730" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="br" id="AO.DIR.150" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <org-entry-head>
+                                             <org-entry-name>Brazil</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Av. Presidente Houari Boumedienne 132, Miramar, CP 5428, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222442010</telephone>
+                                             <email>secretariado.luanda@itamaraty.gov.br</email>
+                                             <internet>www.gov.br/mre/pt-br/embaixada-luanda</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Rafael de Mello</forename>
+                                                       <surname>Vidal</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93748" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93747" slsdocid="73728" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="cv" id="AO.DIR.152" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <org-entry-head>
+                                             <org-entry-name>Cabo Verde</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Em&#237;lio Martins 3, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222321765</telephone>
+                                             <email>embaixadacaboverde.luanda@gmail.com</email>
+                                             <internet>embaixada-de-cabo-verde-em-angola.odoo.com</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>J&#250;lio C&#233;sar Freire</forename>
+                                                       <surname>de Morais</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93750" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93749" slsdocid="73727" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="cn" id="AO.DIR.153" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <org-entry-head>
+                                             <org-entry-name>China, People&#8217;s Republic</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Houari Boumedienne 196/200, Miramar, CP 52, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">226435015</telephone>
+                                             <email>chinaemb_ao@mfa.gov.cn</email>
+                                             <internet>ao.china-embassy.gov.cn</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <verbatim-name>Zhang Bin</verbatim-name>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93752" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93751" slsdocid="73726" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="cd" id="AO.DIR.154" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <org-entry-head>
+                                             <org-entry-name>Congo, Democratic Republic</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Ces&#225;rio Verde 24, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222361953</telephone>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kakala</forename>
+                                                       <surname>Mayib</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93754" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93753" slsdocid="73725" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="cg" id="AO.DIR.155" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <!--VD 18.01.2021 amb not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Congo, Republic</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Av. 4 de Fevereiro 3, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222310293</telephone>
+                                             <email>ambaco@netangola.com</email>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Christ Bonaventure</forename>
+                                                       <surname>Engobo</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93756" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93755" slsdocid="73724" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="ci" id="AO.DIR.156" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <org-entry-head>
+                                             <org-entry-name>C&#244;te d&#8217;Ivoire</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Samuel Bernado 52, Bairro Ingombota, CP 432, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222440878</telephone>
+                                             <email>ambaciango@yahoo.fr</email>
+                                             <internet>angola.diplomatie.gouv.ci</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Santi&#233;ro Jean-Marie</forename>
+                                                       <surname>Somet</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93758" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93757" slsdocid="73723" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="cu" id="AO.DIR.157" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <org-entry-head>
+                                             <org-entry-name>Cuba</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Eduardo Mondlane 202, Maianga, CP 3005, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222336949</telephone>
+                                             <email>secretaria.ang@embacuba.co.ao</email>
+                                             <internet>misiones.cubaminrex.cu/es/angola</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Oscar Le&#243;n</forename>
+                                                       <surname>Gonzalez</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93760" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93759" slsdocid="73722" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="eg" id="AO.DIR.158" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <!--https://twitter.com/angola_Mirex/status/1709949867647201776-->
+                                        <!--www.mfa.gov.eg/Luanda_Emb-->
+                                        <org-entry-head>
+                                             <org-entry-name>Egypt</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Comandante Stona 247, Alvalade, CP 3704, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222321591</telephone>
+                                             <email>embassy.luanda@mfa.gov.eg</email>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Naveen</forename>
+                                                       <surname>el-Husseiny</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1174602" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1174601" slsdocid="1174581" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="gq" id="AO.DIR.1109933723" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <!--PC 30.11.2018 address mentioned in one of the secondary sources Rua Kateculo Mengo 107/109, C. P. 508, Luanda-->
+                                        <org-entry-head>
+                                             <org-entry-name>Equatorial Guinea</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222353939</telephone>
+                                             <email>embajsecretaria@gmail.com</email>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Protasio Edu</forename>
+                                                       <surname>Edjang Nnaga</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93762" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93761" slsdocid="73718" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="fr" id="AO.DIR.159" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <!--VD 21.08.2023 https://twitter.com/angola_Mirex/status/1692630454623740037-->
+                                        <data-protection date-added="16.06.2020" ticked-box="Y"/>
+                                        <org-entry-head>
+                                             <org-entry-name>France</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Reverendo Pedro Agostinho Neto 31&#8211;33, CP 584, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222334335</telephone>
+                                             <email>cad.luanda-amba@diplomatie.gouv.fr</email>
+                                             <internet>ao.ambafrance.org</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Sophie</forename>
+                                                       <surname>Aubert</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93764" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93763" slsdocid="73717" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="ga" id="AO.DIR.160" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <org-entry-head>
+                                             <org-entry-name>Gabon</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Eng. Armindo de Andrade, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222042943</telephone>
+                                             <email>ambagabonluanda@hotmail.com</email>
+                                             <internet>fb.com/ambagabonangola</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Guy</forename>
+                                                       <surname>Nambo Wezet</surname>
+                                                  </person-name>
+                                                  <person-note>recalled in Dec. 2023</person-note>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93766" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93765" slsdocid="73716" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="de" id="AO.DIR.161" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <org-entry-head>
+                                             <org-entry-name>Germany</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua de Benguela 17, Bairro de Cruzeiro, CP 1295, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222430404</telephone>
+                                             <email>info@luanda.diplo.de</email>
+                                             <internet>luanda.diplo.de</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Dr</title>
+                                                       <forename>Stefan</forename>
+                                                       <surname>Traumann</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93768" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93767" slsdocid="73715" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="gh" id="AO.DIR.162" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <!--AU 17.11.2016 Also accredited to Gabon-->
+                                        <org-entry-head>
+                                             <org-entry-name>Ghana</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Houari Boumedienne 52, CP 1012, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222447044</telephone>
+                                             <email>luanda@mfa.gov.gh</email>
+                                             <internet>ghanaembassy-angola.com</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mavis Esi</forename>
+                                                       <surname>Kusorgbor</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL5043733" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5043732" slsdocid="73714" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="gn" id="AO.DIR.163" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <org-entry-head>
+                                             <org-entry-name>Guinea</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua I, Casa W24, Bairro Cassenda, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222359366</telephone>
+                                             <email>ibsthiam@yahoo.fr</email>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Gen.</title>
+                                                       <forename>Edouard</forename>
+                                                       <surname>Th&#233;a</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7739556" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7739555" slsdocid="7739549" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="gw" id="AO.DIR.1632972757" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <org-entry-head>
+                                             <org-entry-name>Guinea-Bissau</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Luanda</verbatim-address>
+                                             </address>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Apolin&#225;rio Mendes de</forename>
+                                                       <surname>Cabral</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93772" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93771" slsdocid="73713" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="va" id="AO.DIR.164" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <data-protection date-added="13.03.2006" ticked-box="Y"/>
+                                        <org-entry-head>
+                                             <org-entry-name>Holy See</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Ingombota, Rua Luther King 123, CP 1030, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">931294270</telephone>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Apostolic Nuncio</role>
+                                             <person>
+                                                  <vacancy/>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL5689525" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5689524" slsdocid="73712" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="hu" id="AO.DIR.165" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <!--VD 27.05.2019 address could not be cinfirmed as it is unclear.Source:https://www.kormany.hu/hu/kulgazdasagi-es-kulugyminiszterium/kulkepviseletek-->
+                                        <org-entry-head>
+                                             <org-entry-name>Hungary</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Condom&#237;nio Zenith Towers, VIA AL-16 S/N, Torre 1, Talatona, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222778597</telephone>
+                                             <email>mission.lad@mfa.gov.hu</email>
+                                             <internet>luanda.mfa.gov.hu</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Zsolt</forename>
+                                                       <surname>Maris</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93776" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93775" slsdocid="73711" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="in" id="AO.DIR.166" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <data-protection date-added="07.02.2019" ticked-box="Y"/>
+                                        <org-entry-head>
+                                             <org-entry-name>India</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Av. Principal de Talatona (Av. Samora Machel), Condom&#237;nio Four Villas, Villa 4, Talatona, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">941564851</telephone>
+                                             <email>amb.luanda@mea.gov.in</email>
+                                             <internet>www.indembangola.gov.in</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Vidhu P.</forename>
+                                                       <surname>Nair</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93780" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93779" slsdocid="73709" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="il" id="AO.DIR.168" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <data-protection date-added="02.09.2009" ticked-box="Y"/>
+                                        <org-entry-head>
+                                             <org-entry-name>Israel</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Edif. Siccal, Rua Rainha Ginga 187, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222395295</telephone>
+                                             <email>consular@luanda.mfa.gov.il</email>
+                                             <internet>embassies.gov.il/luanda</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Shimon</forename>
+                                                       <surname>Solomon</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93782" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93781" slsdocid="73969" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="it" id="AO.DIR.169" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <org-entry-head>
+                                             <org-entry-name>Italy</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Am&#233;rico Boavida 51, Ingombotas, CP&#160;6220, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222331245</telephone>
+                                             <email>ambasciata.luanda@esteri.it</email>
+                                             <internet>ambluanda.esteri.it</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Cristiano</forename>
+                                                       <surname>Gallo</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1139151" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1139150" slsdocid="1139134" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="jp" id="AO.DIR.1107255646" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <org-entry-head>
+                                             <org-entry-name>Japan</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Torres Loanda 2F, Rua Gamal Abdel Nasser, Ingombota, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">923167090</telephone>
+                                             <email>emb@ln.mofa.go.jp</email>
+                                             <internet>www.angola.emb-japan.go.jp</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Suzuky</forename>
+                                                       <surname>Toru</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4859183" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4859182" slsdocid="1303440" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="ke" id="AO.DIR.1119951451" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <org-entry-head>
+                                             <org-entry-name>Kenya</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Villa 2, Four Villas, Av. Principal de Talatona, Talatona, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">225300233</telephone>
+                                             <email>kenyaembassyluanda@gmail.com</email>
+                                             <internet>fb.com/kenyaembassyluanda</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Joyce Khasimwa</forename>
+                                                       <surname>Mmaitsi</surname>
+                                                  </person-name>
+                                                  <person-note>designate</person-note>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4276465" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4276464" slsdocid="73951" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="kr" id="AO.DIR.186" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <data-protection date-added="19.06.2019" ticked-box="Y"/>
+                                        <org-entry-head>
+                                             <org-entry-name>Korea, Republic</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Condominio Zenith Torre 1, 3&#186; andar, Via AL 16, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222006067</telephone>
+                                             <email>korembassy_angola@mofa.go.kr</email>
+                                             <internet>overseas.mofa.go.kr/ao-ko/index.do</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Choi</forename>
+                                                       <surname>Kuang-Jin</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1085544" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1085543" slsdocid="1085536" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="ml" id="AO.DIR.1098787126" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <!--VD 27.05.2019 could not confirm address and telephone-->
+                                        <org-entry-head>
+                                             <org-entry-name>Mali</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Alfredo Felner 5, Nelito Souares 11, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222440317</telephone>
+                                             <email>ambamali@netangola.com</email>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Diamou</forename>
+                                                       <surname>Keita</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL6052711" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6052710" slsdocid="6052705" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="mr" id="AO.DIR.1517416654" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Embassies in Angola">
+                                        <org-entry-head>
+                                             <org-entry-name>Mauritania</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Luanda</verbatim-address>
+                                             </address>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mohamed</forename>
+                                                       <surname>Ould Mekhalla</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93786" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93785" slsdocid="73967" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="ma" id="AO.DIR.171" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <data-protection date-added="04.08.2009" ticked-box="Y"/>
+                                        <org-entry-head>
+                                             <org-entry-name>Morocco</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Edif. Siccal, 10&#176; andar, Rua Rainha Ginga, CP 20, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222393708</telephone>
+                                             <email>aluanda@supernet.ao</email>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Saadia</forename>
+                                                       <surname>Alaoui</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93788" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93787" slsdocid="73966" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="mz" id="AO.DIR.172" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <!--VD 09.09.2019 https://clubofmozambique.com/news/mozambique-president-appoints-osvalda-joana-ambassador-to-angola-138738/-->
+                                        <org-entry-head>
+                                             <org-entry-name>Mozambique</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Salvador Alende 55, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222332883</telephone>
+                                             <email>embamoc.angola@minec.gov.mz</email>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Osvalda</forename>
+                                                       <surname>Joana</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93790" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93789" slsdocid="73965" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="na" id="AO.DIR.173" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <!--VD 27.05.2019 could not confirm address and contact number-->
+                                        <org-entry-head>
+                                             <org-entry-name>Namibia</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua dos Coqueiros 37, CP 953, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222395483</telephone>
+                                             <email>embnam@netangola.com</email>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Patrick</forename>
+                                                       <surname>Nandango</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93792" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93791" slsdocid="73964" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="nl" id="AO.DIR.174" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <org-entry-head>
+                                             <org-entry-name>Netherlands</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Empreendimento Comandante Gika, Edif. Gardens Torres, Torre B, Piso 8, Travessa Ho Chi Minh, Alvalade, CP 3624, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">923120200</telephone>
+                                             <email>lua@minbuza.nl</email>
+                                             <internet>www.netherlandsandyou.nl/web/angola</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Tsjeard</forename>
+                                                       <surname>Hoekstra</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93794" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93793" slsdocid="73963" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="ng" id="AO.DIR.175" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <org-entry-head>
+                                             <org-entry-name>Nigeria</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Ndunduma 6, Miramar, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222440085</telephone>
+                                             <email>enquiries@nigeriaembluanda.com</email>
+                                             <internet>luanda.foreignaffairs.gov.ng</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <vacancy/>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL300943" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="300942" slsdocid="300924" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="no" id="AO.DIR.2023" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <data-protection date-added="21.03.2005" ticked-box="N"/>
+                                        <org-entry-head>
+                                             <org-entry-name>Norway</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Garcia Neto 9, Miramar, CP 3835, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222449936</telephone>
+                                             <email>emb.luanda@mfa.no</email>
+                                             <internet>www.norway.no/angola</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Bj&#248;rnar Dahl</forename>
+                                                       <surname>Hotvedt</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93796" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93795" slsdocid="73962" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="pl" id="AO.DIR.176" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <data-protection date-added="01.07.2004" ticked-box="N"/>
+                                        <org-entry-head>
+                                             <org-entry-name>Poland</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Dami&#227;o de G&#243;is 64, Alvalade, CP 1340, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222327199</telephone>
+                                             <email>luanda.amb.sekretariat@msz.gov.pl</email>
+                                             <internet>www.gov.pl/web/angola</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jan</forename>
+                                                       <surname>Pawelec</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93798" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93797" slsdocid="73961" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="pt" id="AO.DIR.177" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <org-entry-head>
+                                             <org-entry-name>Portugal</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Av. de Portugal 50, CP 1346, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222331079</telephone>
+                                             <email>luanda@mne.pt</email>
+                                             <internet>luanda.embaixadaportugal.mne.pt</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Francisco Alegre</forename>
+                                                       <surname>Duarte</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93800" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93799" slsdocid="73960" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="ro" id="AO.DIR.178" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <org-entry-head>
+                                             <org-entry-name>Romania</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Ramalho Ortig&#227;o 30, Bairro Alvalade, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222321076</telephone>
+                                             <email>ambromania@netcabo.co.ao</email>
+                                             <internet>luanda.mae.ro</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Charg&#233; d'affaires a.i.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Florin</forename>
+                                                       <surname>Tudorie</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93802" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93801" slsdocid="73958" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="ru" id="AO.DIR.179" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <data-protection date-added="06.04.2004" ticked-box="N"/>
+                                        <org-entry-head>
+                                             <org-entry-name>Russian Federation</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Houari Boumedienne 170, CP 3141, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222445028</telephone>
+                                             <email>russembangola@gmail.com</email>
+                                             <internet>angola.mid.ru</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Vladimir</forename>
+                                                       <surname>Tararov</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL5630578" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5630577" slsdocid="5630565" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="rw" id="AO.DIR.1485442074" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Embassies in Angola">
+                                        <org-entry-head>
+                                             <org-entry-name>Rwanda</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Condominio Four Villas, Av. Central (Samora Machel), Talatona, CP 10602, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">944202193</telephone>
+                                             <email>ambaluanda@minaffet.gov.rw</email>
+                                             <internet>www.rwandainangola.gov.rw</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Dr</title>
+                                                       <forename>Charles</forename>
+                                                       <surname>Rudakubana</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93804" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93803" slsdocid="73957" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="st" id="AO.DIR.180" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <!--VD 27.05.2019 could not find any details on this entry. The only sources are embassypages and VISA HQ which are not reliable-->
+                                        <!--AU 20.03.2017 Address changed from: http://www.mnec.gov.st/index.php/cobertura-diplomaticas/representacoes-diplomaticas-sao-tomenses doubtful about the phone no-->
+                                        <org-entry-head>
+                                             <org-entry-name>S&#227;o Tom&#233; and Pr&#237;ncipe</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Comandante N&#8217;zagi 64&#8211;66, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222328663</telephone>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <vacancy/>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL8418652" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8418651" slsdocid="8418640" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="sn" id="AO.DIR.1677136825" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <org-entry-head>
+                                             <org-entry-name>Senegal</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Luanda</verbatim-address>
+                                             </address>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Malick</forename>
+                                                       <surname>Ndao</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL464784" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="464783" slsdocid="73946" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="rs" id="AO.DIR.190" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <data-protection date-added="22.04.2004" ticked-box="N"/>
+                                        <org-entry-head>
+                                             <org-entry-name>Serbia</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Comandante N&#8217;zagi 25&#8211;27, Alvalade, CP 3278, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222321421</telephone>
+                                             <email>serbiaemb@netcabo.co.ao</email>
+                                             <internet>luanda.mfa.gov.rs</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Milos</forename>
+                                                       <surname>Perisi&#263;</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93808" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93807" slsdocid="73955" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="za" id="AO.DIR.182" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <!--AU 16.11.2016 Contact address changed from: http://www.dirco.gov.za/foreign/sa_abroad/saa.htm-->
+                                        <org-entry-head>
+                                             <org-entry-name>South Africa</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Premio Dubai, Condominio Ouro Verde, Municipio da Samba, Sector ZRGA, CP 6212, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222460732</telephone>
+                                             <email>saemb.finance@nexus.ao</email>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Oupa</forename>
+                                                       <surname>Monareng</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93810" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93809" slsdocid="73954" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="es" id="AO.DIR.183" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <data-protection date-added="26.08.2009" ticked-box="Y"/>
+                                        <org-entry-head>
+                                             <org-entry-name>Spain</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Av. 4 de Fevereiro 95, 1&#176; andar, CP 3061, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222391166</telephone>
+                                             <email>emb.luanda@maec.es</email>
+                                             <internet>www.exteriores.gob.es/Embajadas/luanda/es/Paginas/index.aspx</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Manuel Mar&#237;a</forename>
+                                                       <surname>Lejarreta Lobo</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL6163193" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6163192" slsdocid="6163184" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="sd" id="AO.DIR.1524497710" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Embassies in Angola">
+                                        <!--VD 29.07.2020 Khalid Mohamed Fahal term ended-->
+                                        <org-entry-head>
+                                             <org-entry-name>Sudan</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Luanda</verbatim-address>
+                                             </address>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <vacancy/>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4270316" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4270315" slsdocid="73952" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="ch" id="AO.DIR.185" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <org-entry-head>
+                                             <org-entry-name>Switzerland</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Edif. Garden Towers, Torre B, Av. Ho Chi Minh, Alvalade, CP 3163, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">912501396</telephone>
+                                             <email>luanda@eda.admin.ch</email>
+                                             <internet>www.eda.admin.ch/luanda</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Lukas Johannes</forename>
+                                                       <surname>Gasser</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3560043" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3560042" slsdocid="3560040" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="tr" id="AO.DIR.1325610381" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>T&#252;rkiye</org-entry-name>
+                                             <alt-name>Turkey</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Av. Pedro de Castro Van-D&#250;nem Loy, 535 Mundo Verda-Talatona, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">939765336</telephone>
+                                             <email>embassy.luanda@mfa.gov.tr</email>
+                                             <internet>luanda-be.mfa.gov.tr/Mission</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ufuk</forename>
+                                                       <surname>Ekici</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL8625028" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8625027" slsdocid="8625018" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="ug" id="AO.DIR.1689854671" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <org-entry-head>
+                                             <org-entry-name>Uganda</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Luanda</verbatim-address>
+                                             </address>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Julius Chihandae</forename>
+                                                       <surname>Katembeka</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2222153" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2222152" slsdocid="2222138" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="ua" id="AO.DIR.1202817401" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <!--PC 06.12.2018 the ownweb is an outdated one, hence could not confirm the role group-->
+                                        <!--IF 11.01.2019 Website was working for me and when I translated out of Russian, I could see the name and a picture of the Charg&#233;.-->
+                                        <org-entry-head>
+                                             <org-entry-name>Ukraine</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua&#160;Companhia de Jesus 35, Miramar, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222716758</telephone>
+                                             <email>emb_ao@mfa.gov.ua</email>
+                                             <internet>angola.mfa.gov.ua</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Charg&#233; d&#8217;affaires a.i.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Andrii P.</forename>
+                                                       <surname>Chornopyskyi</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7792527" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7792526" slsdocid="7792507" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="ae" id="AO.DIR.1637563175" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <!--www.mofaic.gov.ae/en/Missions/Luanda/The-Embassy/About-the-Embassy-->
+                                        <org-entry-head>
+                                             <org-entry-name>United Arab Emirates</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      Rua 7
+                      <sc>a</sc>
+                      , Talatona, Via S, Luanda
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">931736840</telephone>
+                                             <email>luandaemb@mofaic.gov.ae</email>
+                                             <internet>www.mofaic.gov.ae/en/Missions/Luanda</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Salem Ali Khamis Obaid</forename>
+                                                       <surname>al-Shamsi</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93818" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93817" slsdocid="73950" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="gb" id="AO.DIR.187" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <data-protection date-added="04.08.2009" ticked-box="Y"/>
+                                        <org-entry-head>
+                                             <org-entry-name>United Kingdom</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua 17 de Setembro 4, CP 1244, Ingombotas, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222334583</telephone>
+                                             <email>britishembassy.luandageral@fcdo.gov.uk</email>
+                                             <internet>www.gov.uk/world/organisations/british-embassy-luanda</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Roger</forename>
+                                                       <surname>Stringer</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../../../xi-include/content-types/org-entryref/73949.dita"/><org-entryref id="SL4276386" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4276385" slsdocid="73710" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="ve" id="AO.DIR.167" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <org-entry-head>
+                                             <org-entry-name>Venezuela</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua de 28 de Agosto, Casa FZ 22, Futungo de Belas, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222020681</telephone>
+                                             <email>embve.aolda@mppre.gob.ve</email>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marlon</forename>
+                                                       <surname>Pen&#227; Labrador</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93822" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93821" slsdocid="73947" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="vn" id="AO.DIR.189" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <data-protection date-added="18.03.2008" ticked-box="N"/>
+                                        <org-entry-head>
+                                             <org-entry-name>Viet Nam</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Houari Boumediene 74, Miramar, CP 1774, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222010697</telephone>
+                                             <email>vnemb.angola@mofa.gov.vn</email>
+                                             <internet>vnembassy-luanda.mofa.gov.vn</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <verbatim-name>Duong Chinh Chuc</verbatim-name>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93826" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93825" slsdocid="73945" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="zm" id="AO.DIR.191" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <data-protection date-added="10.07.2006" ticked-box="N"/>
+                                        <org-entry-head>
+                                             <org-entry-name>Zambia</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Rei Katyavala 106&#8211;108, CP 1496, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222331145</telephone>
+                                             <email>zambianembassyluanda@yahoo.com</email>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Lawrence Chama</forename>
+                                                       <surname>Chalungumana</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93828" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93827" slsdocid="73944" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry country-id="zw" id="AO.DIR.192" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ANGOLA">
+                                        <org-entry-head>
+                                             <org-entry-name>Zimbabwe</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Edif. Secil, Av. 4 de Fevereiro 42, CP 428, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222449938</telephone>
+                                             <email>zimluanda@zimfa.gov.zw</email>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Thando</forename>
+                                                       <surname>Madzvamuse</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>

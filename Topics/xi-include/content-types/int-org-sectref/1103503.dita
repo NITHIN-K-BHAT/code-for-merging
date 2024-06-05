@@ -1,0 +1,65 @@
+<int-org-sectref id="SL1112168" int-org-sectrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1112167" slsdocid="1103503" slsdocty="int-org-section int-org-sectrefdtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <int-org-section id="WB02049.IO.TXT.27" id-root="int-org_eu" iso="int-org_eu" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="ewyb edio">
+                    <heading>Budget: Expenditure (Commitment Appropriations)</heading>
+                    <heading-note>2024, € million, in current prices</heading-note>
+                    <table-block-simple id="WB02049.IO.TXT.28" type="OTHER">
+                         <table pgwide="NO" style="WITH-RULES">
+                              <tgroup cols="2">
+                                   <colspec colwidth="12cm" />
+                                   <colspec colname="COLSPEC3" colwidth="4.00cm" />
+                                   <thead>
+                                        <row>
+                                             <entry style="NO-DOT-LEADER">MFF heading</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">Total</entry>
+                                        </row>
+                                   </thead>
+                                   <tbody>
+                                        <row>
+                                             <entry style="DOT-LEADER">Single Market, Innovation and Digital</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">21,493.4</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">Cohesion, Resilience and Values</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">74,560.7</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">Natural Resources and Environment</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">57,338.6</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">Migration and Border Management</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">3,892.7</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">Security and Defence</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">2,321.2</entry>
+                                        </row>
+                                        <row>
+                                             <entry style="DOT-LEADER">Neighbourhood and the World</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">16,230.0</entry>
+                                        </row>
+                                        <row>
+                                             <entry style="DOT-LEADER">European Public Administration</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">11,988.0</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">
+                                                  <b>Total</b>
+                     (incl. special instruments)
+                  </entry>
+                                             <entry align="right" style="NO-DOT-LEADER">189,385.4</entry>
+                                        </row>
+                                   </tbody>
+                              </tgroup>
+                         </table>
+                         <sources>
+                              <source-head>Source</source-head>
+                              <source-info>
+              European Union, 
+              <i>Official Journal of the European Union</i>
+                              </source-info>
+                         </sources>
+                    </table-block-simple>
+               </int-org-section>
+          </int-org-sectref>

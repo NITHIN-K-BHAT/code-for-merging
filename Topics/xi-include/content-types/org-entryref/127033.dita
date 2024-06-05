@@ -1,0 +1,29 @@
+<org-entryref id="SL148241" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="148240" slsdocid="127033" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="ca" id="IE.DIR.96" id-root="ie.dir" iso="ie" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN IRELAND">
+                                        
+                                        
+                                        <data-protection date-added="03.07.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>7–8 Wilton Terrace, 3rd Floor, Dublin 2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 2344000</telephone>
+                                             <fax>(1) 2344001</fax>
+                                             <email>dubln@international.gc.ca</email>
+                                             <internet>www.international.gc.ca/country-pays/ireland-irlande/dublin.aspx</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nancy</forename>
+                                                       <surname>Smyth</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

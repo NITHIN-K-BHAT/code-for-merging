@@ -1,0 +1,28 @@
+<org-entryref id="SL1745596" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745594" slsdocid="250615" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1493" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>University of Hawaii Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>2840 Kolowalu St, Honolulu, HI 96822</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(808) 956-8255</telephone>
+                                             <fax>(800) 650-7811</fax>
+                                             <email>uhpbooks@hawaii.edu</email>
+                                             <internet>uhpress.hawaii.edu</internet>
+                                        </address-block>
+                                        <found-date>1947</found-date>
+                                        <content-note style="NORMAL">Asian, Pacific and Hawaiian studies</content-note>
+                                        <role-group>
+                                             <role>Acting Dir and Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Clem</forename>
+                                                       <surname>Guthro</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

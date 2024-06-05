@@ -1,0 +1,25 @@
+<org-entryref id="SL144279" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="144278" slsdocid="123513" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="GH.DIR.133" id-root="gh.dir" iso="gh" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES AND HIGH COMMISSIONS IN GHANA">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>24 Fourth Circular Rd, POB GP 2288, Cantonments, Accra</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(30) 2741000</telephone>
+                                             <email>pressaccra@state.gov</email>
+                                             <internet>gh.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Virginia E.</forename>
+                                                       <surname>Palmer</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

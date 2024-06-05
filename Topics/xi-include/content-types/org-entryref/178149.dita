@@ -1,0 +1,26 @@
+<org-entryref id="SL201716" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="201715" slsdocid="178149" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="MM.DIR.164" id-root="mm.dir" iso="mm" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN MYANMAR">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>110 University Ave, Kamayut Township, Yangon</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 536509</telephone>
+                                             <fax>(1) 511069</fax>
+                                             <email>rangoonsocialmedia@state.gov</email>
+                                             <internet>mm.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chargé d’affaires</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Susan</forename>
+                                                       <surname>Stevenson</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

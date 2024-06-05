@@ -1,0 +1,26 @@
+<org-entryref id="SL3300463" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3300462" slsdocid="3300304" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="AN-SA.DIR.1300858704" id-root="an-st.dir" iso="an-st" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>National Office for the Caribbean Netherlands Sint Eustatius</org-entry-name>
+                                             <alt-name>Rijksdienst Caribisch Nederland Sint-Eustatius</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Fort Oranjestraat, Mazinga Complex, POB 26, Oranjestad</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">715-8333</telephone>
+                                             <email> info@rijksdienstcn.com</email>
+                                             <internet>www.rijksdienstcn.com</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Kingdom Rep. (resident in Bonaire)</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jan</forename>
+                                                       <surname>Helmond</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

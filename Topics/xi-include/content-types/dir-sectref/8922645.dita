@@ -1,0 +1,64 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8922654" sllink="SLSDOCRF" sllinkid="8922653" slsdocid="8922645" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <dir-section id="CA.DIR.1708435715" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="usac">
+                                   <heading>Credit Unions</heading>
+                                   <p id="CA.DIR.USAC.23.112">
+                Canadian credit unions and 
+                <i>caisses populaires</i>
+                 are consumer-owned financial institutions. They provide various savings and loan services, cheque and travellers’ cheque facilities and financial advice. The Canadian Credit Union Association (formerly the Credit Union Central of Canada, and prior to that as the Canadian Co-operative Credit Society) and the Mouvement des caisses Desjardins act as co-ordinating bodies for the credit unions and 
+                <i>caisses populaires</i>
+                , respectively. The Mouvement des caisses Desjardins has consolidated the 11 regional federations of 
+                <i>caisses</i>
+                 and the Conféderation des caisses populaires et d'économie Desjardins du Québec to form the Féderation des caisses Desjardins du Québec. At August 2022, according to the Canadian Credit Union Association, the sector comprised 211 credit unions and 
+                <i>caisses populaires</i>
+                . At that time credit unions and 
+                <i>caisses populaires</i>
+                 reported combined membership of 5.9m. Canadian citizens and combined assets of C $289,617m.
+              </p>
+                                   
+                                   <org-list>
+                                        <org-entryref id="SL8922650" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922649" slsdocid="3919384" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.USAC.23.113" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CREDIT UNIONS" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Credit Union Association</org-entry-name>
+                                                       <abbr>CCUA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>
+                          Suite 2301
+                          <sc>a</sc>
+                          , 20 Queen St W, Toronto, ON M5H 3R3
+                        </verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 232-1262</telephone>
+                                                       <email>inquiries@ccua.com</email>
+                                                       <internet>www.ccua.com</internet>
+                                                  </address-block>
+                                                  <found-date>1953 as Canadian Co-operative Credit Soc.</found-date>
+                                                  <content-note style="NORMAL">subsequently renamed Credit Union Central of Canada</content-note>
+                                                  <content-note style="NORMAL">present name since 2016</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Shelley</forename>
+                                                                 <surname>Besse</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jeff</forename>
+                                                                 <surname>Guthrie</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                         </dir-sectref>

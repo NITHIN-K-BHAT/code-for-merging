@@ -1,0 +1,27 @@
+<org-entryref id="SL1741148" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741147" slsdocid="249604" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.924" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Modesto Bee</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2401 E Orangeburg Ave, Suite 675-309, Modesto, CA 95355</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(209) 578-2000</telephone>
+                                                       <email>local@modbee.com</email>
+                                                       <internet>modbee.com</internet>
+                                                  </address-block>
+                                                  <found-date>1884</found-date>
+                                                  <role-group>
+                                                       <role>Sr Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Carlos</forename>
+                                                                 <surname>Virgen</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 29,108, Sun. 25,098 (2020)</stats>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,27 @@
+<org-entryref id="SL1742208" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1742207" slsdocid="249392" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1170" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Green Bay Press-Gazette</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>435 E Walnut St, POB 23430, Green Bay, WI 54305-3430</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(920) 431-8400</telephone>
+                                                       <email>metro@greenbaypressgazette.com</email>
+                                                       <internet>greenbaypressgazette.com</internet>
+                                                  </address-block>
+                                                  <found-date>1915</found-date>
+                                                  <content-note style="NORMAL">owned by Gannett Co, Inc.</content-note>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mark</forename>
+                                                                 <surname>Treinen</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

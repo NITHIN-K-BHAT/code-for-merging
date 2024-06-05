@@ -1,0 +1,33 @@
+<org-entryref id="SL4325862" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4325861" slsdocid="4325826" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389949381" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Hollywood Reporter</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>11175 Santa Monica Blvd, Los Angeles, CA 90025</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(323) 525-2000</telephone>
+                                                       <email>thrnews@thr.com</email>
+                                                       <internet>www.hollywoodreporter.com</internet>
+                                                  </address-block>
+                                                  <found-date>1932</found-date>
+                                                  <frequency>Mon. to Fri. morning</frequency>
+                                                  <role-group>
+                                                       <role>Co-Editors-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Nekesa Mumbi</forename>
+                                                                 <surname>Moody</surname>
+                                                            </person-name>
+                                                       </person>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Maer</forename>
+                                                                 <surname>Roshan</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

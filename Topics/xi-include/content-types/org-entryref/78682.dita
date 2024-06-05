@@ -1,0 +1,36 @@
+<org-entryref id="SL101474" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101473" slsdocid="78682" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.901" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Baking Association of Canada</org-entry-name>
+                                                       <abbr>BAC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2380 Wyecroft Rd, Unit 4, Oakville, ON L6L 6W1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(905) 405-0288</telephone>
+                                                       <email>info@baking.ca</email>
+                                                       <internet>baking.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1947</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Louis</forename>
+                                                                 <surname>Bontorin</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Martin</forename>
+                                                                 <surname>Barnett</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

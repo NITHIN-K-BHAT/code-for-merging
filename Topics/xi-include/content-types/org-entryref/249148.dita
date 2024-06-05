@@ -1,0 +1,40 @@
+<org-entryref id="SL1744806" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1744805" slsdocid="249148" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1395" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="11.08.2009" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Farrar, Straus and Giroux, Inc</org-entry-name>
+                                             <abbr>FSG</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>120 Bdwy, New York, NY 10271</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 741-6900</telephone>
+                                             <email>fsg.publicity@fsgbooks.com</email>
+                                             <internet>us.macmillan.com/fsg</internet>
+                                        </address-block>
+                                        <found-date>1946</found-date>
+                                        <content-note style="NORMAL">division of Macmillan Publrs, part of Holtzbrinck Publishing Group (Germany)</content-note>
+                                        <content-note style="NORMAL">imprints incl. Hill &amp; Wang, Faber &amp; Faber (poetry) and North Point Press (non-fiction)</content-note>
+                                        <content-note style="NORMAL">literature, history</content-note>
+                                        <role-group>
+                                             <role>Chair. and Exec. Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jonathan</forename>
+                                                       <surname>Galassi</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Pres. and Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mitzi</forename>
+                                                       <surname>Angel</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

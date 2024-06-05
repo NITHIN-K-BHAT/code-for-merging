@@ -1,0 +1,27 @@
+<org-entryref id="SL2798943" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2798942" slsdocid="1171008" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.1109761931" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Nelson Education</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>2005 Sheppard Ave E, Suite 700, Toronto, ON M2J 5B4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(416) 752-9100</telephone>
+                                             <email>connect@nelson.com</email>
+                                             <internet>nelson.com</internet>
+                                        </address-block>
+                                        <found-date>1914</found-date>
+                                        <content-note style="NORMAL">school textbooks</content-note>
+                                        <role-group>
+                                             <role>Pres. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Steve</forename>
+                                                       <surname>Brown</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

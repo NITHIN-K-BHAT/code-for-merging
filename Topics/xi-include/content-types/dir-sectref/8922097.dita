@@ -1,0 +1,272 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8922287" sllink="SLSDOCRF" sllinkid="8922286" slsdocid="8922097" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <dir-section id="CA.DIR.1708424100" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                                   <heading>Principal Schedule II Banks</heading>
+                                   <heading-note>incl. foreign banks in Canada</heading-note>
+                                   <org-list>
+                                        <org-entryref id="SL8922107" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922106" slsdocid="1492823" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.2022" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Amex Bank of Canada (USA)</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>POB 3204, Stn F, Toronto, ON M1W 3W7</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(905) 474-0870</telephone>
+                                                       <internet>americanexpress.com/ca</internet>
+                                                  </address-block>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Brett</forename>
+                                                                 <surname>Mooney</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8922114" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922113" slsdocid="1492842" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.23007" id-root="ca" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Bank of China (Canada) (People's Republic of China)</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>50 Minthorn Blvd, Suite 600, Markham, ON L3T 7X8</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(905) 771-6886</telephone>
+                                                       <fax>(905) 771-8555</fax>
+                                                       <email>boccanada@bankofchina.ca</email>
+                                                       <internet>www.bankofchina.com/ca</internet>
+                                                  </address-block>
+                                                  <found-date>1992</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <verbatim-name>Jun Deng</verbatim-name>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8922122" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922121" slsdocid="8803923" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1699353386" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Citco Bank Canada (Netherlands)</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>20 Toronto St, 10th Floor, Toronto, ON M5C 2B8</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 966-9200</telephone>
+                                                       <fax>(647) 426-5300</fax>
+                                                       <email>toronto-bank@citco.com</email>
+                                                       <internet>citco.com</internet>
+                                                  </address-block>
+                                                  <found-date>2008</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Charles</forename>
+                                                                 <surname>Rund</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Scott</forename>
+                                                                 <surname>Case</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8922170" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922169" slsdocid="8803547" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1699347194" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <org-entry-head>
+                                                       <org-entry-name>ICICI Bank Canada (India)</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Don Valley Business Park, 150 Ferrand Dr., Suite 1200, Toronto, ON M3C 3E5</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(888) 424-2422</telephone>
+                                                       <email>customercare.ca@icicibank.com</email>
+                                                       <internet>icicibank.ca</internet>
+                                                  </address-block>
+                                                  <found-date>2003</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Vikas</forename>
+                                                                 <surname>Sharma</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8922214" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922213" slsdocid="3918091" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.USAC.23.38" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Industrial and Commercial Bank of China (Canada) (Hong Kong)</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Suite 3710, Bay Adelaide Centre, W Tower, 333 Bay St, Toronto, ON M5H 2R2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 366-5588</telephone>
+                                                       <fax>(416) 607-2030</fax>
+                                                       <email>info@icbk.ca</email>
+                                                       <internet>icbk.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1992 as Bank of East Asia (Canada)</found-date>
+                                                  <content-note style="NORMAL">present name since 2010</content-note>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Lubin</forename>
+                                                                 <surname>Wang</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8922230" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922229" slsdocid="3918093" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.USAC.23.55" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>KEB Hana Bank Canada (Republic of Korea)</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Suite 1101, 4950 Yonge St, Toronto, ON M2N 6K1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 222-5200</telephone>
+                                                       <internet>kebhanabank.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1981</found-date>
+                                                  <content-note style="NORMAL">fmrly Korea Exchange Bank of Canada</content-note>
+                                                  <content-note style="NORMAL">present name since 2015</content-note>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <verbatim-name>Bob Kim</verbatim-name>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8922235" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922234" slsdocid="1492877" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1140178952" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Mizuho Bank Ltd (Canada Branch) (Japan)</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Suite 1102, 100 Yonge St, POB 29, Toronto, ON M5C 2W1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 874-0222</telephone>
+                                                       <email>inquiries@mizuhocbus.com</email>
+                                                       <internet>mizuhogroup.com/americas</internet>
+                                                  </address-block>
+                                                  <found-date>1982</found-date>
+                                                  <content-note style="NORMAL">present name since 2013</content-note>
+                                                  <role-group>
+                                                       <role>Group Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Suneel</forename>
+                                                                 <surname>Bakhshi</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8922246" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922245" slsdocid="8803562" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1699348515" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Shinhan Bank Canada (Republic of Korea)</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>5140 Yonge St, Suite 2300, North York, ON M2N 6L7</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 250-3550</telephone>
+                                                       <fax>(416) 250-3507</fax>
+                                                       <internet>shinhan.ca</internet>
+                                                  </address-block>
+                                                  <found-date>2009</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Pamela</forename>
+                                                                 <surname>Gail Pitz</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <verbatim-name>Dong Gu Bae</verbatim-name>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8922259" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922258" slsdocid="3918095" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.USAC.23.63" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>State Bank of India (Canada)</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>220 Bay St, Ground Floor, Toronto, ON M5J 2W4</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 214-1811</telephone>
+                                                       <fax>(416) 214-2449</fax>
+                                                       <email>sbican@sbicanada.com</email>
+                                                       <internet>ca.statebank</internet>
+                                                  </address-block>
+                                                  <found-date>1982</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Joseph Selvaraj</forename>
+                                                                 <surname>Savier</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>COO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Anupam</forename>
+                                                                 <surname>Mishra</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                         </dir-sectref>

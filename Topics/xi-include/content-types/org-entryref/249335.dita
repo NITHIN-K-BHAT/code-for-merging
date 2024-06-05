@@ -1,0 +1,37 @@
+<org-entryref id="SL260716" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260715" slsdocid="249335" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1223" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Forbes</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>499 Washington Blvd, Jersey City, NJ 07310</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 620-2200</telephone>
+                                                  <email>customersupport@forbes.com</email>
+                                                  <internet>forbes.com</internet>
+                                             </address-block>
+                                             <found-date>1917</found-date>
+                                             <frequency>every 2 weeks</frequency>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Mike</forename>
+                                                            <surname>Federle</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Man. Editor</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Joyce Bautista</forename>
+                                                            <surname>Ferrari</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 518,660</stats>
+                                        </org-entry>
+                                   </org-entryref>

@@ -1,0 +1,28 @@
+<org-entryref id="SL8819430" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8819429" slsdocid="7799046" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637848241" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Peter Lang Publishing, Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>80 Broad St, 5th Floor, New York, NY 10004</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 647-7706</telephone>
+                                             <fax>(212) 647-7707</fax>
+                                             <email>publishing@peterlang.com</email>
+                                             <internet>peterlang.com</internet>
+                                        </address-block>
+                                        <found-date>1970</found-date>
+                                        <content-note style="NORMAL">textbooks and monographs in humanities and social sciences</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Arnaud</forename>
+                                                       <surname>Béglé</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,30 @@
+<org-entryref id="SL118518" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="118517" slsdocid="89108" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="FI.DIR.127" id-root="fi.dir" iso="fi" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN FINLAND">
+                                        <data-protection date-added="26.02.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      Itäinen puistotie 14
+                      <sc>b</sc>
+                      , 00140 Helsinki
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(9) 616250</telephone>
+                                             <email>helsinkiprotocol@state.gov</email>
+                                             <internet>fi.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Douglas</forename>
+                                                       <surname>Hickey</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

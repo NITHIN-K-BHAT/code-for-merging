@@ -1,0 +1,36 @@
+<org-entryref id="SL262928" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262927" slsdocid="250391" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1735" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING ASSOCIATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>American Bankers Association</org-entry-name>
+                                                       <abbr>ABA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1333 New Hampshire Ave, NW, Washington, DC 20036</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 226-5377</telephone>
+                                                       <email>support@aba.com</email>
+                                                       <internet>aba.com</internet>
+                                                  </address-block>
+                                                  <found-date>1875</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Julieann M</forename>
+                                                                 <surname>Thurlow</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Rob</forename>
+                                                                 <surname>Nichols</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,30 @@
+<org-entryref id="SL260642" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260641" slsdocid="249375" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1186" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Architectural Digest</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1 World Trade Center, New York, NY 10007</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 286-2479</telephone>
+                                                  <email>contact@archdigest.com</email>
+                                                  <internet>architecturaldigest.com</internet>
+                                             </address-block>
+                                             <found-date>1920</found-date>
+                                             <frequency>monthly</frequency>
+                                             <content-note style="NORMAL">publ. by Condé Nast Publs Inc</content-note>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Amy</forename>
+                                                            <surname>Astley</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 838,197</stats>
+                                        </org-entry>
+                                   </org-entryref>

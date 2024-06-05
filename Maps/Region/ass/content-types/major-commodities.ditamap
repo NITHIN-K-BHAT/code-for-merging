@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+     <booktitle>
+          <mainbooktitle>Major commodities</mainbooktitle>
+     </booktitle>
+     <chapter id="ass.mc" navtitle="Major commodities of africa">
+          <topicref href="../../../../Topics/Region/ass/content-types/major-commodities/ass.mc.dita" navtitle="Major commodities of africa" keyscope="commodities" keys="commodities" format="dita" />
+     </chapter>
+</bookmap>

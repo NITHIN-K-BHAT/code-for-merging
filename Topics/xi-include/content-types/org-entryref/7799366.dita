@@ -1,0 +1,30 @@
+<org-entryref id="SL7799415" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799414" slsdocid="7799366" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1637853620" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Journal of Commerce</org-entry-name>
+                                                       <abbr>JOC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>4299 Canada Way, Suite 101, Burnaby, BC V5G 1H3</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(604) 412-2256</telephone>
+                                                       <fax>(604) 433-9549</fax>
+                                                       <email>editor@journalofcommerce.com</email>
+                                                       <internet>canada.constructconnect.com/joc</internet>
+                                                  </address-block>
+                                                  <found-date>1911</found-date>
+                                                  <frequency>2 a week</frequency>
+                                                  <content-note style="NORMAL">construction industry</content-note>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Vince</forename>
+                                                                 <surname>Versace</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

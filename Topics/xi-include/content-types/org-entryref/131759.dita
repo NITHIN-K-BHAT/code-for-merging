@@ -1,0 +1,26 @@
+<org-entryref id="SL156103" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="156102" slsdocid="131759" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="JO.DIR.147" id-root="jo.dir" iso="jo" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN JORDAN">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>POB 354, Umawiyyeen St, Abdoun, Amman 11118</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(6) 5906000</telephone>
+                                             <fax>(6) 5920163</fax>
+                                             <email>webmasterjordan@state.gov</email>
+                                             <internet>jo.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Yael</forename>
+                                                       <surname>Lempert</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

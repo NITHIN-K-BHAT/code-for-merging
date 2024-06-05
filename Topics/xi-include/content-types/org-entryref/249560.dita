@@ -1,0 +1,27 @@
+<org-entryref id="SL5540651" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5540650" slsdocid="249560" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.970" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>The Telegraph</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1675 Montpelier Ave, Macon, GA 31201</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(478) 744-4200</telephone>
+                                                       <email>customerservice@macon.com</email>
+                                                       <internet>macon.com</internet>
+                                                  </address-block>
+                                                  <found-date>1826</found-date>
+                                                  <role-group>
+                                                       <role>Sr Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Caleb</forename>
+                                                                 <surname>Slinkard</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Fri. 13,235, Sun. 16,659 (2020)</stats>
+                                             </org-entry>
+                                        </org-entryref>

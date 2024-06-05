@@ -1,0 +1,28 @@
+<org-entryref id="SL1742130" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1742129" slsdocid="249418" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1140" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>El Paso Times</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>500 W Overland Ave, Suite 150, El Paso, TX 79901</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 351-1677</telephone>
+                                                       <email>borderland@elpasotimes.com</email>
+                                                       <internet>elpasotimes.com</internet>
+                                                  </address-block>
+                                                  <found-date>1881</found-date>
+                                                  <content-note style="NORMAL">owned by Gannett Co, Inc.</content-note>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Timothy</forename>
+                                                                 <surname>Archuleta</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 35,023 (2020)</stats>
+                                             </org-entry>
+                                        </org-entryref>

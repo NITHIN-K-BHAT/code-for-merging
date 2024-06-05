@@ -1,0 +1,26 @@
+<org-entryref id="SL1741990" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741989" slsdocid="249451" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1102" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <data-protection date-added="13.09.2007" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>The Vindicator</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>240 Franklin St, SE, Warren, OH 44483</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(330) 841-1600</telephone>
+                                                       <email>blinert@tribtoday.com</email>
+                                                       <internet>vindy.com</internet>
+                                                  </address-block>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Brenda</forename>
+                                                                 <surname>Linert</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

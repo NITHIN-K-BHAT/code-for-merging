@@ -1,0 +1,27 @@
+<org-entryref id="SL265904" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="265903" slsdocid="252302" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="YE.DIR.114" id-root="ye.dir" iso="ye" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN YEMEN">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>POB 22347, Sa`awan St, San`a</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 7552000</telephone>
+                                             <fax>(1) 303182</fax>
+                                             <email>passanaa@state.gov</email>
+                                             <internet>ye.usembassy.gov</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">all embassy staff were withdrawn from Yemen in Feb. 2015; now resident in Saudi Arabia</content-note>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Stephen H.</forename>
+                                                       <surname>Fagin</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,39 @@
+<org-entryref id="SL262446" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262445" slsdocid="250108" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2022" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="UTILITIES">
+                                                  <data-protection date-added="17.07.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Association of Metropolitan Water Agencies</org-entry-name>
+                                                       <abbr>AMWA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1620 I St, NW, Suite 500, Washington, DC 20006</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 331-2820</telephone>
+                                                       <fax>(202) 785-1845</fax>
+                                                       <email>info@amwa.net</email>
+                                                       <internet>amwa.net</internet>
+                                                  </address-block>
+                                                  <found-date>1981</found-date>
+                                                  <stats>176 mems (2022)</stats>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>John</forename>
+                                                                 <surname>Entsminger</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tom</forename>
+                                                                 <surname>Dobbins</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

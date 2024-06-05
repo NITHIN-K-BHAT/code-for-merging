@@ -1,0 +1,39 @@
+<org-entryref id="SL1743655" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1743654" slsdocid="249229" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1319" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NEWS AGENCIES" usage="ewyb usac">
+                                                  
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Associated Press</org-entry-name>
+                                                       <abbr>AP</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>200 Liberty St, New York, NY 10281</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(212) 621-1500</telephone>
+                                                       <email>info@ap.org</email>
+                                                       <internet>ap.org</internet>
+                                                  </address-block>
+                                                  <found-date>1846</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Gracia C.</forename>
+                                                                 <surname>Martore</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Daisy</forename>
+                                                                 <surname>Veerasingham</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>used by more than 15,000 news outlets</stats>
+                                             </org-entry>
+                                        </org-entryref>

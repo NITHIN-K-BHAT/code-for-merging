@@ -1,0 +1,38 @@
+<org-entryref id="SL8925007" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8925006" slsdocid="250017" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.2109" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL RAILWAYS">
+                                                       
+                                                       <org-entry-head>
+                                                            <org-entry-name>Alaska Railroad Corpn</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>327 W Ship Creek Ave, POB 107500, Anchorage, AK 99510</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(907) 265-2300</telephone>
+                                                            <internet>alaskarailroad.com</internet>
+                                                       </address-block>
+                                                       <found-date>1912</found-date>
+                                                       <content-note style="NORMAL">independent corpn owned by State of Alaska</content-note>
+                                                       <content-note style="NORMAL">year-round freight service and summer passenger service</content-note>
+                                                       <stats>1,055 kms of track (2022)</stats>
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>John</forename>
+                                                                      <surname>Shively</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>William G.</forename>
+                                                                      <surname>O’Leary</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

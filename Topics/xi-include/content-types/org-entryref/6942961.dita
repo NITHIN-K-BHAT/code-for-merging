@@ -1,0 +1,27 @@
+<org-entryref id="SL6943103" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6943102" slsdocid="6942961" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1580296854" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CIVIL AVIATION" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Frontier Airlines</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>4545 Airport Way, Denver, CO 80239</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(720) 374-4560</telephone>
+                                                       <email>media@flyfrontier.com</email>
+                                                       <internet>flyfrontier.com</internet>
+                                                  </address-block>
+                                                  <found-date>1994</found-date>
+                                                  <content-note style="NORMAL">domestic and regional services</content-note>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Barry</forename>
+                                                                 <surname>Biffle</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

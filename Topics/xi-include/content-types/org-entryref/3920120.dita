@@ -1,0 +1,26 @@
+<org-entryref id="SL3920224" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3920223" slsdocid="3920120" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1356102336" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Canadian Press</org-entry-name>
+                                                            <content-note style="NORMAL">Washington, DC</content-note>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>1100 13th St, NW, Washington, DC 20005</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(202) 641-9734</telephone>
+                                                            <internet>thecanadianpress.com</internet>
+                                                       </address-block>
+                                                       <found-date>1917</found-date>
+                                                       <role-group>
+                                                            <role>Correspondent</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>James</forename>
+                                                                      <surname>McCarten</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

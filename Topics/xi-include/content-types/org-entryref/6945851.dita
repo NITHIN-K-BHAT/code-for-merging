@@ -1,0 +1,13 @@
+<org-entryref id="SL8789876" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8789875" slsdocid="6945851" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                       
+                                                       <org-entry id="CO.DIR.1580396206" id-root="co.dir" iso="co" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Radio">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>W Radio</org-entry-name>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <telephone alsofax="N">(601) 340-8679</telephone>
+                                                                 <internet>www.wradio.com.co</internet>
+                                                            </address-block>
+                                                            <content-note style="NORMAL">news and discussion</content-note>
+                                                       </org-entry>
+                                                  </org-entryref>

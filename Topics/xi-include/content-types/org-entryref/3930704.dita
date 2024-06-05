@@ -1,0 +1,30 @@
+<org-entryref id="SL8829948" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8829947" slsdocid="3930704" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.USAC.32.30" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Publishers" usage="usac">
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>Bayard Canada, Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>4475 rue Frontenac, Montréal, QC H2H 2S2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(514) 278-3025</telephone>
+                                             <email>infos@bayardcanada.com</email>
+                                             <internet>bayardcanada.ca</internet>
+                                        </address-block>
+                                        <found-date>1991</found-date>
+                                        <content-note style="NORMAL">subsidiary of French Co owned by the Augustinians of the Assumption</content-note>
+                                        <content-note style="NORMAL">religion, general interest, literature, children’s</content-note>
+                                        <content-note style="NORMAL">English and French</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Pascal</forename>
+                                                       <surname>Ruffenach</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

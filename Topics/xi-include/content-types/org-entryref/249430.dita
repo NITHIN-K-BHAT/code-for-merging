@@ -1,0 +1,35 @@
+<org-entryref id="SL1742098" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1742097" slsdocid="249430" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1126" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>The Post and Courier</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>148 Williman St, Charleston, SC 29403</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(843) 577-7111</telephone>
+                                                       <email>newstips@postandcourier.com</email>
+                                                       <internet>postandcourier.com</internet>
+                                                  </address-block>
+                                                  <found-date>1803</found-date>
+                                                  <role-group>
+                                                       <role>Publr and Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>P. J.</forename>
+                                                                 <surname>Browning</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jeff</forename>
+                                                                 <surname>Taylor</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

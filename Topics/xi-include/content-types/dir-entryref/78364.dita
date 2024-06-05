@@ -1,0 +1,18 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL102182" sllink="SLSDOCRF" sllinkid="102181" slsdocid="78364" slsdocty="dir-entry dir-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <dir-entry id="CA.DIR.128" id-root="ca.dir" iso="ca" section="Provincial Legislatures" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="SASKATCHEWAN">
+                                        <dir-entry-name>
+                  Premier, President of the Executive Council,
+                  
+                   Minister of Intergovernmental Affairs
+                </dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Scott</forename>
+                                                       <surname>Moe</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>

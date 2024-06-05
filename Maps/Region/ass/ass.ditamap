@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+     <booktitle>
+          <mainbooktitle>Ass</mainbooktitle>
+     </booktitle>
+     <chapter href="./content-types/chronology.ditamap" format="ditamap" />
+     <chapter href="./content-types/essay.ditamap" format="ditamap" />
+     <chapter href="./content-types/major-commodities.ditamap" format="ditamap" />
+     <chapter href="./content-types/research-institutes.ditamap" format="ditamap" />
+     <chapter href="./content-types/region-overview.ditamap" format="ditamap" />
+     <chapter href="./content-types/weights-measures.ditamap" format="ditamap" />
+     <chapter href="./content-types/bibliography.ditamap" format="ditamap" />
+     <chapter href="./content-types/periodicals.ditamap" format="ditamap" />
+     <chapter href="./countries/uganda/uganda.ditamap" format="ditamap" />
+     <chapter href="./countries/mayotte/mayotte.ditamap" format="ditamap" />
+     <chapter href="./countries/liberia/liberia.ditamap" format="ditamap" />
+     <chapter href="./countries/burundi/burundi.ditamap" format="ditamap" />
+     <chapter href="./countries/angola/angola.ditamap" format="ditamap" />
+     <chapter href="./countries/central-african-republic/central-african-republic.ditamap" format="ditamap" />
+     <chapter href="./countries/zimbabwe/zimbabwe.ditamap" format="ditamap" />
+     <chapter href="./countries/cameroon/cameroon.ditamap" format="ditamap" />
+     <chapter href="./countries/madagascar/madagascar.ditamap" format="ditamap" />
+     <chapter href="./countries/guinea-bissau/guinea-bissau.ditamap" format="ditamap" />
+     <chapter href="./countries/sierra-leone/sierra-leone.ditamap" format="ditamap" />
+     <chapter href="./countries/lesotho/lesotho.ditamap" format="ditamap" />
+     <chapter href="./countries/kenya/kenya.ditamap" format="ditamap" />
+     <chapter href="./countries/ethiopia/ethiopia.ditamap" format="ditamap" />
+     <chapter href="./countries/cote-d'ivoire/cote-d'ivoire.ditamap" format="ditamap" />
+     <chapter href="./countries/mauritius/mauritius.ditamap" format="ditamap" />
+     <chapter href="./countries/saint-helena,-ascension-and-tristan-da-cunha/saint-helena,-ascension-and-tristan-da-cunha.ditamap" format="ditamap" />
+     <chapter href="./countries/gambia/gambia.ditamap" format="ditamap" />
+     <chapter href="./countries/malawi/malawi.ditamap" format="ditamap" />
+     <chapter href="./countries/mozambique/mozambique.ditamap" format="ditamap" />
+     <chapter href="./countries/mali/mali.ditamap" format="ditamap" />
+     <chapter href="./countries/togo/togo.ditamap" format="ditamap" />
+     <chapter href="./countries/equatorial-guinea/equatorial-guinea.ditamap" format="ditamap" />
+     <chapter href="./countries/guinea/guinea.ditamap" format="ditamap" />
+     <chapter href="./countries/congo,-republic/congo,-republic.ditamap" format="ditamap" />
+     <chapter href="./countries/eswatini/eswatini.ditamap" format="ditamap" />
+     <chapter href="./countries/eritrea/eritrea.ditamap" format="ditamap" />
+     <chapter href="./countries/seychelles/seychelles.ditamap" format="ditamap" />
+     <chapter href="./countries/sudan/sudan.ditamap" format="ditamap" />
+     <chapter href="./countries/congo,-democratic-republic/congo,-democratic-republic.ditamap" format="ditamap" />
+     <chapter href="./countries/mauritania/mauritania.ditamap" format="ditamap" />
+     <chapter href="./countries/nigeria/nigeria.ditamap" format="ditamap" />
+     <chapter href="./countries/cabo-verde/cabo-verde.ditamap" format="ditamap" />
+     <chapter href="./countries/rwanda/rwanda.ditamap" format="ditamap" />
+     <chapter href="./countries/djibouti/djibouti.ditamap" format="ditamap" />
+     <chapter href="./countries/sao-tome-and-principe/sao-tome-and-principe.ditamap" format="ditamap" />
+     <chapter href="./countries/burkina-faso/burkina-faso.ditamap" format="ditamap" />
+     <chapter href="./countries/comoros/comoros.ditamap" format="ditamap" />
+     <chapter href="./countries/south-africa/south-africa.ditamap" format="ditamap" />
+     <chapter href="./countries/chad/chad.ditamap" format="ditamap" />
+     <chapter href="./countries/zambia/zambia.ditamap" format="ditamap" />
+     <chapter href="./countries/tanzania/tanzania.ditamap" format="ditamap" />
+     <chapter href="./countries/south-sudan/south-sudan.ditamap" format="ditamap" />
+     <chapter href="./countries/reunion/reunion.ditamap" format="ditamap" />
+     <chapter href="./countries/somalia/somalia.ditamap" format="ditamap" />
+     <chapter href="./countries/niger/niger.ditamap" format="ditamap" />
+     <chapter href="./countries/ghana/ghana.ditamap" format="ditamap" />
+     <chapter href="./countries/gabon/gabon.ditamap" format="ditamap" />
+     <chapter href="./countries/botswana/botswana.ditamap" format="ditamap" />
+     <chapter href="./countries/namibia/namibia.ditamap" format="ditamap" />
+     <chapter href="./countries/senegal/senegal.ditamap" format="ditamap" />
+     <chapter href="./countries/benin/benin.ditamap" format="ditamap" />
+</bookmap>

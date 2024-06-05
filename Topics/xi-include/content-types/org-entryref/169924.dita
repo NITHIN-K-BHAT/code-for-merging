@@ -1,0 +1,33 @@
+<org-entryref id="SL188368" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="188367" slsdocid="169924" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="ca" id="EG.DIR.169" id-root="eg.dir" iso="eg" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN EGYPT">
+                                        
+                                        <data-protection date-added="17.07.2009" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      Nile City Towers, South Tower, 18th Floor, 2005
+                      
+                      <sc>a</sc>
+                       Sharia Corniche el-Nil,, Cairo 11221
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 24612200</telephone>
+                                             <fax>(2) 24612201</fax>
+                                             <email>cairo@international.gc.ca</email>
+                                             <internet>www.international.gc.ca/world-monde/egypt-egypte/cairo-caire.aspx</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Louis</forename>
+                                                       <surname>Dumas</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

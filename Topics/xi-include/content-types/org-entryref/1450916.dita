@@ -1,0 +1,39 @@
+<org-entryref id="SL3180722" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3180723" slsdocid="1450916" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1133524461" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Midwest Living</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1716 Locust St, Des Moines, IA 50309</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(515) 284-3000</telephone>
+                                                  <email>midwestliving@meredith.com</email>
+                                                  <internet>midwestliving.com</internet>
+                                             </address-block>
+                                             <found-date>1987</found-date>
+                                             <frequency>six a year</frequency>
+                                             <content-note style="NORMAL">publ. by Meredith Corpn</content-note>
+                                             <content-note style="NORMAL">lifestyle with focus on US Midwest</content-note>
+                                             <role-group>
+                                                  <role>Publr</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Deirdre</forename>
+                                                            <surname>Finnegan</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Editorial Content Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Kylee</forename>
+                                                            <surname>Krizmanic</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 864,256</stats>
+                                        </org-entry>
+                                   </org-entryref>

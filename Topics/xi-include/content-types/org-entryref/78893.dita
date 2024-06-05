@@ -1,0 +1,19 @@
+<org-entryref id="SL1759713" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759712" slsdocid="78893" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.668" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Borealis Press Ltd</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>8 Mohawk Cres., Nepean, ON K2H 7G6</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(613) 829-0150</telephone>
+                                             <fax>(613) 829-7783</fax>
+                                             <email>drt@borealispress.com</email>
+                                             <internet>borealispress.com</internet>
+                                        </address-block>
+                                        <found-date>1972</found-date>
+                                        <content-note style="NORMAL">Canadian fiction and non-fiction, history, drama, juvenile, poetry</content-note>
+                                   </org-entry>
+                              </org-entryref>

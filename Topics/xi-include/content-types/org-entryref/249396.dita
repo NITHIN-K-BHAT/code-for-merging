@@ -1,0 +1,36 @@
+<org-entryref id="SL1742188" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1742187" slsdocid="249396" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1164" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Seattle Times</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1000 Denny Way, POB 70, Seattle, WA 98111-0070</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(206) 624-7323</telephone>
+                                                       <email>customerservice@seattletimes.com</email>
+                                                       <internet>seattletimes.com</internet>
+                                                  </address-block>
+                                                  <found-date>1896</found-date>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Frank A.</forename>
+                                                                 <surname>Blethen</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Michele Matassa</forename>
+                                                                 <surname>Flores</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 75,910 (2023)</stats>
+                                             </org-entry>
+                                        </org-entryref>

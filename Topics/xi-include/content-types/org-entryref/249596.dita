@@ -1,0 +1,36 @@
+<org-entryref id="SL1741169" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741168" slsdocid="249596" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.931" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>San Bernardino Sun</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>473 E Carnegie Dr., Suite 250, San Bernardino, CA 92408</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(909) 889-9666</telephone>
+                                                       <email>service@scng.com</email>
+                                                       <internet>sbsun.com</internet>
+                                                  </address-block>
+                                                  <found-date>1894</found-date>
+                                                  <content-note style="NORMAL">part of Los Angeles Media Group</content-note>
+                                                  <role-group>
+                                                       <role>Pres. and Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ronald C.</forename>
+                                                                 <surname>Hasse</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Frank</forename>
+                                                                 <surname>Pine</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

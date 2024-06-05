@@ -1,0 +1,38 @@
+<org-entryref id="SL1497521" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1497520" slsdocid="1497511" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <org-entry id="CA.DIR.1140603432.1" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Election Commission" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                   <data-protection date-added="13.04.2007" ticked-box="Y" />
+                                   <org-entry-head>
+                                        <org-entry-name>Elections Canada</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>30 rue Victoria, Gatineau, QC K1A 0M6</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(613) 993-2975</telephone>
+                                        <fax>(613) 954-8584</fax>
+                                        <email>info@elections.ca</email>
+                                        <internet>elections.ca</internet>
+                                   </address-block>
+                                   <found-date>1920</found-date>
+                                   <content-note style="NORMAL">independent</content-note>
+                                   <role-group>
+                                        <role>Chief Electoral Officer</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Stéphane</forename>
+                                                  <surname>Perrault</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Commr</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Caroline J.</forename>
+                                                  <surname>Simard</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>

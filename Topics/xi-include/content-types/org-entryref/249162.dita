@@ -1,0 +1,27 @@
+<org-entryref id="SL1744712" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1744711" slsdocid="249162" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1382" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Cornell University Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Sage House, 512 E State St, POB 250, Ithaca, NY 14850</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(607) 253-2338</telephone>
+                                             <email>cupressaddresses@cornell.edu</email>
+                                             <internet>cornellpress.cornell.edu</internet>
+                                        </address-block>
+                                        <found-date>1869</found-date>
+                                        <content-note style="NORMAL">imprints incl. Comstock Publishing Associates, Fall Creek Books, ILR Press</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jane</forename>
+                                                       <surname>Bunker</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

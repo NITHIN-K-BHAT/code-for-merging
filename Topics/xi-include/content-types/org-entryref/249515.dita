@@ -1,0 +1,36 @@
+<org-entryref id="SL1741467" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741466" slsdocid="249515" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1024" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>The Detroit News</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>160 W Fort Street, Detroit, MI 48226</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 395-3300</telephone>
+                                                       <email>online@detroitnews.com</email>
+                                                       <internet>detroitnews.com</internet>
+                                                  </address-block>
+                                                  <found-date>1873</found-date>
+                                                  <content-note style="NORMAL">owned by Digital First Media</content-note>
+                                                  <role-group>
+                                                       <role>Publr and Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Gary</forename>
+                                                                 <surname>Miles</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Kevin J.</forename>
+                                                                 <surname>Hardy</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

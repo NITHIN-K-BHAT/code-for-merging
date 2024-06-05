@@ -1,0 +1,40 @@
+<org-entryref id="SL1759595" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759594" slsdocid="78925" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.633" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="usac">
+                                                  
+                                                  <data-protection date-added="21.07.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Le Producteur de Lait Québecois</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>555 blvd Roland-Therrien, Bureau 415, Longueuil, QC J4H 4G3</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(833) 470-5248</telephone>
+                                                       <fax>(450) 679-5899</fax>
+                                                       <email>plq@lait.qc.ca</email>
+                                                       <internet>lait.org/notre-organisation/la-revue</internet>
+                                                  </address-block>
+                                                  <found-date>1980</found-date>
+                                                  <frequency>10 a year</frequency>
+                                                  <content-note style="NORMAL">dairy farming</content-note>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>André</forename>
+                                                                 <surname>Savard</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>François</forename>
+                                                                 <surname>Bertrand</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

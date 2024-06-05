@@ -1,0 +1,28 @@
+<org-entryref id="SL263964" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="263963" slsdocid="251078" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="VA.DIR.332" id-root="va.dir" iso="va" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DIPLOMATIC MISSIONS IN ROME ACCREDITED TO THE HOLY SEE">
+                                        <data-protection date-added="05.12.2003" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Via Sallustiana 49, 00187 Rome, Italy</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(06) 46741</telephone>
+                                             
+                                             <fax>(06) 46743411</fax>
+                                             <email>usembassyvatican@state.gov</email>
+                                             <internet>va.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Joseph S.</forename>
+                                                       <surname>Donnelly</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,39 @@
+<org-entryref id="SL3930909" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3930908" slsdocid="3930845" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="CA.DIR.USAC.32.119" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Publishers’ Organizations and Associations" usage="usac">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Association of Manitoba Book Publishers</org-entry-name>
+                                                  <abbr>AMBP</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>100 Arthur St, Suite 404, Winnipeg, MB R3B 1H3</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(204) 947-3335</telephone>
+                                                  <email>coordinator@ambp.ca</email>
+                                                  <internet>ambp.ca</internet>
+                                             </address-block>
+                                             <found-date>1979</found-date>
+                                             <content-note style="NORMAL">affiliated to ACP</content-note>
+                                             <stats>16 mem. cos (2023)</stats>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Michelle</forename>
+                                                            <surname>Peters</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Matt</forename>
+                                                            <surname>Joudrey</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

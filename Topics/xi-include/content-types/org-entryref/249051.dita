@@ -1,0 +1,24 @@
+<org-entryref id="SL1745466" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745465" slsdocid="249051" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1481" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Taylor &amp; Francis Group</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>52 Vanderbilt Ave, New York, NY 10017</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 216-7800</telephone>
+                                             <email>enquiries@taylorandfrancis.com</email>
+                                             <internet>taylorandfrancis.com</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">division of Informa PLC (UK)</content-note>
+                                        <content-note style="NORMAL">academic publisher; imprints incl. CRC Press (reference, science, engineering and medicine), F1000Research (open access), Routledge (humanities, law, social sciences), Cogent OA (open access)</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <vacancy />
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

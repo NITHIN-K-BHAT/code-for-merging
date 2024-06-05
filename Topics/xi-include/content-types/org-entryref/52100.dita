@@ -1,0 +1,28 @@
+<org-entryref id="SL52950" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52949" slsdocid="52100" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="HU.DIR.200" id-root="hu.dir" iso="hu" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN HUNGARY">
+                                        
+                                        <data-protection date-added="13.03.2006" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1054 Budapest, Szabadság tér 12</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 475-4400</telephone>
+                                             <fax>(1) 475-4248</fax>
+                                             <email>publicaffairsbudapest@state.gov</email>
+                                             <internet>hu.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>David</forename>
+                                                       <surname>Pressman</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

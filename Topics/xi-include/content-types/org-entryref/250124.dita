@@ -1,0 +1,45 @@
+<org-entryref id="SL262722" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262721" slsdocid="250124" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2004" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Cooperative Business Association CLUSA International</org-entry-name>
+                                                       <abbr>NCBA CLUSA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1775 Eye St, 8th Floor, Washington, DC 20006</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 638-6222</telephone>
+                                                       <email>info@ncba.coop</email>
+                                                       <internet>ncbaclusa.coop</internet>
+                                                  </address-block>
+                                                  <found-date>1916</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Esteban</forename>
+                                                                 <surname>Kelly</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Douglas</forename>
+                                                                 <surname>O'Brien</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Cornelius</forename>
+                                                                 <surname>Blanding</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

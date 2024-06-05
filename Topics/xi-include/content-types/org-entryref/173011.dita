@@ -1,0 +1,26 @@
+<org-entryref id="SL194000" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="193999" slsdocid="173011" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="IN.DIR.426" id-root="in.dir" iso="in" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES AND HIGH COMMISSIONS IN INDIA">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Shantipath, Chanakyapuri, New Delhi 110 021</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(11) 24198000</telephone>
+                                             <fax>(11) 24190017</fax>
+                                             <email>ndwebmail@state.gov</email>
+                                             <internet>in.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Eric</forename>
+                                                       <surname>Garcetti</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

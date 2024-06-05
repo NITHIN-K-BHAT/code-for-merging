@@ -1,0 +1,28 @@
+<org-entryref id="SL7799211" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799210" slsdocid="7799050" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637849306" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Omnigraphics, Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 N West St, Suite 1281-230, Wilmington, DE 19801</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 322-8755</telephone>
+                                             <fax>(800) 678-3633</fax>
+                                             <email>info@infobase.com</email>
+                                             <internet>omnigraphics.com</internet>
+                                        </address-block>
+                                        <found-date>1985</found-date>
+                                        <content-note style="NORMAL">reference publr</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>John</forename>
+                                                       <surname>Donoghue</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

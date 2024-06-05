@@ -1,0 +1,29 @@
+<org-entryref id="SL1759531" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759530" slsdocid="78938" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.619" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Toronto Life Magazine</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>111 Queen St E, Suite 320, Toronto, ON M5C 1S2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 364-3333</telephone>
+                                                       <email>letters@torontolife.com</email>
+                                                       <internet>torontolife.com</internet>
+                                                  </address-block>
+                                                  <found-date>1966</found-date>
+                                                  <frequency>monthly</frequency>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Malcolm</forename>
+                                                                 <surname>Johnston</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 52,895 (June 2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,28 @@
+<org-entryref id="SL8956470" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8956469" slsdocid="78788" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.779" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELEVISION" usage="ewyb usac">
+                                                       <org-entry-head>
+                                                            <org-entry-name>CTV Television Network</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>299 Queen St W, POB 9, Toronto, ON M5V 2Z5</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(416) 384-5000</telephone>
+                                                            <email>help@ctv.ca</email>
+                                                            <internet>ctv.ca</internet>
+                                                       </address-block>
+                                                       <content-note style="NORMAL">28 privately owned affiliated stations (incl. one satellite-to-cable service), with 247 rebroadcast­ers</content-note>
+                                                       <content-note style="NORMAL">covers 99% of English-speaking Canadian TV households</content-note>
+                                                       <content-note style="NORMAL">owned by Bell Media</content-note>
+                                                       <role-group>
+                                                            <role>Pres.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Wade</forename>
+                                                                      <surname>Oosterman</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

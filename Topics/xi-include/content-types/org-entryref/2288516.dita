@@ -1,0 +1,26 @@
+<org-entryref id="SL2288548" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2288547" slsdocid="2288516" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="KS.DIR.1208275436" id-root="ks.dir" iso="ks" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Embassies in Kosovo">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10000 Prishtina, Arbëri, Nazim Hikmet 30</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(38) 59593000</telephone>
+                                             <fax>(38) 549890</fax>
+                                             <email>mgmtpristina@state.gov</email>
+                                             <internet>xk.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jeffrey M.</forename>
+                                                       <surname>Hovenier</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

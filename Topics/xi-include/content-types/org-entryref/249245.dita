@@ -1,0 +1,29 @@
+<org-entryref id="SL260878" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260877" slsdocid="249245" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1304" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>TV Guide</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>565 Ave, 5th Floor, New York, NY 10017</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(610) 230-3285</telephone>
+                                                  <email>letters@tvgm.com</email>
+                                                  <internet>tvguidemagazine.com</internet>
+                                             </address-block>
+                                             <found-date>1953</found-date>
+                                             <frequency>weekly</frequency>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Michael</forename>
+                                                            <surname>Fell</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 1,009,014</stats>
+                                        </org-entry>
+                                   </org-entryref>

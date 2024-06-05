@@ -1,0 +1,80 @@
+<table-blockref id="SL8097800" sllink="SLSDOCRF" sllinkid="8097799" slsdocid="79288" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <table-block id="CA.DIR.88" id-root="ca.dir" iso="ca" section="Federal Legislature" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" subsection="HOUSE OF COMMONS" type="ELECTION">
+                                   <table-heading>General Election, 20 September 2021</table-heading>
+                                   <table pgwide="NO" style="WITH-RULES">
+                                        <tgroup cols="3">
+                                             <colspec colwidth="12cm" />
+                                             <colspec colwidth="4cm" />
+                                             <colspec colwidth="4cm" />
+                                             <thead>
+                                                  <row>
+                                                       <entry align="left" style="NO-DOT-LEADER" />
+                                                       <entry align="right" style="NO-DOT-LEADER">% of votes</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">Seats</entry>
+                                                  </row>
+                                             </thead>
+                                             <tbody>
+                                                  <row>
+                                                       <entry align="left" style="DOT-LEADER">
+                                                            <xr pageref="N" ref="CA.DIR.154">Liberal Party of Canada</xr>
+                         
+                      </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">32.62</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">160</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry align="left" style="DOT-LEADER">
+                                                            <xr pageref="N" ref="CA.DIR.1074256450">Conservative Party of Canada</xr>
+                                                       </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">33.74</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">119</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">
+                                                            <xr pageref="N" ref="CA.DIR.145">Bloc Québécois</xr>
+                         
+                      </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">7.64</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">32</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry align="left" style="DOT-LEADER">
+                                                            <xr pageref="N" ref="CA.DIR.156">New Democratic Party of Canada</xr>
+                         
+                      </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">17.82</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">25</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">
+                                                            <xr pageref="N" ref="CA.DIR.153">Green Party of Canada</xr>
+                                                       </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">2.33</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">
+                                                            <xr pageref="N" ref="CA.DIR.1538652475">People’s Party of Canada</xr>
+                                                       </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">4.94</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">Others (incl. independents)</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">0.91</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry align="left" style="DOT-LEADER">
+                                                            <b>Total</b>
+                         
+                      </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">100.00</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">338</entry>
+                                                  </row>
+                                             </tbody>
+                                        </tgroup>
+                                   </table>
+                              </table-block>
+                         </table-blockref>

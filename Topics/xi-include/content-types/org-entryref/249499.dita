@@ -1,0 +1,39 @@
+<org-entryref id="SL1741525" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741524" slsdocid="249499" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1045" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  
+                                                  <data-protection date-added="12.09.2007" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Omaha World-Herald</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1314 Douglas St, Omaha, NE 68102-1138</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(402) 444-1000</telephone>
+                                                       <fax>(402) 444-1592</fax>
+                                                       <email>news@owh.com</email>
+                                                       <internet>omaha.com</internet>
+                                                  </address-block>
+                                                  <found-date>1885</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ava</forename>
+                                                                 <surname>Thomas</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Paul</forename>
+                                                                 <surname>Goodsell</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 71,372, Sun. 78,940 (2022)</stats>
+                                             </org-entry>
+                                        </org-entryref>

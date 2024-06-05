@@ -1,0 +1,27 @@
+<int-org-entryref id="SL1115877" int-org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1115876" slsdocid="1103208" slsdocty="int-org-entry int-org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <int-org-entry id="IWB02047.IO.TXT.424" id-root="int-org_eu" iso="" print-style="COLUMN" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio casee">
+                    <int-org-entry-head>
+                         <int-org-name-group type="MAIN">
+                              <org-entry-name>European Council</org-entry-name>
+                         </int-org-name-group>
+                    </int-org-entry-head>
+                    <int-org-block>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Europa Bldg, 175 rue de la Loi, 1048 Brussels, Belgium</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 281-61-11</telephone>
+                              <fax>(2) 281-69-34</fax>
+                              <internet>www.consilium.europa.eu</internet>
+                         </address-block>
+                         <p id="WB02047.IO.TXT.66" usage="ewyb edio casee">The European Council was originally the name used to describe summit meetings of the heads of state or of government of the EU member states, their ministers responsible for foreign affairs, and senior officials of the European Commission. The Council met at least twice a year. There was no provision made for the existence of the European Council in the Treaty of Rome, but its position was acknowledged and regularized in the Single European Act (1987). Its role was further strengthened in the Treaty on European Union, which entered into force on 1 November 1993. As a result of the treaty, the European Council became directly responsible for common policies within the fields of common foreign and security policy and justice and home affairs.</p>
+                         <p id="WB02047.IO.TXT.67" usage="ewyb edio casee">
+            Under the Treaty of Lisbon, which came into force at the beginning of December 2009, the European Council became an institution shaping the EU’s development and defining its political priorities. The European Council comprises the heads of state or of government of the member states, together with its President and the President of the Commission; the High Representative of the Union for Foreign Affairs and Security Policy is also involved in the activities of the European Council, which performs no legislative function, and meets for summits at least twice every six months, as convened by its President. If required, the President may convene special meetings of the European Council. The European Council plays a formal role in the European Semester, the EU’s annual cycle of economic and fiscal policy
+            
+            making.
+          </p>
+                         <p>In November 2009 EU heads of state and of government elected Herman Van Rompuy of Belgium to the new position of President of the European Council, for a period of two years and six months, renewable once. He took office upon the entry into force of the Treaty of Lisbon. On 1 December 2014 Van Rompuy was succeeded by Donald Tusk of Poland. Tusk was replaced on 1 December 2019, upon the expiry of his second term, by Charles Michel of Belgium.</p>
+                    </int-org-block>
+               </int-org-entry>
+          </int-org-entryref>

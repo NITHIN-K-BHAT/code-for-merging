@@ -1,0 +1,38 @@
+<org-entryref id="SL3181114" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3181113" slsdocid="747132" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1075221550" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING ASSOCIATIONS">
+                                                  <data-protection date-added="14.07.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>BAFT</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1333 New Hampshire Ave, NW, Washington, DC 20036</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 663-7575</telephone>
+                                                       <email>info@baft.org</email>
+                                                       <internet>baft.org</internet>
+                                                  </address-block>
+                                                  <found-date>2010 by merger of Bankers’ Association for Finance and Trade (BAFT) and International Financial Services Asscn (IFSA)</found-date>
+                                                  <content-note style="NORMAL">wholly owned subsidiary of American Bankers Asscn</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Suresh</forename>
+                                                                 <surname>Subramanian</surname>
+                                                            </person-name>
+                                                            <person-note>BNP Paribas</person-note>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tod R.</forename>
+                                                                 <surname>Burwell</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

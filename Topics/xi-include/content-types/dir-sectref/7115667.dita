@@ -1,0 +1,79 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8926880" sllink="SLSDOCRF" sllinkid="8926879" slsdocid="7115667" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <dir-section id="US.DIR.1590053559" id-root="us.dir" iso="us" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                                   <heading>Buddhism</heading>
+                                   <p>In 2020 there were an estimated 1.0m. Buddhists in the USA, of whom a majority were adherents of Mahayana movements.</p>
+                                   
+                                   <org-list>
+                                        <org-entryref id="SL7115711" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7115710" slsdocid="3188137" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="US.DIR.1287670276" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BUDDHISM">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Buddhist Association of the United States</org-entry-name>
+                                                       <abbr>BAUS</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Chuang Yen Monastery, 2020 Route 301, Carmel, NY 10512</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(845) 225-1819</telephone>
+                                                       <fax>(845) 228-4283</fax>
+                                                       <internet>baus.org</internet>
+                                                  </address-block>
+                                                  <found-date>1964</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Ven.</title>
+                                                                 <forename>Bhikkhu</forename>
+                                                                 <surname>Bodhi</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL7115717" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7115716" slsdocid="249649" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="US.DIR.865" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BUDDHISM" usage="usac">
+                                                  <data-protection date-added="13.09.2007" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Buddhist Churches of America</org-entry-name>
+                                                       <abbr>BCA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1710 Octavia St, San Francisco, CA 94109</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(415) 776-5600</telephone>
+                                                       <email>info@bcahq.org</email>
+                                                       <internet>buddhistchurchesofamerica.org</internet>
+                                                  </address-block>
+                                                  <found-date>1899</found-date>
+                                                  <content-note style="NORMAL">Hongwanji-ha Jodo Shinshu denomin­ation</content-note>
+                                                  <stats>over 60 ind. temples</stats>
+                                                  <role-group>
+                                                       <role>Bishop</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Rev.</title>
+                                                                 <forename>Marvin</forename>
+                                                                 <surname>Harada</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Terri</forename>
+                                                                 <surname>Omori</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                         </dir-sectref>

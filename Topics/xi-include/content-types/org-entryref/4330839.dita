@@ -1,0 +1,27 @@
+<org-entryref id="SL4330991" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4330990" slsdocid="4330839" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390371169" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Daily Progress</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>685 W Rio Rd, Charlottesville, VA 22906</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 275-8828</telephone>
+                                                       <email>news@dailyprogress.com</email>
+                                                       <internet>dailyprogress.com</internet>
+                                                  </address-block>
+                                                  <found-date>1892</found-date>
+                                                  <frequency>Tue., Thur. and Sat.</frequency>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>J. Reynolds</forename>
+                                                                 <surname>Hutchins</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

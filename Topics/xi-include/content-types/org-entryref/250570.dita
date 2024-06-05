@@ -1,0 +1,28 @@
+<org-entryref id="SL1745761" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745760" slsdocid="250570" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1535" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ORGANIZATIONS AND ASSOCIATIONS" usage="usac">
+                                        <data-protection date-added="10.08.2009" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Music Publishers Association of the US</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>442 5th Ave, Suite 1137, New York, NY 10018</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 327-4044</telephone>
+                                             <email>admin@mpa.org</email>
+                                             <internet>mpa.org</internet>
+                                        </address-block>
+                                        <found-date>1895</found-date>
+                                        <stats>over 75 mems</stats>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Robert</forename>
+                                                       <surname>Thompson</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

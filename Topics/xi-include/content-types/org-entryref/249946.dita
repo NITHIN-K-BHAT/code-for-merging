@@ -1,0 +1,39 @@
+<org-entryref id="SL1739227" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1739226" slsdocid="249946" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2185" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CIVIL AVIATION" usage="ewyb usac">
+                                                  <data-protection date-added="12.09.2007" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Air Transportation Association</org-entry-name>
+                                                       <abbr>NATA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>818 Connecticut Ave, NW, Suite 900, Washington, DC 20006</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 774-1535</telephone>
+                                                       <fax>(202) 452-0837</fax>
+                                                       <email>info@nata.aero</email>
+                                                       <internet>nata.aero</internet>
+                                                  </address-block>
+                                                  <found-date>1940</found-date>
+                                                  <content-note style="NORMAL">c. 3,700 mems (2023)</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Todd</forename>
+                                                                 <surname>Anderson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Curt</forename>
+                                                                 <surname>Castagna</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

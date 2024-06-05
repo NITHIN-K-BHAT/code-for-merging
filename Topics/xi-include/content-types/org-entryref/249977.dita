@@ -1,0 +1,37 @@
+<org-entryref id="SL3185769" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3185768" slsdocid="249977" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2153" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="OCEAN SHIPPING" usage="ewyb usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>ETG Dorchester Ltd</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>654 Madison Ave, Suite 1401, New York, NY 10065</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(212) 813-9360</telephone>
+                                                       <email>webpermission@etgint.com</email>
+                                                       <internet>etgglobal.com</internet>
+                                                  </address-block>
+                                                  <stats>8 vessels</stats>
+                                                  <content-note style="NORMAL">LNG ship and shore management services</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Kimball C.</forename>
+                                                                 <surname>Chen</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Alex W.</forename>
+                                                                 <surname>Evans</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,26 @@
+<org-entryref id="SL8923380" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8923379" slsdocid="250417" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1707" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <org-entry-head>
+                                                       <org-entry-name>PNC Bank, NA</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>300 5th Ave, Pittsburgh, PA 15222-2707</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(412) 762-2000</telephone>
+                                                       <email>media.relations@pnc.com</email>
+                                                       <internet>pnc.com</internet>
+                                                  </address-block>
+                                                  <found-date>1959</found-date>
+                                                  <role-group>
+                                                       <role>Chair., Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>William S.</forename>
+                                                                 <surname>Demchak</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

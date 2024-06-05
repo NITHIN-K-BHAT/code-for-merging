@@ -1,0 +1,28 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6289308" sllink="SLSDOCRF" sllinkid="6289307" slsdocid="6277637" slsdocty="dir-entry dir-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <dir-entry id="RU-FED.DVFO" id-root="ru.dir" iso="ru" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Presidential Representative to the Far Eastern Federal Okrug</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Yurii P.</forename>
+                                                       <surname>Trutnev</surname>
+                                                  </person-name>
+                                                  
+                                             </person>
+                                        </person-group>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      690922 Maritime Krai, Vladivostok, o. Russkii, p. Ayaks, dom 10, lit 
+                      <sc>n</sc>
+                      , korp. 
+                      <sc>b</sc>
+                                                  </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4232) 49-47-73</telephone>
+                                             <email>press@dfo.gov.ru</email>
+                                             <internet>dfo.gov.ru</internet>
+                                        </address-block>
+                                   </dir-entry>
+                              </dir-entryref>

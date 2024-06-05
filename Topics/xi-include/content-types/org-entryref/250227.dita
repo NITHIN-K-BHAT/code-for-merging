@@ -1,0 +1,41 @@
+<org-entryref id="SL262536" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262535" slsdocid="250227" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1891" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>American Farm Bureau Federation</org-entry-name>
+                                                       <abbr>FB</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>
+                          600 Maryland Ave, SW, Suite 1000
+                          <sc>w</sc>
+                          , Washington, DC 20024
+                        </verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 406-3600</telephone>
+                                                       <email>media@fb.org</email>
+                                                       <internet>fb.org</internet>
+                                                  </address-block>
+                                                  <found-date>1919</found-date>
+                                                  <stats>50 mem. states and Puerto Rico</stats>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Zippy</forename>
+                                                                 <surname>Duvall</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Vice-Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Scott</forename>
+                                                                 <surname>VanderWal</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

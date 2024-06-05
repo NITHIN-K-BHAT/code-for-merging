@@ -1,0 +1,39 @@
+<org-entryref id="SL260726" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260725" slsdocid="249329" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1228" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Golf Magazine</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>POB 3200, Harlan, IA 51593-0046</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(800) 876-7726</telephone>
+                                                  <email>golfmagsocial@gmail.com</email>
+                                                  <internet>golf.com</internet>
+                                             </address-block>
+                                             <found-date>1959</found-date>
+                                             <frequency>monthly</frequency>
+                                             <content-note style="NORMAL">publ. by Time Inc</content-note>
+                                             <role-group>
+                                                  <role>Publr</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Howard</forename>
+                                                            <surname>Milstein</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>David</forename>
+                                                            <surname>DeNunzio</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 1,244,327</stats>
+                                        </org-entry>
+                                   </org-entryref>

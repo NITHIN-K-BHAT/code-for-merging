@@ -1,0 +1,36 @@
+<org-entryref id="SL3919439" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3919438" slsdocid="3919341" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.USAC.39.18" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="National Associations" usage="usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>International Society of Weekly Newspaper Editors</org-entry-name>
+                                                  <abbr>ISWNE</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Institute of International Studies, Missouri Southern State University, 3950 E Newman Rd, Joplin, MO 64801</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(417) 625-9736</telephone>
+                                                  <internet>iswne.org</internet>
+                                             </address-block>
+                                             <found-date>1955</found-date>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Ian</forename>
+                                                            <surname>Murray</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Dr</title>
+                                                            <forename>Chad</forename>
+                                                            <surname>Stebbins</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

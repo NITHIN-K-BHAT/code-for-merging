@@ -1,0 +1,28 @@
+<org-entryref id="SL262564" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262563" slsdocid="250211" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1905" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <data-protection date-added="02.08.2005" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Farmers Union</org-entry-name>
+                                                       <abbr>NFU</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>20 F St, NW, Suite 300, Washington, DC 20001</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 554-1600</telephone>
+                                                       <internet>nfu.org</internet>
+                                                  </address-block>
+                                                  <found-date>1902</found-date>
+                                                  <stats>c. 200,000 mems (2022)</stats>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Rob</forename>
+                                                                 <surname>Larew</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

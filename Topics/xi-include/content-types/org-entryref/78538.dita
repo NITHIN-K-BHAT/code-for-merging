@@ -1,0 +1,44 @@
+<org-entryref id="SL8924620" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8924619" slsdocid="78538" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.1056" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="RAILWAYS">
+                                                       
+                                                       <org-entry-head>
+                                                            <org-entry-name>VIA Rail Canada, Inc</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>POB 8116, Succ. Centre-Ville, Montréal, QC H3C 3N3</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(514) 871-6000</telephone>
+                                                            <email>
+                          customer_
+                          
+                          relations@viarail.ca
+                        </email>
+                                                            <internet>viarail.ca</internet>
+                                                       </address-block>
+                                                       <found-date>1977</found-date>
+                                                       <content-note style="NORMAL">federal govt corpn</content-note>
+                                                       <content-note style="NORMAL">operates passenger services are operated over 12,500 km (7,767 miles) of CPKC and CN track</content-note>
+                                                       <content-note style="NORMAL">3.3m. passengers in 2023</content-note>
+                                                       
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Françoise</forename>
+                                                                      <surname>Bertrand</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Mario</forename>
+                                                                      <surname>Péloquin</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

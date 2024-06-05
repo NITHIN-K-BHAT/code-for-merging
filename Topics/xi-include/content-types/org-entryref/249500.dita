@@ -1,0 +1,34 @@
+<org-entryref id="SL1741522" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741521" slsdocid="249500" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1044" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Lincoln Journal Star</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>POB 81609, Lincoln, NE 68501</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(402) 475-4200</telephone>
+                                                       <internet>journalstar.com</internet>
+                                                  </address-block>
+                                                  <found-date>1867</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ava</forename>
+                                                                 <surname>Thomas</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Dave</forename>
+                                                                 <surname>Bundy</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,27 @@
+<org-entryref id="SL1759767" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759766" slsdocid="78883" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.678" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Dundurn Group</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>POB 19510, RPO Manulife, Toronto, ON M4W 3T9</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(416) 214-5544</telephone>
+                                             <email>info@dundurn.com</email>
+                                             <internet>dundurn.com</internet>
+                                        </address-block>
+                                        <found-date>1972</found-date>
+                                        <content-note style="NORMAL">literary fiction, and non-fiction</content-note>
+                                        <role-group>
+                                             <role>Pres. and Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kwame Scott</forename>
+                                                       <surname>Fraser</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

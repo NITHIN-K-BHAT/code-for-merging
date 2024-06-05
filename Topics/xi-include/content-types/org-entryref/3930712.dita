@@ -1,0 +1,34 @@
+<org-entryref id="SL3930795" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3930794" slsdocid="3930712" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.USAC.32.28" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Publishers" usage="usac">
+                                        <data-protection date-added="26.07.2005" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>ECW Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>665 Gerrard St E, Toronto, ON M4M 1Y2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(416) 694-3348</telephone>
+                                             <email>info@ecwpress.com</email>
+                                             <internet>ecwpress.com</internet>
+                                        </address-block>
+                                        <found-date>1974</found-date>
+                                        <content-note style="NORMAL">sports, biography, non-fiction, fiction, poetry, popular culture</content-note>
+                                        <role-group>
+                                             <role>Co-Publrs</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jack</forename>
+                                                       <surname>David</surname>
+                                                  </person-name>
+                                             </person>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>David</forename>
+                                                       <surname>Caron</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

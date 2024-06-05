@@ -1,0 +1,41 @@
+<org-entryref id="SL3931018" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3931017" slsdocid="3930945" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.USAC.20.20" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Civil Aviation" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>WestJet</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>22 Aerial Pl., NE, Calgary, AB T2E 3J1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(403) 444-2446</telephone>
+                                                       <email>investor_relations@westjet.com</email>
+                                                       <internet>westjet.com</internet>
+                                                  </address-block>
+                                                  <found-date>1996</found-date>
+                                                  <content-note style="NORMAL">serves destinations in Canada, USA, Mexico, Caribbean and Europe</content-note>
+                                                  <content-note style="NORMAL">
+                      acquired Sunwing Airlines
+                      
+                       2023
+                    </content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Chris</forename>
+                                                                 <surname>Burley</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Alexis</forename>
+                                                                 <surname>von Hoensbroech</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

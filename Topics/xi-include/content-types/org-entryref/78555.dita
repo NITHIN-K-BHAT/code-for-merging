@@ -1,0 +1,29 @@
+<org-entryref id="SL8362702" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8362701" slsdocid="78555" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.157" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PROVINCIAL AND TERRITORIAL PARTIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Parti Québécois</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>4115 rue Ontario est, Suite 325, Montréal, QC H1V 1J7</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(514) 526-0020</telephone>
+                                             <fax>(514) 526-0272</fax>
+                                             <email>info@pq.org</email>
+                                             <internet>pq.org</internet>
+                                        </address-block>
+                                        <found-date>1968</found-date>
+                                        <content-note style="NORMAL">social democratic</content-note>
+                                        <content-note style="NORMAL">seeks political sov­ereignty for Québec</content-note>
+                                        <role-group>
+                                             <role>Leader</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Paul</forename>
+                                                       <surname>St-Pierre Plamondon</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

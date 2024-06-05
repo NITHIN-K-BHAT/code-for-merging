@@ -1,0 +1,38 @@
+<org-entryref id="SL1782980" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1782979" slsdocid="249618" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.907" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Huntsville Times</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>200 W Side Sq., Suite 100, Huntsville, AL 35801</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(256) 532-4000</telephone>
+                                                       <email>circulation@htimes.com</email>
+                                                       <internet>al.com/huntsville</internet>
+                                                  </address-block>
+                                                  <found-date>1910</found-date>
+                                                  <content-note style="NORMAL">owned by Advance Publications, Inc.</content-note>
+                                                  <frequency>3 a week</frequency>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tom</forename>
+                                                                 <surname>Bates</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Sr Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>K. A.</forename>
+                                                                 <surname>Turner</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 57,073, Sun. 74,401 (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

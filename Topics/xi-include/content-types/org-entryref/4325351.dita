@@ -1,0 +1,29 @@
+<org-entryref id="SL4325374" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4325373" slsdocid="4325351" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389933833" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="THE PRESS" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND NEWSPAPERS" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Anniston Star</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>4305 McClellan Blvd, Anniston, POB 189, AL 36202</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(256) 236-1551</telephone>
+                                                       <fax>(256) 241-1991</fax>
+                                                       <email>ggray@annistonstar.com</email>
+                                                       <internet>annistonstar.com</internet>
+                                                  </address-block>
+                                                  <found-date>1883</found-date>
+                                                  <frequency>Wed., Fri. and Sat.</frequency>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Josephine</forename>
+                                                                 <surname>Ayers</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. c. 13,000 (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,28 @@
+<org-entryref id="SL1759758" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759757" slsdocid="78886" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.675" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <data-protection date-added="03.09.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Crabtree Publishing Co, Ltd</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>616 Welland Ave, St Catharines, ON L2M 5V6</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 387-7650</telephone>
+                                             <email>custserv@crabtreebooks.com</email>
+                                             <internet>crabtreebooks.ca</internet>
+                                        </address-block>
+                                        <found-date>1978</found-date>
+                                        <content-note style="NORMAL">children's books</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Craig</forename>
+                                                       <surname>Culliford</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

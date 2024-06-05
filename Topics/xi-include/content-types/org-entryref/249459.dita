@@ -1,0 +1,27 @@
+<org-entryref id="SL1741674" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741673" slsdocid="249459" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1094" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canton Repository</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>500 Market Ave S, Canton, OH 44702</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(877) 580-8500</telephone>
+                                                       <internet>cantonrep.com</internet>
+                                                  </address-block>
+                                                  <found-date>1815</found-date>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Rick</forename>
+                                                                 <surname>Armon</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 29,000, Sun. 39,000 (2019)</stats>
+                                             </org-entry>
+                                        </org-entryref>

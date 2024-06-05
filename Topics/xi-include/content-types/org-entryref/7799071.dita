@@ -1,0 +1,29 @@
+<org-entryref id="SL7799320" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799319" slsdocid="7799071" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637851876" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Organizations and Associations" usage="usac">
+                                        <data-protection date-added="13.09.2007" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Copyright Society</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1 E 53rd St, Floor 8, New York, NY 10022</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 345-6401</telephone>
+                                             <email>kaitland@csusa.org</email>
+                                             <internet>csusa.org</internet>
+                                        </address-block>
+                                        <found-date>1953</found-date>
+                                        <content-note style="NORMAL">promotes study of copyright law and related rights in traditional and new media</content-note>
+                                        <stats>1,000 mems</stats>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Naomi</forename>
+                                                       <surname>Jane Gray</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

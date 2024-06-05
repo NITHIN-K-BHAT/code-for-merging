@@ -1,0 +1,39 @@
+<org-entryref id="SL1745647" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745646" slsdocid="250603" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1504" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="02.05.2007" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>University of Oklahoma Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>2800 Venture Dr., Norman, OK 73069-8216</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(405) 325-2000</telephone>
+                                             <fax>(405) 364-4000</fax>
+                                             <email>customerservice@longleafservices.org</email>
+                                             <internet>oupress.com</internet>
+                                        </address-block>
+                                        <found-date>1928</found-date>
+                                        <content-note style="NORMAL">scholarly</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Tony</forename>
+                                                       <surname>Roberts</surname>
+                                                  </person-name>
+                                                  <person-note>interim</person-note>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Man. Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Steven</forename>
+                                                       <surname>Baker</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

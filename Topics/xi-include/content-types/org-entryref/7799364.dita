@@ -1,0 +1,29 @@
+<org-entryref id="SL7799407" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799406" slsdocid="7799364" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1637853522" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Aviator</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1166 Alberni St, Suite 802, Vancouver, BC V6E 3Z3</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(604) 428-0261</telephone>
+                                                       <fax>(604) 620-0425</fax>
+                                                       <email>steve@canadianaviator.com</email>
+                                                       <internet>canadianaviator.com</internet>
+                                                  </address-block>
+                                                  <found-date>1990</found-date>
+                                                  <frequency>6 a year</frequency>
+                                                  <role-group>
+                                                       <role>Publr and Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Steve</forename>
+                                                                 <surname>Drinkwater</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 7,700 (2023)</stats>
+                                             </org-entry>
+                                        </org-entryref>

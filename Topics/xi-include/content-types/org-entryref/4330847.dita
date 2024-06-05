@@ -1,0 +1,36 @@
+<org-entryref id="SL4331045" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4331044" slsdocid="4330847" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390371883" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Columbian</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>701 W 8th St, POB 180, Vancouver, WA 98666-0180</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(360) 694-3391</telephone>
+                                                       <fax>(360) 743-3391</fax>
+                                                       <email>letters@columbian.com</email>
+                                                       <internet>columbian.com</internet>
+                                                  </address-block>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ben</forename>
+                                                                 <surname>Campbell</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Craig</forename>
+                                                                 <surname>Brown</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

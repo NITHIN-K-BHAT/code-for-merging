@@ -1,0 +1,36 @@
+<org-entryref id="SL3919264" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3919263" slsdocid="3919238" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.USAC.39.3" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="National Associations" usage="usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>American Press Institute, Inc</org-entry-name>
+                                                  <abbr>API</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>4401 N Fairfax Dr., Suite 300, Arlington, VA 22203</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(571) 366-1200</telephone>
+                                                  <email>hello@pressinstitute.org</email>
+                                                  <internet>americanpressinstitute.org</internet>
+                                             </address-block>
+                                             <found-date>1946</found-date>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Barbara</forename>
+                                                            <surname>Wall</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO and Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Michael</forename>
+                                                            <surname>Bolden</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

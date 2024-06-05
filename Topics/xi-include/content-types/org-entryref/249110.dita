@@ -1,0 +1,29 @@
+<org-entryref id="SL1745147" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745146" slsdocid="249110" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1429" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>Krieger Publishing Co</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1725 Krieger Dr., Malabar, FL 32950</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(321) 724-9542</telephone>
+                                             <fax>(321) 951-3671</fax>
+                                             <email>info@krieger-publishing.com</email>
+                                             <internet>krieger-publishing.com</internet>
+                                        </address-block>
+                                        <found-date>1970</found-date>
+                                        <content-note style="NORMAL">space technology, adult education, history, natural sciences</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Donald E.</forename>
+                                                       <surname>Krieger</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,318 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL89954" sllink="SLSDOCRF" sllinkid="89953" slsdocid="73704" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="AO.DIR.197" id-root="ao.dir" iso="ao" sect-type="religion" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                    <heading>Religion</heading>
+                    <dir-section id="AO.DIR.199" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>Christianity</heading>
+                         <org-list>
+                              <org-entryref id="SL94174" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94173" slsdocid="73939" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.200" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CHRISTIANITY">
+                                        <!--VD 18.12.2023 https://www.facebook.com/watch/?v=526062332160973-->
+                                        <!--VD 18.12.2023 https://www.oikoumene.org/organization/council-of-christian-churches-in-angola-->
+                                        <!--VD 09.11.2020 domain cica-angola.org expired-->
+                                        <data-protection date-added="05.05.2006" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Conselho de Igrejas Cristãs em Angola</org-entry-name>
+                                             <abbr>CICA</abbr>
+                                             <alt-name>Council of Christian Churches in Angola</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua 15 24, Bairro Cassenda, CP 1301/1659, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222719223</telephone>
+                                        </address-block>
+                                        <found-date>1977 as Conselho Angolano de Igrejas Evangélicas</found-date>
+                                        <stats>19 mem. churches</stats>
+                                        <role-group>
+                                             <role>Gen. Sec.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Rev.</title>
+                                                       <forename>Deolinda Dorcas Zola da</forename>
+                                                       <surname>Graça Paulo Teca</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                         <dir-section sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                              <heading>The Anglican Communion</heading>
+                              <p id="BW.DIR.106">A new Anglican province for Angola and Mozambique—the Igreja Anglicana de Moçambique e Angola—was formed in September 2021, with four of the 12 dioceses in Angola.</p>
+                              <org-list>
+                                   <org-entryref id="SL7710144" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7710143" slsdocid="7710070" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.1631524777" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CHRISTIANITY">
+                                             <org-entry-head>
+                                                  <org-entry-name>Igreja Anglicana de Moçambique e Angola</org-entry-name>
+                                                  <abbr>IAMA</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Luanda</verbatim-address>
+                                                  </address>
+                                             </address-block>
+                                             <found-date>2021</found-date>
+                                             <role-group>
+                                                  <role>Acting Presiding Bishop</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Most Rev.</title>
+                                                            <forename>Carlos</forename>
+                                                            <surname>Matsinhe</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="AO.DIR.201" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                              <heading>Other Protestant Churches</heading>
+                              <org-list>
+                                   <org-entryref id="SL94176" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94175" slsdocid="73938" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.202" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CHRISTIANITY">
+                                             <data-protection date-added="31.03.2005" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Igreja Evan­gélica Congregacional em Angola</org-entry-name>
+                                                  <alt-name>Evangelical Congregational Church in Angola</alt-name>
+                                                  <abbr>IECA</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Morro Bento II, Rua do Condomínio das Mangueirinhas 40, CP 1552, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">222355108</telephone>
+                                                  <email>iecageral@gmail.com</email>
+                                                  <internet>www.iecaecca.com</internet>
+                                             </address-block>
+                                             <found-date>1880</found-date>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Rev.</title>
+                                                            <forename>Bonifácio Chiwale</forename>
+                                                            <surname>Cassoma</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Gen. Sec.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Rev.</title>
+                                                            <forename>André Cangovi</forename>
+                                                            <surname>Eurico</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL2613302" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2613301" slsdocid="2613279" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.1239878036" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CHRISTIANITY">
+                                             <!--https://lutheranworld.org/member-churches/africa/angola-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Igreja Evan­gélica Lutherana de Angola</org-entry-name>
+                                                  <alt-name>Evangelical Lutheran Church of Angola</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>CP 222, Lubango</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">261228428</telephone>
+                                                  <email>iela_lubango@yahoo.com.br</email>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Rev.</title>
+                                                            <forename>Tomàs</forename>
+                                                            <surname>Ndawanapo</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL7587640" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7587639" slsdocid="7587616" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.1621924820" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CHRISTIANITY">
+                                             <org-entry-head>
+                                                  <org-entry-name>Igreja Universal do Reino de Deus, Angola</org-entry-name>
+                                                  <abbr>IURD</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Av. de Janeiro, Morro Bento, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">946900052</telephone>
+                                                  <email>universaldeangola@gmail.com</email>
+                                                  <internet>fb.com/universaldeangola</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Leader</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Alberto</forename>
+                                                            <surname>Segunda</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                              <p id="AO.DIR.205">Other active denominations include the African Apostolic Church, the Church of Apostolic Faith in Angola, the Church of Jesus Christ of Latter-day Saints in Angola, the Evangelical Baptist Church, the Evangelical Reformed Church of Angola, the Kimbanguist Church in Angola, the Maná Church and the United Methodist Church.</p>
+                              <!--United Methodist Church in Angola divided into East Angola Annual Conference and West AAC. EAAC bishop Gaspar Joao Domingos-->
+                         </dir-section>
+                         <dir-section id="AO.DIR.206" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                              <heading>The Roman Catholic Church</heading>
+                              <p id="AO.DIR.207">Angola comprises five archdioceses and 14 dioceses.</p>
+                              <org-list>
+                                   <org-entryref id="SL4232641" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4232640" slsdocid="4232624" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.1380864476" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CHRISTIANITY">
+                                             <!--VD 28.05.2019 "Confer&#234;ncia Episcopal de Angola e S&#227;o Tom&#233; (CEAST)"- run together with Sao Tome-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Bishops’ Conference</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Rua Comandante Bula, Bairro São Paulo, CP 3579, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">222443686</telephone>
+                                                  <email>cecasp@gmail.com</email>
+                                                  <internet>ceastangola.org</internet>
+                                             </address-block>
+                                             <found-date>1967</found-date>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Most Rev.</title>
+                                                            <forename>José Manuel</forename>
+                                                            <surname>Imbamba</surname>
+                                                       </person-name>
+                                                       <person-note>Archbishop of Saurimo</person-note>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                              <dir-list>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL4232694" sllink="SLSDOCRF" sllinkid="4232693" slsdocid="73689" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="AO.DIR.209" id-root="ao.dir" iso="ao" section="Religion" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="CHRISTIANITY">
+                                             <dir-entry-name>Archbishop of Huambo</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Most Rev.</title>
+                                                            <forename>Zeferino&#160;Zeca</forename>
+                                                            <surname>Martins</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Arce­bispado, Av. 4 de Abril, CP 10, Huambo</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">241220133</telephone>
+                                             </address-block>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL4232700" sllink="SLSDOCRF" sllinkid="4232699" slsdocid="73688" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="AO.DIR.210" id-root="ao.dir" iso="ao" section="Religion" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="CHRISTIANITY">
+                                             <dir-entry-name>Archbishop of Luanda</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Most Rev.</title>
+                                                            <forename>Filomeno do Nascimento</forename>
+                                                            <surname>Vieira Dias</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Arcebispado, Largo do Palácio 9, CP 87, 1230-C, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">222334640</telephone>
+                                             </address-block>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL4232703" sllink="SLSDOCRF" sllinkid="4232702" slsdocid="73687" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="AO.DIR.211" id-root="ao.dir" iso="ao" section="Religion" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="CHRISTIANITY">
+                                             <dir-entry-name>Archbishop of Lubango</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Most Rev.</title>
+                                                            <forename>Gabriel</forename>
+                                                            <surname>Mbilingi</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Arce­bispado, CP 231, Lubango</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">930183836</telephone>
+                                             </address-block>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL4232712" sllink="SLSDOCRF" sllinkid="4232711" slsdocid="3325869" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="AO.DIR.1302767339" id-root="ao.dir" iso="ao" section="Religion" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="CHRISTIANITY">
+                                             <dir-entry-name>Archbishop of Malanje</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Most Rev.</title>
+                                                            <forename>Luzizila</forename>
+                                                            <surname>Kiala</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Bispado, CP 192, Malanje</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">943511488</telephone>
+                                             </address-block>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL4232790" sllink="SLSDOCRF" sllinkid="4232789" slsdocid="3325868" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="AO.DIR.1302767329" id-root="ao.dir" iso="ao" section="Religion" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="CHRISTIANITY">
+                                             <dir-entry-name>Archbishop of Saurimo</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Most Rev.</title>
+                                                            <forename>José Manuel</forename>
+                                                            <surname>Imbamba</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Bispado, Rua do Cemiterio 231, CP 52, Saurimo</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">923312623</telephone>
+                                             </address-block>
+                                        </dir-entry>
+                                   </dir-entryref>
+                              </dir-list>
+                         </dir-section>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

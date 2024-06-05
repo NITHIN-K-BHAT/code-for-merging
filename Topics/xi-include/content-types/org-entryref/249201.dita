@@ -1,0 +1,37 @@
+<org-entryref id="SL1743701" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1743700" slsdocid="249201" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1346" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NATIONAL ASSOCIATIONS" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>American Society of Magazine Editors</org-entry-name>
+                                                  <abbr>ASME</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>23 Barnabas Rd, Suite 34, Hawleyville, CT 06440-0034</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 872-3737</telephone>
+                                                  <email>asme@asme.media</email>
+                                                  <internet>asme.media</internet>
+                                             </address-block>
+                                             <found-date>1963</found-date>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Clara</forename>
+                                                            <surname>Jeffery</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Sidney</forename>
+                                                            <surname>Holt</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>400 mems (2023)</stats>
+                                        </org-entry>
+                                   </org-entryref>

@@ -1,0 +1,27 @@
+<org-entryref id="SL6891350" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891349" slsdocid="4401537" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1395740659" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="GOVERNMENT AGENCIES">
+                                             <org-entry-head>
+                                                  <org-entry-name>International Trade Administration</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Dept of Commerce, 1401 Constitution Ave, NW, Washington, DC 20230</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 482-2867</telephone>
+                                                  <email>publicaffairs@trade.gov</email>
+                                                  <internet>trade.gov</internet>
+                                             </address-block>
+                                             <found-date>1980</found-date>
+                                             <content-note style="NORMAL">promotes US exports</content-note>
+                                             <role-group>
+                                                  <role>Under-Sec.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Marisa</forename>
+                                                            <surname>Lago</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

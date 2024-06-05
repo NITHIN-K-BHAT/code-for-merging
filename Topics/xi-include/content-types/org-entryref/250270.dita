@@ -1,0 +1,38 @@
+<org-entryref id="SL262458" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262457" slsdocid="250270" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1848" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <data-protection date-added="16.09.2008" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Drug, Chemical and Associated Technologies Association, Inc</org-entry-name>
+                                                       <abbr>DCAT</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1 Washington Blvd, Suite 6, Robbinsville, NJ 08691</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(609) 208-1888</telephone>
+                                                       <email>info@dcat.org</email>
+                                                       <internet>dcat.org</internet>
+                                                  </address-block>
+                                                  <found-date>1890</found-date>
+                                                  <stats>494 mems (2022)</stats>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Sally</forename>
+                                                                 <surname>Macaluso</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Margaret M.</forename>
+                                                                 <surname>Timony</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

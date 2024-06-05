@@ -1,0 +1,19 @@
+<org-entryref id="SL7761673" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7761672" slsdocid="7761670" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.1634388754" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Douglas &amp; McIntyre</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>4437 Rondeview Rd, POB 219, Madeira Park, BC V0N 2H0</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 667-2988</telephone>
+                                             <email>info@douglas-mcintyre.com</email>
+                                             <internet>douglas-mcintyre.com</internet>
+                                        </address-block>
+                                        <found-date>1970</found-date>
+                                        <content-note style="NORMAL">owned by Harbour Publishing</content-note>
+                                        <content-note style="NORMAL">history, art, current affairs, indigenous subjects, literary fiction</content-note>
+                                   </org-entry>
+                              </org-entryref>

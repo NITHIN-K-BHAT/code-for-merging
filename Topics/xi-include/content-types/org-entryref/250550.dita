@@ -1,0 +1,35 @@
+<org-entryref id="SL8961267" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8961266" slsdocid="250550" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1555" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS" usage="ewyb usac">
+                                                  <data-protection date-added="13.09.2007" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>USTelecom—The Broadband Association</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>601 New Jersey Ave, NW, Suite 600, Washington, DC 20001</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 326-7300</telephone>
+                                                       <email>media@ustelecom.org</email>
+                                                       <internet>ustelecom.org</internet>
+                                                  </address-block>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Kathy</forename>
+                                                                 <surname>Grillo</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jonathan</forename>
+                                                                 <surname>Spalter</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

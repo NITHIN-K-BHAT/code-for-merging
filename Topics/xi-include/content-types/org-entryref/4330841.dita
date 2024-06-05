@@ -1,0 +1,27 @@
+<org-entryref id="SL4331000" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4330999" slsdocid="4330841" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390371399" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>The Free Lance-Star</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1340 Central Park Blvd, Fredericksburg, VA 22401</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(540) 374-5000</telephone>
+                                                       <email>newsroom@fredericksburg.com</email>
+                                                       <internet>fredericksburg.com</internet>
+                                                  </address-block>
+                                                  <found-date>1885</found-date>
+                                                  <frequency>daily</frequency>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jake</forename>
+                                                                 <surname>Womer</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

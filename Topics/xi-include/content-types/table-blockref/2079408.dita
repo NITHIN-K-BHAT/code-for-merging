@@ -1,0 +1,64 @@
+<table-blockref id="SL7946799" sllink="SLSDOCRF" sllinkid="7946798" slsdocid="2079408" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <table-block id="BL.T.3" id-root="bl.t" iso="bl" section="The Government" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" subsection="Entries" type="ELECTION">
+                                   <table-heading>Election, Territorial Council, 20 and 27 March 2022</table-heading>
+                                   <table pgwide="NO" style="WITH-RULES">
+                                        <tgroup cols="5">
+                                             <colspec colwidth="10.5cm" />
+                                             <colspec colname="COLSPEC1" colwidth="3cm" />
+                                             <colspec colname="COLSPEC2" colwidth="0.5cm" />
+                                             <colspec colname="COLSPEC0" colwidth="3cm" />
+                                             <colspec colwidth="3cm" />
+                                             <thead>
+                                                  <row>
+                                                       <entry align="left" style="NO-DOT-LEADER" />
+                                                       <entry align="right" style="NO-DOT-LEADER">% of first round votes</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER" />
+                                                       <entry align="right" style="NO-DOT-LEADER">% of second round votes</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">Seats</entry>
+                                                  </row>
+                                             </thead>
+                                             <tbody>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">Saint-Barth d’abord </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">46.2</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER" />
+                                                       <entry align="right" style="NO-DOT-LEADER">49.2</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">6</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">
+                        Saint-Barth Action-Equilibre
+                        <endnoteref idref="BL.T.3.1" ref-symbol="*" />
+                         
+                      </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">27.1</entry>
+                                                       <entry align="right" morerows="1" style="NO-DOT-LEADER">
+                                                            <rbrace height="2" />
+                                                       </entry>
+                                                       <entry align="right" morerows="1" style="NO-DOT-LEADER">50.8</entry>
+                                                       <entry align="right" morerows="1" style="NO-DOT-LEADER">13</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">
+                        Unis pour Saint-Barthélémy
+                        <endnoteref idref="BL.T.3.1" ref-symbol="*" />
+                                                       </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">26.8</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry align="left" style="DOT-LEADER">
+                                                            <b>Total</b>
+                         
+                      </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">100.0</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER" />
+                                                       <entry align="right" style="NO-DOT-LEADER">100.0</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">19</entry>
+                                                  </row>
+                                             </tbody>
+                                        </tgroup>
+                                   </table>
+                                   <endnote id="BL.T.3.1" ref-symbol="*">Contested the second round in alliance as Union-Equilibre.</endnote>
+                              </table-block>
+                         </table-blockref>

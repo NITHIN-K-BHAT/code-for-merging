@@ -1,0 +1,36 @@
+<org-entryref id="SL260794" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260793" slsdocid="249292" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1262" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Newsweek</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1 World Trade Center, Floor 72, New York, NY 10007</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(646) 867–7100</telephone>
+                                                  <email>support@newsweek.com</email>
+                                                  <internet>newsweek.com</internet>
+                                             </address-block>
+                                             <found-date>1933</found-date>
+                                             <frequency>weekly</frequency>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Dev</forename>
+                                                            <surname>Pragad</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Global Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Nancy</forename>
+                                                            <surname>Cooper</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

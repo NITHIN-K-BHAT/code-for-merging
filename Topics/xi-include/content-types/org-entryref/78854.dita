@@ -1,0 +1,25 @@
+<org-entryref id="SL3875034" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3875033" slsdocid="78854" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.707" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Red Deer Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>209 Wicksteed Ave, Unit 51, Toronto, ON M4G 0B1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 397-9776</telephone>
+                                             <email>webmaster@reddeerpress.com</email>
+                                             <internet>reddeerpress.com</internet>
+                                        </address-block>
+                                        <found-date>1975</found-date>
+                                        <content-note style="NORMAL">imprint of Fitzhenry &amp; Whiteside Ltd</content-note>
+                                        <content-note style="NORMAL">children’s literature, young adult fiction, adult fiction and non-fiction, contemporary juvenile and indigenous titles</content-note>
+                                        <role-group>
+                                             <role>Publr</role>
+                                             <person>
+                                                  <vacancy />
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

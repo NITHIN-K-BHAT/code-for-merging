@@ -1,0 +1,37 @@
+<org-entryref id="SL8923389" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8923388" slsdocid="4302131" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.USAC.27.814" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Santander Bank, NA</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>75 State St, Boston, MA 02109</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(617) 757-3410</telephone>
+                                                       <email>mediarelations@santander.us</email>
+                                                       <internet>santanderus.com</internet>
+                                                  </address-block>
+                                                  <found-date>2013</found-date>
+                                                  <content-note style="NORMAL">owned by Banco Santander (Spain)</content-note>
+                                                  <content-note style="NORMAL">brs in Connecticut, Delaware, Florida, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania and Rhode Island</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ana</forename>
+                                                                 <surname>Botín</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Timothy H.</forename>
+                                                                 <surname>Wennes</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

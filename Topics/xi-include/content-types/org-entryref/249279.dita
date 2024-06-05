@@ -1,0 +1,27 @@
+<org-entryref id="SL260936" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260935" slsdocid="249279" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.317.1" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Federal Emergency Management Agency</org-entry-name>
+                                                  <abbr>FEMA</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Federal Center Plaza, 500 C St, SW, Washington, DC 20472</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 646-2500</telephone>
+                                                  <email>fema-news-desk@fema.dhs.gov</email>
+                                                  <internet>fema.gov</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">part of Dept of Homeland Security</content-note>
+                                             <role-group>
+                                                  <role>Admin.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Deanne</forename>
+                                                            <surname>Criswell</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

@@ -1,0 +1,26 @@
+<org-entryref id="SL1742118" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1742117" slsdocid="249423" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1136" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Austin American-Statesman</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>8000 Metropolis Dr., Bldg A, Austin, TX 78744</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 445-9898</telephone>
+                                                       <email>customercare@statesman.com</email>
+                                                       <internet>statesman.com</internet>
+                                                  </address-block>
+                                                  <found-date>1871</found-date>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Manny</forename>
+                                                                 <surname>Garcia</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

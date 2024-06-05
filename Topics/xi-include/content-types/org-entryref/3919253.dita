@@ -1,0 +1,34 @@
+<org-entryref id="SL6395942" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6395941" slsdocid="3919253" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="CA.DIR.USAC.31.312" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="News Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Thomson Reuters</org-entry-name>
+                                                  <content-note style="NORMAL">Toronto</content-note>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>19 Duncan St, Toronto, ON M5H 3H1</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(416) 687-7500</telephone>
+                                                  <internet>www.thomsonreuters.ca</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>David</forename>
+                                                            <surname>Thomson</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Steve</forename>
+                                                            <surname>Hasker</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

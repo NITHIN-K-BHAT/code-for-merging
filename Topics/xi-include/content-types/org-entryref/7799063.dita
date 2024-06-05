@@ -1,0 +1,27 @@
+<org-entryref id="SL7799284" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799283" slsdocid="7799063" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637851245" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>World Book, Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>180 N LaSalle St, Suite 900, Chicago, IL 60601</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(312) 729-5800</telephone>
+                                             <fax>(888) 922-3766</fax>
+                                             <internet>international.worldbook.com</internet>
+                                        </address-block>
+                                        <found-date>1915</found-date>
+                                        <content-note style="NORMAL">reference</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Geoff</forename>
+                                                       <surname>Broderick</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

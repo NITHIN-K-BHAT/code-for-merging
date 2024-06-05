@@ -1,0 +1,29 @@
+<org-entryref id="SL1759488" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759487" slsdocid="78944" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.613" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="usac">
+                                                  <data-protection date-added="14.09.2007" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Oral Health</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>5353 Dundas St W, Suite 400, Toronto, ON M9B 6H8</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 847-8522</telephone>
+                                                       <internet>oralhealthgroup.com</internet>
+                                                  </address-block>
+                                                  <found-date>1911</found-date>
+                                                  <frequency>monthly</frequency>
+                                                  <content-note style="NORMAL">dentistry</content-note>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tanya</forename>
+                                                                 <surname>Arora</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 23,038 (June 2022)</stats>
+                                             </org-entry>
+                                        </org-entryref>

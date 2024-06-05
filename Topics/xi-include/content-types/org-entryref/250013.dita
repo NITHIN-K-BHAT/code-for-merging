@@ -1,0 +1,30 @@
+<org-entryref id="SL8925010" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8925009" slsdocid="250013" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.2112" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL RAILWAYS">
+                                                       
+                                                       <org-entry-head>
+                                                            <org-entry-name>Conrail</org-entry-name>
+                                                            <alt-name>Consolidated Rail Corpn</alt-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>330 Fellowship Rd, Suite 300, Mount Laurel, NJ 08054</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(215) 209-2000</telephone>
+                                                            <internet>conrail.com</internet>
+                                                       </address-block>
+                                                       <found-date>1976</found-date>
+                                                       <content-note style="NORMAL">58% owned by Norfolk Southern, 42% by CSX</content-note>
+                                                       <content-note style="NORMAL">operates 1,934 km of track</content-note>
+                                                       <content-note style="NORMAL">provides freight transportation services in New Jersey, Philadelphia, PA, and Detroit, MI</content-note>
+                                                       <role-group>
+                                                            <role>Pres. and COO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Brian</forename>
+                                                                      <surname>Gorton</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

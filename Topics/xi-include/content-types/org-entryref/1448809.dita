@@ -1,0 +1,21 @@
+<org-entryref id="SL3180794" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3180795" slsdocid="1448809" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1133274779" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Shape</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>225 Liberty St, New York, NY 10281</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 204-4000</telephone>
+                                                  <email>contact@shape.com</email>
+                                                  <internet>shape.com</internet>
+                                             </address-block>
+                                             <found-date>1981</found-date>
+                                             <frequency>10 a year</frequency>
+                                             <content-note style="NORMAL">female health and fitness</content-note>
+                                             <stats>circ. 2,505,198 (2021)</stats>
+                                        </org-entry>
+                                   </org-entryref>

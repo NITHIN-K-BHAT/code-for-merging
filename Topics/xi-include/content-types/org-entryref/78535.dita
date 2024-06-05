@@ -1,0 +1,39 @@
+<org-entryref id="SL8928173" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8928172" slsdocid="78535" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.1064" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INLAND WATERWAYS" usage="ewyb usac">
+                                                       
+                                                       <data-protection date-added="30.01.2008" ticked-box="Y" />
+                                                       <org-entry-head>
+                                                            <org-entry-name>St Lawrence Seaway Management Corpn</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>202 Pitt St, Cornwall, ON K6J 3P7</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(613) 932-5170</telephone>
+                                                            <email>slsmc-cgvmsl@seaway.ca</email>
+                                                            <internet>greatlakes-seaway.com</internet>
+                                                       </address-block>
+                                                       <found-date>1998</found-date>
+                                                       <content-note style="NORMAL">responsible for management of St Lawrence Seaway</content-note>
+                                                       <content-note style="NORMAL">operated jtly with USA</content-note>
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Paul A.</forename>
+                                                                      <surname>Gourdeau</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Terence F.</forename>
+                                                                      <surname>Bowles</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

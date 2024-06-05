@@ -1,0 +1,35 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8926909" sllink="SLSDOCRF" sllinkid="8926908" slsdocid="7117590" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <dir-section id="US.DIR.1590167025" id-root="us.dir" iso="us" section="Religion" sllink="SLSDOC" slsdocrf="DIR-SECTREF" subsection="Interfaith Organizations" usage="usac">
+                                   <heading>Interfaith Organizations</heading>
+                                   <org-list>
+                                        <org-entryref id="SL7117598" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7117597" slsdocid="7117595" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="US.DIR.1590167097" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Interfaith Organizations">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Interfaith Alliance</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>110 Maryland Ave, NE, Suite 509, Washington, DC 20002</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 466-0567</telephone>
+                                                       <email>info@interfaithalliance.org</email>
+                                                       <internet>interfaithalliance.org</internet>
+                                                  </address-block>
+                                                  <found-date>1994</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Rev.</title>
+                                                                 <forename>Paul Brandeis</forename>
+                                                                 <surname>Raushenbush</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                         </dir-sectref>

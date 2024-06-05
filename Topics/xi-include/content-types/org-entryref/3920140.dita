@@ -1,0 +1,28 @@
+<org-entryref id="SL3920307" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3920306" slsdocid="3920140" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1356104223" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies">
+                                                       
+                                                       <org-entry-head>
+                                                            <org-entry-name>TASS</org-entry-name>
+                                                            <content-note style="NORMAL">Washington, DC</content-note>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>National Press Bldg, Suite 1004, 592 14th St, Washington, DC 20045</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(202) 662-7080</telephone>
+                                                            <fax>(202) 393-6495</fax>
+                                                            <email>washtass@aol.com</email>
+                                                            <internet>tass.ru</internet>
+                                                       </address-block>
+                                                       <role-group>
+                                                            <role>Bureau Chief</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Andrei</forename>
+                                                                      <surname>Sitov</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

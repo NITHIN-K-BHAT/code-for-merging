@@ -1,0 +1,391 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6880520" sllink="SLSDOCRF" sllinkid="6880519" slsdocid="6880445" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                         
+                         <dir-section id="US.DIR.0001" id-root="us.dir" iso="us" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                              <heading>The Federal Cabinet</heading>
+                              <heading-note>May 2024</heading-note>
+                              <dir-list>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7750759" sllink="SLSDOCRF" sllinkid="7750758" slsdocid="248985" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="US.DIR.247" id-root="us.dir" iso="us" section="The Executive" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="THE CABINET">
+                                             <dir-entry-name>Vice President</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Kamala</forename>
+                                                            <surname>Harris</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6880448" sllink="SLSDOCRF" sllinkid="6880447" slsdocid="1105619" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="US.DIR.1101987053" id-root="us.dir" iso="us" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                             <dir-entry-name>Secretary of State</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Antony</forename>
+                                                            <surname>Blinken</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6880451" sllink="SLSDOCRF" sllinkid="6880450" slsdocid="248946" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="US.DIR.233" id-root="us.dir" iso="us" section="The Executive" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="THE CABINET">
+                                             
+                                             <dir-entry-name>Secretary of the Treasury</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Janet</forename>
+                                                            <surname>Yellen</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6880454" sllink="SLSDOCRF" sllinkid="6880453" slsdocid="248945" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="US.DIR.234" id-root="us.dir" iso="us" section="The Executive" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="THE CABINET">
+                                             <dir-entry-name>Secretary of Defense</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Lloyd J.</forename>
+                                                            <surname>Austin</surname>
+                                                            <gen-name>III</gen-name>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6880458" sllink="SLSDOCRF" sllinkid="6880457" slsdocid="1106093" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="US.DIR.1101994242" id-root="us.dir" iso="us" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                             <dir-entry-name>Attorney General</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Merrick</forename>
+                                                            <surname>Garland</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6880461" sllink="SLSDOCRF" sllinkid="6880460" slsdocid="248995" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="US.DIR.236" id-root="us.dir" iso="us" section="The Executive" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="THE CABINET">
+                                             <dir-entry-name>Secretary of the Interior</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Deb</forename>
+                                                            <surname>Haaland</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6880464" sllink="SLSDOCRF" sllinkid="6880463" slsdocid="1106050" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="US.DIR.237-1" id-root="us.dir" iso="us" section="The Executive" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="THE CABINET">
+                                             <dir-entry-name>Secretary of Agriculture</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Tom</forename>
+                                                            <surname>Vilsack</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6880467" sllink="SLSDOCRF" sllinkid="6880466" slsdocid="1106068" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="US.DIR.1101994077" id-root="us.dir" iso="us" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                             <dir-entry-name>Secretary of Commerce</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Gina</forename>
+                                                            <surname>Raimondo</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6880470" sllink="SLSDOCRF" sllinkid="6880469" slsdocid="248992" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="US.DIR.239" id-root="us.dir" iso="us" section="The Executive" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="THE CABINET">
+                                             <dir-entry-name>Secretary of Labor</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Julie A.</forename>
+                                                            <surname>Su</surname>
+                                                       </person-name>
+                                                       <person-note>acting</person-note>
+                                                  </person>
+                                                  
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6880473" sllink="SLSDOCRF" sllinkid="6880472" slsdocid="1118371" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="US.DIR.1105461239" id-root="us.dir" iso="us" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                             <dir-entry-name>Secretary of Health and Human Services</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Xavier</forename>
+                                                            <surname>Becerra</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6880476" sllink="SLSDOCRF" sllinkid="6880475" slsdocid="248990" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="US.DIR.241" id-root="us.dir" iso="us" section="The Executive" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="THE CABINET">
+                                             <dir-entry-name>Secretary of Housing and Urban Development</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Adrianne</forename>
+                                                            <surname>Todman</surname>
+                                                       </person-name>
+                                                       <person-note>acting</person-note>
+                                                  </person>
+                                             </person-group>
+                                             
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6880479" sllink="SLSDOCRF" sllinkid="6880478" slsdocid="248989" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="US.DIR.242" id-root="us.dir" iso="us" section="The Executive" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="THE CABINET">
+                                             <dir-entry-name>Secretary of Transportation</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Pete</forename>
+                                                            <surname>Buttigieg</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6880482" sllink="SLSDOCRF" sllinkid="6880481" slsdocid="1118387" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="US.DIR.1105461584" id-root="us.dir" iso="us" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                             <dir-entry-name>Secretary of Energy</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jennifer M.</forename>
+                                                            <surname>Granholm</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6880485" sllink="SLSDOCRF" sllinkid="6880484" slsdocid="1106106" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="US.DIR.1101994426" id-root="us.dir" iso="us" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                             <dir-entry-name>Secretary of Education</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Miguel</forename>
+                                                            <surname>Cardona</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6880488" sllink="SLSDOCRF" sllinkid="6880487" slsdocid="1118392" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="US.DIR.1105461829" id-root="us.dir" iso="us" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                             <dir-entry-name>Secretary of Veterans Affairs</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Denis</forename>
+                                                            <surname>McDonough</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6880491" sllink="SLSDOCRF" sllinkid="6880490" slsdocid="1106919" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="US.DIR.1102067938" id-root="us.dir" iso="us" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                             <dir-entry-name>Secretary of Homeland Security</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Alejandro N.</forename>
+                                                            <surname>Mayorkas</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>
+                              </dir-list>
+                              <dir-section id="US.DIR.15747017641" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                                   <heading>Officials with Cabinet Rank</heading>
+                                   <dir-list>
+                                        <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6880497" sllink="SLSDOCRF" sllinkid="6880496" slsdocid="248983" slsdocty="dir-entry dir-entrydtd">
+                                             
+                                             <dir-entry id="US.DIR.249" id-root="us.dir" iso="us" section="The Executive" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="THE CABINET">
+                                                  <dir-entry-name>White House Chief of Staff</dir-entry-name>
+                                                  <person-group>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jeff</forename>
+                                                                 <surname>Zients</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </person-group>
+                                             </dir-entry>
+                                        </dir-entryref>
+                                        <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7395131" sllink="SLSDOCRF" sllinkid="7395130" slsdocid="248981" slsdocty="dir-entry dir-entrydtd">
+                                             
+                                             <dir-entry id="US.DIR.251" id-root="us.dir" iso="us" section="The Executive" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="THE CABINET">
+                                                  <dir-entry-name>Administrator of the Environmental Protection Agency</dir-entry-name>
+                                                  <person-group>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Michael S.</forename>
+                                                                 <surname>Regan</surname>
+                                                            </person-name>
+                                                       </person>
+                                                       
+                                                  </person-group>
+                                             </dir-entry>
+                                        </dir-entryref>
+                                        <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7033587" sllink="SLSDOCRF" sllinkid="7033586" slsdocid="7033580" slsdocty="dir-entry dir-entrydtd">
+                                             
+                                             <dir-entry id="US.DIR.1585725112" id-root="us.dir" iso="us" section="The Executive" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="THE CABINET">
+                                                  
+                                                  <dir-entry-name>Director of the Office of Management and Budget</dir-entry-name>
+                                                  <person-group>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Shalanda</forename>
+                                                                 <surname>Young</surname>
+                                                            </person-name>
+                                                       </person>
+                                                       
+                                                  </person-group>
+                                             </dir-entry>
+                                        </dir-entryref>
+                                        <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7395120" sllink="SLSDOCRF" sllinkid="7395119" slsdocid="1252037" slsdocty="dir-entry dir-entrydtd">
+                                             
+                                             <dir-entry id="US.DIR.1114449093" id-root="us.dir" iso="us" section="The Executive" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="The Cabinet">
+                                                  <dir-entry-name>Director of National Intelligence</dir-entry-name>
+                                                  <person-group>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Avril</forename>
+                                                                 <surname>Haines</surname>
+                                                            </person-name>
+                                                       </person>
+                                                       
+                                                  </person-group>
+                                             </dir-entry>
+                                        </dir-entryref>
+                                        <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6880504" sllink="SLSDOCRF" sllinkid="6880503" slsdocid="248982" slsdocty="dir-entry dir-entrydtd">
+                                             
+                                             <dir-entry id="US.DIR.250" id-root="us.dir" iso="us" section="The Executive" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="THE CABINET">
+                                                  <dir-entry-name>US Trade Representative</dir-entry-name>
+                                                  <person-group>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Katherine</forename>
+                                                                 <surname>Tai</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </person-group>
+                                             </dir-entry>
+                                        </dir-entryref>
+                                        <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6880510" sllink="SLSDOCRF" sllinkid="6880509" slsdocid="248947" slsdocty="dir-entry dir-entrydtd">
+                                             
+                                             <dir-entry id="US.DIR.232" id-root="us.dir" iso="us" section="The Executive" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="THE CABINET">
+                                                  <dir-entry-name>US Ambassador to the United Nations</dir-entry-name>
+                                                  <person-group>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Linda</forename>
+                                                                 <surname>Thomas-Greenfield</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </person-group>
+                                             </dir-entry>
+                                        </dir-entryref>
+                                        <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7395195" sllink="SLSDOCRF" sllinkid="7395194" slsdocid="2543332" slsdocty="dir-entry dir-entrydtd">
+                                             
+                                             <dir-entry id="US.DIR.1233839421" id-root="us.dir" iso="us" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                                  <dir-entry-name>Chair of the Council of Economic Advisers</dir-entry-name>
+                                                  <person-group>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jared</forename>
+                                                                 <surname>Bernstein</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </person-group>
+                                                  
+                                             </dir-entry>
+                                        </dir-entryref>
+                                        <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6880514" sllink="SLSDOCRF" sllinkid="6880513" slsdocid="248980" slsdocty="dir-entry dir-entrydtd">
+                                             
+                                             <dir-entry id="US.DIR.252" id-root="us.dir" iso="us" section="The Executive" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="THE CABINET">
+                                                  <dir-entry-name>Administrator of the Small Business Administration</dir-entry-name>
+                                                  <person-group>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Isabel</forename>
+                                                                 <surname>Guzman</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </person-group>
+                                             </dir-entry>
+                                        </dir-entryref>
+                                        <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7395202" sllink="SLSDOCRF" sllinkid="7395201" slsdocid="7395199" slsdocty="dir-entry dir-entrydtd">
+                                             
+                                             <dir-entry id="US.DIR.1611850776" id-root="us.dir" iso="us" section="Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Executive Office of the President">
+                                                  
+                                                  <dir-entry-name>Director of the Office of Science and Technology Policy</dir-entry-name>
+                                                  <person-group>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Arati</forename>
+                                                                 <surname>Prabhakar</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </person-group>
+                                             </dir-entry>
+                                        </dir-entryref>
+                                        <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8629306" sllink="SLSDOCRF" sllinkid="8629305" slsdocid="5966619" slsdocty="dir-entry dir-entrydtd">
+                                             
+                                             <dir-entry id="US.DIR.1510323098" id-root="us.dir" iso="us" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                                  <dir-entry-name>Director of the Central Intelligence Agency</dir-entry-name>
+                                                  <person-group>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>William</forename>
+                                                                 <surname>Burns</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </person-group>
+                                                  
+                                             </dir-entry>
+                                        </dir-entryref>
+                                   </dir-list>
+                              </dir-section>
+                         </dir-section>
+                    </dir-sectref>

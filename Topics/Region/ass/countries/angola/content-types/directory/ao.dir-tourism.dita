@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL89968" sllink="SLSDOCRF" sllinkid="89967" slsdocid="73696" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="AO.DIR.360" id-root="ao.dir" iso="ao" sect-type="tourism" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                    <heading>Tourism</heading>
+                    <org-list>
+                         <org-entryref id="SL6054719" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6054718" slsdocid="73791" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="AO.DIR.361" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Tourism" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--VD 10.06.2019 domain is for another website-->
+                                   <org-entry-head>
+                                        <org-entry-name>Instituto de Fomento Turístico</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Rua do MAT, Complexo Administrativo Clássicos, Luanda</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">226431391</telephone>
+                                        <email>instituto.fomento.turistico@hotmail.com</email>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Dir-Gen.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Simão Manuel</forename>
+                                                  <surname>Pedro</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

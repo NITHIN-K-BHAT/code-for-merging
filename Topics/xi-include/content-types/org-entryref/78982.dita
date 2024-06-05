@@ -1,0 +1,40 @@
+<org-entryref id="SL1759306" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759305" slsdocid="78982" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.574" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Kivalliq News</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>c/o POB 2820, Yellowknife, NT X1A 2R1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(867) 645-3223</telephone>
+                                                       <fax>(867) 645-3225</fax>
+                                                       <email>kivalliqnews@nnsl.com</email>
+                                                       <internet>nnsl.com/kivalliq-news</internet>
+                                                  </address-block>
+                                                  <found-date>1994</found-date>
+                                                  <frequency>weekly</frequency>
+                                                  
+                                                  <content-note style="NORMAL">owned by Northern News Services</content-note>
+                                                  <content-note style="NORMAL">English and Inuktitut</content-note>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mike W.</forename>
+                                                                 <surname>Bryant</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Stewart</forename>
+                                                                 <surname>Burnett</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

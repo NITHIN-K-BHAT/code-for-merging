@@ -1,0 +1,35 @@
+<org-entryref id="SL8362774" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8362773" slsdocid="78512" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.161" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PROVINCIAL AND TERRITORIAL PARTIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Yukon Party</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>POB 31113, Whitehorse, YT Y1A 5P7</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(867) 668-6505</telephone>
+                                             <email>info@yukonparty.ca</email>
+                                             <internet>www.yukonparty.ca</internet>
+                                        </address-block>
+                                        <found-date>1991 as successor to Yukon Progressive Conservative Party</found-date>
+                                        <role-group>
+                                             <role>Leader</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Currie</forename>
+                                                       <surname>Dixon</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Melanie</forename>
+                                                       <surname>Brais</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

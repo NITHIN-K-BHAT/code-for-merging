@@ -1,0 +1,29 @@
+<org-entryref id="SL6903839" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6903838" slsdocid="249559" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.971" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Savannah Morning News</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1375 Chatham Pkwy, Savannah, GA 31405</verbatim-address>
+                                                       </address>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>POB 1088, Savannah, GA 31402</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(912) 236-9511</telephone>
+                                                       <internet>savannahnow.com</internet>
+                                                  </address-block>
+                                                  <found-date>1850</found-date>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jill</forename>
+                                                                 <surname>Nevels-Haun</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 36,730 (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,18 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8097791" sllink="SLSDOCRF" sllinkid="8097790" slsdocid="78395" slsdocty="dir-entry dir-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <dir-entry id="CA.DIR.87" id-root="ca.dir" iso="ca" section="Federal Legislature" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="HOUSE OF COMMONS">
+                                        <dir-entry-name>Speaker</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Greg</forename>
+                                                       <surname>Fergus</surname>
+                                                  </person-name>
+                                                  <person-note>Lib.</person-note>
+                                             </person>
+                                             
+                                             
+                                             
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>

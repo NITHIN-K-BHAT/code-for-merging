@@ -1,0 +1,41 @@
+<org-entryref id="SL4329922" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4329921" slsdocid="4329603" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390300927" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Lima News</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>
+                          205 W Market St, Suite 100
+                          <sc>a</sc>
+                          , Lima, OH 45801
+                        </verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(419) 223-1010</telephone>
+                                                       <fax>(419) 229-2926</fax>
+                                                       <email>info@limanews.com</email>
+                                                       <internet>limaohio.com</internet>
+                                                  </address-block>
+                                                  <found-date>1884</found-date>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>Gen. Man.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Todd</forename>
+                                                                 <surname>Benz</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Craig</forename>
+                                                                 <surname>Kelly</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,38 @@
+<org-entryref id="SL262434" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262433" slsdocid="250115" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2014" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="UTILITIES">
+                                                  <data-protection date-added="13.09.2007" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Rural Electric Co-operative Association</org-entry-name>
+                                                       <abbr>NRECA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>4301 Wilson Blvd, Suite 933, Arlington, VA 22203</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(703) 907-5500</telephone>
+                                                       <email>contactcenter@nreca.coop</email>
+                                                       <internet>electric.coop</internet>
+                                                  </address-block>
+                                                  <found-date>1942</found-date>
+                                                  <content-note style="NORMAL">apex org. for over 900 independent rural electric co-operatives systems, public utility districts and public power districts in 46 states</content-note>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tony</forename>
+                                                                 <surname>Anderson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jim</forename>
+                                                                 <surname>Matheson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

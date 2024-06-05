@@ -1,0 +1,38 @@
+<org-entryref id="SL7060789" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7060788" slsdocid="1415521" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1128436420" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Employers Organizations">
+                                                  <org-entry-head>
+                                                       <org-entry-name>CompTIA</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>3500 Lacey Rd, Suite 100, Downers Grove, IL 60515</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(630) 678-8300</telephone>
+                                                       <fax>(630) 678-8384</fax>
+                                                       <email>social-b2c@comptia.org</email>
+                                                       <internet>comptia.org</internet>
+                                                  </address-block>
+                                                  <found-date>1982</found-date>
+                                                  <content-note style="NORMAL">present name adopted 1990</content-note>
+                                                  <stats>over 200 mems in ICT sector (2023)</stats>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tracy</forename>
+                                                                 <surname>Pound</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Todd</forename>
+                                                                 <surname>Thibodeaux</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

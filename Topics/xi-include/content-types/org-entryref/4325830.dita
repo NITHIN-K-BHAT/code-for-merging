@@ -1,0 +1,41 @@
+<org-entryref id="SL4325909" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4325908" slsdocid="4325830" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389949827" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>La Opinión</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>915 Wilshire Blvd, Suite 800, Los Angeles, CA 90017</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(213) 622-8332</telephone>
+                                                       <fax>(213) 896-2144</fax>
+                                                       <email>redaccion@impremedia.com</email>
+                                                       <internet>laopinion.com</internet>
+                                                  </address-block>
+                                                  <found-date>1926</found-date>
+                                                  <content-note style="NORMAL">owned by ImpreMedia LLC</content-note>
+                                                  <frequency>morning</frequency>
+                                                  <content-note style="NORMAL">Spanish</content-note>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Monica C.</forename>
+                                                                 <surname>Lozano</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Armando</forename>
+                                                                 <surname>Varela</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 34,000</stats>
+                                             </org-entry>
+                                        </org-entryref>

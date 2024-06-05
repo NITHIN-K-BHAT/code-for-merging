@@ -1,0 +1,26 @@
+<org-entryref id="SL262560" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262559" slsdocid="250214" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1903" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Dairy Council</org-entry-name>
+                                                       <abbr>NDC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>10255 W Higgins Rd, Suite 900, Rosemont, IL 60018-5616</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(847) 803-2000</telephone>
+                                                       <internet>www.usdairy.com/about-us/national-dairy-council</internet>
+                                                  </address-block>
+                                                  <found-date>1915</found-date>
+                                                  <role-group>
+                                                       <role>Exec. Vice Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Katie</forename>
+                                                                 <surname>Brown</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

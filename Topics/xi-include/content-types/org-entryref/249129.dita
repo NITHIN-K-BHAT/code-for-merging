@@ -1,0 +1,28 @@
+<org-entryref id="SL1745003" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745002" slsdocid="249129" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1412" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>HarperCollins Publishers</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>195 Bdwy, New York, NY 10007</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 207-7000</telephone>
+                                             <internet>harpercollins.com</internet>
+                                        </address-block>
+                                        <found-date>1817</found-date>
+                                        <content-note style="NORMAL">subsidiary of News Corp</content-note>
+                                        <content-note style="NORMAL">imprints incl. Amistad, Avon, Bourbon Street Books, Broadside Books, Dey Street, Ecco Books, Harper Books, Harper Business, Harper Design, Harper Luxe, Harper Voyager, Harper Wave, HarperAudio, HarperCollins 360, HarperElixir, HarperOne, William Morrow, Witness</content-note>
+                                        <content-note style="NORMAL">fiction, non-fiction, religious, children’s, medical, general</content-note>
+                                        <role-group>
+                                             <role>Pres. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Brian</forename>
+                                                       <surname>Murray</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

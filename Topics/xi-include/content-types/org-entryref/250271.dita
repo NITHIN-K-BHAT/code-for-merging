@@ -1,0 +1,39 @@
+<org-entryref id="SL7530011" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7530010" slsdocid="250271" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1847" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <data-protection date-added="14.03.2006" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Household and Commercial Products Association</org-entry-name>
+                                                       <abbr>HCPA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1625 Eye St, NW, Suite 300, Washington, DC 20006</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 872-8110</telephone>
+                                                       <email>info@thehcpa.org</email>
+                                                       <internet>thehcpa.org</internet>
+                                                  </address-block>
+                                                  <found-date>1914</found-date>
+                                                  <content-note style="NORMAL">present name since 2018</content-note>
+                                                  <stats>220 mems (2022)</stats>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Rebecca</forename>
+                                                                 <surname>Korwin</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Steve</forename>
+                                                                 <surname>Caldeira</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

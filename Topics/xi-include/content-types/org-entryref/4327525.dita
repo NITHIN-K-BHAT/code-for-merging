@@ -1,0 +1,29 @@
+<org-entryref id="SL4327570" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4327569" slsdocid="4327525" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390193222" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <data-protection date-added="05.08.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Chicago Defender</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>4445 S Martin Luther King Jr Dr., Chicago, IL 60653</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(312) 225-2400</telephone>
+                                                       <fax>(312) 225-9231</fax>
+                                                       <email>editorial@chicagodefender.com</email>
+                                                       <internet>chicagodefender.com</internet>
+                                                  </address-block>
+                                                  <found-date>1906</found-date>
+                                                  <frequency>online only since 2019</frequency>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Dyanna</forename>
+                                                                 <surname>Knight Lewis</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

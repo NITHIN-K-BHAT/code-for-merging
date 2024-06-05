@@ -1,0 +1,37 @@
+<org-entryref id="SL4327604" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4327603" slsdocid="4327530" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390194730" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>News-Gazette</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2101 Fox Dr., Champaign, IL 61820</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(217) 351-5252</telephone>
+                                                       <email>news@news-gazette.com</email>
+                                                       <internet>news-gazette.com</internet>
+                                                  </address-block>
+                                                  <found-date>1852</found-date>
+                                                  <frequency>Mon. to Fri. evening, Sat. and Sun. morning</frequency>
+                                                  <role-group>
+                                                       <role>Exec. Vice-Pres. and Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Paul</forename>
+                                                                 <surname>Barrett</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jeff</forename>
+                                                                 <surname>D’Alessio</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 50,000 (2022)</stats>
+                                             </org-entry>
+                                        </org-entryref>

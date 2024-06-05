@@ -1,0 +1,28 @@
+<org-entryref id="SL262562" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262561" slsdocid="250212" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1904" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Farmers</org-entry-name>
+                                                       <abbr>NFO</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>528 Billy Sunday Rd, Suite 100, POB 2508, Ames, IA 50010</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 247-2110</telephone>
+                                                       <fax>(866) 629–3976</fax>
+                                                       <email>nfo@nfo.org</email>
+                                                       <internet>nationalfarmers.com</internet>
+                                                  </address-block>
+                                                  <found-date>1955</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Paul</forename>
+                                                                 <surname>Olson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

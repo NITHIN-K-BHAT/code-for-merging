@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<directory id="AO.DIR" id-root="ao" iso="ao" name-markup-type="HISPANIC" original-filename="agodir1.rtf" print-style="PGWIDTH" usage="ewyb ass" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <dir-section id="AO.DIR.1" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+          <heading>Directory</heading>
+          <alt-heading type="SECTION-LONG-UPPERCASE" usage="ewyb ass">Angola</alt-heading>
+          <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="ewyb ass">Directory</alt-heading>
+          <dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL89942" sllink="SLSDOCRF" sllinkid="89941" slsdocid="73698" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="AO.DIR.2" id-root="ao.dir" iso="ao" sect-type="constitution" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ass">
+                    <heading>The Constitution</heading>
+                    <p id="AO.DIR.3">The main provisions of the Constitution promulgated on 5 February 2010 are summarized below:</p>
+                    <dir-section id="AO.DIR.4" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>Basic Principles</heading>
+                         <p id="AO.DIR.5">The Republic of Angola shall be a sovereign and independent state whose prime objective shall be to build a free and democratic society of peace, justice and social progress. It shall be a democratic state based on the rule of law, founded on national unity, the dignity of human beings, pluralism of expression and political organization, respecting and guaranteeing the basic rights and freedoms of persons, whether as individuals or as members of organized social groups. Sovereignty shall be vested in the people, which shall exercise political power through periodic universal suffrage.</p>
+                         <p id="AO.DIR.6">The Republic of Angola shall be a unitary and indivisible state. Economic, social and cultural solidarity shall be promoted between all the Republic’s regions for the common development of the entire nation and the elimination of regionalism and tribalism.</p>
+                         <dir-section id="AO.DIR.7" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                              <heading>Religion</heading>
+                              <p id="AO.DIR.8">The Republic shall be a secular state and there shall be complete separation of the state and religious institutions. All religions shall be respected.</p>
+                         </dir-section>
+                         <dir-section id="AO.DIR.9" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                              <heading>The Economy</heading>
+                              <p id="AO.DIR.10">The economic system shall be based on the coexistence of diverse forms of property—public, private, mixed, co-operative and family—and all shall enjoy equal protection. The state shall protect foreign investment and foreign property, in accordance with the law. The fiscal system shall aim to satisfy the economic, social and administrative needs of the state and to ensure a fair distribution of income and wealth. Taxes may be created and abolished only by law, which shall determine applicability, rates, tax benefits and guarantees for taxpayers.</p>
+                         </dir-section>
+                         <dir-section id="AO.DIR.11" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                              <heading>Education</heading>
+                              <p id="AO.DIR.12">The Republic shall vigorously combat illiteracy and obscurantism and shall promote the development of education and of a true national culture.</p>
+                         </dir-section>
+                    </dir-section>
+                    <dir-section id="AO.DIR.13" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>Fundamental Rights and Duties</heading>
+                         <p id="AO.DIR.14">The state shall respect and protect the human person and human dignity. All citizens shall be equal before the law. They shall be subject to the same duties, without any distinction based on colour, race, ethnic group, sex, place of birth, religion, level of education, or economic or social status.</p>
+                         <p id="AO.DIR.15">All citizens aged 18 years and over, other than those legally deprived of political and civil rights, shall have the right and duty to take an active part in public life, to vote and be elected to any state organ, and to discharge their mandates with full dedication to the cause of the Angolan nation. The law shall establish limitations in respect of non-political allegiance of soldiers on active service, judges and police forces, as well as the electoral in­capa­city of soldiers on active service and police forces.</p>
+                         <p id="AO.DIR.16">Freedom of expression, of assembly, of demonstration, of associ­ation and of all other forms of expression shall be guaranteed. Groupings whose aims or activities are contrary to the constitutional order and penal laws, or that, even indirectly, pursue political objectives through organizations of a military, paramilitary or mili­tarized nature shall be forbidden. Every citizen has the right to a defence if accused of a crime. Individual freedoms are guaranteed. Freedom of conscience and belief shall be inviolable. Work shall be the right and duty of all citizens. The state shall promote measures necessary to ensure the right of citizens to medical and health care, as well as assistance in childhood, motherhood, disability, old age, etc. It shall also promote access to education, culture and sports for all citizens.</p>
+                    </dir-section>
+                    <dir-section id="AO.DIR.17" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>State Organs</heading>
+                         <dir-section id="AO.DIR.18" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                              <heading>President of the Republic</heading>
+                              <p id="AO.DIR.19">The President of the Republic shall be the Head of State, Head of Government and Commander-in-Chief of the Angolan armed forces. The leader of the political party, or coalition of political parties, obtaining a majority vote in the general elections shall be named President of the Republic and shall be assisted by a Vice-President; the position of Vice-President shall be filled by the deputy leader of the ruling party. The President may serve a maximum of two five-year terms. The President of the Republic shall have the following powers:</p>
+                              <gen-list>
+                                   <item>to appoint and dismiss Ministers and other government officials determined by law</item>
+                                   <item>to appoint the judges of the Supreme Court</item>
+                                   <item>to preside over the Council of Ministers</item>
+                                   <item>to declare war and make peace, following authorization by the National Assembly</item>
+                                   <item>to sign, promulgate and publish the laws of the National Assembly, government decrees and statutory decrees</item>
+                                   <item>to preside over the National Defence Council</item>
+                                   <item>to decree a state of siege or state of emergency</item>
+                                   <item>to announce the holding of general elections</item>
+                                   <item>to issue pardons and commute sentences</item>
+                                   <item>to perform all other duties provided for in the Constitution.</item>
+                              </gen-list>
+                         </dir-section>
+                         <dir-section id="AO.DIR.20" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                              <heading>National Assembly</heading>
+                              <p id="AO.DIR.21">The National Assembly is the supreme state legislative body, to which the Government is responsible. The Assembly shall be composed of 220 deputies, elected for a term of five years. The Assembly shall convene in ordinary session twice yearly and in special session on the initiative of the President of the Assembly, the Standing Commission of the Assembly or of no less than one-third of its deputies. The Standing Commission shall be the organ of the Assembly that represents and assumes its powers between sessions.</p>
+                         </dir-section>
+                         <dir-section id="AO.DIR.22" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                              <heading>Government</heading>
+                              <p id="AO.DIR.23">The Government shall comprise the President of the Republic, the ministers and the secretaries of state, and other members whom the law shall indicate, and shall have the following functions:</p>
+                              <gen-list>
+                                   <item>to organize and direct the implementation of state domestic and foreign policy, in accordance with the decision of the National Assembly and its Standing Commission</item>
+                                   <item>to ensure national defence, the maintenance of internal order and security, and the protection of the rights of citizens</item>
+                                   <item>to prepare the draft National Plan and General State Budget for approval by the National Assembly, and to organize, direct and control their execution</item>
+                              </gen-list>
+                              <p id="AO.DIR.24">The Council of Ministers shall be answerable to the National Assembly. In the exercise of its powers, the Council of Ministers shall issue decrees and resolutions.</p>
+                         </dir-section>
+                         <dir-section id="AO.DIR.25" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                              <heading>Judiciary</heading>
+                              <p id="AO.DIR.26">The organization, composition and competence of the courts shall be established by law. Judges shall be independent in the discharge of their functions.</p>
+                         </dir-section>
+                         <!--Local State Organs The organs of state power at provincial level shall be the Provincial Assemblies and their executive bodies. The Provincial Assemblies shall work in close co-operation with social organizations and rely on the initiative and broad participation of citizens. The Provincial Assemblies shall elect commissions of deputies to perform per&#173;manent or specific tasks. The executive organs of Provincial Assem&#173;blies shall be the Provincial Governments, which shall be led by the Provincial Governors. The Provincial Governors shall be answerable to the President of the Republic, the Council of Ministers and the Provincial Assemblies.-->
+                         <dir-section id="AO.DIR.29" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                              <heading>National Defence</heading>
+                              <p id="AO.DIR.30">The state shall ensure national defence. The National Defence Council shall be presided over by the President of the Republic, and its composition shall be determined by law. The Angolan armed forces, as a state institution, shall be permanent, regular and non-partisan. Defence of the country shall be the right and the highest indeclinable duty of every citizen. Military service shall be compulsory. The forms in which it is fulfilled shall be defined by the law.</p>
+                         </dir-section>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          </dir-section>
+     </directory>

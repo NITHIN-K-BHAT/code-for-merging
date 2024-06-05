@@ -1,0 +1,28 @@
+<org-entryref id="SL262488" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262487" slsdocid="250253" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1864" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Tile Council of North America, Inc</org-entry-name>
+                                                       <abbr>TCNA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>100 Clemson Research Blvd, Anderson, SC 29625</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(864) 646-8453</telephone>
+                                                       <fax>(864) 646-2821</fax>
+                                                       <internet>tcnatile.com</internet>
+                                                  </address-block>
+                                                  <found-date>1945 as Tile Council of America</found-date>
+                                                  <content-note style="NORMAL">present name since 2005</content-note>
+                                                  <role-group>
+                                                       <role>Exec. Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Eric</forename>
+                                                                 <surname>Astrachan</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

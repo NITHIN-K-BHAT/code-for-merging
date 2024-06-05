@@ -1,0 +1,272 @@
+<org-entryref id="SL3925193" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3925192" slsdocid="3924902" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1357281758.17" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Road Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Trucking Alliance</org-entry-name>
+                                                       <abbr>CTA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>555 Dixon Rd, Toronto, ON M9W 1H8</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 249-7401</telephone>
+                                                       <fax>(866) 713-4188</fax>
+                                                       <internet>cantruck.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1937</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Greg</forename>
+                                                                 <surname>Munden</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Stephen</forename>
+                                                                 <surname>Laskowski</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>4,500 mems (2023)</stats>
+                                                  <org-list>
+                                                       <org-entryref id="SL3925109.18" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3925108" slsdocid="3924903" slsdocty="org-entry org-entrydtd">
+                                                            
+                                                            <org-entry id="CA.DIR.USAC.17.15.19" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Road Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES" usage="usac">
+                                                                 <org-entry-head>
+                                                                      <org-entry-name>Alberta Motor Transport Association</org-entry-name>
+                                                                      <abbr>AMTA</abbr>
+                                                                 </org-entry-head>
+                                                                 <address-block>
+                                                                      <address type="POSTAL">
+                                                                           <verbatim-address>285005 Wrangler Way, Rocky View, AB T1X 0K3</verbatim-address>
+                                                                      </address>
+                                                                      <telephone alsofax="N">(800) 267-1003</telephone>
+                                                                      <email>info@amta.ca</email>
+                                                                      <internet>amta.ca</internet>
+                                                                 </address-block>
+                                                                 <role-group>
+                                                                      <role>Chair.</role>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Doug</forename>
+                                                                                <surname>Paisley</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </role-group>
+                                                                 <role-group>
+                                                                      <role>Pres.</role>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Jason</forename>
+                                                                                <surname>Bakalech</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </role-group>
+                                                            </org-entry>
+                                                       </org-entryref>
+                                                       <org-entryref id="SL3925117.20" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3925116" slsdocid="3924904" slsdocty="org-entry org-entrydtd">
+                                                            
+                                                            <org-entry id="CA.DIR.USAC.17.16.21" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Road Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES" usage="usac">
+                                                                 <org-entry-head>
+                                                                      <org-entry-name>Association du Camionnage du Québec, Inc</org-entry-name>
+                                                                 </org-entry-head>
+                                                                 <address-block>
+                                                                      <address type="POSTAL">
+                                                                           <verbatim-address>6450 rue Notre-Dame ouest, bureau 200, Montréal, QC H4C 1V4</verbatim-address>
+                                                                      </address>
+                                                                      <telephone alsofax="N">(514) 932-0377</telephone>
+                                                                      <fax>(514) 932-1358</fax>
+                                                                      <email>info@carrefour-acq.org</email>
+                                                                      <internet>carrefour-acq.org</internet>
+                                                                 </address-block>
+                                                                 <found-date>1951</found-date>
+                                                                 <role-group>
+                                                                      <role>Pres. and Dir-Gen.</role>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Marc</forename>
+                                                                                <surname>Cadieux</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </role-group>
+                                                                 <stats>over 500 mem. cos (2023)</stats>
+                                                            </org-entry>
+                                                       </org-entryref>
+                                                       <org-entryref id="SL3925129.22" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3925128" slsdocid="3924905" slsdocty="org-entry org-entrydtd">
+                                                            
+                                                            <org-entry id="CA.DIR.USAC.17.17.23" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Road Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES" usage="usac">
+                                                                 <org-entry-head>
+                                                                      <org-entry-name>Atlantic Provinces Trucking Association</org-entry-name>
+                                                                      <abbr>APTA</abbr>
+                                                                 </org-entry-head>
+                                                                 <address-block>
+                                                                      <address type="POSTAL">
+                                                                           <verbatim-address>105 Englehart St, Suite 800, Dieppe, NB E1A 8K2</verbatim-address>
+                                                                      </address>
+                                                                      <telephone alsofax="N">(866) 866-1679</telephone>
+                                                                      <email>apta@apta.ca</email>
+                                                                      <internet>apta.ca</internet>
+                                                                 </address-block>
+                                                                 <found-date>1956</found-date>
+                                                                 <role-group>
+                                                                      <role>Exec. Dir</role>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Chris</forename>
+                                                                                <surname>Mckee</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </role-group>
+                                                                 <stats>over 320 mems (2023)</stats>
+                                                            </org-entry>
+                                                       </org-entryref>
+                                                       <org-entryref id="SL3925140.24" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3925139" slsdocid="3924907" slsdocty="org-entry org-entrydtd">
+                                                            
+                                                            <org-entry id="CA.DIR.USAC.17.18.25" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Road Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES" usage="usac">
+                                                                 <org-entry-head>
+                                                                      <org-entry-name>British Columbia Trucking Association</org-entry-name>
+                                                                      <abbr>BCTA</abbr>
+                                                                 </org-entry-head>
+                                                                 <address-block>
+                                                                      <address type="POSTAL">
+                                                                           <verbatim-address>
+                                20111, 93
+                                <sc>a</sc>
+                                 Ave, Suite 100, Langley, BC V1M 4A9
+                              </verbatim-address>
+                                                                      </address>
+                                                                      <telephone alsofax="N">(604) 888-5319</telephone>
+                                                                      <email>bcta@bctrucking.com</email>
+                                                                      <internet>bctrucking.com</internet>
+                                                                 </address-block>
+                                                                 <found-date>1913</found-date>
+                                                                 <role-group>
+                                                                      <role>Chair.</role>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Doug</forename>
+                                                                                <surname>Sutherland</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </role-group>
+                                                                 <role-group>
+                                                                      <role> Pres. and CEO</role>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Dave</forename>
+                                                                                <surname>Earle</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </role-group>
+                                                            </org-entry>
+                                                       </org-entryref>
+                                                       <org-entryref id="SL3925150.26" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3925149" slsdocid="3924908" slsdocty="org-entry org-entrydtd">
+                                                            
+                                                            <org-entry id="CA.DIR.USAC.17.19.27" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Road Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES" usage="usac">
+                                                                 <org-entry-head>
+                                                                      <org-entry-name>Manitoba Trucking Association</org-entry-name>
+                                                                 </org-entry-head>
+                                                                 <address-block>
+                                                                      <address type="POSTAL">
+                                                                           <verbatim-address>25 Bunting St, Winnipeg, MB R2X 2P5</verbatim-address>
+                                                                      </address>
+                                                                      <telephone alsofax="N">(204) 632-6600</telephone>
+                                                                      <email>info@trucking.mb.ca</email>
+                                                                      <internet>trucking.mb.ca</internet>
+                                                                 </address-block>
+                                                                 <found-date>1932</found-date>
+                                                                 <role-group>
+                                                                      <role>Exec. Dir</role>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Aaron</forename>
+                                                                                <surname>Dolyniuk</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </role-group>
+                                                            </org-entry>
+                                                       </org-entryref>
+                                                       <org-entryref id="SL3925172.28" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3925171" slsdocid="3924911" slsdocty="org-entry org-entrydtd">
+                                                            
+                                                            <org-entry id="CA.DIR.USAC.17.21.29" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Road Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES" usage="usac">
+                                                                 <org-entry-head>
+                                                                      <org-entry-name>Ontario Trucking Association</org-entry-name>
+                                                                      <abbr>OTA</abbr>
+                                                                 </org-entry-head>
+                                                                 <address-block>
+                                                                      <address type="POSTAL">
+                                                                           <verbatim-address>555 Dixon Rd, Toronto, ON M9W 1H8</verbatim-address>
+                                                                      </address>
+                                                                      <telephone alsofax="N">(416) 249-7401</telephone>
+                                                                      <fax>(866) 713-4188</fax>
+                                                                      <email>otacommunications@ontruck.org</email>
+                                                                      <internet>ontruck.org</internet>
+                                                                 </address-block>
+                                                                 <found-date>1926</found-date>
+                                                                 <role-group>
+                                                                      <role> Chair.</role>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>James</forename>
+                                                                                <surname>Steed</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </role-group>
+                                                                 <role-group>
+                                                                      <role>Pres. and CEO</role>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Stephen</forename>
+                                                                                <surname>Laskowski</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </role-group>
+                                                            </org-entry>
+                                                       </org-entryref>
+                                                       <org-entryref id="SL3925189.30" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3925188" slsdocid="3924912" slsdocty="org-entry org-entrydtd">
+                                                            
+                                                            <org-entry id="CA.DIR.USAC.17.22.31" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Road Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES" usage="usac">
+                                                                 <org-entry-head>
+                                                                      <org-entry-name>Saskatchewan Trucking Association</org-entry-name>
+                                                                 </org-entry-head>
+                                                                 <address-block>
+                                                                      <address type="POSTAL">
+                                                                           <verbatim-address>
+                                418
+                                <sc>a</sc>
+                                 McDonald St, Regina, SK S4N 6E1
+                              </verbatim-address>
+                                                                      </address>
+                                                                      <telephone alsofax="N">(306) 994–8730</telephone>
+                                                                      <email>info@sasktrucking.com</email>
+                                                                      <internet>sasktrucking.com</internet>
+                                                                 </address-block>
+                                                                 <found-date>1937</found-date>
+                                                                 <role-group>
+                                                                      <role>Chair.</role>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Heather</forename>
+                                                                                <surname>Day</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </role-group>
+                                                                 <role-group>
+                                                                      <role>Exec. Dir</role>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Susan</forename>
+                                                                                <surname>Ewart</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </role-group>
+                                                            </org-entry>
+                                                       </org-entryref>
+                                                  </org-list>
+                                             </org-entry>
+                                        </org-entryref>

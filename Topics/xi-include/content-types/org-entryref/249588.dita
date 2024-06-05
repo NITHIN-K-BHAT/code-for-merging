@@ -1,0 +1,37 @@
+<org-entryref id="SL1741192" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741191" slsdocid="249588" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.939" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>The Gazette</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>30 E Pikes Peak Ave, Suite 100, Colorado Springs, CO 80903</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(719) 632-5511</telephone>
+                                                       <email>customercare@gazette.com</email>
+                                                       <internet>gazette.com</internet>
+                                                  </address-block>
+                                                  <found-date>1872</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Chris</forename>
+                                                                 <surname>Reen</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Vince</forename>
+                                                                 <surname>Bzdek</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 122,200, Sun. 168,700 (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

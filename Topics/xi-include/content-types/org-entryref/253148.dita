@@ -1,0 +1,25 @@
+<org-entryref id="SL267224" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="267223" slsdocid="253148" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="ZM.DIR.131" id-root="zm.dir" iso="zm" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES AND HIGH COMMISSIONS IN ZAMBIA">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Eastern end of Kabulonga Rd, Ibex Hill, POB 320065, Lusaka</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(211) 357000</telephone>
+                                             <email>irclusaka@state.gov</email>
+                                             <internet>zm.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Michael</forename>
+                                                       <surname>Gonzales</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

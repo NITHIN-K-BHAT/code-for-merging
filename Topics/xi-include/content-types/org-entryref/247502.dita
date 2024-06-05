@@ -1,0 +1,30 @@
+<org-entryref id="SL257276" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="257275" slsdocid="247502" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="TR.DIR.164" id-root="tr.dir" iso="tr" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN TURKEY">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Atatürk Bul. 110, 06100 KavaklIdere, Ankara</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(312) 4555555</telephone>
+                                             <fax>(312) 4670019</fax>
+                                             <email>webmasterankara@state.gov</email>
+                                             <internet>tr.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>
+                        Jeffr
+                        
+                        y Lane
+                      </forename>
+                                                       <surname>Flake</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,30 @@
+<org-entryref id="SL1745154" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745153" slsdocid="249108" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1431" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="27.04.2007" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Loyola Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>8770 W Bryn Mawr Ave, Suite 1125, Chicago, IL 60631</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 621-1008</telephone>
+                                             <fax>(773) 281-0555</fax>
+                                             <email>customerservice@loyolapress.com</email>
+                                             <internet>loyolapress.com</internet>
+                                        </address-block>
+                                        <found-date>1912</found-date>
+                                        <content-note style="NORMAL">Publ. of Society of Jesus, Chicago Province</content-note>
+                                        <content-note style="NORMAL">religious, education, language, trade and arts</content-note>
+                                        <role-group>
+                                             <role>Pres. and Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Joellyn</forename>
+                                                       <surname>Cicciarelli</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

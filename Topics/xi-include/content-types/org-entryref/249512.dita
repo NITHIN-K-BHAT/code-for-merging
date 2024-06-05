@@ -1,0 +1,36 @@
+<org-entryref id="SL1741480" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741479" slsdocid="249512" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1027" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Kalamazoo Gazette</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>306 S Kalamazoo Mall, Kalamazoo, MI 49007</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(269) 345-3511</telephone>
+                                                       <email>kznews@mlive.com</email>
+                                                       <internet>mlive.com/kalamazoo</internet>
+                                                  </address-block>
+                                                  <found-date>1883</found-date>
+                                                  <frequency>Mon. to Fri. evening, Sat. and Sun. morning</frequency>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tim</forename>
+                                                                 <surname>Gruber</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Taylor</forename>
+                                                                 <surname>DesOrmeau</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

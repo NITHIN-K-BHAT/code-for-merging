@@ -1,0 +1,26 @@
+<org-entryref id="SL3920330" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3920329" slsdocid="3920317" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1356104522" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Agencia EFE</org-entry-name>
+                                                            <content-note style="NORMAL">New York</content-note>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>25 West 43rd St, Suite 1114, New York, NY 10036</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(212) 867-5757</telephone>
+                                                            <email>nyc@efe.com</email>
+                                                            <internet>efe.com</internet>
+                                                       </address-block>
+                                                       <role-group>
+                                                            <role>Delegate</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Javier</forename>
+                                                                      <surname>Otazu</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

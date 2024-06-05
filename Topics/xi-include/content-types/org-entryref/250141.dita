@@ -1,0 +1,37 @@
+<org-entryref id="SL262692" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262691" slsdocid="250141" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1983" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Aerospace Industries Association of America, Inc</org-entry-name>
+                                                       <abbr>AIA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1000 Wilson Blvd, Suite 1700, Arlington, VA 22209-3928</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(703) 358-1000</telephone>
+                                                       <email>aia@aia-aerospace.org</email>
+                                                       <internet>aia-aerospace.org</internet>
+                                                  </address-block>
+                                                  <found-date>1919</found-date>
+                                                  <stats>337 mems (2023)</stats>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tom</forename>
+                                                                 <surname>Gentile</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Eric F</forename>
+                                                                 <surname>Fanning</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

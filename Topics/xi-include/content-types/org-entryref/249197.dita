@@ -1,0 +1,36 @@
+<org-entryref id="SL1743721" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1743720" slsdocid="249197" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1350" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NATIONAL ASSOCIATIONS" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>National Newspaper Association</org-entry-name>
+                                                  <abbr>NNA</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>, Unit 13323, Pensacola, FL 32591</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(850) 542-7087</telephone>
+                                                  <internet>nna.org</internet>
+                                             </address-block>
+                                             <found-date>1885</found-date>
+                                             <content-note style="NORMAL">present name since 1964</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>John</forename>
+                                                            <surname>Galer</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Lynne</forename>
+                                                            <surname>Lance</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

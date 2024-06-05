@@ -1,0 +1,26 @@
+<org-entryref id="SL68654" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="68653" slsdocid="60296" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="LV.DIR.143" id-root="lv.dir" iso="lv" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN LATVIA">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Samnera Velsa iela 1, Rīga 1510</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">6710-7000</telephone>
+                                             <fax>6710-7050</fax>
+                                             <email>ambassador-riga@state.gov</email>
+                                             <internet>lv.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Christopher Todd</forename>
+                                                       <surname>Robinson</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

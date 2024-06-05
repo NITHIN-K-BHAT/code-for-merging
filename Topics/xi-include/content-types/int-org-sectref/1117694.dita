@@ -1,0 +1,173 @@
+<int-org-sectref id="SL1117747" int-org-sectrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1117746" slsdocid="1117694" slsdocty="int-org-section int-org-sectrefdtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <int-org-section id="WB02049.IO.TXT.1052479239" id-root="int-org_eu" iso="int-org_eu" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="ewyb edio">
+                    <heading>National Contributions to the EU Budget</heading>
+                    <table-block-simple id="WB02049.IO.TXT.30" type="OTHER">
+                         <table pgwide="NO" style="WITH-RULES">
+                              <tgroup cols="3">
+                                   <colspec colwidth="12cm" />
+                                   <colspec colwidth="4cm" />
+                                   <colspec colwidth="4cm" />
+                                   <thead>
+                                        <row>
+                                             <entry align="left" style="NO-DOT-LEADER">Country</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">Contribution for 2024 (€ million, in current prices)</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">% of total</entry>
+                                        </row>
+                                   </thead>
+                                   <tbody>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">Austria</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">2,801.3</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">2.5</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">Belgium</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">3,982.1</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">3.6</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">Bulgaria</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">687.8</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">0.6</entry>
+                                        </row>
+                                        <row>
+                                             <entry style="DOT-LEADER">Croatia</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">534.2</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">0.5</entry>
+                                        </row>
+                                        <row>
+                                             <entry style="DOT-LEADER">Cyprus</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">191.3</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">0.2</entry>
+                                        </row>
+                                        <row>
+                                             <entry style="DOT-LEADER">Czech Republic</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">2,182.8</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">2.0</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">Denmark</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">2,235.8</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">2.0</entry>
+                                        </row>
+                                        <row>
+                                             <entry style="DOT-LEADER">Estonia</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">289.0</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">0.3</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">Finland</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">1,889.6</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">1.7</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">France</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">21,093.2</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">18.9</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">Germany</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">25,164.5</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">22.5</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">Greece</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">1,544.3</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">1.4</entry>
+                                        </row>
+                                        <row>
+                                             <entry style="DOT-LEADER">Hungary</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">1,611.3</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">1.4</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">Ireland</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">2,773.6</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">2.5</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">Italy</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">14,529.0</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">13.0</entry>
+                                        </row>
+                                        <row>
+                                             <entry style="DOT-LEADER">Latvia</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">309.6</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">0.3</entry>
+                                        </row>
+                                        <row>
+                                             <entry style="DOT-LEADER">Lithuania</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">515.1</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">0.5</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">Luxembourg</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">396.5</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">0.4</entry>
+                                        </row>
+                                        <row>
+                                             <entry style="DOT-LEADER">Malta</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">128.6</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">0.1</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">Netherlands</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">4,743.0</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">4.2</entry>
+                                        </row>
+                                        <row>
+                                             <entry style="DOT-LEADER">Poland</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">5,705.7</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">5.1</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">Portugal</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">1,924.5</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">1.7</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">Romania</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">2,368.1</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">2.1</entry>
+                                        </row>
+                                        <row>
+                                             <entry style="DOT-LEADER">Slovakia</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">850.0</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">0.8</entry>
+                                        </row>
+                                        <row>
+                                             <entry style="DOT-LEADER">Slovenia</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">461.2</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">0.4</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">Spain</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">10,404.8</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">9.3</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">Sweden</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">2,561.8</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">2.3</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">
+                                                  <b>Total</b>
+                                             </entry>
+                                             <entry align="right" style="NO-DOT-LEADER">111,878.8</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">100.0</entry>
+                                        </row>
+                                   </tbody>
+                              </tgroup>
+                         </table>
+                         <sources>
+                              <source-head>Source</source-head>
+                              <source-info>
+              European Union, 
+              <i>Official Journal of the European Union</i>
+                              </source-info>
+                         </sources>
+                    </table-block-simple>
+               </int-org-section>
+          </int-org-sectref>

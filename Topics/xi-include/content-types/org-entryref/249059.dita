@@ -1,0 +1,27 @@
+<org-entryref id="SL260976" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260975" slsdocid="249059" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.340" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Nuclear Regulatory Commission</org-entry-name>
+                                                  <abbr>NRC</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Washington, DC 20555-0001</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(301) 415-7000</telephone>
+                                                  <fax>(301) 415-3716</fax>
+                                                  <internet>www.nrc.gov</internet>
+                                             </address-block>
+                                             <found-date>1974</found-date>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Christopher T.</forename>
+                                                            <surname>Hanson</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

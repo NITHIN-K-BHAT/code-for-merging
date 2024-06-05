@@ -1,0 +1,101 @@
+<org-entryref id="SL262920" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262919" slsdocid="250380" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1745" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL STOCK EXCHANGES">
+                                             <org-entry-head>
+                                                  <org-entry-name>Nasdaq, Inc</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>151 W 42nd St, New York, NY 10036</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 401-8700</telephone>
+                                                  <email> investor.relations@nasdaq.com</email>
+                                                  <internet>nasdaq.com</internet>
+                                             </address-block>
+                                             <found-date>1998 by American Stock Exchange and Nat. Asscn of Securities Dealers (NASD)</found-date>
+                                             <content-note style="NORMAL">acquired Boston Stock Exchange, Philadelphia Stock Exchange and Scandinavian OMX stock exchange group 2008, and renamed Nasdaq OMX Group, before name reverting to Nasdaq</content-note>
+                                             <content-note style="NORMAL">worldwide electronic trading market</content-note>
+                                             <content-note style="NORMAL">operates USA’s largest stock exchange, the NASDAQ Stock Market in New York, the Nasdaq BX (Boston), Nasdaq PSX and Nasdaq PHLX (Philadelphia) exchanges, and 8 European stock exchanges</content-note>
+                                             <role-group>
+                                                  <role>Chair and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Adena</forename>
+                                                            <surname>Friedman</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <org-list>
+                                                  <org-entryref id="SL8922702" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922701" slsdocid="250376" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="US.DIR.1748" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL STOCK EXCHANGES">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>NASDAQ PHLX</org-entry-name>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>FMC Tower, 8th Floor, 2929 Walnut St, Philadelphia, PA 19104</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(215) 496-5000</telephone>
+                                                                 <internet>www.nasdaq.com/solutions/nasdaq-phlx</internet>
+                                                            </address-block>
+                                                            <found-date>1790</found-date>
+                                                            <content-note style="NORMAL">fmrly Philadelphia Stock Exchange</content-note>
+                                                            <role-group>
+                                                                 <role>Chair.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Adena T.</forename>
+                                                                           <surname>Friedman</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <role-group>
+                                                                 <role>CEO</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Tal</forename>
+                                                                           <surname>Cohen</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL4923220" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4923219" slsdocid="4713243" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="US.DIR.1414864169" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL STOCK EXCHANGES">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>NASDAQ Stock Market LLC</org-entry-name>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>151 W 42nd St, New York, NY, 10036</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(212) 401-8700</telephone>
+                                                                 <internet>nasdaq.com</internet>
+                                                            </address-block>
+                                                            <found-date>1971</found-date>
+                                                            <role-group>
+                                                                 <role>Chair.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Adena T.</forename>
+                                                                           <surname>Friedman</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <role-group>
+                                                                 <role>CEO</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Tal</forename>
+                                                                           <surname>Cohen</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>over 3,000 listed cos </stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                             </org-list>
+                                        </org-entry>
+                                   </org-entryref>

@@ -1,0 +1,28 @@
+<org-entryref id="SL8961438" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8961437" slsdocid="250534" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1576" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELEVISION" usage="ewyb usac">
+                                                       <org-entry-head>
+                                                            <org-entry-name>CNN</org-entry-name>
+                                                            <alt-name>Cable News Network</alt-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>1 CNN Center, Atlanta, GA 30303</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(404) 878-2276</telephone>
+                                                            <fax>(404) 827-1995</fax>
+                                                            <internet>cnn.com</internet>
+                                                       </address-block>
+                                                       <found-date>1980</found-date>
+                                                       <content-note style="NORMAL">subsidiary of Warner Bros Discovery, Inc.</content-note>
+                                                       <role-group>
+                                                            <role>Chair. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Mark</forename>
+                                                                      <surname>Thompson</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

@@ -1,0 +1,37 @@
+<org-entryref id="SL5534425" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5534424" slsdocid="4325565" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389948276" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>East Bay Times</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2121 N California Blvd, Suite 290, Walnut Creek, CA 94596</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(925) 935-2525</telephone>
+                                                       <email>subscriberservices@bayareanewsgroup.com</email>
+                                                       <internet>eastbaytimes.com</internet>
+                                                  </address-block>
+                                                  <found-date>2016</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Sharon</forename>
+                                                                 <surname>Ryan</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Frank</forename>
+                                                                 <surname>Pine</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 286,900, Sun. 384,500 (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

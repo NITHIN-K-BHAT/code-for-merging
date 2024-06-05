@@ -1,0 +1,30 @@
+<org-entryref id="SL230188" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="230187" slsdocid="212989" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="PA.DIR.95" id-root="pa.dir" iso="pa" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN PANAMA">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Edif. 783, Avda Demetrio Basilio Lakas, Apdo 0816-02561, Clayton, Panamá 5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">317-5000</telephone>
+                                             <fax>317-5568</fax>
+                                             <email>panamaweb@state.gov</email>
+                                             <internet>pa.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>
+                        Mari
+                        
+                         Carmen
+                      </forename>
+                                                       <surname>Aponte</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,29 @@
+<org-entryref id="SL146643" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="146642" slsdocid="125260" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="GY.DIR.105" id-root="gy.dir" iso="gy" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES AND HIGH COMMISSIONS IN GUYANA">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      100 Young and Duke Sts, 
+                      
+                      Kingston, Georgetown
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">225-4900</telephone>
+                                             <fax>225-8497</fax>
+                                             <internet>gy.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nicole</forename>
+                                                       <surname>Theriot</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

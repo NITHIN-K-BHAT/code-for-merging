@@ -1,0 +1,1578 @@
+<dir-sectref xmlns:ns0="http://www.w3.org/2001/XInclude" dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6891940" sllink="SLSDOCRF" sllinkid="6891939" slsdocid="249009" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                         
+                         <dir-section id="US.DIR.300" id-root="us.dir" iso="us" sect-type="government" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                              <heading>Independent Agencies</heading>
+                              <org-list>
+                                   <org-list-head>The following agencies were created by Congress in order to oversee activities outside the scope of ordinary legislation</org-list-head>
+                                   <org-entryref id="SL892158" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="892157" slsdocid="892134" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.1082114314" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Advisory Council on Historic Preservation</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>401 F St, NW, Suite 308, Washington, DC 20001</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 517-0200</telephone>
+                                                  <email>achp@achp.gov</email>
+                                                  <internet>achp.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Sara C.</forename>
+                                                            <surname>Bronin</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Reid</forename>
+                                                            <surname>Nelson</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260906" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260905" slsdocid="249444" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.301" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                             <org-entry-head>
+                                                  <org-entry-name>African Development Foundation</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1400 I St, NW, Suite 1000, Washington, DC 20005</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 233-8800</telephone>
+                                                  <email>info@usadf.gov</email>
+                                                  <internet>usadf.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jack</forename>
+                                                            <surname>Leslie</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Travis</forename>
+                                                            <surname>Adkins</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260908" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260907" slsdocid="249433" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.302" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <data-protection date-added="12.09.2007" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>American Battle Monuments Commission</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Courthouse Plaza II, Suite 500, 2300 Clarendon Blvd, Arlington, VA 22201</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(703) 584-1501</telephone>
+                                                  <email>info@abmc.gov</email>
+                                                  <internet>abmc.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Michael X.</forename>
+                                                            <surname>Garrett</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Sec.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Charles K.</forename>
+                                                            <surname>Djou</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260910" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260909" slsdocid="249422" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.303" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Appalachian Regional Commission</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1666 Connecticut Ave, NW, Suite 700, Washington, DC 20009</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 884-7700</telephone>
+                                                  <email>info@arc.gov</email>
+                                                  <internet>arc.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Co-Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Gayle C.</forename>
+                                                            <surname>Manchin</surname>
+                                                       </person-name>
+                                                  </person>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Andy</forename>
+                                                            <surname>Beshear</surname>
+                                                       </person-name>
+                                                       <person-note>Gov. of Kentucky</person-note>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260912" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260911" slsdocid="249411" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.304" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Commission on Civil Rights</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1331 Pennsylvania Ave, NW, Suite 1150, Washington, DC 20425</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 376-7700</telephone>
+                                                  <email>publicaffairs@usccr.gov</email>
+                                                  <internet>usccr.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Rochelle M.</forename>
+                                                            <surname>Garza</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260914" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260913" slsdocid="249400" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.305" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Commission of Fine Arts</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>National Bldg Museum, Suite 312, 401 F St, NW, Washington, DC 20001-2728</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 504-2200</telephone>
+                                                  <email>cfastaff@cfa.gov</email>
+                                                  <internet>cfa.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Billie</forename>
+                                                            <surname>Tsien</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Sec.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Thomas</forename>
+                                                            <surname>Luebke</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260916" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260915" slsdocid="249389" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.306" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Commodity Futures Trading Commission</org-entry-name>
+                                                  <abbr>CFTC</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Three Lafayette Centre, 1155 21st St, NW, Washington, DC 20581</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 418-5000</telephone>
+                                                  <fax>(202) 418-5521</fax>
+                                                  <email>press@cftc.gov</email>
+                                                  <internet>cftc.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Rostin</forename>
+                                                            <surname>Behnam</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260920" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260919" slsdocid="249367" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.308" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Corporation for National and Community Service</org-entry-name>
+                                                  <abbr>CNCS</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>250 E St, SW, Washington, DC 20024</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 606-5000</telephone>
+                                                  <email>help@americorps.gov</email>
+                                                  <internet>americorps.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Catherine</forename>
+                                                            <surname>McLaughlin</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Michael D.</forename>
+                                                            <surname>Smith</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260922" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260921" slsdocid="249356" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.309" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Defense Nuclear Facilities Safety Board</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>625 Indiana Ave, Suite 700, NW, Washington, DC 20004</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 694-7000</telephone>
+                                                  <email>mailbox@dnfsb.gov</email>
+                                                  <internet>dnfsb.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Joyce L.</forename>
+                                                            <surname>Connery</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260924" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260923" slsdocid="249345" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.310" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Environmental Protection Agency</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1200 Pennsylvania Ave, NW, Washington, DC 20460</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 564-4700</telephone>
+                                                  <internet>epa.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Admin.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Michael S.</forename>
+                                                            <surname>Regan</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260926" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260925" slsdocid="249334" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.311" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Equal Employment Opportunity Commission</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>131 M St, NE, Washington, DC 20507</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 921-3191</telephone>
+                                                  <email>info@eeoc.gov</email>
+                                                  <internet>eeoc.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Charlotte A.</forename>
+                                                            <surname>Burrows</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891958" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891957" slsdocid="250392" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.1732" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <data-protection date-added="15.04.2003" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Export-Import Bank of the United States</org-entry-name>
+                                                  <abbr>Ex-Im Bank</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>811 Vermont Ave, NW, Washington, DC 20571</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(800) 565-3946</telephone>
+                                                  <email>info@exim.gov</email>
+                                                  <internet>exim.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair. and Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Reta Jo</forename>
+                                                            <surname>Lewis</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260930" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260929" slsdocid="249312" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.313" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <data-protection date-added="14.03.2006" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Farm Credit Administration</org-entry-name>
+                                                  <abbr>FCA</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1501 Farm Credit Dr., McLean, VA 22102-5090</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(703) 883-4056</telephone>
+                                                  <email>info-line@fca.gov</email>
+                                                  <internet>fca.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Vincent G.</forename>
+                                                            <surname>Logan</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891963" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891962" slsdocid="250565" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.1539" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Federal Communications Commission</org-entry-name>
+                                                  <abbr>FCC</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>45 L St, NE, Washington, DC 20554</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 418-1122</telephone>
+                                                  <email>pra@fcc.gov</email>
+                                                  <internet>fcc.gov</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">regulates interstate and foreign communications by radio, TV, satellite and cable</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jessica</forename>
+                                                            <surname>Rosenworcel</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260932" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260931" slsdocid="249301" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.315" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Federal Deposit Insurance Corporation</org-entry-name>
+                                                  <abbr>FDIC</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>550 17th St, NW, Washington, DC 20429</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 898-6993</telephone>
+                                                  <email>publicinfo@fdic.gov</email>
+                                                  <internet>fdic.gov</internet>
+                                             </address-block>
+                                             <found-date>1933</found-date>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Martin J.</forename>
+                                                            <surname>Gruenberg</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891966" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891965" slsdocid="249290" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.316" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Federal Election Commission</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1050 1st St, NE, Washington, DC 20002</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 694-1100</telephone>
+                                                  <email>info@fec.gov</email>
+                                                  <internet>fec.gov</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">independent</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Sean J.</forename>
+                                                            <surname>Cooksey</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <ns0:include href="../../../../../../xi-include/org-entryref/249279.dita" /><org-entryref id="SL2655838" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2655837" slsdocid="2655794" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.1242301139" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                             <org-entry-head>
+                                                  <org-entry-name>Federal Home Loan Mortgage Corporation</org-entry-name>
+                                                  <abbr>Freddie Mac</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>8200 Jones Branch Dr., MS 200, McLean, VA 22102-3110</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(703) 903-2000</telephone>
+                                                  <internet>freddiemac.com</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Michael</forename>
+                                                            <surname>DeVito</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260938" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260937" slsdocid="249268" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.318" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Federal Housing Finance Agency</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>400 7th St, SW, Washington, DC 20219</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 649-3800</telephone>
+                                                  <email>mediainquiries@fhfa.gov</email>
+                                                  <internet>www.fhfa.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Sandra L.</forename>
+                                                            <surname>Thompson</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260940" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260939" slsdocid="249257" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.319" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <data-protection date-added="13.09.2007" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Federal Labor Relations Authority</org-entry-name>
+                                                  <abbr>FLRA</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1400 K St, 4th Floor, NW, Washington, DC 20424</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(771) 444-5801</telephone>
+                                                  <email>engagetheflra@flra.gov</email>
+                                                  <internet>www.flra.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Susan Tsui</forename>
+                                                            <surname>Grundmann</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <ns0:include href="../../../../../../xi-include/org-entryref/249988.dita" /><org-entryref id="SL260942" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260941" slsdocid="249246" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.321" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <data-protection date-added="12.09.2007" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Federal Mediation and Conciliation Service</org-entry-name>
+                                                  <abbr>FMCS</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>One Independence Sq., 250 E St, SW, Washington, DC 20427</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 606-8100</telephone>
+                                                  <fax>(202) 606-4251</fax>
+                                                  <email>clientservices@fmcs.gov</email>
+                                                  <internet>www.fmcs.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <vacancy />
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL2655846" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2655845" slsdocid="2655758" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.1242300535" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                             <org-entry-head>
+                                                  <org-entry-name>Federal National Mortgage Association</org-entry-name>
+                                                  <abbr>Fannie Mae</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Midtown Center, 1100 15th St, NW, Washington, DC 20005</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 752-7000</telephone>
+                                                  <internet>fanniemae.com</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Michael J.</forename>
+                                                            <surname>Heid</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>David C.</forename>
+                                                            <surname>Benson</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entry-simple id="US.DIR.322">
+                                        <org-entry-name>Federal Reserve System</org-entry-name>
+                                        <content-note style="NORMAL">
+                  see 
+                  <xr pageref="Y" ref="US.DIR.130420121424">Finance</xr>
+                                        </content-note>
+                                   </org-entry-simple>
+                                   <org-entryref id="SL260944" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260943" slsdocid="249235" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.323" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Federal Retirement Thrift Investment Board</org-entry-name>
+                                                  <abbr>FRTIB</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>77 K St, NE, Suite 1000, Washington, DC 20002</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(404) 233-4400</telephone>
+                                                  <email>webmaster@tsp.gov</email>
+                                                  <internet>frtib.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Mike</forename>
+                                                            <surname>Gerber</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Ravindra</forename>
+                                                            <surname>Deo</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891982" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891981" slsdocid="249224" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.324" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Federal Trade Commission</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>600 Pennsylvania Ave, NW, Washington, DC 20580</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 326-2222</telephone>
+                                                  <email>opa@ftc.gov</email>
+                                                  <internet>www.ftc.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Lina M.</forename>
+                                                            <surname>Khan</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>David B.</forename>
+                                                            <surname>Robbins</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260948" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260947" slsdocid="249213" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.325" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>General Services Administration</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1800 F St, NW, Washington, DC 20405</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 779-3223</telephone>
+                                                  <email>press@gsa.gov</email>
+                                                  <internet>www.gsa.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Admin.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Robin</forename>
+                                                            <surname>Carnahan</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260950" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260949" slsdocid="249202" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.326" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Inter-American Foundation</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        1331 Pennsylvania Ave, NW, Suite 1200
+                        <sc>n</sc>
+                        , Washington, DC 20004
+                      </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 360-4530</telephone>
+                                                  <email>inquiries@iaf.gov</email>
+                                                  <internet>www.iaf.gov</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">provides grants to non-govt and community orgs in Latin America and Caribbean</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Eduardo</forename>
+                                                            <surname>Arriola</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Sara</forename>
+                                                            <surname>Aviel</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL892257" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="892256" slsdocid="892235" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.1082116700" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agecies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Medicare Payment Advisory Commission</org-entry-name>
+                                                  <abbr>MedPAC</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>425 I St, NW, Suite 701, Washington, DC 20001</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 220-3700</telephone>
+                                                  <email>press.inquries@medpac.gov</email>
+                                                  <internet>www.medpac.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Michael E.</forename>
+                                                            <surname>Chernew</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Paul B.</forename>
+                                                            <surname>Masi</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260952" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260951" slsdocid="249191" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.327" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Merit Systems Protection Board</org-entry-name>
+                                                  <abbr>MSPB</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1615 M St, NW, Washington, DC 20419</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 653-7200</telephone>
+                                                  <fax>(202) 653-7130</fax>
+                                                  <email>mspb@mspb.gov</email>
+                                                  <internet>mspb.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Cathy A.</forename>
+                                                            <surname>Harris</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260954" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260953" slsdocid="249180" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.328" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>National Aeronautics and Space Administration</org-entry-name>
+                                                  <abbr>NASA</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        300 E St, SW, Suite 5
+                        <sc>r</sc>
+                        30, NASA Headquarters, Washington, DC 20546
+                      </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 358-0001</telephone>
+                                                  <fax>(202) 358-4338</fax>
+                                                  <email>public-inquiries@hq.nasa.gov</email>
+                                                  <internet>www.nasa.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Admin.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Bill</forename>
+                                                            <surname>Nelson</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260956" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260955" slsdocid="249169" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.329" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <data-protection date-added="31.01.2008" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>National Archives and Records Administration</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>8601 Adelphi Rd, College Park, MD 20740-6001</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(301) 837-2000</telephone>
+                                                  <email>archivistoftheunitedstates@nara.gov</email>
+                                                  <internet>www.archives.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Archivist of United States</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Colleen</forename>
+                                                            <surname>Shogan</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260958" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260957" slsdocid="249158" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.330" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <data-protection date-added="22.07.2009" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>National Capital Planning Commission</org-entry-name>
+                                                  <abbr>NCPC</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        401 9th St, NW, Suite 500
+                        <sc>n</sc>
+                        , Washington, DC 20004
+                      </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 482-7200</telephone>
+                                                  <email>info@ncpc.gov</email>
+                                                  <internet>ncpc.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Teri Hawks</forename>
+                                                            <surname>Goodmann</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Marcel C.</forename>
+                                                            <surname>Acosta</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260962" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260961" slsdocid="249136" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.332" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <data-protection date-added="14.04.2003" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>National Council on Disability</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1331 F St, NW, Suite 850, Washington, DC 20004</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 272-2004</telephone>
+                                                  <fax>(202) 272-2022</fax>
+                                                  <email>ncd@ncd.gov</email>
+                                                  <internet>ncd.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Andrés</forename>
+                                                            <surname>Gallegos</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Anne Sommers</forename>
+                                                            <surname>McIntosh</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260966" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260965" slsdocid="249114" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.334" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <data-protection date-added="12.09.2007" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>National Endowment for the Arts</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>400 7th St, SW, Washington, DC 20506-0001</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 682-5400</telephone>
+                                                  <email>chair@arts.gov</email>
+                                                  <internet>www.arts.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Maria Rosario</forename>
+                                                            <surname>Jackson</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260968" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260967" slsdocid="249103" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.335" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>National Endowment for the Humanities</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>400 7th St, SW, Washington, DC 20506</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 606-8400</telephone>
+                                                  <email>questions@neh.gov</email>
+                                                  <internet>neh.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Shelly C.</forename>
+                                                            <surname>Lowe</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260970" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260969" slsdocid="249092" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.336" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>National Labor Relations Board</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1015 Half St, SE, Washington, DC 20570-0001</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 273-1000</telephone>
+                                                  <email>publicinfo@nlrb.gov</email>
+                                                  <internet>nlrb.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Lauren M.</forename>
+                                                            <surname>McFerran</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260972" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260971" slsdocid="249081" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.337" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <data-protection date-added="13.09.2007" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>National Mediation Board</org-entry-name>
+                                                  <abbr>NMB</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1301 K St, NW, Suite 250 E, Washington, DC 20005-7011</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 692-5000</telephone>
+                                                  <email>infoline@nmb.gov</email>
+                                                  <internet>nmb.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Deirdre</forename>
+                                                            <surname>Hamilton</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260974" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260973" slsdocid="249070" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.338" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <data-protection date-added="12.09.2007" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>National Science Foundation</org-entry-name>
+                                                  <abbr>NSF</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>2415 Eisenhower Ave, Alexandria, VA 22314</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(703) 292-5111</telephone>
+                                                  <email>info@nsf.gov</email>
+                                                  <internet>nsf.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Dr</title>
+                                                            <forename>Dan</forename>
+                                                            <surname>Reed</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Sethuraman</forename>
+                                                            <surname>Panchanathan</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891986" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891985" slsdocid="250020" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.2106" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>National Transportation Safety Board</org-entry-name>
+                                                  <abbr>NTSB</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>490 L’Enfant Plaza, SW, Washington, DC 20594</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 314-6000</telephone>
+                                                  <email>ntsbmediarelations@ntsb.gov</email>
+                                                  <internet>www.ntsb.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jennifer L.</forename>
+                                                            <surname>Homendy</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Vice-Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Bruce</forename>
+                                                            <surname>Landsberg</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <ns0:include href="../../../../../../xi-include/org-entryref/249059.dita" /><org-entryref id="SL260978" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260977" slsdocid="250623" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.341" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Occupational Safety and Health Review Commission</org-entry-name>
+                                                  <abbr>OSHRC</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1120 20th St, 9th Floor, NW, Washington, DC 20036-3457</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 606-5400</telephone>
+                                                  <fax>(202) 606-5050</fax>
+                                                  <email>support@oshrc.gov</email>
+                                                  <internet>oshrc.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Cynthia L.</forename>
+                                                            <surname>Attwood</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260980" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260979" slsdocid="250612" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.342" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <data-protection date-added="12.09.2007" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Office of Government Ethics</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1201 New York Ave, NW, Suite 500, Washington, DC 20005</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 482-9300</telephone>
+                                                  <email>contactoge@oge.gov</email>
+                                                  <internet>oge.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Shelley K.</forename>
+                                                            <surname>Finlayson</surname>
+                                                       </person-name>
+                                                       <person-note>acting</person-note>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260982" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260981" slsdocid="250601" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.343" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Office of Personnel Management</org-entry-name>
+                                                  <abbr>OPM</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1900 E St, NW, Washington, DC 20415</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 606-1800</telephone>
+                                                  <email>media@opm.gov</email>
+                                                  <internet>opm.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Kiran</forename>
+                                                            <surname>Ahuja</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL892683" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="892682" slsdocid="892664" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.1082121144" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Office of Special Counsel</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1730 M St, NW, Suite 218, Washington, DC 20036-4505</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 804-7000</telephone>
+                                                  <email>info@osc.gov</email>
+                                                  <internet>osc.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Special Counsel</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Henry J.</forename>
+                                                            <surname>Kerner</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260984" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260983" slsdocid="250590" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.344" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <data-protection date-added="22.09.2008" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Peace Corps</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1275 1st St, NE, Washington, DC 20526</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(855) 855-1961</telephone>
+                                                  <email>pressoffice@peacecorps.gov</email>
+                                                  <internet>www.peacecorps.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Carol</forename>
+                                                            <surname>Spahn</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260986" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260985" slsdocid="250579" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.345" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <data-protection date-added="30.01.2008" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Pension Benefit Guaranty Corporation</org-entry-name>
+                                                  <abbr>PBGC</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>445 12th St, SW, , Washington, DC 20024-2101</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 229-4343</telephone>
+                                                  <email>pbgcexternalaffairs@pbgc.gov</email>
+                                                  <internet>www.pbgc.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Gordon</forename>
+                                                            <surname>Hartogensis</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260988" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260987" slsdocid="250569" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.346" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Postal Regulatory Commission</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>901 New York Ave, NW, Suite 200, Washington, DC 20268-0001</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 789-6800</telephone>
+                                                  <email>prc-pagr@prc.gov</email>
+                                                  <internet>prc.gov</internet>
+                                             </address-block>
+                                             <found-date>1970</found-date>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Michael M.</forename>
+                                                            <surname>Kubayanda</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260990" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260989" slsdocid="250557" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.347" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <data-protection date-added="06.07.2009" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Railroad Retirement Board</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>844 N Rush St, Chicago, IL 60611-1275</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(312) 751-4300</telephone>
+                                                  <email>webmaster@rrb.gov</email>
+                                                  <internet>rrb.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Erhard R.</forename>
+                                                            <surname>Chorlé</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entry-simple id="US.DIR.3482014">
+                                        <org-entry-name>Securities and Exchange Commission</org-entry-name>
+                                        <content-note style="NORMAL">
+                  see 
+                  <xr pageref="Y" ref="US.DIR.1740">Finance</xr>
+                                        </content-note>
+                                   </org-entry-simple>
+                                   <org-entryref id="SL260992" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260991" slsdocid="250545" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.349" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Selective Service System</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1515 Wilson Blvd, Suite 500, Arlington, VA 22209-2425</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(847) 688-6888</telephone>
+                                                  <email>information@sss.gov</email>
+                                                  <internet>www.sss.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Joel C.</forename>
+                                                            <surname>Spangenberg</surname>
+                                                       </person-name>
+                                                       <person-note>acting</person-note>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260996" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260995" slsdocid="250520" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.351" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Smithsonian Institution</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>SI Bldg, Rm 153, POB 37012, Washington, DC 20013</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 633-1000</telephone>
+                                                  <email>info@si.edu</email>
+                                                  <internet>www.si.edu</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Risa J.</forename>
+                                                            <surname>Lavizzo-Mourey</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Sec.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Lonnie G.</forename>
+                                                            <surname>Bunch</surname>
+                                                            <gen-name>III</gen-name>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL260998" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260997" slsdocid="250518" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.352" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Social Security Administration</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Office of Public Inquiries and Communications Support, 1100 W High Rise, 6401 Security Blvd, Baltimore, MD 21235-0001</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(800) 772-1213</telephone>
+                                                  <internet>www.ssa.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Commr</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Martin</forename>
+                                                            <surname>O’Malley</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL261000" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260999" slsdocid="250507" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.353" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Tennessee Valley Authority</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>400 W Summit Hill Dr., Knoxville, TN 37902</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(865) 632-2101</telephone>
+                                                  <email>tvainfo@tva.gov</email>
+                                                  <internet>www.tva.com</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>William</forename>
+                                                            <surname>Kilbride</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jeff J.</forename>
+                                                            <surname>Lyash</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL261002" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="261001" slsdocid="250496" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.354" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>US Agency for International Development</org-entry-name>
+                                                  <abbr>USAID</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Ronald Reagan Bldg, 1300 Pennsylvania Ave, NW, Washington, DC 20523</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 712-0000</telephone>
+                                                  <email>OCRDlist@usaid.gov</email>
+                                                  <internet>www.usaid.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Admin.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Samantha</forename>
+                                                            <surname>Power</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL1399326" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1399325" slsdocid="1399310" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.1126780318" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>US Consumer Product Safety Commission</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>4330 E–W Hwy, Bethesda, MD 20814</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(301) 504-7923</telephone>
+                                                  <fax>(301) 504-0124</fax>
+                                                  <email>info@cpsc.gov</email>
+                                                  <internet>www.cpsc.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Alexander</forename>
+                                                            <surname>Hoehn-Saric</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jason K.</forename>
+                                                            <surname>Levine</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891995" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891994" slsdocid="250485" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.355" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                             <org-entry-head>
+                                                  <org-entry-name>US International Trade Commission</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>500 E St, SW, Washington, DC 20436</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 205-2000</telephone>
+                                                  <email> publicaffairs@usitc.gov</email>
+                                                  <internet>usitc.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>David S.</forename>
+                                                            <surname>Johanson</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL261006" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="261005" slsdocid="250474" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.356" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                             <org-entry-head>
+                                                  <org-entry-name>US Postal Service</org-entry-name>
+                                                  <abbr>USPS</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>475 L’Enfant Plaza, SW, Washington, DC 20260-0010</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 268-2000</telephone>
+                                                  <internet>www.usps.com</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Roman</forename>
+                                                            <surname>Martinez</surname>
+                                                            <gen-name>IV</gen-name>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Postmaster-Gen. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Louis</forename>
+                                                            <surname>DeJoy</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-sectref>

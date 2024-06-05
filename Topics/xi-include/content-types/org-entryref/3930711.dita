@@ -1,0 +1,29 @@
+<org-entryref id="SL3930792" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3930791" slsdocid="3930711" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.USAC.32.22" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Publishers" usage="usac">
+                                        <data-protection date-added="14.09.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Copp Clark Ltd</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1675 Sismet Rd, Unit 1, Mississauga, ON L4W 4K8</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(905) 238-2882</telephone>
+                                             <email>info@coppclark.com</email>
+                                             <internet>coppclark.com</internet>
+                                        </address-block>
+                                        <found-date>1841</found-date>
+                                        <content-note style="NORMAL">division of Pearson Canada Inc (subsidiary of Pearson PLC)</content-note>
+                                        <content-note style="NORMAL">data and publs relating to financial services sector</content-note>
+                                        <role-group>
+                                             <role>Editorial Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Grace</forename>
+                                                       <surname>D'Alfonso</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

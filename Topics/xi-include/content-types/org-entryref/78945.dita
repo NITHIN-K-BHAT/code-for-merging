@@ -1,0 +1,30 @@
+<org-entryref id="SL1759478" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759477" slsdocid="78945" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.612" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Ontario Medical Review</org-entry-name>
+                                                       <abbr>OMR</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>150 Bloor St W, Suite 900, Toronto, ON M5S 3C1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 599-2580</telephone>
+                                                       <email>info@oma.org</email>
+                                                       <internet>oma.org/newsroom/ontario-medical-review</internet>
+                                                  </address-block>
+                                                  <found-date>1881</found-date>
+                                                  <frequency>quarterly</frequency>
+                                                  <content-note style="NORMAL">publ. of Ontario Medical Asscn</content-note>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>John</forename>
+                                                                 <surname>Bozzo</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 38,130 (June 2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

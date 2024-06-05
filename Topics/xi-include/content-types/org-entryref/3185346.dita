@@ -1,0 +1,38 @@
+<org-entryref id="SL3185355" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3185354" slsdocid="3185346" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1287470866" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Fairbanks Daily News-Miner</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>200 N Cushman St, POB 70710, Fairbanks, AK 99707-0710</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(907) 456-6661</telephone>
+                                                       <email>customerservice@newsminer.com</email>
+                                                       <internet>newsminer.com</internet>
+                                                  </address-block>
+                                                  <found-date>
+                      1903 as 
+                      <i>Weekly Fairbanks News</i>
+                                                  </found-date>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Virginia</forename>
+                                                                 <surname>Farmier</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Gary</forename>
+                                                                 <surname>Black</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

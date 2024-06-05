@@ -1,0 +1,38 @@
+<org-entryref id="SL1745132" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745131" slsdocid="249116" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1424" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="13.09.2007" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Jewish Publication Society</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>7605 Old York Rd, Melrose Park, PA 19027</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(215) 832-0600</telephone>
+                                             <fax>(919) 962-2704</fax>
+                                             <email>customerservice@longleafservices.org</email>
+                                             <internet>jps.org</internet>
+                                        </address-block>
+                                        <found-date>1888</found-date>
+                                        <content-note style="NORMAL">Judaica</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Elias</forename>
+                                                       <surname>Sacks</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Man. Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Joy</forename>
+                                                       <surname>Weinberg</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

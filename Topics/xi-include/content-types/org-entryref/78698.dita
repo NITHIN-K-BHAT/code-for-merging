@@ -1,0 +1,32 @@
+<org-entryref id="SL101444" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101443" slsdocid="78698" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.880" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Union des Producteurs Agricoles</org-entry-name>
+                                                       <abbr>UPA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>555 blvd Roland-Therrien, bureau 100, Longueuil, QC J4H 3Y9</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(450) 679-0530</telephone>
+                                                       <email>upa@upa.qc.ca</email>
+                                                       <internet>upa.qc.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1924</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Martin</forename>
+                                                                 <surname>Caron</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>
+                      89 local unions, 12 regional feds and 42,000 mems (2024
+                      
+                      )
+                    </stats>
+                                             </org-entry>
+                                        </org-entryref>

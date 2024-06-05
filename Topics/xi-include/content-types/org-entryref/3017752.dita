@@ -1,0 +1,39 @@
+<org-entryref id="SL7805323" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7805322" slsdocid="3017752" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1275041334" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>T-Mobile USA, Inc</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>12920 SE 38th St, POB 53410, Bellevue, WA 98006</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 937-8997</telephone>
+                                                       <email>mediarelations@t-mobile.com</email>
+                                                       <internet>t-mobile.com</internet>
+                                                  </address-block>
+                                                  <found-date>2002</found-date>
+                                                  <content-note style="NORMAL">US operating entity of T-Mobile International AG, owned by Deutsche Telekom AG (Germany)</content-note>
+                                                  <content-note style="NORMAL">mobile communications</content-note>
+                                                  <content-note style="NORMAL">absorbed Sprint Corpn 2020</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Timotheus</forename>
+                                                                 <surname>Höttges</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mike</forename>
+                                                                 <surname>Sievert</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <content-note style="NORMAL">116m. wireless subscribers (2023)</content-note>
+                                             </org-entry>
+                                        </org-entryref>

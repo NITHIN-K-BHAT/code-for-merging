@@ -1,0 +1,37 @@
+<org-entryref id="SL4881352" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4881351" slsdocid="78675" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.907" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Pork Council/Conseil Canadien du Porc</org-entry-name>
+                                                       <abbr>CPC/CCP</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>220 Laurier Ave W, Suite 900, Ottawa, ON K1P 5Z9</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 236-9239</telephone>
+                                                       <email>info@cpc-ccp.com</email>
+                                                       <internet>cpc-ccp.com</internet>
+                                                  </address-block>
+                                                  <found-date>1966 as Canadian Swine Council</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>René</forename>
+                                                                 <surname>Roy</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Stephen</forename>
+                                                                 <surname>Heckbert</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>nine mems (2023)</stats>
+                                             </org-entry>
+                                        </org-entryref>

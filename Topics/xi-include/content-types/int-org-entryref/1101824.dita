@@ -1,0 +1,50 @@
+<int-org-entryref id="SL1115920" int-org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1115919" slsdocid="1101824" slsdocty="int-org-entry int-org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <int-org-entry id="SL1101847" id-root="int-org_eu" iso="" print-style="COLUMN" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio casee">
+                    
+                    
+                    
+                    <int-org-entry-head>
+                         <int-org-name-group type="MAIN">
+                              <org-entry-name>Court of Justice</org-entry-name>
+                         </int-org-name-group>
+                    </int-org-entry-head>
+                    <int-org-block>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Palais de la Cour de Justice, blvd Konrad Adenauer, 2925 Luxembourg</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">4303-1</telephone>
+                              <internet>curia.europa.eu</internet>
+                         </address-block>
+                         <p id="WB02047.IO.TXT.130" usage="ewyb edio casee">The Court of Justice (informally referred to as the European Court of Justice—ECJ) forms part of the Court of Justice of the European Union. It acts to safeguard EU legislation and has jurisdiction over cases concerning member states, EU institutions, undertakings or individuals. The Court ensures uniform interpretation and application of EU law. The judges (one per member state) and the 11 advocates-general are each appointed for a renewable term of six years. Judges and advocates-general are partially replaced every three years. The role of the advocates-general is—publicly and impartially—to deliver reasoned opinions on the cases brought before the Court. The President of the Court, who has overall charge of the Court’s work and presides at hearings and deliberations, is elected by the judges from among their number for a renewable term of three years. The Court does not always sit as a full court, it may instead sit as a Grand Chamber of 15 judges or, as is the case with the majority of cases, as a smaller chamber of three or five judges. The Court may sit in plenary session in cases of particular importance or when a member state or Union institution that is a party to the proceedings so requests. Judgments are reached by a majority vote and are signed by all judges involved in the case, irrespective of how they voted. The Court has jurisdiction to award damages. It may review the legality of acts (other than recommendations or opin­ions) of the Council, the Commission or the European Central Bank, of acts adopted jointly by the European Parliament and the Council, and of acts adopted by the Parliament and intended to produce legal effects vis-à-vis third parties. It is also competent to pass judgment on actions by a member state, the Council or the Commission on grounds of lack of competence, of infringement of an essential procedural requirement, of infringement of a treaty or of any legal rule relating to its application, or of misuse of power. The Court of Justice may hear appeals, on a point of law only, from the General Court.</p>
+                         <p id="WB02047.IO.TXT.131" usage="ewyb edio casee">The Court is empowered to hear certain other cases concerning contractual and non-contractual liability and disputes between member states in connection with the objects of the treaties. It also gives preliminary rulings at the request of national courts on the interpretation of the treaties, of Union legislation, and of the Brussels Convention on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters.</p>
+                         <dir-list>
+                              <dir-entry id="WB02047.IO.TXT.100000" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                   <dir-entry-name>President of the Court of Justice</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Koen</forename>
+                                                  <surname>Lenaerts</surname>
+                                             </person-name>
+                                             <person-note>Belgium</person-note>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                              <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                   <dir-entry-name>Registrar</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Alfredo</forename>
+                                                  <surname>Calot Escobar</surname>
+                                             </person-name>
+                                             <person-note>Spain</person-note>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                         </dir-list>
+                    </int-org-block>
+               </int-org-entry>
+          </int-org-entryref>

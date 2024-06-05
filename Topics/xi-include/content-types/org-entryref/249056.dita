@@ -1,0 +1,29 @@
+<org-entryref id="SL1745446" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745445" slsdocid="249056" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1476" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="13.09.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>State University of New York Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>353 Bdwy St, Albany, NY 12246</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(518) 9320-1100</telephone>
+                                             <fax>(518) 320-1592</fax>
+                                             <email>info@sunypress.edu</email>
+                                             <internet>sunypress.edu</internet>
+                                        </address-block>
+                                        <found-date>1966</found-date>
+                                        <content-note style="NORMAL">scholarly and general interest</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marlene</forename>
+                                                       <surname>Pratt</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

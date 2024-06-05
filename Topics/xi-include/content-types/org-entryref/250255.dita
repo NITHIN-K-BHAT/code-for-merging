@@ -1,0 +1,39 @@
+<org-entryref id="SL4078497" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4078496" slsdocid="250255" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1862" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <data-protection date-added="12.09.2007" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Plumbing-Heating-Cooling Contractors Association</org-entry-name>
+                                                       <abbr>PHCC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>180 S Washington St, POB 6808, Falls Church, VA 22046</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(703) 237-8100</telephone>
+                                                       <fax>(703) 237-7442</fax>
+                                                       <email>customercare@naphcc.org</email>
+                                                       <internet>phccweb.org</internet>
+                                                  </address-block>
+                                                  <found-date>1883</found-date>
+                                                  <stats>approx. 3,300 mems (2023)</stats>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Dave</forename>
+                                                                 <surname>Frame</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Cindy</forename>
+                                                                 <surname>Sheridan</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

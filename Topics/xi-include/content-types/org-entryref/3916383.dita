@@ -1,0 +1,38 @@
+<org-entryref id="SL8961338" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8961337" slsdocid="3916383" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1355840674" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Radio" usage="ewyb usac">
+                                                       
+                                                       <org-entry-head>
+                                                            <org-entry-name>TelevisaUnivision, Inc.</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>8551 NW 30th Terrace, Miami, FL 33122</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(844) 919-1930</telephone>
+                                                            <email>ir@univision.net</email>
+                                                            <internet>univision.com</internet>
+                                                       </address-block>
+                                                       <found-date>2022 by merger of Univision Communications and certain assets of Grupo Televisa (Mexico)</found-date>
+                                                       <content-note style="NORMAL">Spanish-language radio and TV broadcasting network</content-note>
+                                                       <content-note style="NORMAL">120 local TV and radio stations</content-note>
+                                                       <role-group>
+                                                            <role>Chair. and Co-CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Alfonso de Angoitia</forename>
+                                                                      <surname>Noriega</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Wade</forename>
+                                                                      <surname>Davis</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

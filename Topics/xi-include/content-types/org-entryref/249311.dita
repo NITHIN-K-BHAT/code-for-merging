@@ -1,0 +1,29 @@
+<org-entryref id="SL260758" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260757" slsdocid="249311" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1244" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Kiplinger’s Personal Finance</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>130 W 42nd St, 7th Floor, New York, NY 10036</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 887-6400</telephone>
+                                                  <email>sub.services@kiplinger.com</email>
+                                                  <internet>kiplinger.com</internet>
+                                             </address-block>
+                                             <found-date>1947</found-date>
+                                             <frequency>monthly</frequency>
+                                             <content-note style="NORMAL">wealth management</content-note>
+                                             <role-group>
+                                                  <role>Editor and Editorial Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Mark</forename>
+                                                            <surname>Solheim</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 385,322</stats>
+                                        </org-entry>
+                                   </org-entryref>

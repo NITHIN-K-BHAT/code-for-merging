@@ -1,0 +1,26 @@
+<org-entryref id="SL100904" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="100903" slsdocid="78278" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="BZ.DIR.88" id-root="bz.dir" iso="bz" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES AND HIGH COMMISSION IN BELIZE">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>4 Floral Park Rd, POB 497, Belmopan</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">822-4011</telephone>
+                                             <fax>822-4012</fax>
+                                             <email>embbelize@state.gov</email>
+                                             <internet>bz.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Michelle Wingshan</forename>
+                                                       <surname>Kwan</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

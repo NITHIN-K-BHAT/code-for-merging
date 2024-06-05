@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+     <booktitle>
+          <mainbooktitle>Country overview</mainbooktitle>
+     </booktitle>
+     <chapter id="ao.co" navtitle="Country overview">
+          <topicref href="../../../../../../Topics/Region/ass/countries/angola/content-types/country-overview/ao.co.dita" navtitle="Country overview" keyscope="country-overview" keys="country-overview" format="dita" />
+     </chapter>
+</bookmap>

@@ -1,0 +1,28 @@
+<org-entryref id="SL7799411" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799410" slsdocid="7799365" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1637853571" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Explore</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2055 Commercial Dr., Suite 207, Vancouver, BC V5N 0C7</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(888) 924-7524</telephone>
+                                                       <email>explore@explore-mag.com</email>
+                                                       <internet>explore-mag.com</internet>
+                                                  </address-block>
+                                                  <found-date>1981</found-date>
+                                                  <frequency>quarterly</frequency>
+                                                  <role-group>
+                                                       <role>Pres. and Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>David</forename>
+                                                                 <surname>Webb</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 25,000 (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,27 @@
+<org-entryref id="SL1741208" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741207" slsdocid="249583" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.945" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Waterbury Republican-American</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>389 Meadow St, POB 2090, Waterbury, CT 06722-2090</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(203) 574-3636</telephone>
+                                                       <fax>(203) 596-9277</fax>
+                                                       <email>webadmin@rep-am.com</email>
+                                                       <internet>rep-am.com</internet>
+                                                  </address-block>
+                                                  <found-date>1844</found-date>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Anne</forename>
+                                                                 <surname>Karolyi</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,27 @@
+<org-entryref id="SL6406862" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6406861" slsdocid="6406858" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.1541679743" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Between the Lines</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>401 Richmond St W, Suite 281, Toronto, ON M5V 3A8</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(416) 535-9914</telephone>
+                                             <email>info@btlbooks.com</email>
+                                             <internet>btlbooks.com</internet>
+                                        </address-block>
+                                        <found-date>1977</found-date>
+                                        <content-note style="NORMAL">politics, public policy, area studies, social issues</content-note>
+                                        <role-group>
+                                             <role>Man. Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Amanda</forename>
+                                                       <surname>Crocker</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

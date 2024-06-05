@@ -1,0 +1,26 @@
+<org-entryref id="SL114404" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="114403" slsdocid="86721" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="ca" id="EC.DIR.92" id-root="ec.dir" iso="ec" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ECUADOR">
+                                        <org-entry-head>
+                                             <org-entry-name>Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Edif. Eurocenter, 3°, Avda Amazonas 4153 y Unión Nacional de Periodistas, Quito</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 245-5499</telephone>
+                                             <fax>(2) 227-7672</fax>
+                                             <email>quito@international.gc.ca</email>
+                                             <internet>www.canadainternational.gc.ca/ecuador-equateur</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Stephen</forename>
+                                                       <surname>Potter</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

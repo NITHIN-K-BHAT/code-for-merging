@@ -1,0 +1,26 @@
+<org-entryref id="SL4481064" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4481063" slsdocid="514492" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.348" id-root="us" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Supervisory Bodies" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Securities and Exchange Commission</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>100 F St, NE, Washington, DC 20549</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 551-2100</telephone>
+                                                       <email>chair@sec.gov</email>
+                                                       <internet>sec.gov</internet>
+                                                  </address-block>
+                                                  <found-date>1935</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Gary</forename>
+                                                                 <surname>Gensler</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

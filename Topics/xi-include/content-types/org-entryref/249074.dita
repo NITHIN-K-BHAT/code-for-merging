@@ -1,0 +1,25 @@
+<org-entryref id="SL1745330" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745329" slsdocid="249074" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1462" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                        <data-protection date-added="24.03.2009" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Routledge</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>605 3rd Ave, New York, NY 10058</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 216-7800</telephone>
+                                             <email>orders@taylorandfrancis.com</email>
+                                             <internet>routledge.com</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">imprint of Taylor &amp; Francis (q.v.), within Informa PLC (UK)</content-note>
+                                        <content-note style="NORMAL">scholarly, professional, trade, humanities, social sciences</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <vacancy />
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,28 @@
+<org-entryref id="SL2150691" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2150690" slsdocid="249441" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1114" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>The Patriot-News</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1900 Patriot Dr., Mechanicsburg, PA 17050</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(717) 255-8150</telephone>
+                                                       <email>pamediagroup@pennlive.com</email>
+                                                       <internet>pennlive.com</internet>
+                                                  </address-block>
+                                                  <found-date>1854</found-date>
+                                                  <frequency>Tue., Thur. and Sun.</frequency>
+                                                  <role-group>
+                                                       <role>Sr Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jennifer</forename>
+                                                                 <surname>Palik</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

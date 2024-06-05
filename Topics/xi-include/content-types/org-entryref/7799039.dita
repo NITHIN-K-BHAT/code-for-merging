@@ -1,0 +1,28 @@
+<org-entryref id="SL8817367" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8817366" slsdocid="7799039" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637847009" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        <data-protection date-added="21.07.2009" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>William S. Hein &amp; Co, Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>2350 N Forest Rd, Getzville, NY 14068</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(716) 882-2600</telephone>
+                                             <email>mail@wshein.com</email>
+                                             <internet>wshein.com</internet>
+                                        </address-block>
+                                        <found-date>1961</found-date>
+                                        <content-note style="NORMAL">legal</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kevin M.</forename>
+                                                       <surname>Marmion</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

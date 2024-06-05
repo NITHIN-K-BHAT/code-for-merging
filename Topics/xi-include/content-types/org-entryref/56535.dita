@@ -1,0 +1,26 @@
+<org-entryref id="SL63420" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="63419" slsdocid="56535" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="BS.DIR.66" id-root="bs.dir" iso="bs" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES AND HIGH COMMISSION IN THE BAHAMAS">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>42 Queen St, Nassau</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">322-1181</telephone>
+                                             <fax>328-7174</fax>
+                                             <email>embassynassau@state.gov</email>
+                                             <internet>bs.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chargé d’affaires a.i.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Usha E.</forename>
+                                                       <surname>Pitts</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

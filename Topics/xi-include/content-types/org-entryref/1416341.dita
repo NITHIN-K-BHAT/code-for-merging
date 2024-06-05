@@ -1,0 +1,28 @@
+<org-entryref id="SL4699404" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4699403" slsdocid="1416341" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1128515145" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Employers Organizations">
+                                                  <data-protection date-added="12.03.2008" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>International Zinc Association</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1000 Park Forty Plaza, Suite 130, Durham, NC 27713</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(919) 361-4647</telephone>
+                                                       <email>contact@zinc.org</email>
+                                                       <internet>zinc.org</internet>
+                                                  </address-block>
+                                                  <found-date>1991</found-date>
+                                                  <stats>39 full, 120 affiliate and 69 assoc. mems (2023)</stats>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Arun</forename>
+                                                                 <surname>Misra</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

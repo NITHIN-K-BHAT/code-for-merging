@@ -1,0 +1,27 @@
+<org-entryref id="SL1745740" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745739" slsdocid="250576" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1529" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Government Publishing House">
+                                             <org-entry-head>
+                                                  <org-entry-name>US Government Publishing Office</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>732 N Capitol St, NW, Washington, DC 20401</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 512-1800</telephone>
+                                                  <fax>(202) 512-2104</fax>
+                                                  <email>contactcenter@gpo.gov</email>
+                                                  <internet>gpo.gov</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">present name adopted 2014</content-note>
+                                             <role-group>
+                                                  <role>Man. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>John</forename>
+                                                            <surname>Crawford</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

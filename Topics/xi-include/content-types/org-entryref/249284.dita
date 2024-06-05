@@ -1,0 +1,39 @@
+<org-entryref id="SL260808" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260807" slsdocid="249284" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1269" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>People</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>225 Liberty St, New York, NY 10281</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(800) 541-9000</telephone>
+                                                  <email>press@people.com</email>
+                                                  <internet>people.com</internet>
+                                             </address-block>
+                                             <found-date>1974</found-date>
+                                             <frequency>weekly</frequency>
+                                             <content-note style="NORMAL">publ. by Time Inc</content-note>
+                                             <content-note style="NORMAL">celebrity and entertainment</content-note>
+                                             <role-group>
+                                                  <role>Publr</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Zoë</forename>
+                                                            <surname>Ruderman</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Wendy</forename>
+                                                            <surname>Naugle</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 2,545,977</stats>
+                                        </org-entry>
+                                   </org-entryref>

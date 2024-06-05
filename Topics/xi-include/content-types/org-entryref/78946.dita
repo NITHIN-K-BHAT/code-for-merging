@@ -1,0 +1,30 @@
+<org-entryref id="SL1759466" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759465" slsdocid="78946" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.611" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Now</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>122 Scollard St, Suite 304, Toronto, ON M5R 1G2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 364-1300</telephone>
+                                                       <email>news@nowtoronto.com</email>
+                                                       <internet>nowtoronto.com</internet>
+                                                  </address-block>
+                                                  <found-date>1981</found-date>
+                                                  <frequency>weekly</frequency>
+                                                  <content-note style="NORMAL">news and entertainment</content-note>
+                                                  <content-note style="NORMAL">owned by Media Central Corp. Inc.</content-note>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Kerrisa</forename>
+                                                                 <surname>Wilson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 78,619 (2017)</stats>
+                                             </org-entry>
+                                        </org-entryref>

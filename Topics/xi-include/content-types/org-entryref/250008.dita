@@ -1,0 +1,27 @@
+<org-entryref id="SL8924983" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8924982" slsdocid="250008" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.2117" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL RAILWAYS">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Metropolitan Transportation Authority</org-entry-name>
+                                                            <abbr>MTA</abbr>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>2 Broadway, New York, NY 10004</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(718) 217-5477</telephone>
+                                                            <internet>new.mta.info</internet>
+                                                       </address-block>
+                                                       <found-date>1965</found-date>
+                                                       <content-note style="NORMAL">operates Long Island, Metro-North, Staten Island Railroads, New York Subway and other public transit services in New York State and SW Connecticut</content-note>
+                                                       <role-group>
+                                                            <role>Chair. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Janno</forename>
+                                                                      <surname>Lieber</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

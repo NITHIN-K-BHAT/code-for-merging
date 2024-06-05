@@ -1,0 +1,27 @@
+<org-entryref id="SL1744700" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1744699" slsdocid="249165" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1379" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Columbia University Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>61 W 62nd St, New York, NY 10023</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 459-0600</telephone>
+                                             <email>webmaster@columbiauniversitypress.com</email>
+                                             <internet>cup.columbia.edu</internet>
+                                        </address-block>
+                                        <found-date>1893</found-date>
+                                        <content-note style="NORMAL">trade, educational, scientific and reference</content-note>
+                                        <role-group>
+                                             <role>Pres. and Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jennifer</forename>
+                                                       <surname>Crewe</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

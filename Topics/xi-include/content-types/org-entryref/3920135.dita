@@ -1,0 +1,28 @@
+<org-entryref id="SL3920287" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3920286" slsdocid="3920135" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1356103870" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies">
+                                                       
+                                                       <org-entry-head>
+                                                            <org-entry-name>Kyodo Tsushin</org-entry-name>
+                                                            <alt-name>Kyodo News</alt-name>
+                                                            <content-note style="NORMAL">New York</content-note>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>780 3rd Ave, Suite 1803, New York, NY 10017</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(212) 508-5440</telephone>
+                                                            <email>kni@kyodonews.com</email>
+                                                            <internet>english.kyodonews.net</internet>
+                                                       </address-block>
+                                                       <role-group>
+                                                            <role>Bureau Chief</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Yosuke</forename>
+                                                                      <surname>Watanabe</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

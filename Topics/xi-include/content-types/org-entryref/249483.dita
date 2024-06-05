@@ -1,0 +1,36 @@
+<org-entryref id="SL1741579" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741578" slsdocid="249483" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1066" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Albany Times Union</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Times Union, News Plaza, POB 15000, Albany, NY 12212</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(518) 454-5694</telephone>
+                                                       <email>webmaster@timesunion.com</email>
+                                                       <internet>timesunion.com</internet>
+                                                  </address-block>
+                                                  <found-date>1856</found-date>
+                                                  <role-group>
+                                                       <role>Publr and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>George</forename>
+                                                                 <surname>Hearst</surname>
+                                                                 <gen-name>III</gen-name>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Casey</forename>
+                                                                 <surname>Seiler</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

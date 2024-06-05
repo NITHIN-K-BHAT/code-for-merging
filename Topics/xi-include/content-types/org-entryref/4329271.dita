@@ -1,0 +1,38 @@
+<org-entryref id="SL4329579" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4329578" slsdocid="4329271" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390297369" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Watertown Daily Times</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>260 Washington St, Watertown, NY 13601</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(315) 782-1000</telephone>
+                                                       <fax>(315) 661-2523</fax>
+                                                       <email>news@wdt.net</email>
+                                                       <internet>nny360.com</internet>
+                                                  </address-block>
+                                                  <found-date>1861</found-date>
+                                                  <content-note style="NORMAL">owned by Johnson News Corpn</content-note>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>Publr and Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Alec</forename>
+                                                                 <surname>Johnson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Brian</forename>
+                                                                 <surname>Kelly</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

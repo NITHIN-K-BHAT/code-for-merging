@@ -1,0 +1,33 @@
+<org-entryref id="SL5650782" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5650781" slsdocid="5650591" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1486533451" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>HuffPost</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>770 Broadway, New York, NY 10003-9522</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 652-6400</telephone>
+                                                  <email>support@huffpost.com</email>
+                                                  <internet>huffpost.com</internet>
+                                             </address-block>
+                                             <found-date>
+                    2005 as 
+                    <i>The Huffington Post</i>
+                                             </found-date>
+                                             <content-note style="NORMAL">present name since 2017</content-note>
+                                             <content-note style="NORMAL">owned by BuzzFeed Media</content-note>
+                                             <content-note style="NORMAL">online only</content-note>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Danielle C.</forename>
+                                                            <surname>Belton</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

@@ -1,0 +1,36 @@
+<org-entryref id="SL1741116" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741115" slsdocid="249614" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.913" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Arizona Daily Star</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>4850 S Park Ave, Tucson, AZ 85714</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(520) 573-4101</telephone>
+                                                       <email>metro@tucson.com</email>
+                                                       <internet>tucson.com</internet>
+                                                  </address-block>
+                                                  <found-date>1877</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>John</forename>
+                                                                 <surname>D’Orlando</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jill Jorden</forename>
+                                                                 <surname>Spitz</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats> circ. c. 100,000 (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

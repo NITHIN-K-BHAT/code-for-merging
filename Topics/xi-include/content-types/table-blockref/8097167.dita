@@ -1,0 +1,40 @@
+<table-blockref id="SL8097193" sllink="SLSDOCRF" sllinkid="8097192" slsdocid="8097167" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <table-block id="US.DIR.1653320654" id-root="us.dir" iso="us" section="Legislature" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" subsection="Senate" type="ELECTION">
+                                   <table-heading>Seats at May 2024</table-heading>
+                                   <table pgwide="NO" style="WITH-RULES">
+                                        
+                                        <tgroup cols="2">
+                                             <colspec colwidth="18cm" />
+                                             <colspec colwidth="2cm" />
+                                             <tbody>
+                                                  <row>
+                                                       <entry align="left" style="DOT-LEADER">
+                                                            <xr pageref="N" ref="US.DIR.566">Republican Party</xr>
+                         
+                      </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">49</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry align="left" style="DOT-LEADER">
+                                                            <xr pageref="N" ref="US.DIR.560">Democratic Party</xr>
+                         
+                      </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">48</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">Independents</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">3</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry align="left" style="DOT-LEADER">
+                                                            <b>Total</b>
+                         
+                      </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">100</entry>
+                                                  </row>
+                                             </tbody>
+                                        </tgroup>
+                                   </table>
+                              </table-block>
+                         </table-blockref>

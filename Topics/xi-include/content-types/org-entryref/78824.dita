@@ -1,0 +1,28 @@
+<org-entryref id="SL1760326" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1760325" slsdocid="78824" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="CA.DIR.737" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ORGANIZATIONS AND ASSOCIATIONS" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Canadian Publishers’ Council</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>3080 Yonge St, Suite 6060, Toronto, ON M4N 3N1</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(647) 255-8880</telephone>
+                                                  <email>dswail@pubcouncil.ca</email>
+                                                  <internet>pubcouncil.ca</internet>
+                                             </address-block>
+                                             <found-date>1910</found-date>
+                                             <content-note style="NORMAL">trade asscn of Canadian-owned publrs and Canadian-incorp. subsidiaries of UK and US publrs</content-note>
+                                             <stats>14 mems (2023)</stats>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>David</forename>
+                                                            <surname>Swail</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

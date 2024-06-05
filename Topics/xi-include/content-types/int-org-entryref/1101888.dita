@@ -1,0 +1,95 @@
+<int-org-entryref id="SL1115951" int-org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1115950" slsdocid="1101888" slsdocty="int-org-entry int-org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <int-org-entry id="SL1103189" id-root="int-org_eu" iso="" print-style="COLUMN" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio casee">
+                    <int-org-entry-head>
+                         <int-org-name-group type="MAIN">
+                              <org-entry-name>European Investment Bank</org-entry-name>
+                              <abbr>EIB</abbr>
+                         </int-org-name-group>
+                    </int-org-entry-head>
+                    <int-org-block>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>98–100 blvd Konrad Adenauer, 2950 Luxembourg</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">4379-1</telephone>
+                              <email>info@eib.org</email>
+                              <internet>www.eib.org</internet>
+                         </address-block>
+                         <p id="WB02047.IO.TXT.198" usage="ewyb edio casee">The EIB is the EU’s long-term financing institution, created in 1958 by the six founder member states of the European Economic Community. The shareholders are the member states of the EU, which have all subscribed to the bank’s capital. The bulk of the EIB’s resources comes from borrowings, principally public bond issues or private placements on capital markets inside and outside the Union. The EIB works on the basis of a three-year operational plan, which is approved by its Board of Directors and revised annually.</p>
+                         <p id="WB02047.IO.TXT.199" usage="ewyb edio casee">The EIB’s principal task, defined by the Treaty of Rome (now known as the Treaty on the Functioning of the European Union), is to work on a non-profit basis, making or guaranteeing loans for investment projects that contribute to the balanced and steady development of EU member states. Throughout the Bank’s history, priority has been given to financing investment projects that further regional development within the Union. The EIB also finances projects that improve communications, protect and improve the environment, promote urban development, stren­gthen the competitive position of industry and encourage industrial integration within the Union, support the activities of small and medium-sized enterprises (SMEs), and help to ensure the security of energy supplies. Following a recommendation of the European Council in March 2000 for greater support for SMEs, the Board of Governors set up the EIB Group, consisting of the EIB and the European Investment Fund (EIF). Most EIB financing is allocated to projects within the EU. Lending outside the EU is usually based on Union agreements, but exceptions have been made for specific projects in certain countries. EIB Group disbursements amounted to some €87,850m. in 2023.</p>
+                         <p>In November 2014 the Presidents of the EIB and of the European Commission proposed the establishment of an Investment Plan for Europe, to stimulate investment in Europe-wide strategic projects. As a fundamental part of the Plan, in 2015 the EIB launched the European Fund for Strategic Investments (EFSI) to help mobilize investment for economically viable projects, including higher-risk projects that might fall outside the scope of usual EIB activities. Since 2021 the EFSI has formed a principal part of the EU’s new InvestEU fund, together with 13 other EU financial instruments, and the EU budget provides a guarantee of €19,700m. The EIB Group holds responsibility for the implementation of some 75% of the EU budget guarantee.</p>
+                         <p>The EIB was to assist the European Green Deal; it pledged to cease to support finance for fossil fuels, and by 2025 50% of lending was to be directed to environmentally friendly projects (compared with the previous level of some 28%). For 2022–24 the EIB was also launching EIB Global, to support development projects outside the EU.</p>
+                         <p>In response to the COVID-19 pandemic, in mid-March 2020 the EIB Group announced proposals for an emergency response package for banks to help to make support available for small and medium-sized enterprises (SMEs). In addition, in April the EIB agreed to establish a €25,000m. Pan-European Guarantee Fund (EGF) to enable the EIB Group to expand its response to the economic impact of the pandemic.</p>
+                         <p id="WB02047.IO.TXT.201" usage="ewyb edio casee">The Board of Governors of the EIB, which usually meets once a year, lays down general directives on credit policy, approves the annual report and accounts and decides on capital increases. The Board of Directors meets once a month, and has sole power to take decisions in respect of loans, guarantees and borrowings. The Bank’s President presides over meetings of the Board of Directors. The day-to-day management of operations is the responsibility of the Management Committee, which is the EIB’s collegiate executive body and recommends decisions to the Board of Directors. The Audit Committee is an independent body, which reports to the Board of Governors regarding the management of operations and the maintenance of the Bank’s accounts.</p>
+                         <org-list>
+                              <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                   <org-entry-head>
+                                        <org-entry-name>Board of Governors</org-entry-name>
+                                   </org-entry-head>
+                                   <content-note style="NORMAL">The Board of Governors comprises one minister (usually the minister with responsibility for finance or economic affairs) from each member state.</content-note>
+                                   <dir-list>
+                                        <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                             <dir-entry-name>Chairperson</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Vincent</forename>
+                                                            <surname>Van Peteghem</surname>
+                                                       </person-name>
+                                                       <person-note>Belgium</person-note>
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-list>
+                              </org-entry>
+                              <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                   <org-entry-head>
+                                        <org-entry-name>Board of Directors</org-entry-name>
+                                   </org-entry-head>
+                                   <content-note style="NORMAL">The Board of Directors consists of 28 directors, appointed for a renewable five-year term, with one director appointed by each member state and one by the European Commission. There are 31 alternates, also appointed for a renewable five-year term, meaning that some of these positions will be shared by groupings of countries. Since 1 May 2004 decisions have been taken by a majority consisting of at least one-third of members entitled to vote and representing at least 50% of the subscribed capital.</content-note>
+                              </org-entry>
+                              <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                   <org-entry-head>
+                                        <org-entry-name>Management Committee</org-entry-name>
+                                   </org-entry-head>
+                                   <content-note style="NORMAL">The Management Committee comprises the President and eight Vice-Presidents, nominated for a renewable six-year term by the Board of Directors and approved by the Board of Governors. The President presides over the meetings of the Management Committee but does not vote.</content-note>
+                                   <dir-list>
+                                        <dir-entry id="WB02047.IO.TXT.205" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb edio casee">
+                                             <dir-entry-name>President</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Nadia</forename>
+                                                            <surname>Calviño Santamaría</surname>
+                                                       </person-name>
+                                                       <person-note>Spain</person-note>
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-list>
+                              </org-entry>
+                              <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                   <org-entry-head>
+                                        <org-entry-name>Audit Committee</org-entry-name>
+                                   </org-entry-head>
+                                   <content-note style="NORMAL">The Audit Committee is composed of six members, appointed by the Governors for a non-renewable six-year term of office.</content-note>
+                                   <dir-list>
+                                        <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                             <dir-entry-name>Chairperson</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Christos G.</forename>
+                                                            <surname>Triantopoulos</surname>
+                                                       </person-name>
+                                                       <person-note>Greece</person-note>
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-list>
+                              </org-entry>
+                         </org-list>
+                    </int-org-block>
+               </int-org-entry>
+          </int-org-entryref>

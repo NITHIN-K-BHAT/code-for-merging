@@ -1,0 +1,30 @@
+<org-entryref id="SL1744750" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1744749" slsdocid="249153" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1390" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        
+                                        <data-protection date-added="12.09.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Ediciones Universal</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>POB 450353, Miami, FL 33245-0353</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(305) 662-9293</telephone>
+                                             <fax>(786) 228-0974</fax>
+                                             <email>ediciones@ediciones.com</email>
+                                             <internet>ediciones.com/index2.htm</internet>
+                                        </address-block>
+                                        <found-date>1965</found-date>
+                                        <content-note style="NORMAL">Spanish-language fiction and non-fiction</content-note>
+                                        <role-group>
+                                             <role>Man.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Juan Manuel</forename>
+                                                       <surname>Salvat</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

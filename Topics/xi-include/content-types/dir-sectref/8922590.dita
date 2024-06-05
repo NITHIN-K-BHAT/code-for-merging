@@ -1,0 +1,48 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8922601" sllink="SLSDOCRF" sllinkid="8922600" slsdocid="8922590" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <dir-section id="CA.DIR.1708431472" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                                   <heading>Bankers’ Organizations</heading>
+                                   <org-list>
+                                        <org-entryref id="SL8922593" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922592" slsdocid="78754" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.823" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Bankers Association</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Commerce Court W, 30th Floor, 199 Bay St, POB 348, Toronto, ON M5L 1G2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 362-6092</telephone>
+                                                       <email>inform@cba.ca</email>
+                                                       <internet>cba.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1891</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>
+                            
+                            Erminia (Ernie)
+                          </forename>
+                                                                 <surname>Johannson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Anthony G.</forename>
+                                                                 <surname>Ostler</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>68 mems (2024)</stats>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                         </dir-sectref>

@@ -1,0 +1,43 @@
+<org-entryref id="SL1756461" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1756460" slsdocid="78520" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1082" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CIVIL AVIATION" usage="ewyb usac">
+                                                  <data-protection date-added="24.07.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Air Transport Association of Canada</org-entry-name>
+                                                       <abbr>ATAC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>222 Queen St, Suite 1110, Ottawa, ON K1P 5V9</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 233-7727</telephone>
+                                                       <email>info@atac.ca</email>
+                                                       <internet>atac.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1934</found-date>
+                                                  <content-note style="NORMAL">present name since 1962</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Gregg</forename>
+                                                                 <surname>Evjen</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>John</forename>
+                                                                 <surname>McKenna</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>
+                      82 mems and 16 affiliates
+                      
+                       (2023)
+                    </stats>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,27 @@
+<org-entryref id="SL1742133" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1742132" slsdocid="249416" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1142" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Fort Worth Star-Telegram</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2300 W 7th St, Suite 108, POB 230, Fort Worth, TX 76107</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(817) 390-7400</telephone>
+                                                       <email>tips@star-telegram.com</email>
+                                                       <internet>star-telegram.com</internet>
+                                                  </address-block>
+                                                  <found-date>1909</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Steve</forename>
+                                                                 <surname>Coffman</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 170,722, Sun. 138,790 (2020)</stats>
+                                             </org-entry>
+                                        </org-entryref>

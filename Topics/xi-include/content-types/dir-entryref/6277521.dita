@@ -1,0 +1,23 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6279096" sllink="SLSDOCRF" sllinkid="6279095" slsdocid="6277521" slsdocty="dir-entry dir-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <dir-entry id="RU-FED.YUFO" id-root="ru.dir" iso="ru" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Presidential Representative to the Southern Federal Okrug</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Vladimir V.</forename>
+                                                       <surname>Ustinov</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                        
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>344006 Rostov-on-Don, ul. Bolshaya Sadovaya 73</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(863) 244-16-16</telephone>
+                                             <email>pppufo@ufo.gov.ru</email>
+                                             <internet>ufo.gov.ru</internet>
+                                        </address-block>
+                                   </dir-entry>
+                              </dir-entryref>

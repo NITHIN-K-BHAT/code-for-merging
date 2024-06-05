@@ -1,0 +1,30 @@
+<org-entryref id="SL3180692" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3180693" slsdocid="1448811" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1133281592" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>In Touch Weekly</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1955 Lake Park Dr., Suite 400, Smyrna, GA 30080</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(800) 929-8274</telephone>
+                                                  <email>contact@intouchweekly.com</email>
+                                                  <internet>intouchweekly.com</internet>
+                                             </address-block>
+                                             <found-date>2002</found-date>
+                                             <frequency>weekly</frequency>
+                                             <content-note style="NORMAL">celebrity, entertainment</content-note>
+                                             <role-group>
+                                                  <role>Editor</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>James</forename>
+                                                            <surname>Heidenry</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 258,895</stats>
+                                        </org-entry>
+                                   </org-entryref>

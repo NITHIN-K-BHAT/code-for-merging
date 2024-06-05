@@ -1,0 +1,28 @@
+<org-entryref id="SL3930913" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3930912" slsdocid="3930846" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="CA.DIR.USAC.32.120" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Publishers’ Organizations and Associations" usage="usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Atlantic Publishers Marketing Association</org-entry-name>
+                                                  <abbr>APMA</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1888 Brunswick St, Suite 710, Halifax, NS B3J 3J8</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(902) 420-0711</telephone>
+                                                  <email>admin@atlanticpublishers.ca</email>
+                                                  <internet>atlanticpublishers.ca</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">affiliated to ACP</content-note>
+                                             <stats>36 mems (2023)</stats>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Gavin</forename>
+                                                            <surname>Will</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

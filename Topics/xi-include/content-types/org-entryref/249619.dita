@@ -1,0 +1,38 @@
+<org-entryref id="SL1741095" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741094" slsdocid="249619" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.906" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="usac ewyb">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Birmingham News</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1731 1st Ave N, Birmingham, AL 35203</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(205) 325-4444</telephone>
+                                                       <email>customercare@bhamnews.com</email>
+                                                       <internet>al.com/birmingham</internet>
+                                                  </address-block>
+                                                  <found-date>1888</found-date>
+                                                  <content-note style="NORMAL">owned by Advance Publications, Inc.</content-note>
+                                                  <frequency>3 a week</frequency>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tom</forename>
+                                                                 <surname>Bates</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Sr Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>K. A.</forename>
+                                                                 <surname>Turner</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 145,655, Sun. 176,087 (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

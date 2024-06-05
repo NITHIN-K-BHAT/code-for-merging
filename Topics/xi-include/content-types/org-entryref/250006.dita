@@ -1,0 +1,37 @@
+<org-entryref id="SL8924992" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8924991" slsdocid="250006" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.2119" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL RAILWAYS">
+                                                       
+                                                       <org-entry-head>
+                                                            <org-entry-name>Union Pacific Railroad Co</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>1400 Douglas St, Omaha, NE 68179</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(402) 544-5000</telephone>
+                                                            <internet>up.com</internet>
+                                                       </address-block>
+                                                       <found-date>1897</found-date>
+                                                       <content-note style="NORMAL">Div. of Union Pacific Corpn</content-note>
+                                                       <stats>operates 52,226 km of track in 23 states (2022)</stats>
+                                                       <role-group>
+                                                            <role>Pres.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Beth</forename>
+                                                                      <surname>Whited</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Jim</forename>
+                                                                      <surname>Vena</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

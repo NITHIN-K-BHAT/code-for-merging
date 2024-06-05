@@ -1,0 +1,56 @@
+<int-org-sectref id="SL1117738" int-org-sectrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1117737" slsdocid="1117683" slsdocty="int-org-section int-org-sectrefdtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <int-org-section id="WB02049.IO.TXT.1052479183" id-root="int-org_eu" iso="int-org_eu" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="ewyb edio">
+                    <heading>Budget: Revenue</heading>
+                    <heading-note>2024, € million, in current prices</heading-note>
+                    <table-block-simple id="WB02049.IO.TXT.29" type="OTHER">
+                         <table pgwide="NO" style="WITH-RULES">
+                              <tgroup cols="2">
+                                   <colspec colwidth="12cm" />
+                                   <colspec colname="COLSPEC1" colwidth="4.00cm" />
+                                   <thead>
+                                        <row>
+                                             <entry align="left" style="NO-DOT-LEADER">Source of revenue</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">Total</entry>
+                                        </row>
+                                   </thead>
+                                   <tbody>
+                                        <row>
+                                             <entry style="DOT-LEADER">Miscellaneous revenue</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">6,131.1</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">Customs duties and sugar levies</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">24,620.4</entry>
+                                        </row>
+                                        <row>
+                                             <entry style="DOT-LEADER">VAT-based own resource</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">23,616.1</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">Plastic packaging waste own resource</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">7,093.6</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">Gross national income-based own resource</entry>
+                                             <entry align="right" style="NO-DOT-LEADER">81,169.1</entry>
+                                        </row>
+                                        <row>
+                                             <entry align="left" style="DOT-LEADER">
+                                                  <b>Total</b>
+                                             </entry>
+                                             <entry align="right" style="NO-DOT-LEADER">142,630.3</entry>
+                                        </row>
+                                   </tbody>
+                              </tgroup>
+                         </table>
+                         <sources>
+                              <source-head>Source</source-head>
+                              <source-info>
+              European Union, 
+              <i>Official Journal of the European Union</i>
+                              </source-info>
+                         </sources>
+                    </table-block-simple>
+               </int-org-section>
+          </int-org-sectref>

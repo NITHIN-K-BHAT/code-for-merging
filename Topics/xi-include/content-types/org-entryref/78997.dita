@@ -1,0 +1,28 @@
+<org-entryref id="SL6405783" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6405782" slsdocid="78997" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.554" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Cattlemen</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1666 Dublin Ave, Winnipeg, MB R3H OH1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(306) 450-6359</telephone>
+                                                       <internet>canadiancattlemen.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1938</found-date>
+                                                  <frequency>12 a year</frequency>
+                                                  <content-note style="NORMAL">animal husbandry</content-note>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Lisa</forename>
+                                                                 <surname>Guenther</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 7,276 (June 2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

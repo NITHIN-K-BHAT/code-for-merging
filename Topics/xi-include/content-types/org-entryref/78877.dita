@@ -1,0 +1,33 @@
+<org-entryref id="SL8831898" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8831897" slsdocid="78877" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.684" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Noroît</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>4609 rue d’Iberville, suite 202, Montréal, QC H2H 2L9</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(514) 727-0005</telephone>
+                                             <email>poesie@lenoroit.com</email>
+                                             <internet>lenoroit.com</internet>
+                                        </address-block>
+                                        <found-date>1971</found-date>
+                                        <content-note style="NORMAL">poetry</content-note>
+                                        <role-group>
+                                             <role>Dirs</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mélissa</forename>
+                                                       <surname>Labonté</surname>
+                                                  </person-name>
+                                             </person>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Charlotte</forename>
+                                                       <surname>Francoeur</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

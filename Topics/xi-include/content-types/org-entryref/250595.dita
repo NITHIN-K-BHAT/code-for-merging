@@ -1,0 +1,36 @@
+<org-entryref id="SL7806388" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7806387" slsdocid="250595" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1511" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>University of Washington Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>4333 Brooklyn Ave, POB 359570, Seattle, WA 98195-9570</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(206) 685-9373</telephone>
+                                             <fax>(206) 543-3932</fax>
+                                             <email>uwapress@uw.edu</email>
+                                             <internet>uwapress.uw.edu</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">general, scholarly, non-fiction and reprints</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nicole F.</forename>
+                                                       <surname>Mitchell</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editorial Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Larin</forename>
+                                                       <surname>McLaughlin</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

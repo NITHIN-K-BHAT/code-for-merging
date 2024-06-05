@@ -1,0 +1,28 @@
+<org-entryref id="SL7799469" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799468" slsdocid="7799377" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1637856134" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Theatre Review</org-entry-name>
+                                                       <abbr>CTR</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>University of Toronto Press, 5201 Dufferin St, Toronto, ON M3H 5T8</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 667-7810</telephone>
+                                                       <email>canadiantheatrereview@gmail.com</email>
+                                                       <internet>ctr.utpjournals.press</internet>
+                                                  </address-block>
+                                                  <found-date>1974</found-date>
+                                                  <frequency>quarterly</frequency>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Heather</forename>
+                                                                 <surname>Davis-Fisch</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

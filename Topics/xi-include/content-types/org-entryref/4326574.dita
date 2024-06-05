@@ -1,0 +1,27 @@
+<org-entryref id="SL4326612" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4326611" slsdocid="4326574" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389958606" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Northwest Florida Daily News</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2 Eglin Pkwy NE, Fort Walton Beach, FL 32548</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(850) 863-1111</telephone>
+                                                       <internet>nwfdailynews.com</internet>
+                                                  </address-block>
+                                                  <found-date>1946</found-date>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tom</forename>
+                                                                 <surname>Conner</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

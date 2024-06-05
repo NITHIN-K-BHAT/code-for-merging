@@ -1,0 +1,27 @@
+<org-entryref id="SL8830171" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8830170" slsdocid="78860" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.701" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Leméac Editeur</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>4609 rue d’Iberville, 1e étage, Montréal, QC H2H 2L9</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(514) 524-5558</telephone>
+                                             <email>lemeac@lemeac.com</email>
+                                             <internet>lemeac.com</internet>
+                                        </address-block>
+                                        <found-date>1957</found-date>
+                                        <content-note style="NORMAL">literary, academic, theatre, general</content-note>
+                                        <role-group>
+                                             <role>Gen. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Pierre</forename>
+                                                       <surname>Filion</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

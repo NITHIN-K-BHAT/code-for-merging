@@ -1,0 +1,38 @@
+<org-entryref id="SL5538731" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5538730" slsdocid="4392545" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1395221206" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>The Hill Times</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>246 Queen St, Suite 200, Ottawa, ON K1P 5E4</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 232-5952</telephone>
+                                                       <fax>(613) 232-9055</fax>
+                                                       <email>news@hilltimes.com</email>
+                                                       <internet>hilltimes.com</internet>
+                                                  </address-block>
+                                                  <content-note style="NORMAL">national politics and international relations</content-note>
+                                                  <found-date>1989</found-date>
+                                                  <frequency>2 a week (print edn), daily (online)</frequency>
+                                                  <role-group>
+                                                       <role>Publr and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Anne Marie</forename>
+                                                                 <surname>Creskey</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Kate</forename>
+                                                                 <surname>Molloy</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

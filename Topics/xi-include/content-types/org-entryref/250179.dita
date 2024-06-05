@@ -1,0 +1,42 @@
+<org-entryref id="SL262622" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262621" slsdocid="250179" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1938" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <data-protection date-added="09.12.2003" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Mining Association</org-entry-name>
+                                                       <abbr>NMA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>
+                          101 Constitution Ave, NW, Suite 500 
+                          <sc>e</sc>
+                          , Washington, DC 20001
+                        </verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 463-2600</telephone>
+                                                       <fax>(202) 463-2666</fax>
+                                                       <internet>nma.org</internet>
+                                                  </address-block>
+                                                  <found-date>1995</found-date>
+                                                  <content-note style="NORMAL">over 250 mem. cos (2022)</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mitch</forename>
+                                                                 <surname>Krebs</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Rich</forename>
+                                                                 <surname>Nolan</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

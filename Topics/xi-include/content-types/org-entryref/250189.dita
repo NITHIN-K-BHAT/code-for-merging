@@ -1,0 +1,38 @@
+<org-entryref id="SL262604" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262603" slsdocid="250189" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1928" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Wood Products Manufacturers Association</org-entry-name>
+                                                       <abbr>WPMA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>POB 761, Westminster, MA 01473-0761</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(978) 874-5445</telephone>
+                                                       <fax>(978) 874-9946</fax>
+                                                       <email>woodprod@wpma.org</email>
+                                                       <internet>wpma.org</internet>
+                                                  </address-block>
+                                                  <found-date>1929</found-date>
+                                                  <stats>225 mems (2023)</stats>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Sandra Ann</forename>
+                                                                 <surname>Bean</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Michelle</forename>
+                                                                 <surname>Arsenault</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

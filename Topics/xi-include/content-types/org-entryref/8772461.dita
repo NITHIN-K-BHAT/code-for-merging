@@ -1,0 +1,37 @@
+<org-entryref id="SL8773216" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8773215" slsdocid="8772461" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1697805965" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Energy" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Major Producers and Distributors">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Enbridge Inc.</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>200 Fifth Ave Place, 1 St SW, Suite 425, Calgary, AB T2P 3L8</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(403) 231-3900</telephone>
+                                                       <email>webmaster-corp@enbridge.com</email>
+                                                       <internet>enbridge.com</internet>
+                                                  </address-block>
+                                                  <found-date>1949</found-date>
+                                                  <content-note style="NORMAL">present name since 1998 </content-note>
+                                                  <content-note style="NORMAL">transmission and storage of natural gas</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Pamela L.</forename>
+                                                                 <surname>Carter</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Gregory L.</forename>
+                                                                 <surname>Ebel</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

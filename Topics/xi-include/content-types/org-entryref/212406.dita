@@ -1,0 +1,27 @@
+<org-entryref id="SL229588" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="229587" slsdocid="212406" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="ca" id="NZ.DIR.88" id-root="nz.dir" iso="nz" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES AND HIGH COMMISSIONS IN NEW ZEALAND">
+                                        <data-protection date-added="14.07.2009" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Level 11, 125 The Terrace, POB 8047, Wellington 6143</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4) 473-9577</telephone>
+                                             <fax>(4) 471-2082</fax>
+                                             <email>wlgtn@international.gc.ca</email>
+                                             <internet>www.canadainternational.gc.ca/new_zealand-nouvelle_zelande</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>High Commissioner</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Joanne</forename>
+                                                       <surname>Lemay</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

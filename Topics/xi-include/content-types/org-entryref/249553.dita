@@ -1,0 +1,44 @@
+<org-entryref id="SL1741333" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741332" slsdocid="249553" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.979" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Chicago Tribune</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>560 W Grand Ave, Chicago, IL 60654</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(312) 546-7900</telephone>
+                                                       <fax>(312) 222-5555</fax>
+                                                       <email>tips@chicagotribune.com</email>
+                                                       <internet>chicagotribune.com</internet>
+                                                  </address-block>
+                                                  <found-date>1847</found-date>
+                                                  <content-note style="NORMAL">publ. by Chicago Tribune Co</content-note>
+                                                  <content-note style="NORMAL">
+                      2 sister newspapers: 
+                      <i>RedEye</i>
+                       and 
+                      <i>Hoy Chicago</i>
+                                                  </content-note>
+                                                  <role-group>
+                                                       <role>Gen. Man.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Par</forename>
+                                                                 <surname>Ridder</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mitch</forename>
+                                                                 <surname>Pugh</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 82,190 (2023)</stats>
+                                             </org-entry>
+                                        </org-entryref>

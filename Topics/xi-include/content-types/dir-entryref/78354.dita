@@ -1,0 +1,20 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6893649"
+     sllink="SLSDOCRF" sllinkid="6893648" slsdocid="78354" slsdocty="dir-entry dir-entrydtd"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <dir-entry id="CA.DIR.141" id-root="ca.dir" iso="ca" section="Territorial Legislatures"
+          sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="YUKON TERRITORY">
+          <dir-entry-name>Premier, and Minister of the Executive Council Office, and of Economic
+               Development, Minister responsible for Yukon
+               Housing<?oxy_delete author="kiranchandrabhangwalani" timestamp="20240603T134031+0530" content=" Corporation test"?>
+          </dir-entry-name>
+          <person-group>
+               <person>
+                    <person-name>
+                         <forename>Ranj</forename>
+                         <surname>Pillai</surname>
+                    </person-name>
+               </person>
+          </person-group>
+     </dir-entry>
+</dir-entryref>

@@ -1,0 +1,27 @@
+<org-entryref id="SL1739224" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1739223" slsdocid="249947" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2184" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CIVIL AVIATION" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Air Carrier Association</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1735 N Lynn St, Suite 105, Arlington, VA 22209-3928</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(703) 358-8060</telephone>
+                                                       <email>admin@naca.aero</email>
+                                                       <internet>naca.aero</internet>
+                                                  </address-block>
+                                                  <found-date>1962</found-date>
+                                                  <stats>21 mems and 10 assoc. mems (2023)</stats>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>George</forename>
+                                                                 <surname>Novak</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

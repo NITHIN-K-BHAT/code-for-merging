@@ -1,0 +1,34 @@
+<org-entryref id="SL1741528" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741527" slsdocid="249498" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1047" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Las Vegas Review-Journal</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1111 W Bonanza Rd, POB 70, Las Vegas, NV 89125</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(702) 383-0211</telephone>
+                                                       <internet>reviewjournal.com</internet>
+                                                  </address-block>
+                                                  <found-date>1908</found-date>
+                                                  <role-group>
+                                                       <role>Publr and Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>J. Keith</forename>
+                                                                 <surname>Moyer</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Glenn</forename>
+                                                                 <surname>Cook</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,26 @@
+<org-entryref id="SL258154" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="258153" slsdocid="247615" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="TT.DIR.95" id-root="tt.dir" iso="tt" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES AND HIGH COMMISSIONS IN TRINIDAD AND TOBAGO">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>15 Queen’s Park West, POB 752, Port of Spain</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">622-6371</telephone>
+                                             <fax>822-5905</fax>
+                                             <email>posexecutiveoffice@state.gov</email>
+                                             <internet>tt.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Candace A.</forename>
+                                                       <surname>Bond</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

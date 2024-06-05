@@ -1,0 +1,30 @@
+<org-entryref id="SL3180844" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3180845" slsdocid="1448810" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1133276050" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Woman’s World</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>270 Sylvan Ave, Englewood Cliffs, NJ 07632</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(800) 929-8274</telephone>
+                                                  <email>contactus@womansworld.com</email>
+                                                  <internet>womansworld.com</internet>
+                                             </address-block>
+                                             <found-date>1981</found-date>
+                                             <frequency>weekly</frequency>
+                                             <content-note style="NORMAL">publ. by Bauer Publishing USA</content-note>
+                                             <content-note style="NORMAL">general</content-note>
+                                             <role-group>
+                                                  <role>Editorial Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Carol</forename>
+                                                            <surname>Brooks</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 831,172</stats>
+                                        </org-entry>
+                                   </org-entryref>

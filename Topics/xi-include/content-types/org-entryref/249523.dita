@@ -1,0 +1,36 @@
+<org-entryref id="SL1741439" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741438" slsdocid="249523" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1015" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Boston Globe</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1 Exchange Pl., Boston, MA 02109</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(617) 929-2000</telephone>
+                                                       <email>feedback@boston.com</email>
+                                                       <internet>bostonglobe.com</internet>
+                                                  </address-block>
+                                                  <found-date>1872</found-date>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>John</forename>
+                                                                 <surname>Henry</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Nancy</forename>
+                                                                 <surname>Barnes</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 235,000 (2022, incl. digital paid subs.)</stats>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,16 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8098132" sllink="SLSDOCRF" sllinkid="8098131" slsdocid="248951" slsdocty="dir-entry dir-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <dir-entry id="US.DIR.298" id-root="us.dir" iso="us" section="Legislature" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="CONGRESS">
+                                        <dir-entry-name>Majority Leader</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Steve</forename>
+                                                       <surname>Scalise</surname>
+                                                  </person-name>
+                                                  <person-note>Rep.</person-note>
+                                             </person>
+                                             
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>

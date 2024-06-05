@@ -1,0 +1,27 @@
+<org-entryref id="SL279900" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="279899" slsdocid="271338" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="KG.DIR.156" id-root="kg.dir" iso="kg" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN KYRGYZSTAN">
+                                        <data-protection date-added="04.05.2007" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>720016 Bishkek, pr. Mira 171</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(312) 59-70-00</telephone>
+                                             <fax>(312) 59-77-44</fax>
+                                             <email>bishkekpas@state.gov</email>
+                                             <internet>kg.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Lesslie</forename>
+                                                       <surname>Viguerie</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

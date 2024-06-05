@@ -1,0 +1,38 @@
+<org-entryref id="SL1745730" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745729" slsdocid="250580" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1525" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Wiley</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>111 River St, Suite 300, Hoboken, NJ 07030</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(201) 748-6000</telephone>
+                                             <fax>(201) 748-6088</fax>
+                                             <internet>wiley.com</internet>
+                                        </address-block>
+                                        <found-date>1807</found-date>
+                                        <content-note style="NORMAL">higher education, scientific, tech­nical, medical, professional and trade</content-note>
+                                        <content-note style="NORMAL">imprints incl. Jossey-Bass, Wiley-Blackwell</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jesse C.</forename>
+                                                       <surname>Wiley</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Matthew</forename>
+                                                       <surname>Kissner</surname>
+                                                  </person-name>
+                                                  <person-note>interim</person-note>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

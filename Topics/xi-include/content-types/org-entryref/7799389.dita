@@ -1,0 +1,27 @@
+<org-entryref id="SL7799519" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799518" slsdocid="7799389" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1637858112" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Bel Âge</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>4475 rue Frontenac, Montréal, QC H2H 2S2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(514) 278-9325</telephone>
+                                                       <email>lebelage@emailcustomerservice.com</email>
+                                                       <internet>lebelage.ca</internet>
+                                                  </address-block>
+                                                  <content-note style="NORMAL">health and lifestyle for people aged over 50 years</content-note>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Linda</forename>
+                                                                 <surname>Priestley</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 125,221 (June 2022)</stats>
+                                             </org-entry>
+                                        </org-entryref>

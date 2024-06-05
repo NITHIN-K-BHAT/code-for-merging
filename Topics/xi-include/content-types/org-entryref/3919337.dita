@@ -1,0 +1,40 @@
+<org-entryref id="SL3919433" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3919432" slsdocid="3919337" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.USAC.39.16" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="National Associations" usage="usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>International News Media Association</org-entry-name>
+                                                  <abbr>INMA</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>POB 740186, Dallas, TX 75374</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(214) 373-9111</telephone>
+                                                  <fax>(214) 373-9112</fax>
+                                                  <email>membership@inma.org</email>
+                                                  <internet>inma.org</internet>
+                                             </address-block>
+                                             <found-date>1930</found-date>
+                                             <content-note style="NORMAL">fmrly International Newspaper Marketing Asscn</content-note>
+                                             <content-note style="NORMAL">present name since 2012</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Maribel Perez</forename>
+                                                            <surname>Wadsworth</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Dir and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Earl J.</forename>
+                                                            <surname>Wilkinson</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>21,375 mems (2023)</stats>
+                                        </org-entry>
+                                   </org-entryref>

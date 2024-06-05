@@ -1,0 +1,27 @@
+<org-entryref id="SL7799498" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799497" slsdocid="7799384" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1637857036" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Municipal World</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>42860 Sparta Line, Union, ON N0L 2L0</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(888) 368-6125</telephone>
+                                                       <email>mwadmin@municipalworld.com</email>
+                                                       <internet>municipalworld.com/themagazine</internet>
+                                                  </address-block>
+                                                  <found-date>1891</found-date>
+                                                  <frequency>monthly</frequency>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Anthony</forename>
+                                                                 <surname>Gibbons</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

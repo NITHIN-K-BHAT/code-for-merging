@@ -1,0 +1,26 @@
+<org-entryref id="SL262648" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262647" slsdocid="250165" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1954" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Western States Petroleum Association</org-entry-name>
+                                                       <abbr>WSPA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1415 L St, Suite 600, Sacramento, CA 95814</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(916) 498-7750</telephone>
+                                                       <internet>wspa.org</internet>
+                                                  </address-block>
+                                                  <found-date>1907</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Catherine</forename>
+                                                                 <surname>Reheis-Boyd</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,18 @@
+<org-entryref id="SL3920272" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3920271" slsdocid="3920131" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1356103090" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Agenzia Nationale Stampa Associata</org-entry-name>
+                                                            <abbr>ANSA</abbr>
+                                                            <content-note style="NORMAL">New York</content-note>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>21 W 46th St, 14th Floor, Suite 1406, New York, NY 10036</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(646) 568-1257</telephone>
+                                                            <email>ansa.newyork@ansa.it</email>
+                                                            <internet>ansa.it</internet>
+                                                       </address-block>
+                                                  </org-entry>
+                                             </org-entryref>

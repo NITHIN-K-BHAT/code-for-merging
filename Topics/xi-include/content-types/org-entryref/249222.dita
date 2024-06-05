@@ -1,0 +1,30 @@
+<org-entryref id="SL5540128" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5540127" slsdocid="249222" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1325" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NEWS AGENCIES" usage="ewyb usac">
+                                                  
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>United Press International</org-entry-name>
+                                                       <abbr>UPI</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1133 19th St, NW, Washington, DC 20036</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 898-8000</telephone>
+                                                       <email>media@upi.com</email>
+                                                       <internet>upi.com</internet>
+                                                  </address-block>
+                                                  <found-date>1907</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Denise</forename>
+                                                                 <surname>Agostini</surname>
+                                                            </person-name>
+                                                            <person-note>acting</person-note>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

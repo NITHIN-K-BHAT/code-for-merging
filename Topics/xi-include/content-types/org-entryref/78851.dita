@@ -1,0 +1,17 @@
+<org-entryref id="SL8831698" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8831697" slsdocid="78851" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.710" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Pearson Canada, Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>c/o WeWork, 176 Yonge St, 6th Floor, Toronto, ON M5C 2L7</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 361-6128</telephone>
+                                             <email>school_inquiries@pearsoned.com</email>
+                                             <internet>pearsoncanadaschool.com</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">early education</content-note>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,37 @@
+<org-entryref id="SL8924969" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8924968" slsdocid="250016" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.2110" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL RAILWAYS">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Amtrak</org-entry-name>
+                                                            <alt-name>National Railroad Passenger Corpn</alt-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>1 Massachusetts Ave, NW, Washington, DC 20001</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(215) 856-7924</telephone>
+                                                            <email>mediarelations@amtrak.com</email>
+                                                            <internet>amtrak.com</internet>
+                                                       </address-block>
+                                                       <found-date>1970</found-date>
+                                                       <content-note style="NORMAL">govt-funded private corpn operating intercity passenger services; 33,796 track-km in USA and Canada</content-note>
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Anthony R.</forename>
+                                                                      <surname>Coscia</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Stephen J.</forename>
+                                                                      <surname>Gardner</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

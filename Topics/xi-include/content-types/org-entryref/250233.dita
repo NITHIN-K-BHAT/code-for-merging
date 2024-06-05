@@ -1,0 +1,29 @@
+<org-entryref id="SL1415643" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1415642" slsdocid="250233" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1884" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>United Engineering Foundation</org-entry-name>
+                                                       <abbr>UEF</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1650 Market St, Suite 1200, Philadelphia, PA 19103</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(973) 244-2328</telephone>
+                                                       <email>director@unitedengineeringfnd.org</email>
+                                                       <internet>uefoundation.org</internet>
+                                                  </address-block>
+                                                  <found-date>1914</found-date>
+                                                  <content-note style="NORMAL">umbrella org. for engineering socs, incl. American Institute of Chemical Engineers, American Institute of Mining Engineers, American Society of Civil Engineers, American Society of Mechanical Engineers, Institute of Electrical and Electronics Engineers</content-note>
+                                                  <role-group>
+                                                       <role>Exec. Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Patrick J.</forename>
+                                                                 <surname>Natale</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

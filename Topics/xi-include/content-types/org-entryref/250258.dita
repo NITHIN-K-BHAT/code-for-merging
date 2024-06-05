@@ -1,0 +1,38 @@
+<org-entryref id="SL262480" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262479" slsdocid="250258" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1860" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <data-protection date-added="22.06.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Mechanical Contractors Association of America, Inc</org-entry-name>
+                                                       <abbr>MCAA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1385 Piccard Dr., Rockville, MD 20850-4340</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(301) 869-5800</telephone>
+                                                       <email>help@mcaa.org</email>
+                                                       <internet>mcaa.org</internet>
+                                                  </address-block>
+                                                  <found-date>1889</found-date>
+                                                  <stats>approx. 2,600 mems (2023)</stats>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Robert</forename>
+                                                                 <surname>Beck</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tim</forename>
+                                                                 <surname>Brink</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

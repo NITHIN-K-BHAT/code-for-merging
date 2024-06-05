@@ -1,0 +1,29 @@
+<org-entryref id="SL8924852" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8924851" slsdocid="78537" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.1058" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="RAILWAYS">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Railway Association of Canada</org-entry-name>
+                                                            <abbr>RAC</abbr>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>99 Bank St, Suite 901, Ottawa, ON K1P 6B9</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(613) 567-8591</telephone>
+                                                            <fax>(613) 567-6726</fax>
+                                                            <email>rac@railcan.ca</email>
+                                                            <internet>railcan.ca</internet>
+                                                       </address-block>
+                                                       <found-date>1917</found-date>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Marc</forename>
+                                                                      <surname>Brazeau</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <stats>58 freight and passenger railway cos</stats>
+                                                  </org-entry>
+                                             </org-entryref>

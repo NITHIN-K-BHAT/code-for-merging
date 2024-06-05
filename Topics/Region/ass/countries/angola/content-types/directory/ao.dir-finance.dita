@@ -1,0 +1,800 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL89962" sllink="SLSDOCRF" sllinkid="89961" slsdocid="73700" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="AO.DIR.262" id-root="ao.dir" iso="ao" sect-type="finance" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                    <heading>Finance</heading>
+                    <dir-section id="AO.DIR.263" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>Banking</heading>
+                         <p>In January 2024 there were 23 banks authorized by the Banco Nacional de Angola to be operating in the country.</p>
+                         <dir-section id="AO.DIR.265" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                              <heading>Central Bank</heading>
+                              <org-list>
+                                   <org-entryref id="SL94082" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94081" slsdocid="73884" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.266" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Banco Nacional de Angola</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Av. 4 de Fevereiro 151, CP 1243, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">222679200</telephone>
+                                                  <internet>www.bna.ao</internet>
+                                             </address-block>
+                                             <found-date>1976</found-date>
+                                             <content-note style="NORMAL">bank of issue</content-note>
+                                             <role-group>
+                                                  <role>Gov.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Manuel António</forename>
+                                                            <surname>Tiago Dias</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="AO.DIR.267" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                              <heading>Commercial Banks</heading>
+                              <!--These five are all listed on the stock exchange http://www.bodiva.ao/index.php?acao=7ade42d6120a45bc30bf3b23642ebec7 www.standardbank.co.ao; http://www.bancoprestigio.com/; http://www.bpc.ao/bpc/pt/; http://www.bni.ao/pt/particulares; https://www.caixaangola.ao/ Worth looking into adding to directory space and time permitting.-->
+                              <org-list>
+                                   <org-entryref id="SL2397726" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2397725" slsdocid="1534853" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.1143455831" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                             <org-entry-head>
+                                                  <org-entry-name>Banco BIC SA</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Bairro de Talatona, Município da Samba, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">923130000</telephone>
+                                                  <email>bancobic.digital@gmail.com</email>
+                                                  <internet>www.bancobic.ao</internet>
+                                             </address-block>
+                                             <found-date>2005</found-date>
+                                             <content-note style="NORMAL">25% owned by Sociedade de Participações Financeiras, Lda</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Fernando</forename>
+                                                            <surname>Mendes Teles</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL94084" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94083" slsdocid="73883" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.268" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Banco Comercial Angolano SA</org-entry-name>
+                                                  <abbr>BCA</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        Av. Comandante Valódia 83
+                        <sc>a</sc>
+                        , CP 6900, Luanda
+                      </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">222641330</telephone>
+                                                  <email>apoioaocliente@bca.co.ao</email>
+                                                  <internet>www.bca.co.ao</internet>
+                                             </address-block>
+                                             <found-date>1997</found-date>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Francisco</forename>
+                                                            <surname>da Silva Cristovão</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Mateus Filipe</forename>
+                                                            <surname>Martins</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL5630697" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5630696" slsdocid="979724" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.1090340959" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                             <!--VD 25.11.2022 https://www.forbesafricalusofona.com/angola-banco-economico-tem-novo-conselho-de-administracao/-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Banco Económico</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Rua 1, Congresso do MPLA 8, Bairro Ingombota, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">222693600</telephone>
+                                                  <email>directo@bancoeconomico.ao</email>
+                                                  <internet>www.bancoeconomico.ao</internet>
+                                             </address-block>
+                                             <found-date>2002 as Banco Espírito Santo Angola; present name adopted in 2014</found-date>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Pedro</forename>
+                                                            <surname>Cruchinho</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Carlos</forename>
+                                                            <surname>Duarte</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL961516" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="961515" slsdocid="961508" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.1088684612" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                             <org-entry-head>
+                                                  <org-entry-name>Banco de Fomento Angola</org-entry-name>
+                                                  <abbr>BFA</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Rua Amílcar Cabral 56, Maianga, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">222638900</telephone>
+                                                  <email>bfa@bfa.ao</email>
+                                                  <internet>www.bfa.ao</internet>
+                                             </address-block>
+                                             <found-date>1993 as Banco Fomento Exterior</found-date>
+                                             <content-note style="NORMAL">present name adopted in 2001</content-note>
+                                             <content-note style="NORMAL">51.9% owned by Unitel and 48% owned by Banco BPI, SA, Portugal</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Rui Jorge</forename>
+                                                            <surname>Carneiro Mangueira</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Luís Roberto</forename>
+                                                            <surname>Fernandes Gonçalves</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL4676763" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4676762" slsdocid="979615" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.1090340332" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                             <!--servicoscentrais@bancokeve.ao-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Banco Keve SA</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Empreendimento Comandante Gika, Edif. Torres de Jardim, Torre B, Piso 11/12, Av. Ho Chi Minh, CP 1804, Alvalade, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">225679800</telephone>
+                                                  <email>servicoscentrais@bancokeve.ao</email>
+                                                  <internet>www.bancokeve.ao</internet>
+                                             </address-block>
+                                             <found-date>2003</found-date>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Elsa Dalila</forename>
+                                                            <surname>Azevedo da Silva</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Bruno Sandro Rodera</forename>
+                                                            <surname>da Silva Grilo</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL2532358" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2532357" slsdocid="2529912" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.1232382405" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Banco Millennium Atlãntico</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Edif. Atlãntico, Bloco 7/8, Rua do Centro de Convenções de Talatona, Bairro Talatona, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">226460460</telephone>
+                                                  <email>info@atlantico.ao</email>
+                                                  <internet>www.atlantico.ao</internet>
+                                             </address-block>
+                                             <found-date>2016 by merger of Banco Privado Atlãntico and Banco Millennium Angola</found-date>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>António João</forename>
+                                                            <surname>Assis de Almeida</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Miguel Raposo</forename>
+                                                            <surname>Alves</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL94086" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94085" slsdocid="73882" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.269" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <!--VD 02.12.2022 website not working, added fb page-->
+                                             <!--VD 20.11.2019 https://www.plataformamedia.com/en-uk/news/politics/joao-lourenco-dismisses-the-board-of-banco-de-poupanca-e-credito-11030261.html; Andr&#233; Lopes listed as PCA of the bank in other articles-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Banco de Poupança e Crédito SA</org-entry-name>
+                                                  <abbr>BPC</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Edif. Sede, Largo Major Saydi Mingas, CP 1343, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">226444000</telephone>
+                                                  <email>bpc@bpc.ao</email>
+                                                  <internet>fb.com/BPCOficial</internet>
+                                             </address-block>
+                                             <found-date>1956 as Banco Comercial de Angola</found-date>
+                                             <content-note style="NORMAL">present name adopted in 1991</content-note>
+                                             <content-note style="NORMAL">99% state-owned, 1% owned by the Instituto Nacional de Segurança Social</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>André</forename>
+                                                            <surname>Lopes</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL979709" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="979708" slsdocid="979639" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.1090340619" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                             <org-entry-head>
+                                                  <org-entry-name>Banco Sol</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Gaveto da Rua Frederico Welvitch 47 e Rua Lourenço Mendes da Conceição 7, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">222641400</telephone>
+                                                  <email>contactcenter@bancosol.ao</email>
+                                                  <internet>www.bancosol.ao</internet>
+                                             </address-block>
+                                             <found-date>2001</found-date>
+                                             <content-note style="NORMAL">55% owned by SANSUL</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Rosário Simão</forename>
+                                                            <surname>Jacinto</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="AO.DIR.271" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                              <heading>Development Banks</heading>
+                              <org-list>
+                                   <org-entryref id="SL94090" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94089" slsdocid="73879" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.272" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Banco de Comércio e Indústria SA</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Rua Rainha Ginga, Largo do Atlético 79–83, POB 1395, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">227333000</telephone>
+                                                  <email>apoioaocliente@bci.ao</email>
+                                                  <internet>www.bci.ao</internet>
+                                             </address-block>
+                                             <found-date>1991</found-date>
+                                             <content-note style="NORMAL">provides loans to businesses in all sectors</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Zenaida Gertrudes dos</forename>
+                                                            <surname>Santos Ramos Zumbi</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL1863640" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1863639" slsdocid="1863611" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.1171304554" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Banco de Desenvolvimento de Angola</org-entry-name>
+                                                  <abbr>BDA</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Av. 4 de Fevereiro 113, Rua Robert Shields 3, CP 1366, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">923166590</telephone>
+                                                  <internet>bda.ao</internet>
+                                             </address-block>
+                                             <found-date>2006</found-date>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>João Salvador</forename>
+                                                            <surname>Quintas</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Patricia Bernarda Paiva</forename>
+                                                            <surname>de Almeida da Cunha</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL7655926" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7655925" slsdocid="7655886" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.1627289686" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Standard Bank de Angola</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Inara Business Park and Gardens, Torre 1, Via A2, Talatona, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">923190888</telephone>
+                                                  <email>apoiocliente@standardbank.co.ao</email>
+                                                  <internet>www.standardbank.co.ao</internet>
+                                             </address-block>
+                                             <found-date>2010</found-date>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Luis</forename>
+                                                            <surname>Teles</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="AO.DIR.273" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                              <heading>Investment Banks</heading>
+                              <org-list>
+                                   <org-entryref id="SL94092" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94091" slsdocid="73878" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.274" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Banco Angolano de Investimentos, SA</org-entry-name>
+                                                  <abbr>BAI</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Travessa Ho Chi Minh, Edif. Garden Towers, Maianga, Torre BAI, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">222693800</telephone>
+                                                  <email>baidirecto@bancobai.ao</email>
+                                                  <internet>bancobai.ao</internet>
+                                             </address-block>
+                                             <found-date>1996</found-date>
+                                             <content-note style="NORMAL">fmrly Banco Africano de Investimentos, SA</content-note>
+                                             <content-note style="NORMAL">present name adopted in 2011</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Dr</title>
+                                                            <forename>José Carlos de Castro</forename>
+                                                            <surname>Paiva</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Luis Filipe</forename>
+                                                            <surname>Rodrigues Lélis</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+                    <dir-section id="AO.DIR.0603061114" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <heading>Stock Exchange</heading>
+                         <org-list>
+                              <org-entryref id="SL1526323" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1526322" slsdocid="1510369" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1141643124" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Stock Exchange">
+                                        <org-entry-head>
+                                             <org-entry-name>Bolsa da Dívida e Valores de Angola</org-entry-name>
+                                             <abbr>Bodiva</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Edif. Sky Business Tower, 8º andar, Rua Marechal Brós Tito 41, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">225420300</telephone>
+                                             <email>institutional@bodiva.ao</email>
+                                             <internet>www.bodiva.ao</internet>
+                                        </address-block>
+                                        <found-date>2014</found-date>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Valentina</forename>
+                                                       <surname>Filipe</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Walter</forename>
+                                                       <surname>da Cruz Pacheco</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="AO.DIR.279" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>Insurance</heading>
+                         <p>In January 2024 there were 23 insurance companies licensed to operate in Angola.</p>
+                         <org-list>
+                              <org-entryref id="SL1254390" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1254389" slsdocid="602714" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1057679250" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                        <!--VD 25.11.2019 website aaa.co.ao not working-->
+                                        <data-protection date-added="21.04.2004" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>AAA Seguros SA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Lenine 58, Ingombota, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222691200</telephone>
+                                             <email>website@aaa.co.ao</email>
+                                             <internet>fb.com/AAA.Seguros.Pensoes</internet>
+                                        </address-block>
+                                        <found-date>2000</found-date>
+                                        <content-note style="NORMAL">life and non-life</content-note>
+                                        <role-group>
+                                             <role>Pres. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Dr</title>
+                                                       <forename>Carlos Manuel de São</forename>
+                                                       <surname>Vicente</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4533215" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4533214" slsdocid="4533047" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1401878663" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <!--PC 29.11.2018 https://www.linkedin.com/in/joao-victorino-7b525693 shows Victorino as the CEO but no other updates to confirm it-->
+                                        <org-entry-head>
+                                             <org-entry-name>Confiança Seguros SA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Edif. Beira, Zona Financeira do Patriota, Estrada do Lar do Patriota, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">937948484</telephone>
+                                             <email>info@confiancaseguros.co.ao</email>
+                                             <internet>www.confiancaseguros.co.ao</internet>
+                                        </address-block>
+                                        <found-date>2008</found-date>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL94100" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94099" slsdocid="73873" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.280" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                        <org-entry-head>
+                                             <org-entry-name>ENSA Seguros de Angola</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Edif. Loanda Torre A e B, Rua Gamal Abdel Nasser, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222671000</telephone>
+                                             <email>callcenter@ensa.co.ao</email>
+                                             <internet>www.ensa.co.ao</internet>
+                                        </address-block>
+                                        <found-date>1978</found-date>
+                                        <content-note style="NORMAL">state-owned</content-note>
+                                        <content-note style="NORMAL">to be privatized</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mário Mota</forename>
+                                                       <surname>Lemos</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL6880564" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6880563" slsdocid="4533045" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1401878066" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <org-entry-head>
+                                             <org-entry-name>Fidelidade Angola</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Condomínio Cidade Financeira, Via S8, Bloco 10, 3º andar, Talatona, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">923434240</telephone>
+                                             <email>info@fidelidade.co.ao</email>
+                                             <internet>www.fidelidade.co.ao</internet>
+                                        </address-block>
+                                        <found-date>2009</found-date>
+                                        <content-note style="NORMAL">fmrly Universal Seguros, SA</content-note>
+                                        <content-note style="NORMAL">present name adopted in 2017</content-note>
+                                        <content-note style="NORMAL">life and non-life</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>José Manuel</forename>
+                                                       <surname>Alvarez Quintero</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4533589" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4533588" slsdocid="4533262" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1401883190" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <org-entry-head>
+                                             <org-entry-name>Global Seguros</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Edif. Garden Towers, Travessa Ho Chi Minh, Torre B, Piso 13, Alvalade, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">923166900</telephone>
+                                             <email>apoio.cliente@globalseguros.ao</email>
+                                             <internet>globalseguros.ao</internet>
+                                        </address-block>
+                                        <found-date>2006</found-date>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Manuel Fernando</forename>
+                                                       <surname>Correia Victor</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Orlando Rodrigues</forename>
+                                                       <surname>Maiato Carneiro</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1862113" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1862112" slsdocid="1862086" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1171042131" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <!--VD 09.11.2020 https://www.verangola.net/va/pt/112019/BancaSeguros/17268/Nossa-Seguros-tem-nova-administra%C3%A7%C3%A3o.htm-->
+                                        <org-entry-head>
+                                             <org-entry-name>Nova Sociedade de Seguros de Angola SA</org-entry-name>
+                                             <abbr>Nossa Seguros</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Av. Pedro de Castro Van-Dúnem Loy, Academia BAI, Bloco C, 4º andar, Morro Bento, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">923190860</telephone>
+                                             <email>apoioaocliente@nossaseguros.ao</email>
+                                             <internet>www.nossaseguros.ao</internet>
+                                        </address-block>
+                                        <found-date>2004</found-date>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Helder</forename>
+                                                       <surname>Aguiar</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Alexandre</forename>
+                                                       <surname>Carreira</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL5434390" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5434389" slsdocid="1862072" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1171041314" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <!--VD 19.12.2022 unsure about the address-->
+                                        <org-entry-head>
+                                             <org-entry-name>Sanlam Angola Seguros, SA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Edif. Cabinda, 4º andar, Belas Business Park 1, Talatona, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">226434244</telephone>
+                                             <email>centroreclamacoes@ao.sanlam.com</email>
+                                             <internet>ao.sanlam.com</internet>
+                                        </address-block>
+                                        <found-date>2005 as GA Seguros</found-date>
+                                        <content-note style="NORMAL">subsequently known as Saham Angola Seguros</content-note>
+                                        <content-note style="NORMAL">present name adopted in 2021 following acquisition by Sanlam Group (SA)</content-note>
+                                        <content-note style="NORMAL">fmrly owned by Saham Group (Morocco)</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>André Philippe</forename>
+                                                       <surname>Alliali-Die</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4533383" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4533382" slsdocid="4533049" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1401879821" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                        <org-entry-head>
+                                             <org-entry-name>Tranquilidade Corporação</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Edif. ESCOM, 15º andar, Rua Marechal Brós Tito 35, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">226434510</telephone>
+                                             <email>apoio@tranquilidade.co.ao</email>
+                                             <internet>www.tranquilidade.co.ao</internet>
+                                        </address-block>
+                                        <found-date>2012</found-date>
+                                        <content-note style="NORMAL">part of Apollo Global Management</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Artur</forename>
+                                                       <surname>Duarte</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                         <dir-section id="AO.DIR.134204062014" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                              <heading>Regulatory Authority</heading>
+                              <org-list>
+                                   <org-entryref id="SL4530644" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4530643" slsdocid="4529444" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.1401799566" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                             <org-entry-head>
+                                                  <org-entry-name>Agência de Regulação e Supervisão de Seguros</org-entry-name>
+                                                  <abbr>ARSEG</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Edif. Memory, Rua José Anchieta 5, Maculusso, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">222760130</telephone>
+                                                  <email>geral@arseg.ao</email>
+                                                  <internet>www.arseg.ao</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Elmer Vivaldo</forename>
+                                                            <surname>de Sousa Serrão</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="AO.DIR.181004062014" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                              <heading>Insurance Association</heading>
+                              <org-list>
+                                   <org-entryref id="SL4877485" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4877484" slsdocid="4533264" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.1401885147" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                             <org-entry-head>
+                                                  <org-entry-name>Associação de Seguradoras de Angola</org-entry-name>
+                                                  <abbr>ASAN</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Edif. G do Complexo Sigma, 1º andar, Rua Centro de Convencoes, Talatona, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">927212522</telephone>
+                                                  <email>geral@asan.co.ao</email>
+                                                  <internet>asan.co.ao</internet>
+                                             </address-block>
+                                             <found-date>2012</found-date>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Mário Mota</forename>
+                                                            <surname>Lemos</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

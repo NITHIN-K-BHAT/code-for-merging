@@ -1,0 +1,37 @@
+<org-entryref id="SL4330154" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4330153" slsdocid="4329630" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390304124" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Delaware County Daily Times</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>390 Eagleview Blvd, Exton, PA 19341</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(610) 622-8800</telephone>
+                                                       <email>editor@delcotimes.com</email>
+                                                       <internet>delcotimes.com</internet>
+                                                  </address-block>
+                                                  <found-date>1876</found-date>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Edward S.</forename>
+                                                                 <surname>Condra</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Keith</forename>
+                                                                 <surname>Mayer</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 40,291, Sun. 35,653 (2019)</stats>
+                                             </org-entry>
+                                        </org-entryref>

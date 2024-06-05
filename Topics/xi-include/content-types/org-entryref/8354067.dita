@@ -1,0 +1,36 @@
+<org-entryref id="SL8362735" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8362734" slsdocid="8354067" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.1670505447" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Political Organisations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PROVINCIAL AND TERRITORIAL PARTIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Progressive Conservative Party of Prince Edward Island </org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>30 Pond St, POB 578, Charlottetown, PE C1A 7L1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(902) 916-1770</telephone>
+                                             <email>info@peipc.ca</email>
+                                             <internet>peipc.ca</internet>
+                                        </address-block>
+                                        <found-date>1851</found-date>
+                                        <content-note style="NORMAL">present name since 1942</content-note>
+                                        <role-group>
+                                             <role>Leader</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dennis</forename>
+                                                       <surname>King</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Sydney</forename>
+                                                       <surname>Gallant</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

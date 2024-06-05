@@ -1,0 +1,38 @@
+<org-entryref id="SL1759387" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759386" slsdocid="78961" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.596" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="usac">
+                                                  <data-protection date-added="29.07.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Musician</org-entry-name>
+                                                       <abbr>CM</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>4056 Dorchester Rd, Suite 202, Niagara Falls, ON L2E 6M9</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(905) 374-8878</telephone>
+                                                       <email>mail@nwcworld.com</email>
+                                                       <internet>www.canadianmusician.com</internet>
+                                                  </address-block>
+                                                  <found-date>1979</found-date>
+                                                  <frequency>6 a year</frequency>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Michael</forename>
+                                                                 <surname>Raine</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Matt</forename>
+                                                                 <surname>Bauer</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

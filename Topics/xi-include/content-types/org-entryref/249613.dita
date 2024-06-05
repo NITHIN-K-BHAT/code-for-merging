@@ -1,0 +1,28 @@
+<org-entryref id="SL1741119" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741118" slsdocid="249613" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.914" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Arizona Republic</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>200 E Van Buren St, Phoenix, AZ 85004</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(602) 444-8000</telephone>
+                                                       <email>azrepubliccustomerservice@gannett.com</email>
+                                                       <internet>azcentral.com</internet>
+                                                  </address-block>
+                                                  <found-date>1890</found-date>
+                                                  <content-note style="NORMAL">owned by Gannett Co, Inc</content-note>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Greg</forename>
+                                                                 <surname>Burton</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 70,216 (2023)</stats>
+                                             </org-entry>
+                                        </org-entryref>

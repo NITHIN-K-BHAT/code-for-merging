@@ -1,0 +1,29 @@
+<org-entryref id="SL1742212" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1742211" slsdocid="249391" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1171" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Milwaukee Journal Sentinel</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>333 W State St, POB 371, Milwaukee, WI 53201</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(844) 900-7103</telephone>
+                                                       <email>milwaukeejournalsentinel@gannett.com</email>
+                                                       <internet>jsonline.com</internet>
+                                                  </address-block>
+                                                  <found-date>1837</found-date>
+                                                  <content-note style="NORMAL">owned by Gannett Co, Inc.</content-note>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Greg</forename>
+                                                                 <surname>Borowski</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 47,832 (2023)</stats>
+                                             </org-entry>
+                                        </org-entryref>

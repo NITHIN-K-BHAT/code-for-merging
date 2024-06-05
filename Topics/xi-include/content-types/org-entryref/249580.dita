@@ -1,0 +1,35 @@
+<org-entryref id="SL1741217" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741216" slsdocid="249580" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.950" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Washington Times</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>3600 New York Ave, NE, Washington, DC 20002</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 636-3000</telephone>
+                                                       <email>yourletters@washingtontimes.com</email>
+                                                       <internet>washingtontimes.com</internet>
+                                                  </address-block>
+                                                  <found-date>1982</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Christopher</forename>
+                                                                 <surname>Dolan</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Cathy</forename>
+                                                                 <surname>Gainor</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

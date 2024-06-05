@@ -1,0 +1,27 @@
+<org-entryref id="SL1741166" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741165" slsdocid="249597" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.930" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Sacramento Bee</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1601 Alhambra Blvd, Suite 100, Sacramento, CA 95816</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(916) 321-1000</telephone>
+                                                       <email>metro@sacbee.com</email>
+                                                       <internet>sacbee.com</internet>
+                                                  </address-block>
+                                                  <found-date>1857</found-date>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Colleen</forename>
+                                                                 <surname>McCain Nelson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 90,244, Sun. 142,589 (2020)</stats>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,26 @@
+<org-entryref id="SL1500363" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1500362" slsdocid="249290" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <org-entry id="US.DIR.316A" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                   <org-entry-head>
+                                        <org-entry-name>Federal Election Commission</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>1050 1st St, NE, Washington, DC 20002</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(202) 694-1100</telephone>
+                                        <email>info@fec.gov</email>
+                                        <internet>fec.gov</internet>
+                                   </address-block>
+                                   <content-note style="NORMAL">independent</content-note>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Sean J.</forename>
+                                                  <surname>Cooksey</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>

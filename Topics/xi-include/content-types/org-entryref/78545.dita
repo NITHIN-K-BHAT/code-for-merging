@@ -1,0 +1,29 @@
+<org-entryref id="SL5115227" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5115226" slsdocid="78545" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="CA.DIR.1050" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <data-protection date-added="23.06.2009" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Canadian Transportation Agency</org-entry-name>
+                                                  <abbr>CTA</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>60 rue Laval, Gatineau, QC J8X 3G9</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(888) 222-2592</telephone>
+                                                  <email>info@otc-cta.gc.ca</email>
+                                                  <internet>otc-cta.gc.ca</internet>
+                                             </address-block>
+                                             <found-date>1996</found-date>
+                                             <content-note style="NORMAL">independent administrative tribunal responsible for resolving transportation disputes; improving access to transportation services; and economic regulation of air, rail and marine transportation</content-note>
+                                             <role-group>
+                                                  <role>Chair. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>France</forename>
+                                                            <surname>Pégeot</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

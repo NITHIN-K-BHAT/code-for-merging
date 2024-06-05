@@ -1,0 +1,36 @@
+<org-entryref id="SL1742089" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1742088" slsdocid="249435" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1120" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Tribune-Democrat</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>425 Locust St, POB 340, Johnstown, PA 15907-0340</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(814) 532-5000</telephone>
+                                                       <email>rcarthew@tribdem.com</email>
+                                                       <internet>tribdem.com</internet>
+                                                  </address-block>
+                                                  <found-date>1853</found-date>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Chip</forename>
+                                                                 <surname>Minemyer</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Renee</forename>
+                                                                 <surname>Carthew</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 44,037 (2018)</stats>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,31 @@
+<org-entryref id="SL1742053" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1742052" slsdocid="249443" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1112" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <data-protection date-added="11.09.2007" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Bucks County Courier Times</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>
+                          1 Oxford Valley, 2300 E Lincoln Hwy, Suite 500
+                          <sc>d</sc>
+                          , Langhorne, PA, 19047
+                        </verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(866) 492-1514</telephone>
+                                                       <internet>phillyburbs.com</internet>
+                                                  </address-block>
+                                                  <found-date>1910</found-date>
+                                                  <content-note style="NORMAL">owned by Gannett Co, Inc.</content-note>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Danielle</forename>
+                                                                 <surname>Camilli</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

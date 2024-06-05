@@ -1,0 +1,26 @@
+<org-entryref id="SL68546" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="68545" slsdocid="59735" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="LT.DIR.197" id-root="lt.dir" iso="lt" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN LITHUANIA">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Akmenų g. 6, Vilnius 03106</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(5) 266-5500</telephone>
+                                             <fax>(5) 266-5510</fax>
+                                             <email>webemailvilnius@state.gov</email>
+                                             <internet>lt.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kara C.</forename>
+                                                       <surname>McDonald</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

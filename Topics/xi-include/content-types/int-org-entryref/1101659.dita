@@ -1,0 +1,113 @@
+<int-org-entryref id="SL1115897" int-org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1115896" slsdocid="1101659" slsdocty="int-org-entry int-org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <int-org-entry id="SL1101761" id-root="int-org_eu" iso="" print-style="COLUMN" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio casee">
+                    <int-org-entry-head>
+                         <int-org-name-group type="MAIN">
+                              <org-entry-name>European Parliament</org-entry-name>
+                         </int-org-name-group>
+                    </int-org-entry-head>
+                    <int-org-block>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Plateau du Kirchberg, BP 1601, 2929 Luxembourg (Secretariat)</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">4300-1</telephone>
+                              <email>epluxembourg@europarl.europa.eu</email>
+                              <internet>www.europarl.europa.eu</internet>
+                         </address-block>
+                    </int-org-block>
+                    <int-org-section id="WB02047.IO.TXT.428" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="ewyb edio casee">
+                         <heading>President and Members</heading>
+                         <p id="WB02047.IO.TXT.116" usage="ewyb edio casee">
+            Members of the European Parliament (EP) are elected for a five-year term by direct universal suffrage and proportional representation by the citizens of the member states (there is no standard electoral system across all the member states). Members sit in the Chamber in transnational political, not national, groups. The EP has three main roles: sharing with the Council of the European Union the power to legislate; holding authority over the annual Union budget (again, jointly with the Council), including the power to adopt or reject it in its entirety; and exercising a measure of demo­cratic control over the executive organs of the EU, the Commission and the Council. Notably, it has the power to dismiss the 
+            <xr pageref="N" ref="SL1101617">European Commission</xr>
+             as a whole by a vote of censure (requiring a two-thirds’ majority of the votes cast, which must also be a majority of the total parliamentary membership). The EP does not exercise the authority, however, to dismiss individual Commissioners. In­creases in parliamentary powers were brought about through amendments to the Treaty of Rome. The Single European Act, which entered into force on 1 July 1987, introduced, in certain circumstances where the Council normally adopts legislation through majority voting, a co-operation procedure involving a second parliamentary reading, enabling the EP to amend legislation. EU agreements with third countries require parliamentary approval. The Treaty on European Union, which came into force in November 1993, introduced the co-decision procedure, permitting a third parliamentary reading (see 
+            <xr pageref="N" ref="SL1101631">
+                                   <i>Council of the European Union</i>
+                              </xr>
+            ). The treaty also gives the EP the right potentially to veto legislation, and allows it to approve or reject the nomination of Commissioners (including the President of the Commission). The EP appoints the European Ombudsman from among its members, who investigates reports of maladministration in EU institutions.
+          </p>
+                         <p>
+            The Treaty of Amsterdam, which entered into force in May 1999, expanded and simplified the EP’s legislative role. The co-decision procedure between the EP and the Council was extended into a wider range of policy areas. The treaty also stipulated that the President of the Commission must be formally approved by the EP. In addition, international agreements, treaty decisions and the accession of new member states all require the assent of the EP. The Treaty of Nice, which came into force in February 2003, further extended the use of co-decision and introduced a new distribution of seats in the EP. The Treaty of Lisbon again extended the EP’s right of co-decision with the Council, and made provision for a maximum number of seats of 751 (750 voting members and the President), with each member state being entitled to a 
+            
+            minimum of six and a maximum of 96 seats, on a proportional basis. Under the treaty 18 additional seats were allocated to 12 member states, while Germany lost three seats. In September 2023 the EP approved a European Council proposal that 15 additional seats (divided between 12 member states) be allocated for the elections to be held in June 2024, owing to demographic changes in the EU, bringing the total number of MEPs to 720: two additional seats each for France, the Netherlands and Spain; and one additional seat each for Austria, Belgium, Denmark, Finland, Ireland, Latvia, Poland, Slovakia and Slovenia) 
+          </p>
+                         <table-block id="WB02047.IO.TXT.94" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER" usage="ewyb edio">
+                              <table-heading>Distribution of seats at the constitutive session, 8 July 2019</table-heading>
+                              <table pgwide="NO" style="WITH-RULES">
+                                   <tgroup cols="2">
+                                        <colspec colwidth="15cm" />
+                                        <colspec colwidth="5cm" />
+                                        <thead>
+                                             <row>
+                                                  <entry align="left" style="NO-DOT-LEADER">Parliamentary Groups</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">Seats</entry>
+                                             </row>
+                                        </thead>
+                                        <tbody>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Group of the European People’s Party (Christian Democrats) (EPP)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">182</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Group of the Progressive Alliance of Socialists and Democrats (S&amp;D)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">154</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Renew Europe</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">108</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">Group of the Greens/European Free Alliance (Greens/EFA)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">74</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">Identity and Democracy</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">73</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">European Conservatives and Reformists Group (ECR)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">62</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Confederal Group of the European United Left/Nordic Green Left (GUE/NGL)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">41</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">Others</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">57</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">
+                                                       <b>Total</b>
+                                                  </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">751</entry>
+                                             </row>
+                                        </tbody>
+                                   </tgroup>
+                              </table>
+                         </table-block>
+                         <p usage="ewyb edio casee">With effect from June 2009 the minimum number of members required to form a political group under the EP’s rules of procedure was fixed at 25, from a minimum of seven member states.</p>
+                         <p id="WB02047.IO.TXT.117" usage="ewyb edio casee">The EP has an annual session, divided into around 12 one-week meetings, attended by all members and normally held in Strasbourg, France. The session opens with the March meeting. Committee meetings, political group meetings and additional plenary sittings of the EP are held in Brussels, Belgium, while the parliamentary administrative offices are based in Luxembourg.</p>
+                         <p id="WB02047.IO.TXT.118" usage="ewyb edio casee">The budgetary powers of the EP (which, together with the Council, forms the Budgetary Authority of the EU) were in­creased to their present status by a treaty of 22 July 1975. Under this treaty the EP can amend non-agricultural spending and reject the draft budget, acting by a majority of its members and two-thirds of the votes cast. The EP debates the draft budget in two successive readings, and it does not come into force until it has been signed by the President of the Parliament. The Parliament’s Committee on Budgetary Control monitors how the budget is spent, and each year the Parliament decides whether to approve the Commission’s handling of the budget for the previous financial year (a process technically known as `granting a discharge’).</p>
+                         <p id="WB02047.IO.TXT.119" usage="ewyb edio casee">The EP is run by a Bureau comprising the President, 14 Vice-Presidents elected from its members by secret ballot to serve for two-and-a-half years, and the five members of the College of Quaestors. The Conference of Presidents is the political governing body of the EP, with responsibility for formulating the agenda for plenary sessions and the timetable for the work of parliamentary bodies, and for establishing the terms of reference and the size of committees and delegations. It comprises the President of the EP and the Chairs of the political groups.</p>
+                         <p id="WB02047.IO.TXT.120" usage="ewyb edio casee">The majority of the EP’s work is conducted by 20 Standing Parliamentary Committees, which correspond to different policy areas and various European Commission agencies: Foreign Affairs (including Human Rights and Security and Defence); Development; International Trade; Budgets; Budgetary Control; Economic and Monetary Affairs; Employment and Social Affairs; Environment, Public Health and Food Safety; Industry, Research and Energy; Internal Market and Consumer Protection; Transport and Tourism; Regional Development; Agriculture and Rural Development; Fisheries; Culture and Education; Legal Affairs; Civil Liberties, Justice and Home Affairs; Constitutional Affairs; Women’s Rights and Gender Equality; and Petitions.</p>
+                         <p id="WB02047.IO.TXT.121" usage="ewyb edio">The first direct elections to the EP took place in June 1979, and the Parliament met for the first time in July. The second elections were held in June 1984 (with separate elections held in Portugal and Spain in 1987, following the accession of these two countries), the third in June 1989, and the fourth in June 1994. Direct elections to the EP were held in Sweden in September 1995, and in Austria and Finland in October 1996. The fifth EP was elected in June 1999, and the sixth in June 2004, following the mass accession of 10 new member states in May of that year. Elections to the seventh EP were held in June 2009. Given the admission of Croatia to the EU in July 2013, in late June the European Council adopted a resolution adjusting the allocation of seats in the 2014–19 Parliament.</p>
+                         <p>In January 2018 the Parliamentary Committee on Constitutional Affairs voted to redistribute 27 of the 73 seats occupied by British members of the EP following the UK’s departure from the EU (which took place in January 2020), while the overall number of seats was to be reduced to 705. The remaining 46 seats were to remain unfilled, but would potentially be used by acceding member states. Elections to the ninth EP took place on 23–26 May 2019. The overall rate of participation by the electorate was 50.6%, compared with 42.6% in 2014. Elections to the 10th EP were scheduled for 6–9 June 2024.</p>
+                         <dir-list>
+                              <dir-entry id="WB02047.IO.TXT.92" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb edio casee">
+                                   <dir-entry-name>President</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Roberta</forename>
+                                                  <surname>Metsola</surname>
+                                             </person-name>
+                                             <person-note>Malta</person-note>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                         </dir-list>
+                    </int-org-section>
+               </int-org-entry>
+          </int-org-entryref>

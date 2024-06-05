@@ -1,0 +1,27 @@
+<org-entryref id="SL3919427" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3919426" slsdocid="3919336" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.USAC.39.15" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="National Associations" usage="usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>International Motor Press Association</org-entry-name>
+                                                  <abbr>IMPA</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>783 Old Queen Anne Rd, Chatham, MA 02633</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 724-7071</telephone>
+                                                  <email>info@impa.org</email>
+                                                  <internet>impa.org</internet>
+                                             </address-block>
+                                             <found-date>1962</found-date>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Evelyn</forename>
+                                                            <surname>Kanter</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

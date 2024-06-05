@@ -1,0 +1,37 @@
+<org-entryref id="SL4326691" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4326690" slsdocid="4326584" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389959994" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Post-Register</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>333 Northgate Mile, POB 1800, Idaho Falls, ID 83401</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(208) 522-1800</telephone>
+                                                       <fax>(208) 522-5790</fax>
+                                                       <email>mlaorange@postregister.com</email>
+                                                       <internet>postregister.com</internet>
+                                                  </address-block>
+                                                  <found-date>1880</found-date>
+                                                  <role-group>
+                                                       <role>Regional Pres. (Adams Publishing Group LLC)</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Travis</forename>
+                                                                 <surname>Quast</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>John</forename>
+                                                                 <surname>Miller</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 26,000 (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

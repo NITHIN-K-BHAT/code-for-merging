@@ -1,0 +1,29 @@
+<org-entryref id="SL2797629" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2797628" slsdocid="249244" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1305" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>US Weekly</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1955 Lake Park Dr., Suite 400, Smyra, GA 30080</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 484–3424</telephone>
+                                                  <email>victoria.rose@usmagazine.com</email>
+                                                  <internet>usmagazine.com</internet>
+                                             </address-block>
+                                             <found-date>1977</found-date>
+                                             <frequency>weekly</frequency>
+                                             <content-note style="NORMAL">celebrity</content-note>
+                                             <role-group>
+                                                  <role>Vice-Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Victoria Lasdon</forename>
+                                                            <surname>Rose</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 1,977,988</stats>
+                                        </org-entry>
+                                   </org-entryref>

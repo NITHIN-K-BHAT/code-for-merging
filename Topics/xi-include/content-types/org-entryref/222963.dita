@@ -1,0 +1,30 @@
+<org-entryref id="SL240200" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="240199" slsdocid="222963" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="SE.DIR.153" id-root="se.dir" iso="se" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN SWEDEN">
+                                        
+                                        
+                                        
+                                        <data-protection date-added="15.05.2009" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Dag Hammarskjölds Väg 31, 115 89 Stockholm</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(8) 783-53-00</telephone>
+                                             <fax>(8) 661-19-64</fax>
+                                             <email>stockholmprotocol@state.gov</email>
+                                             <internet>se.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Erik D.</forename>
+                                                       <surname>Ramanathan</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

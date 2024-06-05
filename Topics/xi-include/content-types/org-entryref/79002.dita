@@ -1,0 +1,20 @@
+<org-entryref id="SL1759204" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759203" slsdocid="79002" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.548" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Pacific Yachting</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1166 Alberni St, Suite 802, Vancouver, BC V6E 3Z3</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(604) 428-0259</telephone>
+                                                       <fax>(604) 620-0425</fax>
+                                                       <email>info@pacificyachting.com</email>
+                                                       <internet>pacificyachting.com</internet>
+                                                  </address-block>
+                                                  <found-date>1968</found-date>
+                                                  <frequency>monthly</frequency>
+                                                  <stats>circ. 7,086 (June 2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

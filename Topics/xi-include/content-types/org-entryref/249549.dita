@@ -1,0 +1,30 @@
+<org-entryref id="SL1741350" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741349" slsdocid="249549" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.983" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>State Journal-Register</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>
+                          421 S Grand Ave W, Suite 1
+                          <sc>a</sc>
+                          , Springfield, IL 62704
+                        </verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 397-2472</telephone>
+                                                       <email>delivery@sj-r.com</email>
+                                                       <internet>sj-r.com</internet>
+                                                  </address-block>
+                                                  <found-date>1831</found-date>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Leisa</forename>
+                                                                 <surname>Richardson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

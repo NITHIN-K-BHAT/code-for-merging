@@ -1,0 +1,27 @@
+<org-entryref id="SL4326113" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4326112" slsdocid="4325845" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389952377" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Ventura County Star</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>771 E Daily Dr., POB 6006, Camarillo, CA 93011</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(805) 437-0222</telephone>
+                                                       <email>news@vcstar.com</email>
+                                                       <internet>vcstar.com</internet>
+                                                  </address-block>
+                                                  <found-date>1925</found-date>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>News Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Stacie N.</forename>
+                                                                 <surname>Galang</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

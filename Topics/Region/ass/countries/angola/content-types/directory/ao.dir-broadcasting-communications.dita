@@ -1,0 +1,465 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL89960" sllink="SLSDOCRF" sllinkid="89959" slsdocid="73701" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="AO.DIR.251" id-root="ao.dir" iso="ao" sect-type="broadcasting-comms" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                    <heading>Broadcasting and Communications</heading>
+                    <dir-section id="AO.DIR.252" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>Telecommunications</heading>
+                         <!--https://www.menosfios.com/en/angola-has-more-than-13-millions-of-mobile-phone-users/-->
+                         <org-list>
+                              <org-entryref id="SL7816097" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7816096" slsdocid="7680424" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1639732009" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>Africell Angola</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Luanda</verbatim-address>
+                                             </address>
+                                             <internet>www.africell.ao</internet>
+                                        </address-block>
+                                        <found-date>2021</found-date>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jorge</forename>
+                                                       <surname>Vazquez</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL94102" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94101" slsdocid="73894" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.253" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS">
+                                        <!--VD 25.01.2024 https://www.jornaldeangola.ao/ao/noticias/morreu-administrador-para-operacoes-da-angola-telecom/; https://developingtelecoms.com/telecom-business/operator-news/15165-angola-telecom-privatisation-plans-cancelled.html-->
+                                        <!--AU 01.12.2017 Privatization of 45% of the capital of Angola Telecom was announced by the govt in late 2017, https://www.financialafrik.com/2017/11/29/angola-vers-larrivee-dun-quatrieme-operateur-de-telephonie/-->
+                                        <org-entry-head>
+                                             <org-entry-name>Angola Telecom</org-entry-name>
+                                             <abbr>AT</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua das Quipacas 186, 3° andar, CP 625, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222700000</telephone>
+                                             <email>info@angolatelecom.ao</email>
+                                             <internet>www.angolatelecom.ao</internet>
+                                        </address-block>
+                                        <found-date>1992 by a merger of former state-owned enterprises Enatel and EPTEL</found-date>
+                                        <content-note style="NORMAL">fixed-line and mobile services</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Adilson Miguel</forename>
+                                                       <surname>dos Santos</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Exec. Dir</role>
+                                             <person>
+                                                  <vacancy />
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4678953" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4678952" slsdocid="743455" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1074521498" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>Movicel Telecomunicações, Lda</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Edif. Kwando Kubango, Av. de Talatona, Belas Business Park, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222692000</telephone>
+                                             <email>support19191@movicel.co.ao</email>
+                                             <internet>movicel.co.ao</internet>
+                                        </address-block>
+                                        <found-date>2003</found-date>
+                                        <content-note style="NORMAL">mobile telephone operator</content-note>
+                                        <content-note style="NORMAL">shares acquired by Angola Telecom in 2021</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Adilson Miguel</forename>
+                                                       <surname>dos Santos</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL999252" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="999251" slsdocid="999240" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1091443837" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>Mundo StarTel</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua da Polícial, Bairro dos Correios, Municipio do Rangel, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">227227227</telephone>
+                                             <email>negocios@startel.ao</email>
+                                             <internet>startel.ao</internet>
+                                        </address-block>
+                                        <found-date>2004</found-date>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1298050" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1298049" slsdocid="1298021" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1119277004" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Telecommunications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Telecommunications">
+                                        <!--VD 25.01.2024 website not working; not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Net One</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua dos Enganos 1, 1° andar, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">226450450</telephone>
+                                             <email>netone@netone.co.ao</email>
+                                             <internet>www.netone.co.ao</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">internet service provider</content-note>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1109728" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1109727" slsdocid="1109723" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1102598790" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS">
+                                        <!--VD 25.01.2024 website not working-->
+                                        <!--VD 26.11.2019 https://www.menosfios.com/en/Unitel-has-a-new-CEO/-->
+                                        <org-entry-head>
+                                             <org-entry-name>Unitel SARL</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      Rua Kwamme Nkrumah 53
+                      <sc>a</sc>
+                      , Talatona Sector, Via CS3, Luanda Sul
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">923199100</telephone>
+                                             <email>support.client@unitel.co.ao</email>
+                                             <internet>www.unitel.ao</internet>
+                                        </address-block>
+                                        <found-date>1998</found-date>
+                                        <content-note style="NORMAL">state-owned mobile telephone operator</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Miguel</forename>
+                                                       <surname>Geralds</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                         <dir-section id="AO.DIR.0912041335" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                              <heading>Regulatory Authority</heading>
+                              <org-list>
+                                   <org-entryref id="SL1109736" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1109735" slsdocid="289282" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.1011" id-root="ao" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS" usage="ewyb ass">
+                                             <org-entry-head>
+                                                  <org-entry-name>Instituto Angolano das Comunicações</org-entry-name>
+                                                  <abbr>INACOM</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Av. Dr António Agostinho Neto 25, Zona C, Praia do Bispo, CP 1459, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">222210666</telephone>
+                                                  <email>geral@inacom.gov.ao</email>
+                                                  <internet>inacom.gov.ao</internet>
+                                             </address-block>
+                                             <found-date>1999</found-date>
+                                             <content-note style="NORMAL">monitoring and regulatory authority</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Joaquim Domingos</forename>
+                                                            <surname>Muhongo</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+                    <dir-section id="AO.DIR.255" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>Broadcasting</heading>
+                         <dir-section id="AO.DIR.256" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                              <heading>Radio</heading>
+                              <org-list>
+                                   <org-entryref id="SL94106" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94105" slsdocid="73890" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.257" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BROADCASTING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Rádio Nacional de Angola</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>CP 1329, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">946441484</telephone>
+                                                  <email>geral@rna.ao</email>
+                                                  <internet>www.rna.ao</internet>
+                                             </address-block>
+                                             <found-date>1975</found-date>
+                                             <content-note style="NORMAL">state-controlled</content-note>
+                                             <content-note style="NORMAL">operates Canal A, Radio 5, RNA Internacional, Rádio Luanda and N’gola Yetu</content-note>
+                                             <content-note style="NORMAL">broadcasts in Portu­guese, English, French, Lingala and vernacular languages (Chokwe, Kikongo, Kimbundu, Kwanyama, Fiote, Ngangela, Luvale, Songu, Umbundu)</content-note>
+                                             <role-group>
+                                                  <role>Chair</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Pedro Afonso</forename>
+                                                            <surname>Cabral</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL94108" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94107" slsdocid="73889" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.258" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BROADCASTING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Luanda Antena Comercial</org-entry-name>
+                                                  <abbr>LAC</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Rua Luther King 5, CP 3521, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">222339917</telephone>
+                                                  <email>info@lacluanda.co.ao</email>
+                                                  <internet>lac.ao</internet>
+                                             </address-block>
+                                             <found-date>1992</found-date>
+                                             <content-note style="NORMAL">popular music</content-note>
+                                             <role-group>
+                                                  <role>Gen. Man</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Luísa</forename>
+                                                            <surname>Fançony</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL1109975" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1109974" slsdocid="1109972" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.1102607940" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BROADCASTING">
+                                             <data-protection date-added="03.04.2006" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Rádio Escola</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Rua Luther King 5, 123/4, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">222337409</telephone>
+                                                  <email>geral@cefojor.sapo.ao</email>
+                                                  <internet>radios.sapo.ao/radio-escola</internet>
+                                             </address-block>
+                                             <found-date>2003</found-date>
+                                             <content-note style="NORMAL">commercial station, provides journalistic training</content-note>
+                                             <role-group>
+                                                  <role>Dir-Gen.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Ikuma José</forename>
+                                                            <surname>Bamba</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL94110" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94109" slsdocid="73888" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.259" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BROADCASTING">
+                                             <!--VD 26.11.2019 alt working email ID: info@radioecclesia.org-->
+                                             <!--VD 28.05.2019 email address source-https://onlineradiobox.com/ao/ecclesia/?lang=en-->
+                                             <data-protection date-added="08.08.2008" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Rádio Ecclésia—Emissora Católica de Angola</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Rua Comandante Bula 118, São Paulo, CP 3579, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">222447153</telephone>
+                                                  <email>marketingecclesia@sapo.ao</email>
+                                                  <internet>www.radioecclesia.org</internet>
+                                             </address-block>
+                                             <found-date>1955</found-date>
+                                             <role-group>
+                                                  <role>Dir-Gen.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Fr</title>
+                                                            <forename>Augusto</forename>
+                                                            <surname>Epalanga</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL3551707" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3551706" slsdocid="3551684" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.1324023974" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Broadcasting">
+                                             <org-entry-head>
+                                                  <org-entry-name>Rádio Mais</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Rua Projecto Nova Vida 40, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">943023747</telephone>
+                                                  <email>contact.center@radiomais.co.ao</email>
+                                                  <internet>www.radiomais.ao</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                              <p id="AO.DIR.2985012">The Voice of America also broadcasts from Luanda.</p>
+                         </dir-section>
+                         <dir-section id="AO.DIR.260" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                              <heading>Television</heading>
+                              <org-list>
+                                   <org-entryref id="SL94112" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94111" slsdocid="73887" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.261" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BROADCASTING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Televisão Pública de Angola</org-entry-name>
+                                                  <abbr>TPA</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Av. Ho Chi Minh, CP 2604, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">222320025</telephone>
+                                                  <internet>www.tpa.ao</internet>
+                                             </address-block>
+                                             <found-date>1975</found-date>
+                                             <content-note style="NORMAL">state-controlled</content-note>
+                                             <content-note style="NORMAL">3 channels</content-note>
+                                             <content-note style="NORMAL">broadcasts in Portuguese</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Francisco</forename>
+                                                            <surname>Mendes</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL3807841" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3807840" slsdocid="3807833" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.1344869642" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Television">
+                                             <org-entry-head>
+                                                  <org-entry-name>TV Cabo Angola</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Av. Pedro de Castro Van-Dúnem Loy, Morro Bento, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">222680000</telephone>
+                                                  <email>tvcabo@tvcabo.co.ao</email>
+                                                  <internet>tvcabo.co.ao</internet>
+                                             </address-block>
+                                             <found-date>2006</found-date>
+                                             <content-note style="NORMAL">provider of digital television and internet services</content-note>
+                                             <role-group>
+                                                  <role>Man. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Francisco</forename>
+                                                            <surname>Ferreira</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL5980621" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5980620" slsdocid="5980574" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.1511864734" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communication" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Television">
+                                             <!--VD 26.11.2019 www.tvzimbo.com not working-->
+                                             <org-entry-head>
+                                                  <org-entry-name>TV Zimbo</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Av. Talatona, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">222636900</telephone>
+                                                  <email>comercial@tvzimbo.com</email>
+                                                  <internet>www.tvzimbo.ao</internet>
+                                             </address-block>
+                                             <found-date>2008</found-date>
+                                             <content-note style="NORMAL">private</content-note>
+                                             <content-note style="NORMAL">owned by Medianova</content-note>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Francisco</forename>
+                                                            <surname>Mendes</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6944110" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6944109" slsdocid="6944047" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.1580359324" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Television">
+                                             <!--VD 29.01.2024 not sure about role group-->
+                                             <!--role group: https://www.meiosepublicidade.pt/2018/05/jose-carlos-lourenco-sera-o-novo-ceo-da-zap/-->
+                                             <org-entry-head>
+                                                  <org-entry-name>ZAP</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        Edif. ZAP, Via A4
+                        <sc>a</sc>
+                        , Talatona-Município de Samba, Luanda
+                      </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">935555500</telephone>
+                                                  <email>apoio.cliente@zap.co.ao</email>
+                                                  <internet>www.zap.co.ao</internet>
+                                             </address-block>
+                                             <found-date>2010</found-date>
+                                             <role-group>
+                                                  <role>Gen. Man.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>José Carlos</forename>
+                                                            <surname>Lourenço</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

@@ -1,0 +1,38 @@
+<org-entryref id="SL3930923" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3930922" slsdocid="3930849" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="CA.DIR.USAC.32.123" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Publishers’ Organizations and Associations" usage="usac">
+                                             <data-protection date-added="22.07.2009" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>SaskBooks</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1831 College Ave, Suite 324, Regina, SK S4P 4V5</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(306) 780-9808</telephone>
+                                                  <email>info@saskbooks.com</email>
+                                                  <internet>skbooks.com</internet>
+                                             </address-block>
+                                             <found-date>1989</found-date>
+                                             <content-note style="NORMAL">fmrly Saskatchewan Publishers Group</content-note>
+                                             <content-note style="NORMAL">affiliated to ACP</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Karon</forename>
+                                                            <surname>Shmon</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jillian</forename>
+                                                            <surname>Bell</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

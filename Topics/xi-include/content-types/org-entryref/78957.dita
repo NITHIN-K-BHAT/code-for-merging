@@ -1,0 +1,26 @@
+<org-entryref id="SL1759404" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759403" slsdocid="78957" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.600" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Travel Press Weekly</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>310 Dupont St, Toronto, ON M5R 1V9</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 968-7252</telephone>
+                                                       <email>ctp@baxter.net</email>
+                                                       <internet>travelpress.com</internet>
+                                                  </address-block>
+                                                  <frequency>46 a year</frequency>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Bob</forename>
+                                                                 <surname>Mowat</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

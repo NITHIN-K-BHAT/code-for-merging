@@ -1,0 +1,65 @@
+<org-entryref id="SL8961312" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8961311" slsdocid="250547" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1560" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="RADIO" usage="ewyb usac">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Cumulus Media, Inc</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>780 Johnson Ferry Rd NE, Suite 500, Atlanta, GA 30342</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(404) 949-0700</telephone>
+                                                            <email>press@cumulus.com</email>
+                                                            <internet>cumulusmedia.com</internet>
+                                                       </address-block>
+                                                       <found-date>1998</found-date>
+                                                       <content-note style="NORMAL">404 local radio stations, and nationally syndicated shows and podcasts, and over 9,400 affiliated radio stations (2023)</content-note>
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Andy</forename>
+                                                                      <surname>Hobson</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Mary G.</forename>
+                                                                      <surname>Berner</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <org-list>
+                                                            <org-entryref id="SL5127408" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5127407" slsdocid="250540" slsdocty="org-entry org-entrydtd">
+                                                                 
+                                                                 <org-entry id="US.DIR.1566" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="RADIO" usage="usac">
+                                                                      <org-entry-head>
+                                                                           <org-entry-name>Westwood One</org-entry-name>
+                                                                      </org-entry-head>
+                                                                      <address-block>
+                                                                           <address type="POSTAL">
+                                                                                <verbatim-address>780 Johnson Ferry Rd NE, Suite 500, Atlanta, GA 30342</verbatim-address>
+                                                                           </address>
+                                                                           <telephone alsofax="N">(404) 260–6600</telephone>
+                                                                           <email>affiliateservices@westwoodone.com</email>
+                                                                           <internet>westwoodone.com</internet>
+                                                                      </address-block>
+                                                                      <content-note style="NORMAL">subsidiary of Cumulus Media, Inc</content-note>
+                                                                      <content-note style="NORMAL">provides content and services to over 8,000 radio stations and media companies</content-note>
+                                                                      <role-group>
+                                                                           <role>Pres.</role>
+                                                                           <person>
+                                                                                <person-name>
+                                                                                     <forename>Suzanne M.</forename>
+                                                                                     <surname>Grimes</surname>
+                                                                                </person-name>
+                                                                           </person>
+                                                                      </role-group>
+                                                                 </org-entry>
+                                                            </org-entryref>
+                                                       </org-list>
+                                                  </org-entry>
+                                             </org-entryref>

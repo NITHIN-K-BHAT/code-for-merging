@@ -1,0 +1,35 @@
+<org-entryref id="SL5113366" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5113365" slsdocid="249134" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1407" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>ABC-CLIO, LLC</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>147 Castilian Dr., Santa Barbara, CA 93117</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(805) 968-1911</telephone>
+                                             <fax>(866) 270-3856</fax>
+                                             <email>customerservice@abc-clio.com</email>
+                                             <internet>abc-clio.com</internet>
+                                        </address-block>
+                                        <found-date>1967</found-date>
+                                        <content-note style="NORMAL">division of RELX Group (UK)</content-note>
+                                        <content-note style="NORMAL">comprises Greenwood Press (reference), Praeger Publrs (f. 1949, academic and general-interest non-fiction) and Libraries Unlimited (educational and reference)</content-note>
+                                        <role-group>
+                                             <role>Co-Pres</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Becky</forename>
+                                                       <surname>Snyder</surname>
+                                                  </person-name>
+                                             </person>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ron</forename>
+                                                       <surname>Boehm</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,1024 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL89964" sllink="SLSDOCRF" sllinkid="89963" slsdocid="73699" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="AO.DIR.281" id-root="ao.dir" iso="ao" sect-type="trade-industry" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                    <heading>Trade and Industry</heading>
+                    <dir-section id="AO.DIR.282" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>Government Agencies</heading>
+                         <org-list>
+                              <!--see www.embaixadadeangola.org NG-->
+                              <org-entryref id="SL2719431" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2719430" slsdocid="1108105" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1102419048" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="GOVERNMENT AGENCIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Agência de Investimento Privado e Promoção das Exportações</org-entry-name>
+                                             <abbr>AIPEX</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Kwame Nkrumah 10, KN10, Município de Belas, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222391434</telephone>
+                                             <email>geral@aipex.gov.ao</email>
+                                             <internet>www.aipex.gov.ao</internet>
+                                        </address-block>
+                                        <found-date>2018 to replace Agência para a Promoção do Investimento e Exportações (APIEX) and, prior to 2015, Agência Nacional para o Investimento Privado (ANIP)</found-date>
+                                        <content-note style="NORMAL">under the Ministry of the Economy and Planning</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Arlindo das</forename>
+                                                       <surname>Chagas Rangel</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1085588" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1085587" slsdocid="1085580" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1098789863" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade ad Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="GOVERNMENT AGENCIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Gabinete de Obras Especiais</org-entry-name>
+                                             <abbr>GOE</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Luanda</verbatim-address>
+                                             </address>
+                                        </address-block>
+                                        <found-date>2011</found-date>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Leonel</forename>
+                                                       <surname>Cruz</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3205889" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3205888" slsdocid="3205879" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1290496164" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Government Agencies">
+                                        <!--VD 04.06.2019 source:http://www.portal-lusofonia.org/content/view/43/31-->
+                                        <!--VD 04.06.2019 Surname of director is written as "Miguel" everywhere-->
+                                        <org-entry-head>
+                                             <org-entry-name>Instituto Angolano da Propriedade Industrial</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Cerqueira Lukoki 25, 6º andar, CP 3840, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222004991</telephone>
+                                             <email>prudencia.silva@yahoo.com.br</email>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ana Paula</forename>
+                                                       <surname>Miguel</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL602632" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="602631" slsdocid="602614" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1057677709" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Government Agencies">
+                                        <org-entry-head>
+                                             <org-entry-name>Instituto de Desenvolvimento Industrial de Angola</org-entry-name>
+                                             <abbr>IDIA</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Cerqueira Lukoki 25, 8° andar, CP 594, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222338492</telephone>
+                                             <email>geral@india.gov.ao</email>
+                                             <internet>idia.gov.ao</internet>
+                                        </address-block>
+                                        <found-date>1995</found-date>
+                                        <content-note style="NORMAL">promotes industrial devt</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dário</forename>
+                                                       <surname>Camati</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL5981327" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5981326" slsdocid="5981295" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1511946211" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Government Agency">
+                                        <!--VD 09.08.2022 role: https://www.africa-press.net/angola/all-news/more-than-ten-thousand-companies-certified-by-inapem-->
+                                        <org-entry-head>
+                                             <org-entry-name>Instituto Nacional de Apoio as Micro, Pequenas e Médias Empresas</org-entry-name>
+                                             <abbr>INAMPEM</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Largo 1º Maio, Edif. Torres Dipanda, Lado A, 4º andar, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">937537383</telephone>
+                                             <internet>www.inapem.gov.ao</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">responsible for implementation of policies and strategies in the field of training and financing of micro, small and medium-sized enterprises</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>João</forename>
+                                                       <surname>Nkossi</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL602639" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="602638" slsdocid="602620" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1057677971" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Government Agencies">
+                                        <!--VD 09.09.2022 unsure about role group-->
+                                        <org-entry-head>
+                                             <org-entry-name>Instituto Nacional de Cereais</org-entry-name>
+                                             <abbr>INCER</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Clássicos de Talatona, Prédio nº2, 6º e 7º andares, Rua do MAT, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">936702118</telephone>
+                                             <email>geral@ciencia.ao</email>
+                                             <internet>ciencia.ao</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">promotes cereal crops</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Dr</title>
+                                                       <forename>Benjamim Álvaro</forename>
+                                                       <surname>Castelo</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL5981288" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5981287" slsdocid="5981274" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1511945472" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Government agencies">
+                                        <!--VD 09.09.2022 own web not working, used FB page-->
+                                        <org-entry-head>
+                                             <org-entry-name>Instituto Regulador dos Serviços de Electricidade e de Água</org-entry-name>
+                                             <abbr>IRSEA</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Edif. Complexo Clássicos do Talatona 5, 6º andar, Rua do MAT, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222747707</telephone>
+                                             <email>irsea.irsea@irsea.gov.ao</email>
+                                             <internet>www.irsea.gov.ao</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Luís Mourão</forename>
+                                                       <surname>da Silva</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="AO.DIR.285" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>Chambers of Commerce</heading>
+                         <org-list>
+                              <org-entryref id="SL93994" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93993" slsdocid="73867" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.286" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CHAMBER OF COMMERCE">
+                                        <!--VD 09.09.2022 on web not working-->
+                                        <org-entry-head>
+                                             <org-entry-name>Cãmara de Comércio e Indústria de Angola</org-entry-name>
+                                             <abbr>CCIA</abbr>
+                                             <alt-name>Angolan Chamber of Commerce and Industry</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Largo do Kina­xixi 14, 1° andar, CP 92, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">938872540</telephone>
+                                             <email>CCIANGOLA2021@gmail.com</email>
+                                             <internet>www.cciangola.com</internet>
+                                        </address-block>
+                                        <found-date>1988</found-date>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Vicente</forename>
+                                                       <surname>Soares</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Exec. Sec.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>António Tiago</forename>
+                                                       <surname>Gomes</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="AO.DIR.287" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>Industrial and Trade Associations</heading>
+                         <org-list>
+                              <org-entryref id="SL962596" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="962595" slsdocid="962593" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1088850191" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Industrial and Trade Associations">
+                                        <!--aiangola.com not available, removed-->
+                                        <!--https://www.club-k.net/index.php?option=com_content&view=article&id=33645:associacao-industrial-de-angola-propoe-criacao-de-alta-autoridade-tributaria&catid=5&Itemid=1070&lang=pt Still active in 2018.-->
+                                        <org-entry-head>
+                                             <org-entry-name>Associação Industrial de Angola</org-entry-name>
+                                             <abbr>AIA</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Manuel Fernando Caldeira 6, CP 61227, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222330624</telephone>
+                                             <email>contactos@aiangola.net</email>
+                                        </address-block>
+                                        <found-date>1930</found-date>
+                                        <content-note style="NORMAL">suspended operations between 1976 and 1992</content-note>
+                                        <content-note style="NORMAL">re-launched 1992</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>José</forename>
+                                                       <surname>Severino</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL962591" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="962590" slsdocid="962587" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1088849545" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Industrial and Trade Associations">
+                                        <org-entry-head>
+                                             <org-entry-name>Associação dos Empreendedores de Angola</org-entry-name>
+                                             <abbr>AEA</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Município de Belas Via AL3, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">939648142</telephone>
+                                             <email>info@empreendedoresangola.org</email>
+                                             <internet>www.empreendedoresangola.org</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="AO.DIR.290" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>State Trading Organizations</heading>
+                         <org-list>
+                              <org-entryref id="SL288978" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="288977" slsdocid="288956" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1001" id-root="ao" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="STATE TRADING ORGANIZATIONS" usage="ewyb ass">
+                                        <!--VD 04.06.2019 A new website seems to have been made, but it has no information.-->
+                                        <org-entry-head>
+                                             <org-entry-name>Empresa Nacional de Comercialização de Diamantes de Angola</org-entry-name>
+                                             <abbr>SODIAM EP</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Edif. Endiama/De Beers, 7º andar, Rua Rainha Ginga 87, CP 1072, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222396786</telephone>
+                                             <email>geral@sodiam.co.ao</email>
+                                             <internet>www.sodiam.co.ao</internet>
+                                        </address-block>
+                                        <found-date>1999</found-date>
+                                        <content-note style="NORMAL">part of the ENDIAMA group</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Eugénio Pereira</forename>
+                                                       <surname>Bravo da Rosa</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="AO.DIR.299" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>State Industrial Enterprises</heading>
+                         <org-list>
+                              <org-entryref id="SL7133238" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7133237" slsdocid="7133209" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1591962358" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="STATE INDUSTRIAL ENTERPRISES">
+                                        <org-entry-head>
+                                             <org-entry-name>Agência Nacional de Recursos Minerais</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Luanda</verbatim-address>
+                                             </address>
+                                        </address-block>
+                                        <found-date>2020 to replace FERRANGOL</found-date>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jacinto Ferreira dos</forename>
+                                                       <surname>Santos Rocha</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL8096802" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8096801" slsdocid="8096699" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1653306621" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="STATE INDUSTRIAL ENTERPRISES">
+                                        <org-entry-head>
+                                             <org-entry-name>Agência Nacional de Petróleo, Gás e Biocombustíveis</org-entry-name>
+                                             <abbr>ANPG</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Edif. Torres do Carmo, Torre 2, Rua Lopes Lima, Distrito Urbano da Ingombota, CP 3279, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">226428000</telephone>
+                                             <email>comunicacao@anpg.co.ao</email>
+                                             <internet>anpg.co.ao</internet>
+                                        </address-block>
+                                        <found-date>2019</found-date>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Paulino Fernando de Carvalho</forename>
+                                                       <surname>Jerónimo</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL94042" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94041" slsdocid="73837" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.313" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="STATE INDUSTRIAL ENTERPRISES">
+                                        <org-entry-head>
+                                             <org-entry-name>Empresa Nacional de Diamantes de Angola, UEE</org-entry-name>
+                                             <abbr>ENDIAMA</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Major Kanhangulo nº 100, CP 1247, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222334585</telephone>
+                                             <email>endiama.invest@endiama.co.ao</email>
+                                             <internet>www.endiama.co.ao</internet>
+                                        </address-block>
+                                        <found-date>1981</found-date>
+                                        <content-note style="NORMAL">commenced operations 1986</content-note>
+                                        <content-note style="NORMAL">diamond mining</content-note>
+                                        <content-note style="NORMAL">a number of subsidiaries incl. SODIAM, ENDITRADE and ALFA 5</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>José Manuel Ganga</forename>
+                                                       <surname>Júnior</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL8096724" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8096723" slsdocid="8096718" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1653307122" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="STAT INDUSTRIAL ENTERPRISES">
+                                        <org-entry-head>
+                                             <org-entry-name>Instituto Regulador dos Derivados de Petróleo</org-entry-name>
+                                             <abbr>IRDP</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua João de Deus 55, Vila Alice, Distrito Urbano do Rangel, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">936715021</telephone>
+                                             <email>informa@irdp.gov.ao</email>
+                                             <internet>www.irdp.gov.ao</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Albino</forename>
+                                                       <surname>Ferreira</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL94054" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94053" slsdocid="73831" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.319" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="STATE INDUSTRIAL ENTERPRISES">
+                                        <org-entry-head>
+                                             <org-entry-name>Sociedade Nacional de Combustíveis de Angola</org-entry-name>
+                                             <abbr>SONANGOL</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Rainha Ginga 22, nº 29-31, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222334448</telephone>
+                                             <email>secretariageral@sonangol.co.ao</email>
+                                             <internet>www.sonangol.co.ao</internet>
+                                        </address-block>
+                                        <found-date>1976</found-date>
+                                        <content-note style="NORMAL">exploration, production and refining of crude petroleum, and marketing and distribution of petroleum products</content-note>
+                                        <content-note style="NORMAL">sole concessionary in Angola, supervises on- and offshore operations of foreign petroleum cos</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Sebastião Pai Querido</forename>
+                                                       <surname>Gaspar Martins</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3140793" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3140792" slsdocid="1308578" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1120478475" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="State Industrial Enterprises">
+                                        <!--VD 12.09.2022 https://www.linkedin.com/in/francisco-lima-aires-2bb47514a/?originalSubdomain=ao-->
+                                        <!--VD 01.06.2021 confirmed from https://www.galp.com/corp/en/about-us/global-presence/angola, -->
+                                        <org-entry-head>
+                                             <org-entry-name>Sonangalp, Lda</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Largo 17 de Setembro 3, 1º Esq., Presidente Business Center, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222310830</telephone>
+                                             <email>geral@sonangalp.co.ao</email>
+                                        </address-block>
+                                        <found-date>1994</found-date>
+                                        <content-note style="NORMAL">51% owned by SONANGOL, 49% owned by Galp Energia (Portugal)</content-note>
+                                        <content-note style="NORMAL">fuel distribution</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Francisco Lima</forename>
+                                                       <surname>Aires</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="AO.DIR.321" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>Utilities</heading>
+                         <dir-section id="AO.DIR.322" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                              <heading>Electricity</heading>
+                              <org-list>
+                                   <org-entryref id="SL5171701" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5171700" slsdocid="73826" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.324" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="UTILITIES">
+                                             <data-protection date-added="13.04.2004" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Empresa Nacional de Distribuiçãode Electricidade</org-entry-name>
+                                                  <abbr>ENDE</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Rua Cónego Manuel das Neves 234, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">222641750</telephone>
+                                                  <internet>www.ende.co.ao</internet>
+                                             </address-block>
+                                             <found-date>2014</found-date>
+                                             <content-note style="NORMAL">responsible for the distribution of electricity</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Hélder de Jesus</forename>
+                                                            <surname>Garcia Adão</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL94058" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94057" slsdocid="73827" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.323" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="UTILITIES">
+                                             <org-entry-head>
+                                                  <org-entry-name>Empresa Pública de Produção de Electricidade</org-entry-name>
+                                                  <alt-name>PRODEL</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>nr TPA Production Centre, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">913953111</telephone>
+                                                  <email>geral@prodel.co.ao</email>
+                                                  <!--paginaweb@prodel.co.ao-->
+                                                  <internet>www.prodel.co.ao</internet>
+                                             </address-block>
+                                             <found-date>2014</found-date>
+                                             <content-note style="NORMAL">responsible for the operation of power stations</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Pedro Eduardo</forename>
+                                                            <surname>Manuel Afonso</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL5171679" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5171678" slsdocid="5171672" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.1452599550" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Utilities">
+                                             <org-entry-head>
+                                                  <org-entry-name>Rede Nacional de Transporte de Electricidade</org-entry-name>
+                                                  <abbr>RNT</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>nr TPA Production Centre, Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">222704404</telephone>
+                                                  <email>geral@rnt.co.ao</email>
+                                                  <internet>www.rnt.co.ao</internet>
+                                             </address-block>
+                                             <found-date>2014</found-date>
+                                             <content-note style="NORMAL">responsible for the management of the transmission grid</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Rui Pereira</forename>
+                                                            <surname>do Amaral Gourgel</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                         <dir-section id="AO.DIR.10576798541" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                              <heading>Water</heading>
+                              <org-list>
+                                   <org-entryref id="SL602764" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="602763" slsdocid="602743" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="AO.DIR.1057680337" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="UTILITIES">
+                                             <!--VD 04.06.2019 website has changed-->
+                                             <org-entry-head>
+                                                  <org-entry-name>Empresa Pública de Água de Luanda</org-entry-name>
+                                                  <abbr>EPAL</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Rua Frederico Engels, 1387 Luanda</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">942454831</telephone>
+                                                  <email>geral@epal.co.ao</email>
+                                                  <internet>www.epal.co.ao</internet>
+                                             </address-block>
+                                             <found-date>1995</found-date>
+                                             <content-note style="NORMAL">state-owned</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Adão Manuel</forename>
+                                                            <surname>da Silva</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-section>
+                    <dir-section id="AO.DIR.325" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ass">
+                         <heading>Major Companies</heading>
+                         <org-list>
+                              <!--To add: Petra Diamonds (Angola) when have address listed in Angola NG-->
+                              <org-entryref id="SL94062" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94061" slsdocid="73824" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.326" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MAJOR COMPANIES">
+                                        <!--VD 23.06.2023 not confirmed VD 12.09.2022 own web not working www.agran-angola.com; not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Agroquímica de Angola SARL</org-entry-name>
+                                             <abbr>AGRAN</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Av. de Portugal 71–1º, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">924812853</telephone>
+                                             <email>info@agran-angola.com</email>
+                                        </address-block>
+                                        <found-date>1960</found-date>
+                                        <content-note style="NORMAL">98.7% owned by Finertec, Portugal</content-note>
+                                        <content-note style="NORMAL">manufacture of agricultural chemicals</content-note>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL8240778" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8240777" slsdocid="8240771" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1663051104" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industries" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MAJOR COMPANIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Azule Energy</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Av. 4 de Fevereiro 197, Torres Atlantico, Luanda,</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222637440</telephone>
+                                             <email>info@azule-energy.com</email>
+                                             <internet>www.azule-energy.com</internet>
+                                        </address-block>
+                                        <found-date>2022</found-date>
+                                        <content-note style="NORMAL">jt venture between BP PLC (UK) and Eni (Angola)</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Adriano</forename>
+                                                       <surname>Mongini</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL94064" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94063" slsdocid="73823" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.327" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MAJOR COMPANIES">
+                                        <!--www.chevron.com-->
+                                        <org-entry-head>
+                                             <org-entry-name>Chevron</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Av. Dr. Agostinho Neto, CP 2950, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222692600</telephone>
+                                             <email>clocal@chevron.com</email>
+                                             <internet>angola.chevron.com</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">owns Cabinda Gulf Oil Co (CABGOC)</content-note>
+                                        <role-group>
+                                             <role>Man. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Billy</forename>
+                                                       <surname>Lacobie</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL5913449" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5913448" slsdocid="73821" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.329" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MAJOR COMPANIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Cimenfort</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Estrada Nacional 100, Rua Cimenteira, Bairro da Thaka, Catumbella, Benguela</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">943099172</telephone>
+                                             <email>vendas@cimenfort.com</email>
+                                             <internet>cimenfort.com</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">cement producer</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Paul</forename>
+                                                       <surname>Heng</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL94066" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94065" slsdocid="73822" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.328" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MAJOR COMPANIES">
+                                        <!--VD 23.06.2023 VD 13.09.2022 VD 02.06.2021 own web not working; role group not confirmed-->
+                                        <!--VD 19.05.2020 role group not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Companhia Fabril e Comercial de Angola SARL</org-entry-name>
+                                             <abbr>COMFABRIL</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Av. 4 de Fevereiro 79, 3º andar, Ingombota, CP 859, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">938380010</telephone>
+                                             <email>geral@comfabril.com</email>
+                                             <internet>comfabril.com</internet>
+                                        </address-block>
+                                        <found-date>1954</found-date>
+                                        <content-note style="NORMAL">manufacture and sale of chemicals</content-note>
+                                        <role-group>
+                                             <role>Gen. Man.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Pedro</forename>
+                                                       <surname>Alves</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3553044" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3553043" slsdocid="3553020" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1324369564" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Utilities">
+                                        <org-entry-head>
+                                             <org-entry-name>Groupo Nov Angola</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua do Complexo de Escolas do Cazenga 25, Cazenga, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">931678700</telephone>
+                                             <email>geral@gruponov.co.ao</email>
+                                             <internet>www.gruponov.com</internet>
+                                        </address-block>
+                                        <found-date>2006</found-date>
+                                        <content-note style="NORMAL">subsidiaries incl. Lena Engenharia e Construções, Abrantina Sucursal, Angola Investimento Imobiliária SA, Jonasbel-Angola Empreendimentos Lda, TEC Lda. Lenindústria Angola SA</content-note>
+                                        <role-group>
+                                             <role>Group Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Joaquim Paulo</forename>
+                                                       <surname>da Conceição</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1110086" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1110085" slsdocid="1110073" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1102611400" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Major Companies">
+                                        <org-entry-head>
+                                             <org-entry-name>Nova Cimangola SA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Av. 4 de Fevereiro 42, 2º andar, CP 2532, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">940642172</telephone>
+                                             <internet>www.cimangola.com</internet>
+                                        </address-block>
+                                        <found-date>1957</found-date>
+                                        <content-note style="NORMAL">production of cement and clinker</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Pedro</forename>
+                                                       <surname>Pinto</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL94072" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94071" slsdocid="73819" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.331" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MAJOR COMPANIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Petrogal Angola SA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Av. 4 de Fevereiro 3–4, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222397987</telephone>
+                                        </address-block>
+                                        <content-note style="NORMAL">part of Galp Energia Group</content-note>
+                                        <content-note style="NORMAL">exploration, production and distribution of petroleum</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Filipe Crisóstomo</forename>
+                                                       <surname>Silva</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL94074" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94073" slsdocid="73818" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.332" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MAJOR COMPANIES">
+                                        <!--VD 26.05.2020 the current name has been there since 2007; no recent news on name VD 04.10.2022 reply gives the name of a Dy Director General Fr&#233;d&#233;ric Heintz-->
+                                        <org-entry-head>
+                                             <org-entry-name>Petromar Lda</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      Rua Rodrigo Miranda Henriques, 15
+                      <sc>b</sc>
+                       Bairro Maculusso, Luanda
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">923167620</telephone>
+                                             <email>geral@petromar.co.ao</email>
+                                             <internet>www.petromar.co.ao</internet>
+                                        </address-block>
+                                        <found-date>1984</found-date>
+                                        <content-note style="NORMAL">pre-fabrication, construction, installation and maintenance of oil equipment</content-note>
+                                        <content-note style="NORMAL">70% owned by Saipem SA and 30% owned by Sonangol Holdings</content-note>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL590436" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="590435" slsdocid="590409" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1056724993" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MAJOR COMPANIES">
+                                        <!--VD 23.06.2023 Lev Leviev International (China) was removed from the co in 2022-->
+                                        <!--VD 26.05.2020 full address not given on website-->
+                                        <org-entry-head>
+                                             <org-entry-name>Sociedade Mineira de Catoca, Lda</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Talatona, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222624700</telephone>
+                                             <email>geral@catoca.com</email>
+                                             <internet>www.catoca.com</internet>
+                                        </address-block>
+                                        <found-date>1992</found-date>
+                                        <content-note style="NORMAL">jt diamond mining and exploration operation owned by ENDIAMA and Alrosa (Russia)</content-note>
+                                        <role-group>
+                                             <role>Chair. and Man. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Dr</title>
+                                                       <forename>Benedito Paulo</forename>
+                                                       <surname>Manuel</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="AO.DIR.334" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>Trade Unions</heading>
+                         <org-list>
+                              <org-entryref id="SL2360402" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2360401" slsdocid="2360367" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1213353803" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="ass">
+                                        <org-entry-head>
+                                             <org-entry-name>Sindicato dos Jornalistas Angolanos</org-entry-name>
+                                             <abbr>SJA</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Francisco Tavora, CP 2805, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">923310455</telephone>
+                                             <email>sindicatodosjornalistas_sja92@hotmail.com</email>
+                                             <internet>fb.com/SindicatoDosJornalistasAngolanos</internet>
+                                        </address-block>
+                                        <found-date>1992 by fmr mems of the União dos Jornalistas Angolanos</found-date>
+                                        <role-group>
+                                             <role>Sec.-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Cãndido</forename>
+                                                       <surname>Teixeira</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1112088" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1112087" slsdocid="1112042" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1103042721" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="ass">
+                                        <!--Sec Gen: https://www.portaldeangola.com/2021/07/13/sindicatos-angolanos-pressionam-por-subsidio-de-desemprego-governo-resiste/ Changed as per this article which landed in my Cronycle! IF 16.07.2021-->
+                                        <org-entry-head>
+                                             <org-entry-name>Sindicato Nacional de Professores</org-entry-name>
+                                             <abbr>Sinprof</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Apt 407, Prédio 72, 4º andar, Rua da Missão 71, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222739025</telephone>
+                                             <email>info@sinprof.co.ao</email>
+                                             <internet>sinprof.co.ao</internet>
+                                        </address-block>
+                                        <found-date>1996</found-date>
+                                        <content-note style="NORMAL">teachers’ union</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Guilherme</forename>
+                                                       <surname>Silva</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Sec.-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Admar</forename>
+                                                       <surname>Ginguma</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1308806" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1308805" slsdocid="1308791" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1120486596" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Trade Unions" usage="ass">
+                                        <!--VD 13.09.2022 president died: https://www.jornaldeangola.ao/ao/noticias/mpla-consternado-pela-morte-do-presidente-da-unaca/-->
+                                        <org-entry-head>
+                                             <org-entry-name>União Nacional das Associações de Camponeses Angolanos</org-entry-name>
+                                             <abbr>UNACA</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Major Kanhangulo 146, 1º andar, CP 2465, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">938302794</telephone>
+                                             <email>unaca2@gmail.com</email>
+                                             <internet>fb.com/UNACAparaCamponeses</internet>
+                                        </address-block>
+                                        <found-date>1990</found-date>
+                                        <content-note style="NORMAL">peasants' asscn and agro-livestock co-operatives</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ricardina Manuel</forename>
+                                                       <surname>Machado</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL94080" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94079" slsdocid="73813" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.336" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS">
+                                        <data-protection date-added="24.07.2008" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>União Nacional dos Trabalhadores Angolanos-Confederação Sindical</org-entry-name>
+                                             <abbr>UNTA-CS</abbr>
+                                             <alt-name>National Union of Angolan Workers</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Av. Rainha Ginga 23, CP 28, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222334670</telephone>
+                                             <email>info@unta-cs.org</email>
+                                             <internet>unta-cs.org</internet>
+                                        </address-block>
+                                        <found-date>1960</found-date>
+                                        <role-group>
+                                             <role>Sec.-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Manuel Augusto</forename>
+                                                       <surname>Viage</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

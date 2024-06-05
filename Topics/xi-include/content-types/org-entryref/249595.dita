@@ -1,0 +1,36 @@
+<org-entryref id="SL1741172" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741171" slsdocid="249595" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.932" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>San Diego Union-Tribune</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>600 B St, No. 1201, San Diego, CA 92101</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(619) 299-4141</telephone>
+                                                       <email>customersupport@sduniontribune.com</email>
+                                                       <internet>sandiegouniontribune.com</internet>
+                                                  </address-block>
+                                                  <found-date>1868</found-date>
+                                                  <role-group>
+                                                       <role>Publr and Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jeff</forename>
+                                                                 <surname>Light</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Senior Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Lora</forename>
+                                                                 <surname>Cicalo</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 87,834 (2020)</stats>
+                                             </org-entry>
+                                        </org-entryref>

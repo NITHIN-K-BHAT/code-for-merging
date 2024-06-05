@@ -1,0 +1,44 @@
+<org-entryref id="SL1741534" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741533" slsdocid="249496" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1050" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>New Hampshire Union Leader, New Hampshire Sunday News</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Union Leader Corpn, 100 William Loeb Dr., POB 9555, Manchester, NH 03109</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(603) 668-4321</telephone>
+                                                       <email>news@unionleader.com</email>
+                                                       <internet>unionleader.com</internet>
+                                                  </address-block>
+                                                  <found-date>
+                      1863 (
+                      <i>New Hampshire Union Leader</i>
+                      )
+                    </found-date>
+                                                  <found-date>
+                      1946 (
+                      <i>New Hampshire Sunday News</i>
+                      )
+                    </found-date>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Brendan</forename>
+                                                                 <surname>McQuaid</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tim</forename>
+                                                                 <surname>Kelly</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

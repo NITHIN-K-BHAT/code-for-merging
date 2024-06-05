@@ -1,0 +1,27 @@
+<org-entryref id="SL8923337" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8923336" slsdocid="250423" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1702" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>KeyBank NA</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>127 Public Sq., Cleveland, OH 44114-1306</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(216) 689-8481</telephone>
+                                                       <email>keyexpress@keybank.com</email>
+                                                       <internet>key.com</internet>
+                                                  </address-block>
+                                                  <found-date>1849</found-date>
+                                                  <role-group>
+                                                       <role>Chair. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Christopher M.</forename>
+                                                                 <surname>Gorman</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,39 @@
+<org-entryref id="SL4327763" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4327762" slsdocid="4327681" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390199799" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Waterloo-Cedar Falls Courier</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>6915 Chancellor Dr., Suite B, Cedar Falls, IA 50613</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(319) 291-1400</telephone>
+                                                       <email>newsroom@wcfcourier.com</email>
+                                                       <internet>wcfcourier.com</internet>
+                                                  </address-block>
+                                                  <found-date>1858</found-date>
+                                                  <frequency>Mon. to Fri. evening</frequency>
+                                                  <frequency>Sun. morning</frequency>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Janet</forename>
+                                                                 <surname>Johnson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Regional Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Doug</forename>
+                                                                 <surname>Hines</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 14,500, Sun. 18,000 (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,35 @@
+<org-entryref id="SL8956491" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8956490" slsdocid="2225813" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.1203003041" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELEVISION" usage="ewyb usac">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Knowledge Network</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>4355 Mathissi Pl., Burnaby, BC V5G 4S8</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(604) 431-3222</telephone>
+                                                            <email>info@knowledge.ca</email>
+                                                            <internet>knowledge.ca</internet>
+                                                       </address-block>
+                                                       <found-date>1981</found-date>
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Satwinder</forename>
+                                                                      <surname>Kaur Bains</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Michelle</forename>
+                                                                      <surname>van Beusekom</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

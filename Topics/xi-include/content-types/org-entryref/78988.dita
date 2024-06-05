@@ -1,0 +1,38 @@
+<org-entryref id="SL1759280" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759279" slsdocid="78988" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.566" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Hay River Hub</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>4 Courtoreille St, Suite 8, Hay River, NT X0E 1G2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(867) 873-4031</telephone>
+                                                       <fax>(867) 874-2804</fax>
+                                                       <email>editor@ssimicro.com</email>
+                                                       <internet>nnsl.com/hayriverhub</internet>
+                                                  </address-block>
+                                                  <found-date>1973</found-date>
+                                                  <content-note style="NORMAL">owned by Northern News Services Ltd</content-note>
+                                                  <frequency>weekly</frequency>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mike W.</forename>
+                                                                 <surname>Bryant</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>James</forename>
+                                                                 <surname>McCarthy</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

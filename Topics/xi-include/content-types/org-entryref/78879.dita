@@ -1,0 +1,40 @@
+<org-entryref id="SL8830147" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8830146" slsdocid="78879" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.682" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Editions Fides</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>7333 pl. des Roseraies, suite 501, Anjou, QC H1M 2X6</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(514) 745-4290</telephone>
+                                             <email>editions@groupefides.com</email>
+                                             <internet>editionsfides.com</internet>
+                                        </address-block>
+                                        <found-date>1937</found-date>
+                                        <content-note style="NORMAL">
+                  art and history, religion,
+                  
+                   literature
+                </content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jean-François</forename>
+                                                       <surname>Bouchard</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editorial Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>David</forename>
+                                                       <surname>Sénéchal</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

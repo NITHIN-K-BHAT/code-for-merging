@@ -1,0 +1,19 @@
+<org-entryref id="SL4327803" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4327802" slsdocid="4327686" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390200550" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Alexandria Daily Town Talk</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1201 3rd St, POB 7558, Alexandria, LA 71306</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(318) 487-6397</telephone>
+                                                       <email>news@thetowntalk.com</email>
+                                                       <internet>thetowntalk.com</internet>
+                                                  </address-block>
+                                                  <found-date>1883</found-date>
+                                                  <frequency>morning</frequency>
+                                             </org-entry>
+                                        </org-entryref>

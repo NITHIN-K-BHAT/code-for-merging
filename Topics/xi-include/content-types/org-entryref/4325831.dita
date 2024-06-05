@@ -1,0 +1,37 @@
+<org-entryref id="SL4325929" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4325928" slsdocid="4325831" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389950094" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Marin Independent Journal</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>103 Shoreline Pkwy, Suite 201, San Rafael, CA 94901</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(415) 883-8600</telephone>
+                                                       <fax>(415) 883-5458</fax>
+                                                       <email>subscriberservices@marinij.com</email>
+                                                       <internet>marinij.com</internet>
+                                                  </address-block>
+                                                  <found-date>1861</found-date>
+                                                  <frequency>Mon. to Sat. evening, Sun. morning</frequency>
+                                                  <role-group>
+                                                       <role>Pres. and Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Rob</forename>
+                                                                 <surname>Devincenzi</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jennifer Upshaw</forename>
+                                                                 <surname>Swartz</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

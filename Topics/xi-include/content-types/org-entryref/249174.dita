@@ -1,0 +1,27 @@
+<org-entryref id="SL1761080" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1761079" slsdocid="249174" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1371" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="04.01.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>AFB Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1101 Wilson Blvd, 6th Floor, Arlington, VA 22209</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 502-7600</telephone>
+                                             <email>communications@afb.net</email>
+                                             <internet>afb.org</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">publishing arm of American Foundation for the Blind</content-note>
+                                        <role-group>
+                                             <role>Pres. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Eric</forename>
+                                                       <surname>Bridges</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

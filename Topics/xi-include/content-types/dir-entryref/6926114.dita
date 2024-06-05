@@ -1,0 +1,17 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6926121" sllink="SLSDOCRF" sllinkid="6926120" slsdocid="6926114" slsdocty="dir-entry dir-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <dir-entry id="RU-UA-43.3" id-root="ru.dir" iso="ru" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                             <dir-entry-name>
+                    
+                    Chairman of the Council of Ministers
+                  </dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Yurii M.</forename>
+                                                            <surname>Gotsanyuk</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>

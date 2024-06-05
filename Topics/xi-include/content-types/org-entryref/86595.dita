@@ -1,0 +1,25 @@
+<org-entryref id="SL113806" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="113805" slsdocid="86595" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="DZ.DIR.222" id-root="dz.dir" iso="dz" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ALGERIA">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>BP 549, 5 chemin Cheikh Bachir el-Ibrahimi, el-Biar, 16030 Algiers</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(770) 08-20-00</telephone>
+                                             <email>algiers_webmaster@state.gov</email>
+                                             <internet>dz.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chargé d'affaires a.i.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kathryn (Katie)</forename>
+                                                       <surname>Kiser</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

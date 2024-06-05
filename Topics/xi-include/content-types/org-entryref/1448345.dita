@@ -1,0 +1,38 @@
+<org-entryref id="SL3180776" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3180777" slsdocid="1448345" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1133192819" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Real Simple</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1271 Ave of the Americas, New York, NY 10020</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(800) 881-1172</telephone>
+                                                  <email>rspcustserv@cdsfulfillment.com</email>
+                                                  <internet>realsimple.com</internet>
+                                             </address-block>
+                                             <found-date>2000</found-date>
+                                             <frequency>monthly</frequency>
+                                             <content-note style="NORMAL">lifestyle, general</content-note>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Lauren</forename>
+                                                            <surname>Iannotti</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Editor</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Lisa</forename>
+                                                            <surname>Freedman</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 2,017,963</stats>
+                                        </org-entry>
+                                   </org-entryref>

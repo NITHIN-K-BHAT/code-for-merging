@@ -1,0 +1,48 @@
+<table-blockref id="SL8097256" sllink="SLSDOCRF" sllinkid="8097255" slsdocid="5983258" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <table-block id="US.DIR.1512130597" id-root="us.dir" iso="us" section="Legislature" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" subsection="House of Representatives" type="ELECTION">
+                                   <table-heading>General Election, 8 November 2022</table-heading>
+                                   <table frame="all" style="WITH-RULES">
+                                        <tgroup cols="3">
+                                             <colspec colname="COL1" colwidth="17cm" />
+                                             <colspec colname="COLSPEC1" colwidth="3.00cm" />
+                                             <colspec align="right" colname="COL4" colwidth="3cm" />
+                                             <thead>
+                                                  <row>
+                                                       <entry style="NO-DOT-LEADER">Party</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">% of votes</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">Seats</entry>
+                                                  </row>
+                                             </thead>
+                                             <tbody>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">
+                                                            <xr pageref="N" ref="US.DIR.566">Republican Party</xr>
+                                                       </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">50.00</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">222</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">
+                                                            <xr pageref="N" ref="US.DIR.560">Democratic Party</xr>
+                                                       </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">47.28</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">213</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">Others</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">2.70</entry>
+                                                       <entry style="NO-DOT-LEADER">—</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">
+                                                            <b>Total</b>
+                                                       </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">100.00</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">435</entry>
+                                                  </row>
+                                             </tbody>
+                                        </tgroup>
+                                   </table>
+                              </table-block>
+                         </table-blockref>

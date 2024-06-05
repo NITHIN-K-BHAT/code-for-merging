@@ -1,0 +1,40 @@
+<org-entryref id="SL5670590" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5670589" slsdocid="78654" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.931" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Innovative Medicines Canada</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>55 Metcalfe St, Suite 1220, Ottawa, ON K1P 6L5</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 236-0455</telephone>
+                                                       <email>info@imc-mnc.ca</email>
+                                                       <internet>innovativemedicines.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1914</found-date>
+                                                  <content-note style="NORMAL">
+                      
+                      present name since 2016
+                    </content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Brigitte</forename>
+                                                                 <surname>Nolet</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Interim Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>David</forename>
+                                                                 <surname>Renwick</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>47 mem. cos (2024)</stats>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,37 @@
+<org-entryref id="SL8925085" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8925084" slsdocid="3920535" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.USAC.20.23" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Railways" usage="usac">
+                                                       <org-entry-head>
+                                                            <org-entry-name>American Railway Engineering and Maintenance of Way Association</org-entry-name>
+                                                            <abbr>AREMA</abbr>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>4471 Nicole Dr., Unit I, Lanham, MD 20706</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(301) 459-3200</telephone>
+                                                            <email>info@arema.org</email>
+                                                            <internet>arema.org</internet>
+                                                       </address-block>
+                                                       <found-date>1997</found-date>
+                                                       <stats>c. 5,500 mems (2022)</stats>
+                                                       <role-group>
+                                                            <role>Pres. </role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Trent M.</forename>
+                                                                      <surname>Hudak</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Exec. Dir and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Elizabeth</forename>
+                                                                      <surname>Caruso</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

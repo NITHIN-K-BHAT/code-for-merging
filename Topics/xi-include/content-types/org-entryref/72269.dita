@@ -1,0 +1,27 @@
+<org-entryref id="SL91664" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="91663" slsdocid="72269" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="BB.DIR.69" id-root="bb.dir" iso="bb" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES AND HIGH COMMISSIONS IN BARBADOS">
+                                        <data-protection date-added="16.07.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Wildey Business Park, St Michael BB 14006</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">227-4000</telephone>
+                                             <fax>227-4088</fax>
+                                             <email>bridgetownpublicaffairs@state.gov</email>
+                                             <internet>bb.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Roger</forename>
+                                                       <surname>Nyhus</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

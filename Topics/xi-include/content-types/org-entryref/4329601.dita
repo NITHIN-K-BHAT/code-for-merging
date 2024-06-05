@@ -1,0 +1,28 @@
+<org-entryref id="SL4329914" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4329913" slsdocid="4329601" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390300706" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Chronicle-Telegram</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>225 E Ave, Elyria, OH 44035</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(440) 329-7000</telephone>
+                                                       <email>ctnews@chroniclet.com</email>
+                                                       <internet>chroniclet.com</internet>
+                                                  </address-block>
+                                                  <found-date>1829</found-date>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Julie</forename>
+                                                                 <surname>Wallace</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 23,385, Sun. 24,705 (2018)</stats>
+                                             </org-entry>
+                                        </org-entryref>

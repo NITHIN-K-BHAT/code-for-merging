@@ -1,0 +1,29 @@
+<org-entryref id="SL7060934" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7060933" slsdocid="250142" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1981" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  
+                                                  <data-protection date-added="07.02.2017" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Tobacco Merchants Association Inc</org-entry-name>
+                                                       <abbr>TMA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1121 Situs Court, Suite 370, Raleigh, NC 27606</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(919) 917-7449</telephone>
+                                                       <email>tma@tma.org</email>
+                                                       <internet>tma.org</internet>
+                                                  </address-block>
+                                                  <found-date>1915</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Christopher B.</forename>
+                                                                 <surname>Greer</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

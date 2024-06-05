@@ -1,0 +1,27 @@
+<org-entryref id="SL1741664" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741663" slsdocid="249462" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1090" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <data-protection date-added="13.08.2020" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>The Forum</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>101 5th St N, Fargo, ND 58102</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(701) 235-7311</telephone>
+                                                       <email>news@forumcomm.com</email>
+                                                       <internet>inforum.com</internet>
+                                                  </address-block>
+                                                  <found-date>1878</found-date>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Matthew</forename>
+                                                                 <surname>von Pinnon</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

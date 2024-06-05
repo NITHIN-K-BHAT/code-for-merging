@@ -1,0 +1,37 @@
+<org-entryref id="SL1415879" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1415878" slsdocid="1415875" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1128508114" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Employers Organizations">
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Beer Wholesalers Association</org-entry-name>
+                                                       <abbr>NBWA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1101 King St, Suite 600, Alexandria, VA 22314</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(703) 683-4300</telephone>
+                                                       <email>info@nbwa.org</email>
+                                                       <internet>nbwa.org</internet>
+                                                  </address-block>
+                                                  <found-date>1938</found-date>
+                                                  <stats>c. 5,000 mem. cos (2023)</stats>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Gordon</forename>
+                                                                 <surname>Green</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Craig A.</forename>
+                                                                 <surname>Purser</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

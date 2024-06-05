@@ -1,0 +1,29 @@
+<org-entryref id="SL1745710" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745709" slsdocid="250585" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1520" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="12.09.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Vanderbilt University Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>2301 Vanderbilt Pl., POB 401813, Nashville, TN 37240-1813</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(615) 322-3585</telephone>
+                                             <fax>(615) 343-0308</fax>
+                                             <email>vupress@vanderbilt.edu</email>
+                                             <internet>vanderbiltuniversitypress.com</internet>
+                                        </address-block>
+                                        <found-date>1940</found-date>
+                                        <content-note style="NORMAL">scholarly and trade</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gianna</forename>
+                                                       <surname>Mosser</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

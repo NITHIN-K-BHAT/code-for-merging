@@ -1,0 +1,32 @@
+<org-entryref id="SL6837422" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6837421" slsdocid="79164" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                    
+                    <org-entry country-id="us" id="CA.DIR.274" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES AND HIGH COMMISSIONS IN CANADA">
+                         
+                         <org-entry-head>
+                              <org-entry-name>USA</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>POB 866, Station B, Ottawa, ON K1P 5T1</verbatim-address>
+                              </address>
+                              <address type="POSTAL">
+                                   <verbatim-address>490 Sussex Dr., Ottawa, ON K1N 1G8</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(613) 238-5335</telephone>
+                              <fax>(613) 241-7845</fax>
+                              <email>Ottawa-Press@state.gov</email>
+                              <internet>ca.usembassy.gov</internet>
+                         </address-block>
+                         <role-group>
+                              <role>Ambassador</role>
+                              <person>
+                                   <person-name>
+                                        <forename>David</forename>
+                                        <surname>Cohen</surname>
+                                   </person-name>
+                                   <person-note>designate</person-note>
+                              </person>
+                              
+                         </role-group>
+                    </org-entry>
+               </org-entryref>

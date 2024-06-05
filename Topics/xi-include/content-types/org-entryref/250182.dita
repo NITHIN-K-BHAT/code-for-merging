@@ -1,0 +1,37 @@
+<org-entryref id="SL262618" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262617" slsdocid="250182" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1936" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <data-protection date-added="02.08.2005" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Metal Powder Industries Federation</org-entry-name>
+                                                       <abbr>MPIF</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>105 College Rd E, 1st Floor, Princeton, NJ 08540-6692</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(609) 452-7700</telephone>
+                                                       <email>info@mpif.org</email>
+                                                       <internet>mpif.org</internet>
+                                                  </address-block>
+                                                  <found-date>1944</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Rodney</forename>
+                                                                 <surname>Brennen</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Dir and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>James P.</forename>
+                                                                 <surname>Adams</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

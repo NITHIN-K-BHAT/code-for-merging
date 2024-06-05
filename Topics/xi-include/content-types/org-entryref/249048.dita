@@ -1,0 +1,29 @@
+<org-entryref id="SL1745557" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745556" slsdocid="249048" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1484" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Tuttle Publishing</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>364 Innovation Dr., North Clarendon, VT 05759</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 526-2778</telephone>
+                                             <fax>(800) 329-8885</fax>
+                                             <email>info@tuttlepublishing.com</email>
+                                             <internet>tuttlepublishing.com</internet>
+                                        </address-block>
+                                        <found-date>1948</found-date>
+                                        <content-note style="NORMAL">owned by Periplus Publishing Group</content-note>
+                                        <content-note style="NORMAL">Japan, Far East, languages, art, crafts, martial arts, culture, juvenile, cookery</content-note>
+                                        <role-group>
+                                             <role>Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Eric</forename>
+                                                       <surname>Oey</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

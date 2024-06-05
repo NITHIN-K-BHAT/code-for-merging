@@ -1,0 +1,1230 @@
+<int-org-sectref id="SL1115973" int-org-sectrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1115972" slsdocid="1101769" slsdocty="int-org-section int-org-sectrefdtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <int-org-section id="WB02047.IO.TXT.434" id-root="int-org_eu" iso="" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="ewyb edio casee">
+                    <heading>Agencies</heading>
+                    <org-list>
+                         <org-list-head>Decentralized Agencies</org-list-head>
+                         <org-entry-expanded id="WB02047.IO.TXT.371342" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" usage="ewyb edio">
+                              <org-entry-head>
+                                   <org-entry-name>Agency for the Co-operation of Energy Regulators</org-entry-name>
+                                   <abbr>ACER</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>1000 Ljubljana, Trg republike 3, Slovenia</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(8) 2053400</telephone>
+                                   <email>info@acer.europa.eu</email>
+                                   <internet>www.acer.europa.eu</internet>
+                              </address-block>
+                              <p>Founded in 2011, ACER aims to facilitate cross-border energy trade, to co-ordinate the activities of national energy regulators and to help to prevent conflict between them, in order to encourage competition and to ensure fair prices for both consumers and businesses. The agency’s opening coincided with the entry into force of the EU’s third energy package on the internal market.</p>
+                              <p id="WB02047.IO.TXT.5437689745" />
+                              <dir-list>
+                                   <dir-entry id="WB02047.IO.TXT.389898" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Christian</forename>
+                                                       <surname>Zinglersen</surname>
+                                                  </person-name>
+                                                  <person-note>Denmark</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.229457" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" usage="ewyb edio">
+                              
+                              <org-entry-head>
+                                   <org-entry-name>Body of European Regulators for Electronic Communications</org-entry-name>
+                                   <abbr>BEREC</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Z. A. Meierovica Bulv. 14, 2nd Floor, Rīga 1050, Latvia</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">2957-8999</telephone>
+                                   <email>berec@berec.europa.eu</email>
+                                   <internet>berec.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.229567">Established by a regulation of the European Parliament in 2009, replacing the European Regulators Group.</p>
+                              <dir-list>
+                                   <dir-entry id="WB02047.IO.TXT.44876" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>László</forename>
+                                                       <surname>Ignéczi</surname>
+                                                  </person-name>
+                                                  <person-note>Hungary</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.371" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" usage="ewyb edio">
+                              <org-entry-head>
+                                   <org-entry-name>Community Plant Variety Office</org-entry-name>
+                                   <abbr>CPVO</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>3 blvd du Maréchal Foch, POB 10121, 49101 Angers, France</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">2-41-25-64-00</telephone>
+                                   <email>cpvo@cpvo.europa.eu</email>
+                                   <internet>www.cpvo.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.54376897">Began operations in 1995, with responsibility for granting intellectual property rights for plant varieties. Supervised by an Administrative Council, and managed by a President, appointed by the Council. A Board of Appeal considers appeals against certain technical decisions taken by the CPVO. Publishes an annual report listing valid EU plant variety rights, their owners and their expiry dates.</p>
+                              <dir-list>
+                                   <dir-entry id="WB02047.IO.TXT.389898564" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>President</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Francesco</forename>
+                                                       <surname>Mattina</surname>
+                                                  </person-name>
+                                                  <person-note>Sweden</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.377" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" usage="ewyb edio">
+                              <org-entry-head>
+                                   <org-entry-name>European Agency for Safety and Health at Work</org-entry-name>
+                                   <abbr>EU-OSHA</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Edif. Miribilla, Calle Santiago de Compostela 12, 48003 Bilbao, Spain</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">944358400</telephone>
+                                   <fax>944358401</fax>
+                                   <email>information@osha.europa.eu</email>
+                                   <internet>osha.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.7667676556">Began operations in 1996. Aims to encourage improvements in the working environment, and to make available all necessary technical, scientific and economic information for use in the field of health and safety at work. The agency supports a network of Focal Points in the member states of the EU, in the member states of the European Free Trade Association and in the candidate states of the EU.</p>
+                              <dir-list>
+                                   <dir-entry id="WB02047.IO.TXT.379" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>William</forename>
+                                                       <surname>Cockburn</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.2025" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" usage="ewyb edio">
+                              <org-entry-head>
+                                   <org-entry-name>European Aviation Safety Agency</org-entry-name>
+                                   <abbr>EASA</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Postfach 101253, 50452 Cologne, Germany</verbatim-address>
+                                   </address>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(221) 8999000</telephone>
+                                   <email>info@easa.europa.eu</email>
+                                   <internet>www.easa.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.2025.1">Established by a regulation of the European Parliament in July 2002; the mission of the agency is to establish and maintain a high, uniform level of civil aviation safety and environmental protection in Europe. The agency commenced full operations in 2003, and moved to its permanent seat in Cologne, Germany, in late 2004.</p>
+                              <dir-list>
+                                   <dir-entry id="WB02047.IO.TXT.2409" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Florian</forename>
+                                                       <surname>Guillermet</surname>
+                                                  </person-name>
+                                                  <person-note>France</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB020220151212.IO.TXT" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" usage="ewyb edio">
+                              <org-entry-head>
+                                   <org-entry-name>European Banking Authority</org-entry-name>
+                                   <abbr>EBA</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Europlaza, 20 ave André Prothin, 92927 Paris, France</verbatim-address>
+                                   </address>
+                                   <email>info@eba.europa.eu</email>
+                                   <internet>www.eba.europa.eu</internet>
+                              </address-block>
+                              <p id="WB020220151234.IO.TXT">Established in 2011 in London, UK (it relocated to France in 2019, following the UK’s decision to leave the EU) as part of the European System of Financial Supervision (ESFS), replacing the Committee of European Banking Supervisors.</p>
+                              <dir-list>
+                                   <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Chairperson</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>José Manuel</forename>
+                                                       <surname>Campa</surname>
+                                                  </person-name>
+                                                  <person-note>Spain</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry id="WB0204735.IO.TXT.379" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>François-Louis</forename>
+                                                       <surname>Michaud</surname>
+                                                  </person-name>
+                                                  <person-note>France</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.5643545676" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF">
+                              <org-entry-head>
+                                   <org-entry-name>European Border and Coast Guard Agency</org-entry-name>
+                                   <abbr>FRONTEX</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Plac Europejski 6, 00-844 Warsaw, Poland</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(22) 2059500</telephone>
+                                   <fax>(22) 2059501</fax>
+                                   <email>frontex@frontex.europa.eu</email>
+                                   <internet>frontex.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.1375" usage="ewyb edio">Established by a regulation of the European Parliament in 2004, as the European Agency for the Management of Operational Co-operation at the External Borders, with the aim of creating an integrated border management system; it began operations in May 2005. In December 2015 the European Commission presented proposals for the establishment of a European Border and Coast Guard, building on FRONTEX, which were formally adopted in September 2016. The European Border and Coast Guard Agency was officially launched in October.</p>
+                              <dir-list>
+                                   <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Hans</forename>
+                                                       <surname>Leijtens</surname>
+                                                  </person-name>
+                                                  <person-note>Netherlands</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.386" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF">
+                              
+                              <org-entry-head>
+                                   <org-entry-name>European Centre for the Development of Vocational Training</org-entry-name>
+                                   <abbr>Cedefop</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Service Post Europe 123, 570 01 Thermi, Greece</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(231) 0490111</telephone>
+                                   <fax>(231) 0490049</fax>
+                                   <email>info@cedefop.europa.eu</email>
+                                   <internet>www.cedefop.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.387">Established in 1975, Cedefop assists policymakers and other officials in member states and partner orgs in issues relating to vocational training policies, and assists the European Commission in the development of these policies.</p>
+                              <dir-list>
+                                   <dir-entry id="WB02047.IO.TXT.388" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jürgen</forename>
+                                                       <surname>Siebel</surname>
+                                                  </person-name>
+                                                  <person-note>Germany</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.479564" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF">
+                              
+                              <org-entry-head>
+                                   <org-entry-name>European Centre for Disease Prevention and Control</org-entry-name>
+                                   <abbr>ECDC</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Gustav III blvd 40, 169 73 Solna, Sweden</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(8) 586-01000</telephone>
+                                   <email>ecdc.info@ecdc.europa.eu</email>
+                                   <internet>www.ecdc.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.38576">Founded in 2005 to strengthen European defences against infectious diseases. It works with national health protection bodies to develop disease surveillance and early warning systems across Europe.</p>
+                              <dir-list>
+                                   <dir-entry id="WB02047.IO.TXT.5353" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Dr</title>
+                                                       <forename>Andrea</forename>
+                                                       <surname>Ammon</surname>
+                                                  </person-name>
+                                                  <person-note>Germany</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.12042145821" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF">
+                              <org-entry-head>
+                                   <org-entry-name>European Chemicals Agency</org-entry-name>
+                                   <abbr>ECHA</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Telakkakatu 6, Helsinki, Finland; POB 400, 00150 Helsinki, Finland</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(9) 686180</telephone>
+                                   <fax>(9) 6861-8210</fax>
+                                   <email>info@echa.europa.eu</email>
+                                   <internet>echa.europa.eu</internet>
+                              </address-block>
+                              <p id="IO.EU-AGENCIES.1">The ECHA was established by regulations of the European Parliament and the European Council in 2006, and became fully operational in June 2008. Its objective is to supervise and undertake the technical, scientific and administrative aspects of the Registration, Evaluation, Authorization and Restriction of Chemicals throughout the EU and in Iceland, Liechtenstein and Norway. It also supports and runs a national help desk, and disseminates information on chemicals to the public.</p>
+                              <dir-list>
+                                   <dir-entry id="WB02047.IO.TXT.90000000" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Dr</title>
+                                                       <forename>Sharon</forename>
+                                                       <surname>McGuinness</surname>
+                                                  </person-name>
+                                                  <person-note>Ireland</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         
+                         <org-entry-expanded id="WB02047.IO.TXT.4857645" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF">
+                              <org-entry-head>
+                                   <org-entry-name>European Defence Agency</org-entry-name>
+                                   <abbr>EDA</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>17–23 rue des Drapiers, 1050 Brussels, Belgium</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(2) 504-28-00</telephone>
+                                   <email>info@eda.europa.eu</email>
+                                   <internet>www.eda.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.3542">Founded in 2004 and became operational in 2005; aims to help member states to improve their defence capabilities for crisis management under the European Security and Defence Policy. The Steering Board is composed of the ministers responsible for defence of all member states.</p>
+                              <dir-list>
+                                   <dir-entry id="WB02047.IO.TXT.90909" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Head of the Agency and Chairperson of the Steering Board</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Josep</forename>
+                                                       <surname>Borrell Fontelles</surname>
+                                                  </person-name>
+                                                  <person-note>Spain</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry id="WB02047.IO.TXT.94654" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Chief Executive</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jiří</forename>
+                                                       <surname>Šedivý</surname>
+                                                  </person-name>
+                                                  <person-note>Czech Republic</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.2028" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF">
+                              <org-entry-head>
+                                   <org-entry-name>European Environment Agency</org-entry-name>
+                                   <abbr>EEA</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>6 Kongens Nytorv, 1050 Copenhagen K, Denmark</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">33-36-71-00</telephone>
+                                   <fax>33-36-71-99</fax>
+                                   <email>eea@eea.europa.eu</email>
+                                   <internet>www.eea.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.390">Became operational in 1994, having been approved in 1990, to gather and supply information to assist the drafting and implementation of EU policy on environmental protection and improvement. Iceland, Liechtenstein, Norway, Switzerland and Türkiye are also members. The agency publishes frequent reports on the state of the environment and on environmental trends.</p>
+                              <dir-list>
+                                   <dir-entry id="WB02047.IO.TXT.393" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Leena</forename>
+                                                       <surname>Ylä-Mononen</surname>
+                                                  </person-name>
+                                                  <person-note>Finland</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.YXY.371.1" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF">
+                              <org-entry-head>
+                                   <org-entry-name>European Fisheries Control Agency</org-entry-name>
+                                   <abbr>EFCA</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Edif. Odriozola, Avda García Barbón 4, 36201 Vigo, Spain </verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">986120610</telephone>
+                                   <email>efca@efca.europa.eu</email>
+                                   <internet>www.efca.europa.eu/en</internet>
+                              </address-block>
+                              <p id="IO.EU-AGENCIES.2">Established in 2005 to improve compliance with regulations under the 2002 reform of the Common Fisheries Policy. The EFCA aims to ensure the effectiveness of enforcement by sharing EU and national methods of fisheries’ control, monitoring resources and co-ordinating activities.</p>
+                              <dir-list>
+                                   <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Dr</title>
+                                                       <forename>Susan</forename>
+                                                       <surname>Steele</surname>
+                                                  </person-name>
+                                                  <person-note>Ireland</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.2030" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" usage="ewyb edio">
+                              <org-entry-head>
+                                   <org-entry-name>European Food Safety Authority</org-entry-name>
+                                   <abbr>EFSA</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>
+                  Via Carlo Magno 1
+                  <sc>a</sc>
+                  , 43126 Parma, Italy
+                </verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(521) 036111</telephone>
+                                   <email>press@efsa.europa.eu</email>
+                                   <internet>www.efsa.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.2029">Began operations in 2003; its primary responsibility is to provide independent scientific advice on all matters with a direct or indirect impact on food safety. The EFSA will carry out assessments of risks to the food chain and scientific assessment on any matter that may have a direct or indirect effect on the safety of the food supply, including matters relating to animal health, animal welfare and plant health. It also gives scientific advice on genetically modified organisms, and on nutrition in relation to EU law.</p>
+                              <dir-list>
+                                   <dir-entry id="WB02047.IO.TXT.2033" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Dr</title>
+                                                       <forename>Bernhard</forename>
+                                                       <surname>Url</surname>
+                                                  </person-name>
+                                                  <person-note>Austria</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.394" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" usage="ewyb edio">
+                              <org-entry-head>
+                                   <org-entry-name>European Foundation for the Improvement of Living and Working Conditions</org-entry-name>
+                                   <abbr>EUROFOUND</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Wyattville Rd, Loughlinstown, Dublin, D18 KP65, Ireland</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(1) 2043100</telephone>
+                                   <internet>www.eurofound.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.395">Established in 1975, the Foundation aims to provide information and advice on European living and working conditions, industrial relations, and the management of change to employers, policymakers, govts and trade unions, by means of comparative data, research and analysis. In 2001 the Foundation established the European Monitoring Centre on Change to help to disseminate information and ideas on the management and anticipation of change in industry and enterprise.</p>
+                              <dir-list>
+                                   <dir-entry id="WB02047.IO.TXT.397" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ivailo</forename>
+                                                       <surname>Kalfin</surname>
+                                                  </person-name>
+                                                  <person-note>Bulgaria</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded sllink="SLSDOC" slsdocrf="ORG-EXPANDREF">
+                              <org-entry-head>
+                                   <org-entry-name>European Institute for Gender Equality</org-entry-name>
+                                   <abbr>EIGE</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Gedimino pr. 16, 01103 Vilnius, Lithuania</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(5) 215-7400</telephone>
+                                   <email>eige.sec@eige.europa.eu</email>
+                                   <internet>eige.europa.eu</internet>
+                              </address-block>
+                              <p id="IO.EU-AGENCIES.3">The EIGE was established in 2007, initially in Brussels, Belgium, to help EU member states and institutions to promote gender equality, to combat gender discrimination and to disseminate information on gender issues. The institute collects and interprets relevant data, to develop methodologies and tools to help to integrate gender across all policy areas, to facilitate discussion and the adoption of best practices, and to raise awareness of gender issues. The institute comprises a management board, which is the decision-making body, together with a consultative experts’ forum.</p>
+                              <dir-list>
+                                   <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Carlien</forename>
+                                                       <surname>Scheele</surname>
+                                                  </person-name>
+                                                  <person-note>Netherlands</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded sllink="SLSDOC" slsdocrf="ORG-EXPANDREF">
+                              <org-entry-head>
+                                   <org-entry-name>European Insurance and Occupational Pensions Authority</org-entry-name>
+                                   <abbr>EIOPA</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Westhafenpl. 1, 60327 Frankfurt am Main, Germany</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(69) 95111920</telephone>
+                                   <email>info@eiopa.europa.eu</email>
+                                   <internet>eiopa.europa.eu</internet>
+                              </address-block>
+                              <p id="IO.EU-AGENCIES.4">Established in 2011 to replace the Committee of European Insurance and Occupational Pensions Supervisors. It aims to support the stability of the financial system, the transparency of markets and financial products as well as the protection of policyholders, pension scheme members and beneficiaries.</p>
+                              <dir-list>
+                                   <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Fausto</forename>
+                                                       <surname>Parente</surname>
+                                                  </person-name>
+                                                  <person-note>Italy</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.30012020" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF">
+                              <org-entry-head>
+                                   <org-entry-name>European Labour Authority</org-entry-name>
+                                   <abbr>ELA</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Landerova 12, 811 09 Bratislava 1, Slovakia</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(800) 67891011</telephone>
+                                   <email>info@ela.europa.eu</email>
+                                   <internet>ela.europa.eu</internet>
+                              </address-block>
+                              <p id="IO.EU-AGENCIES.6">Commenced operations in October 2019 (and relocated permanently from a temporary location in Brussels to Bratislava, Slovakia in 2021), with the aim of facilitating co-operation and mediating disputes between member countries, co-ordinating joint inspections, and providing analyses and risk assessments in relation to labour mobility across national borders. </p>
+                              <dir-list>
+                                   <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Cosmin</forename>
+                                                       <surname>Boiangiu</surname>
+                                                  </person-name>
+                                                  <person-note>Romania</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.2031" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" usage="ewyb edio">
+                              <org-entry-head>
+                                   <org-entry-name>European Maritime Safety Agency</org-entry-name>
+                                   <abbr>EMSA</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Cais do Sodré, 1249-206 Lisbon, Portugal</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(21) 1209200</telephone>
+                                   <email>information@emsa.europa.eu</email>
+                                   <internet>www.emsa.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.2032">Established by a regulation of the European Parliament in 2002; its primary responsibility is to provide technical and scientific advice to the Commission in the field of maritime safety and prevention of pollution by ships and, from 2012, oil and gas rigs. In December 2003 it was decided that the permanent seat of the agency would be in Lisbon, Portugal. Norway and Iceland are also members of EMSA.</p>
+                              <dir-list>
+                                   <dir-entry id="WB02047.IO.TXT.2034" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Maja</forename>
+                                                       <surname>Markovčić Kostelac</surname>
+                                                  </person-name>
+                                                  <person-note>Croatia</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.2024" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" usage="ewyb edio">
+                              <org-entry-head>
+                                   <org-entry-name>European Medicines Agency</org-entry-name>
+                                   <abbr>EMA</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Domenico Scarlattilaan 6, 1083 Amsterdam, Netherlands</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(88) 7816000</telephone>
+                                   <email>press@ema.europa.eu</email>
+                                   <internet>www.ema.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.381">Established in 1995 for the evaluation, authorization and supervision of medi­cinal products for human and veterinary use. It relocated from the UK to Amsterdam, Netherlands, in 2019.</p>
+                              <dir-list>
+                                   <dir-entry id="WB02047.IO.TXT.382" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Emer</forename>
+                                                       <surname>Cooke</surname>
+                                                  </person-name>
+                                                  <person-note>Ireland</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.398" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" usage="ewyb edio">
+                              <org-entry-head>
+                                   <org-entry-name>European Monitoring Centre for Drugs and Drug Addiction</org-entry-name>
+                                   <abbr>EMCDDA</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Praça Europa 1, Cais do Sodré, 1249-289 Lisbon, Portugal</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(21) 1210200</telephone>
+                                   <fax>(21) 1210380</fax>
+                                   <email>info@emcdda.europa.eu</email>
+                                   <internet>www.emcdda.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.399">Founded in 1993 and became fully operational at the end of 1995, with the aim of providing member states with objective, reliable and comparable information on drugs and drug addiction in order to assist in combating the problem. The Centre co-operates with other European and international organizations and non-EU countries.</p>
+                              <dir-list>
+                                   <dir-entry id="WB02047.IO.TXT.401" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Alexis</forename>
+                                                       <surname>Goosdeel</surname>
+                                                  </person-name>
+                                                  <person-note>Belgium</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB0246047.IO.TXT.398" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" usage="ewyb edio">
+                              <org-entry-head>
+                                   <org-entry-name>European Public Prosecutor’s Office</org-entry-name>
+                                   <abbr>EPPO</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>11 ave John F. Kennedy, 1855 Luxembourg, Luxembourg</verbatim-address>
+                                   </address>
+                                   <internet>www.eppo.europa.eu/en</internet>
+                              </address-block>
+                              <p id="WB0246047.IO.TXT.399">Founded in 2017 by a regulation of the Council and became fully operational in May 2021; it is an independent public prosecution office of the EU, operating in all participating EU states (currently 22), and is responsible for investigating, prosecuting and bringing to judgment crimes against the financial interests of the EU. Comprises one European Chief Prosecutor and 22 European Prosecutors (one for each participating member state), who together constitute the College of the EPPO.</p>
+                              <dir-list>
+                                   <dir-entry id="WB0246047.IO.TXT.401" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Chief Prosecutor</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Laura</forename>
+                                                       <surname>Codruţa Kōvesi</surname>
+                                                  </person-name>
+                                                  <person-note>Romania</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB020220151540.IO.TXT" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" usage="ewyb edio">
+                              <org-entry-head>
+                                   <org-entry-name>European Securities and Markets Authority</org-entry-name>
+                                   <abbr>ESMA</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>201–203 rue de Bercy, CS 80910, 75589 Paris, Cedex 12, France</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">1-58-36-43-21</telephone>
+                                   <email>info@esma.europa.eu</email>
+                                   <internet>www.esma.europa.eu</internet>
+                              </address-block>
+                              <p id="IO.EU-AGENCIES.7">Founded in 2011, replacing the Committee of European Securities Regulators as the regulator and supervisor of the EU’s financial markets.</p>
+                              <dir-list>
+                                   <dir-entry id="WB0202151702.IO.TXT" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Natasha</forename>
+                                                       <surname>Cazenave</surname>
+                                                  </person-name>
+                                                  <person-note>France</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.406" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" usage="ewyb edio">
+                              <org-entry-head>
+                                   <org-entry-name>European Training Foundation</org-entry-name>
+                                   <abbr>ETF</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Villa Gualino, Viale Settimio Severo 65, 10133 Turin, Italy</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(011) 630-22-82</telephone>
+                                   <fax>(011) 630-22-00</fax>
+                                   <email>info@etf.europa.eu</email>
+                                   <internet>www.etf.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.407">Established in 1990 and became oper­ational in 1994, the Foundation provides policy advice to the European Commission and to the EU’s partner countries, to support vocational education and training reform. The ETF works in the countries surrounding the EU, which are involved either in the European Neighbourhood Partnership Instrument, or in the enlargement process under the Instrument for Pre-accession Assistance. The ETF also works in a number of other Central Asian countries.</p>
+                              <dir-list>
+                                   <dir-entry id="WB02047.IO.TXT.408" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Pilvi</forename>
+                                                       <surname>Torsti</surname>
+                                                  </person-name>
+                                                  <person-note>Finland</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB0202201511313.IO.TXT" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" usage="ewyb edio">
+                              <org-entry-head>
+                                   <org-entry-name>European Union Agency for Asylum</org-entry-name>
+                                   <abbr>EUAA</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>MTC Block, Winemakers Wharf, Grand Harbour, Valletta, MRS 1917, Malta</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">22487500</telephone>
+                                   <email>info@euaa.europa.eu</email>
+                                   <internet>euaa.europa.eu</internet>
+                              </address-block>
+                              <p id="WB0202201512001.IO.TXT">Launched in 2011 to act as a centre of expertise on asylum. Contributes to the development of the Common European Asylum System by facilitating, co-ordinating and strengthening practical co-operation among member states on asylum.</p>
+                              <dir-list>
+                                   <dir-entry id="WB0202201512316IO.TXT.379" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nina</forename>
+                                                       <surname>Gregori</surname>
+                                                  </person-name>
+                                                  <person-note>Slovenia</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.828288" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" usage="ewyb edio">
+                              <org-entry-head>
+                                   <org-entry-name>European Union Agency for Criminal Justice Cooperation</org-entry-name>
+                                   <abbr>EUROJUST</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>POB 16183, 2500 The Hague, Netherlands</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(70) 4125000</telephone>
+                                   <email>info@eurojust.europa.eu</email>
+                                   <internet>eurojust.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.0687956677">Established in 2002 as the European Union Judicial Cooperation Unit, to improve co-operation and co-ordination between member states in the investigation and prosecution of serious cross-border and organized crime. Its new legal basis as the EU Agency for Criminal Justice Cooperation became operational from late 2019, and from June 2022 it was given the legal possibility to collect and share evidence on war crimes. The EUROJUST College is composed of one member (a senior prosecutor or judge) nominated by each member state. </p>
+                              <dir-list>
+                                   <dir-entry id="WB02047.IO.TXT.373" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>President of the College</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ladislav</forename>
+                                                       <surname>Hamran</surname>
+                                                  </person-name>
+                                                  <person-note>Slovakia</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Administrative Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Vincent</forename>
+                                                       <surname>Jamin</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.3560" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" usage="ewyb edio casee">
+                              <org-entry-head>
+                                   <org-entry-name>European Union Agency for Cybersecurity</org-entry-name>
+                                   <abbr>ENISA</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Ethnikis Antistaseos 72, 152 31 Chalandri 152, Greece</verbatim-address>
+                                   </address>
+                                   <email>info@enisa.europa.eu</email>
+                                   <internet>www.enisa.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.1849">Established by a regulation of the European Parliament in 2004; commenced operations in 2005. The primary responsibilities of the agency are to promote closer European co-ordination on the security of communications networks and information systems and to provide assistance in the application of EU measures in this field.</p>
+                              <dir-list>
+                                   <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Juhan</forename>
+                                                       <surname>Lepassaar</surname>
+                                                  </person-name>
+                                                  <person-note>Estonia</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.402" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" usage="ewyb edio">
+                              <org-entry-head>
+                                   <org-entry-name>European Union Agency for Fundamental Rights</org-entry-name>
+                                   <abbr>FRA</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Schwarzenbergpl. 11, 1040 Vienna, Austria</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(1) 580300</telephone>
+                                   <email>information@fra.europa.eu</email>
+                                   <internet>fra.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.403">Founded in 2007, replacing the European Monitoring Centre on Racism and Xenophobia (EUMC). The agency aims to provide assistance to EU member states on fundamental rights matters during the application of EU law. The FRA continues the work of the EUMC on racism, xenophobia, anti-Semitism and related intolerance, and utilizes its experience of data collection methods and co-operation with governments and international organizations. In addition, the FRA places significant emphasis on increasing public awareness of rights issues and on co-operation with civil society.</p>
+                              <dir-list>
+                                   <dir-entry id="WB02047.IO.TXT.405" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Prof.</title>
+                                                       <forename>Michael</forename>
+                                                       <surname>O’Flaherty</surname>
+                                                  </person-name>
+                                                  <person-note>Ireland</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.84736809" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF">
+                              <org-entry-head>
+                                   <org-entry-name>European Union Agency for Law Enforcement Co-operation</org-entry-name>
+                                   <abbr>EUROPOL</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>POB 90850, 2509 The Hague, Netherlands; Eisenhowerlaan 73, 2517 The Hague, Netherlands</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(70) 3025000</telephone>
+                                   <email>info@europol.europa.eu</email>
+                                   <internet>www.europol.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.51232435">Established in 1992 and known under its current name since May 2017, EUROPOL is a law enforcement organization that aims to help EU member states to combat organized crime, by handling criminal intelligence throughout Europe and promoting co-operation between the law enforcement bodies of member countries; became a full EU agency, with an enhanced mandate for combating international crime, in 2010. In January 2016 a European Counter Terrorism Centre was established as a department within EUROPOL. In May the European Parliament approved new regulations to facilitate the establishment of specialized units within EUROPOL and thereby enable it to respond more rapidly to terrorist threats and other incidents of cross-border and organized crime.</p>
+                              <dir-list>
+                                   <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Catherine</forename>
+                                                       <surname>De Bolle</surname>
+                                                  </person-name>
+                                                  <person-note>Belgium</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.76872726" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF">
+                              <org-entry-head>
+                                   <org-entry-name>European Union Agency for Law Enforcement Training</org-entry-name>
+                                   <abbr>CEPOL</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>1066 Budapest, Ó utca 27, Hungary</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(1) 803-8030</telephone>
+                                   <fax>(1) 803-8032</fax>
+                                   <email>info@cepol.europa.eu</email>
+                                   <internet>www.cepol.europa.eu</internet>
+                              </address-block>
+                              <p id="IO.EU-AGENCIES.8">Founded as the European Police College in 2005 to help to create a network of senior police officers throughout Europe, to encourage cross-border co-operation in combating crime, and to improve public security and law and order through the organization of training activities and research. Present name adopted in July 2016.</p>
+                              <dir-list>
+                                   <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Montserrat</forename>
+                                                       <surname>Marín López</surname>
+                                                  </person-name>
+                                                  <person-note>Spain</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.3769785697" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF">
+                              <org-entry-head>
+                                   <org-entry-name>European Union Agency for the Operational Management of Large-scale IT Systems in the Area of Freedom, Security and Justice</org-entry-name>
+                                   <abbr>eu-LISA</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>EU House, Rävala pst 4, 10143 Tallinn, Estonia</verbatim-address>
+                                   </address>
+                                   <email>info@eulisa.europa.eu</email>
+                                   <internet>eulisa.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.13754546" usage="ewyb edio">The agency, which began operations in late 2012, was established to provide operational management of large-scale IT systems in the area of home affairs. It has operational management responsibility for the Schengen Information System (SIS II), which entered into operation in April 2013.</p>
+                              <dir-list>
+                                   <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Agnès</forename>
+                                                       <surname>Diallo</surname>
+                                                  </person-name>
+                                                  <person-note>France</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.229457656" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" usage="ewyb edio">
+                              <org-entry-head>
+                                   <org-entry-name>European Union Agency for Railways</org-entry-name>
+                                   <abbr>ERA</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>120 rue Marc Lefrancq, 59300 Valenciennes, France</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">3-27-09-65-00</telephone>
+                                   <fax>3-27-33-40-65</fax>
+                                   <email>directorate-info@era.europa.eu</email>
+                                   <internet>www.era.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.22956735463">The agency’s predecessor, the European Railway Agency, was established by a regulation of the European Parliament in April 2004, its primary responsibility being to reinforce the safety and interoperability of railways in the EU. With the entry into force in 2016 of the so-called technical pillar of the EU’s fourth railway package, the European Union Agency for Railways was founded.</p>
+                              <dir-list>
+                                   <dir-entry id="WB02047.IO.TXT.44876342525" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Josef</forename>
+                                                       <surname>Doppelbauer</surname>
+                                                  </person-name>
+                                                  <person-note>Austria</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.120421" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" usage="ewyb edio">
+                              <org-entry-head>
+                                   <org-entry-name>European Union Agency for the Space Programme</org-entry-name>
+                                   <abbr>EUSPA</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Janovského 438/2, 17000 Prague 7, Czech Republic</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">234766000</telephone>
+                                   <email>com@euspa.europa.eu</email>
+                                   <internet>www.euspa.europa.eu</internet>
+                              </address-block>
+                              <p>Replaced the European Global Navigation Satellite Systems Authority (GSA) in 2021. The GSA was established in 2004 to oversee all public interests relating to European Global Navigation Satellite System programmes, and in 2007 officially took over the tasks previously assigned to the Galileo Joint Undertaking. The EUSPA is responsible for the Galileo and the European Geostationary Navigation Overlay Service (EGNOS) satellite navigation programmes, including their management, operation, maintenance and evolution, and for the development of future systems; it also has responsibility for the Space Surveillance Tracking Front Desk operations service.</p>
+                              <dir-list>
+                                   <dir-entry id="WB02047.IO.TXT.90000010" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Rodrigo</forename>
+                                                       <surname>da Costa</surname>
+                                                  </person-name>
+                                                  <person-note>Portugal</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.987656" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF">
+                              <org-entry-head>
+                                   <org-entry-name>European Union Institute for Security Studies</org-entry-name>
+                                   <abbr>EUISS</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>100 ave de Suffren, 75015 Paris, France</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">1-56-89-19-30</telephone>
+                                   <email>info@iss.europa.eu</email>
+                                   <internet>www.iss.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.5806495684">Established by a Council Joint Action in 2001, and inaugurated in January 2002. The Institute aims to help to implement and develop the EU’s Common Foreign and Security Policy, and carries out political analysis and forecasting.</p>
+                              <dir-list>
+                                   <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Steven</forename>
+                                                       <surname>Everts</surname>
+                                                  </person-name>
+                                                  <person-note>Sweden</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.409" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" usage="ewyb edio">
+                              <org-entry-head>
+                                   <org-entry-name>European Union Intellectual Property Office</org-entry-name>
+                                   <abbr>EUIPO</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Avda de Europa 4, 03008 Alicante, Spain</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">965139100</telephone>
+                                   <email>information@euipo.europa.eu</email>
+                                   <internet>euipo.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.410">Established in 1993 as the Office for Harmonization in the Internal Market, to promote and control trade marks and designs throughout the EU. Present name adopted in 2016.</p>
+                              <dir-list>
+                                   <dir-entry id="WB02047.IO.TXT.413" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Christian</forename>
+                                                       <surname>Archambeau</surname>
+                                                  </person-name>
+                                                  <person-note>Belgium</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.2435465754" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF">
+                              <org-entry-head>
+                                   <org-entry-name>European Union Satellite Centre</org-entry-name>
+                                   <abbr>EU SATCEN</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Apdo de Correos 511, 28850 Torréjon de Ardoz, Madrid, Spain</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">916786000</telephone>
+                                   <fax>916786006</fax>
+                                   <email>info@satcen.europa.eu</email>
+                                   <internet>www.eusc.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.78876655664">Established by a Council Joint Action in 2001 and operational from 1 January 2002. The Centre is dedicated to providing material derived from the analysis of satellite imagery in support of the Common Foreign and Security Policy.</p>
+                              <dir-list>
+                                   <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Sorin Dumitru</forename>
+                                                       <surname>Ducaru</surname>
+                                                  </person-name>
+                                                  <person-note>Romania</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.14818822161" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF">
+                              <org-entry-head>
+                                   <org-entry-name>Single Resolution Board</org-entry-name>
+                                   <abbr>SRB</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Treurenberg 22, 1049 Brussels, Belgium</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">(2) 490-30-00</telephone>
+                                   <internet>srb.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.14818832701">Established in 2015 as an independent agency of the EU to serve as the resolution authority for banks within the Banking Union that are unable to fulfil their credit obligations.</p>
+                              <dir-list>
+                                   <dir-entry id="WB02047.IO.TXT.14818832702" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Chairperson</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dominique</forename>
+                                                       <surname>Laboureix</surname>
+                                                  </person-name>
+                                                  <person-note>France</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.414" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" usage="ewyb edio">
+                              <org-entry-head>
+                                   <org-entry-name>Translation Centre for the Bodies of the European Union </org-entry-name>
+                                   <abbr>CdT</abbr>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>
+                  12
+                  <sc>e</sc>
+                   rue Guillaume Kroll, 1882 Luxembourg
+                </verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">4217-11-1</telephone>
+                                   <email>cdt@cdt.europa.eu</email>
+                                   <internet>cdt.europa.eu</internet>
+                              </address-block>
+                              <p id="WB02047.IO.TXT.415">Established in 1994 to meet the translation needs of other decentralized EU agencies.</p>
+                              <dir-list>
+                                   <dir-entry id="WB02047.IO.TXT.416" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ildikó</forename>
+                                                       <surname>Horváth</surname>
+                                                  </person-name>
+                                                  <person-note>Hungary</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                    </org-list>
+                    <org-list>
+                         <org-list-head>EURATOM Agencies and Bodies</org-list-head>
+                         <org-entry-expanded sllink="SLSDOC" slsdocrf="ORG-EXPANDREF">
+                              <org-entry-head>
+                                   <org-entry-name>Euratom Supply Agency</org-entry-name>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Complexe Euroforum, 1 rue Henri Schnadt, 2530 Luxembourg</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">4301-34815</telephone>
+                                   <email>esa-aae@ec.europa.eu</email>
+                                   <internet>ec.europa.eu/euratom/index.html</internet>
+                              </address-block>
+                              <p id="IO.EU-AGENCIES.9">The Euratom Supply Agency commenced operations in 1960, having been established by the Euratom Treaty to ensure the regular and equitable supply of nuclear energy throughout EU member states.</p>
+                              <dir-list>
+                                   <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Director-General</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Agnieszka</forename>
+                                                       <surname>Kazmierczak</surname>
+                                                  </person-name>
+                                                  <person-note>Poland</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                         <org-entry-expanded id="WB02047.IO.TXT.12044421" sllink="SLSDOC" slsdocrf="ORG-EXPANDREF" usage="ewyb edio">
+                              <org-entry-head>
+                                   <org-entry-name>Fusion for Energy—F4E—European Joint Undertaking for ITER and the Development of Fusion Energy</org-entry-name>
+                              </org-entry-head>
+                              <address-block>
+                                   <address type="POSTAL">
+                                        <verbatim-address>Calle Josep Pla 2, Torres Diagonal Litoral, Edif. B3, 08019 Barcelona, Spain</verbatim-address>
+                                   </address>
+                                   <telephone alsofax="N">933201800</telephone>
+                                   <fax>934897537</fax>
+                                   <email>info@f4e.europa.eu</email>
+                                   <internet>fusionforenergy.europa.eu</internet>
+                              </address-block>
+                              <p id="IO.EU-AGENCIES.10">Established in 2007, as a Joint Undertaking under the European Atomic Energy Community (Euratom) Treaty, by a decision of the Council. Its current members comprise the EU member states and Euratom.</p>
+                              <dir-list>
+                                   <dir-entry id="WB02047.IO.TXT.9000000000342" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Director</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marc</forename>
+                                                       <surname>Lachaise</surname>
+                                                  </person-name>
+                                                  <person-note>France</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                         </org-entry-expanded>
+                    </org-list>
+                    <p>Executive Agencies are established for a predetermined length of time. There are currently six such agencies in operation: the Education, Audiovisual and Culture Executive Agency; the European Climate, Infrastructure and Environment Executive Agency; the Euro­pean Research Council Executive Agency; the European Innovation Council and Small and Medium-sized Enterprises Executive Agency; the European Health and Digital Executive Agency; and the European Research Executive Agency.</p>
+               </int-org-section>
+          </int-org-sectref>

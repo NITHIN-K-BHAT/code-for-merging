@@ -1,0 +1,27 @@
+<org-entryref id="SL1741374" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741373" slsdocid="249542" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.989" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>News-Sentinel</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>600 W Main St, POB 100, Fort Wayne, IN 46802</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(260) 461-8519</telephone>
+                                                       <email>metro@news-sentinel.com</email>
+                                                       <internet>news-sentinel.com</internet>
+                                                  </address-block>
+                                                  <found-date>1833</found-date>
+                                                  <content-note style="NORMAL">publ. by Fort Wayne Newspapers</content-note>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Scott</forename>
+                                                                 <surname>Stanford</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

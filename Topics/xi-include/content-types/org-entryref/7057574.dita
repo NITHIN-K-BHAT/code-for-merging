@@ -1,0 +1,35 @@
+<org-entryref id="SL8961502" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8961501" slsdocid="7057574" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1587025015" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Television" usage="usac">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Tegna, Inc</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>8350 Broad St, Suite 2000, Tysons, VA 22102</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(703) 873-6600</telephone>
+                                                            <internet>tegna.com</internet>
+                                                       </address-block>
+                                                       <found-date>2015 as successor to broadcast operations of Gannett</found-date>
+                                                       <content-note style="NORMAL">operates 64 TV stations and 4 radio stations</content-note>
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Howard D.</forename>
+                                                                      <surname>Elias</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Dave</forename>
+                                                                      <surname>Lougee</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

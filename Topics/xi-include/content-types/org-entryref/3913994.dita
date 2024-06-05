@@ -1,0 +1,25 @@
+<org-entryref id="SL3999878" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3999877" slsdocid="3913994" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.USAC.201113" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Utilities">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Yukon Water Board</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>419 Range Rd, Suite 106, Whitehorse, YT Y1A 3V1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(867) 456-3980</telephone>
+                                                       <email>ywb@yukonwaterboard.ca</email>
+                                                       <internet>yukonwaterboard.ca</internet>
+                                                  </address-block>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Piers</forename>
+                                                                 <surname>McDonald</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

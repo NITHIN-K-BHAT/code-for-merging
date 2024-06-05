@@ -1,0 +1,35 @@
+<org-entryref id="SL8831716" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8831715" slsdocid="1171429" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.1109767303" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Simon &amp; Schuster Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>166 King St E, Suite 300, Toronto, ON M5A 1J3</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(905) 427-8882</telephone>
+                                             <fax>(905) 430-9446</fax>
+                                             <email>info@simonandschuster.ca</email>
+                                             <internet>simonandschuster.ca</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Pres. and Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nicole</forename>
+                                                       <surname>Winstanley</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Man. Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jasmine</forename>
+                                                       <surname>Elliott</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

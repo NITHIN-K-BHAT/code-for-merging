@@ -1,0 +1,54 @@
+<int-org-entryref id="SL1115942" int-org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1115941" slsdocid="1101886" slsdocty="int-org-entry int-org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <int-org-entry id="WB02047.IO.TXT.200305091614" id-root="int-org_eu" iso="" print-style="COLUMN" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio casee">
+                    <int-org-entry-head>
+                         <int-org-name-group type="MAIN">
+                              <org-entry-name>European Central Bank</org-entry-name>
+                              <abbr>ECB</abbr>
+                         </int-org-name-group>
+                    </int-org-entry-head>
+                    <int-org-block>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Sonnemannstr. 22, 60314 Frankfurt am Main, Germany; 60640 Frankfurt am Main, Germany</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(69) 134401300</telephone>
+                              <email>info@ecb.europa.eu</email>
+                              <internet>www.ecb.europa.eu</internet>
+                         </address-block>
+                         <p id="WB02047.IO.TXT.192" usage="ewyb edio casee">The ECB was formally established on 1 June 1998 (replacing the European Monetary Institute, which had been operational since January 1994), with the authority to issue the single currency, the euro, which replaced the European Currency Unit on 1 January 1999, at the beginning of Stage III of Economic and Monetary Union, in accordance with the provisions of the Treaty on European Union (the Maastricht Treaty). One of the ECB’s main tasks was to maintain price stability in the euro area or eurozone (i.e. in those member states using the euro as their national currency).</p>
+                         <p>
+            In September 2012 the European Commission proposed that, in response to a debt crisis in the eurozone, and as part of plans for the introduction of a banking union, the powers of the ECB should be considerably expanded, to enable it to act as a so-called Single Supervisory Mechanism (SSM). In December the Council endorsed plans for the SSM to hold responsibility for the supervision of some 200 major banks (those with assets of more than €30,000m., or 20% of national gross domestic product) in operation throughout the eurozone. The SSM was to co-operate closely with national regulatory authorities, with the aim of safeguarding financial stability. In March 2013 the European Parliament (EP) and the Council reached political agreement on the SSM package, and in October the Council of the European Union formally adopted a regulation on the creation of an ECB-led SSM, which commenced operations on 4 November 2014. An inter
+            
+            institutional agreement with the EP on the ECB’s role within the framework of the SSM entered into force in November 2013. Meanwhile, in July the Commission had proposed a complementary Single Resolution Mechanism (SRM) to centralize the fundamental responsibilities and resources for managing failing banks in the eurozone, and throughout the banking union’s member states; the SRM became fully operational at the end of December 2015, comprising an independent EU agency, the Single Resolution Board, and a common resolution fund, financed by the banking sector. An ECB strategy review was launched in early 2020, following which, in July 2021, the ECB adopted a new action plan, providing for the increased incorporation into its policy framework of objectives relating to climate change and introducing a medium-term inflation target of 2%.
+          </p>
+                         <p>The ECB’s leadership is pro­vided by an Executive Board, appointed by common agreement of the Presidents or Prime Ministers of the 20 eurozone countries for a non-renewable term of eight years (the Statute of the European System of Central Banks—ESCB—provides for a system of staggered appointments to the Executive Board for members other than the President in order to ensure continuity). The Executive Board is responsible for the preparation of meetings of the Governing Council, the implementation of monetary policy in accordance with the guidelines and decisions laid down by the Governing Council and for the current business of the ECB. The ECB and the national central banks of all EU member states together comprise the ESCB; the Eurosystem, meanwhile, refers to the ECB and the national central banks of those countries using the euro as their national currency. The Governing Council, which is the ECB’s highest decision-making body and which consists of the six members of the Executive Board and the governors of the central banks of eurozone member countries, usually meets twice a month. The prime mission of the Governing Council is to define the monetary policy of the eurozone and, in particular, to fix the interest rates at which the commercial banks can obtain money from the ECB. The General Council is the ECB’s third decision-making body; it comprises the ECB’s President, the Vice-President and the governors of the central banks of all EU member states. The Supervisory Board meets twice a month to discuss the ECB’s supervisory responsibilities.</p>
+                         <dir-list>
+                              <dir-entry id="WB02047.IO.TXT.193" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb edio casee">
+                                   <dir-entry-name>President</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Christine</forename>
+                                                  <surname>Lagarde</surname>
+                                             </person-name>
+                                             <person-note>France</person-note>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                              <dir-entry id="WB02047.IO.TXT.194" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb edio">
+                                   <dir-entry-name>Vice-President</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Luis</forename>
+                                                  <surname>de Guindos</surname>
+                                             </person-name>
+                                             <person-note>Spain</person-note>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                         </dir-list>
+                    </int-org-block>
+               </int-org-entry>
+          </int-org-entryref>

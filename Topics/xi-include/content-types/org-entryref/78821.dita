@@ -1,0 +1,87 @@
+<org-entryref id="SL8956416" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8956415" slsdocid="78821" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.741" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                                       <data-protection date-added="19.08.2009" ticked-box="Y" />
+                                                       <org-entry-head>
+                                                            <org-entry-name>CBC/Radio-Canada</org-entry-name>
+                                                            <alt-name>Canadian Broadcasting Corpn</alt-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>181 Queen St, POB 3220, Station C, Ottawa, ON K1Y 1E4</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(613) 288-6000</telephone>
+                                                            <internet>cbc.radio-canada.ca</internet>
+                                                       </address-block>
+                                                       <found-date>1936</found-date>
+                                                       <content-note style="NORMAL">nat. public broadcaster</content-note>
+                                                       <content-note style="NORMAL">financed mainly by public funds</content-note>
+                                                       <content-note style="NORMAL">services in French, English and 8 aboriginal languages</content-note>
+                                                       <content-note style="NORMAL">production facilities and broadcast transmitters throughout Canada</content-note>
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Michael</forename>
+                                                                      <surname>Goldbloom</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Catherine</forename>
+                                                                      <surname>Tait</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <org-list>
+                                                            <org-entryref id="SL1757765" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1757764" slsdocid="1757755" slsdocty="org-entry org-entrydtd">
+                                                                 
+                                                                 <org-entry id="CA.DIR.1160475264" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES" usage="ewyb usac">
+                                                                      <org-entry-head>
+                                                                           <org-entry-name>French Networks</org-entry-name>
+                                                                      </org-entry-head>
+                                                                      <address-block>
+                                                                           <address type="POSTAL">
+                                                                                <verbatim-address>1000 ave Papineau, Montréal, QC H2K 0C2</verbatim-address>
+                                                                           </address>
+                                                                           <telephone alsofax="N">(514) 597-6000</telephone>
+                                                                           <internet>cbc.radio-canada.ca</internet>
+                                                                      </address-block>
+                                                                      <role-group>
+                                                                           <role>Exec. Vice-Pres.</role>
+                                                                           <person>
+                                                                                <person-name>
+                                                                                     <forename>Dany</forename>
+                                                                                     <surname>Meloul</surname>
+                                                                                </person-name>
+                                                                                <person-note>acting</person-note>
+                                                                           </person>
+                                                                      </role-group>
+                                                                 </org-entry>
+                                                            </org-entryref>
+                                                            <org-entryref id="SL1757769" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1757768" slsdocid="1757758" slsdocty="org-entry org-entrydtd">
+                                                                 
+                                                                 <org-entry id="CA.DIR.1160475330" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES" usage="ewyb usac">
+                                                                      
+                                                                      <data-protection date-added="06.03.2007" ticked-box="Y" />
+                                                                      <org-entry-head>
+                                                                           <org-entry-name>Radio Canada International</org-entry-name>
+                                                                      </org-entry-head>
+                                                                      <address-block>
+                                                                           <address type="POSTAL">
+                                                                                <verbatim-address>1400 blvd René-Lévesque est, Montréal, QC H2L 2M2</verbatim-address>
+                                                                           </address>
+                                                                           <telephone alsofax="N">(514) 597-6000</telephone>
+                                                                           <email>info@rcinet.ca</email>
+                                                                           <internet>ici.radio-canada.ca/rci</internet>
+                                                                      </address-block>
+                                                                      <found-date>1945</found-date>
+                                                                      <content-note style="NORMAL">broadcasts short-wave, satellite and audio internet services in French, English, Spanish, Arabic and Chinese</content-note>
+                                                                 </org-entry>
+                                                            </org-entryref>
+                                                       </org-list>
+                                                  </org-entry>
+                                             </org-entryref>

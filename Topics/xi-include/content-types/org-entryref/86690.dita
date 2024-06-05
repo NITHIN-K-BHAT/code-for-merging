@@ -1,0 +1,25 @@
+<org-entryref id="SL114460" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="114459" slsdocid="86690" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="EC.DIR.120" id-root="ec.dir" iso="ec" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ECUADOR">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Avigiras 12-170 y Eloy Alfaro, Apdo 17-17-1538, Quito</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 398-5000</telephone>
+                                             <internet>ec.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Arthur W.</forename>
+                                                       <surname>Brown</surname>
+                                                  </person-name>
+                                                  <person-note>designate</person-note>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

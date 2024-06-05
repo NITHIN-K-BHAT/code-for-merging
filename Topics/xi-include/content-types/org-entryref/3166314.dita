@@ -1,0 +1,28 @@
+<org-entryref id="SL3858517" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3858516" slsdocid="3166314" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1286187422" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Crossway</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1300 Crescent St, Wheaton, IL 60187</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(630) 682-4300</telephone>
+                                             <fax>(630) 682-4785</fax>
+                                             <email>info@crossway.org</email>
+                                             <internet>crossway.org</internet>
+                                        </address-block>
+                                        <found-date>1938</found-date>
+                                        <content-note style="NORMAL">religion</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Josh</forename>
+                                                       <surname>Dennis</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

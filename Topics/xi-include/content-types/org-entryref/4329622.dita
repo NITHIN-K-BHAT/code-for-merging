@@ -1,0 +1,29 @@
+<org-entryref id="SL4330133" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4330132" slsdocid="4329622" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390303767" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Citizens' Voice</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>75 N Washington St, Wilkes-Barre, PA 18701</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(570) 821-2000</telephone>
+                                                       <email>contactus_cv@timesshamrock.com</email>
+                                                       <internet>citizensvoice.com</internet>
+                                                  </address-block>
+                                                  <found-date>1978</found-date>
+                                                  <frequency>Mon. to Sun. morning</frequency>
+                                                  <content-note style="NORMAL">owned by Times Shamrock Communications</content-note>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Dave</forename>
+                                                                 <surname>Janoski</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 18,498, Sun. 20,168 (2018)</stats>
+                                             </org-entry>
+                                        </org-entryref>

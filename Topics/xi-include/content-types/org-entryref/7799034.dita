@@ -1,0 +1,29 @@
+<org-entryref id="SL7799131" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799130" slsdocid="7799034" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637846687" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>The Dramatic Publishing Co</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>311 Washington St, Woodstock, IL 60098-3308</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 448-7469</telephone>
+                                             <email>customerservice@dpcplays.com</email>
+                                             <internet>dramaticpublishing.com</internet>
+                                        </address-block>
+                                        <found-date>1885</found-date>
+                                        <content-note style="NORMAL">plays</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Christopher</forename>
+                                                       <surname>Sergel</surname>
+                                                       <gen-name>III</gen-name>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

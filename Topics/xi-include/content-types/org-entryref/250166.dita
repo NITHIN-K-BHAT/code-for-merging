@@ -1,0 +1,39 @@
+<org-entryref id="SL8769432" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8769431" slsdocid="250166" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1953" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Energy Marketers of America</org-entry-name>
+                                                       <abbr>EMA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>300 New Jersey Ave, NW, Suite 900 Washington, DC 20001</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(703) 351-8000</telephone>
+                                                       <email>info@emamerica.org</email>
+                                                       <internet>www.energymarketersofamerica.org</internet>
+                                                  </address-block>
+                                                  <found-date>1984 as Petroleum Marketers Association of America</found-date>
+                                                  <content-note style="NORMAL">present name since 2020</content-note>
+                                                  <stats>48 state and regional trade asscns</stats>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jason</forename>
+                                                                 <surname>Mirabito</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Rob</forename>
+                                                                 <surname>Underwood</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,27 @@
+<org-entryref id="SL1744693" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1744692" slsdocid="249167" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1377" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="12.09.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Catholic University of America Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>620 Michigan Ave, NE, Washington, DC 20064</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(202) 319-5052</telephone>
+                                             <email>hfscustserv@press.jhu.edu</email>
+                                             <internet>cuapress.org</internet>
+                                        </address-block>
+                                        <found-date>1939</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Trevor</forename>
+                                                       <surname>Lipscombe</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

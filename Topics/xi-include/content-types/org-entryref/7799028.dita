@@ -1,0 +1,27 @@
+<org-entryref id="SL7799107" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799106" slsdocid="7799028" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637846352" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Council of State Governments</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1776 Avenue of the States, Lexington, KY 40511</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(859) 244-8000</telephone>
+                                             <email>press@csg.org</email>
+                                             <internet>csg.org</internet>
+                                        </address-block>
+                                        <found-date>1933</found-date>
+                                        <content-note style="NORMAL">reference publs on state govt and regional topics</content-note>
+                                        <role-group>
+                                             <role>Exec. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>David</forename>
+                                                       <surname>Adkins</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

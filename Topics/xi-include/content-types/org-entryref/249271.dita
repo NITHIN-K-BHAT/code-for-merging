@@ -1,0 +1,43 @@
+<org-entryref id="SL260832" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260831" slsdocid="249271" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1281" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Road &amp; Track</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>300 W 57th St, New York, NY 10019</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(877) 652-5295</telephone>
+                                                  <email>letters@roadandtrack.com</email>
+                                                  <internet>roadandtrack.com</internet>
+                                             </address-block>
+                                             <found-date>1947</found-date>
+                                             <frequency>monthly</frequency>
+                                             <role-group>
+                                                  <role>Exec. Editor</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Daniel</forename>
+                                                            <surname>Pund</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Co Editors-at-Large</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Matt</forename>
+                                                            <surname>Farah</surname>
+                                                       </person-name>
+                                                  </person>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>A. J.</forename>
+                                                            <surname>Baime</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 116,186 (2022)</stats>
+                                        </org-entry>
+                                   </org-entryref>

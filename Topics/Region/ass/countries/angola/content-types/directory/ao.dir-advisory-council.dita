@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7286302" sllink="SLSDOCRF" sllinkid="7286301" slsdocid="7286272" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="AO.DIR.1601893667" id-root="ao.dir" iso="ao" sect-type="advisory" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                    <heading>Advisory Council</heading>
+                    <org-list>
+                         <org-entryref id="SL7286322" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7286321" slsdocid="7286230" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="AO.DIR.1601892842" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Advisory Council" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Conselho Económico e Social</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Luanda</verbatim-address>
+                                        </address>
+                                   </address-block>
+                                   <found-date>2020</found-date>
+                                   <content-note style="NORMAL">autonomous body</content-note>
+                                   <stats>45 mems</stats>
+                                   <role-group>
+                                        <role>Co-ordinator</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>José Octávio Serra</forename>
+                                                  <surname>Van-Dúnem</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

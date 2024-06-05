@@ -1,0 +1,38 @@
+<org-entryref id="SL1759208" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759207" slsdocid="79001" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.549" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Vancouver Magazine</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>4321 Still Creek Dr., Suite 130, Burnaby, BC V5C 6S7</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(604) 299-7311</telephone>
+                                                       <email>mail@vanmag.com</email>
+                                                       <internet>vanmag.com</internet>
+                                                  </address-block>
+                                                  <found-date>1967</found-date>
+                                                  <content-note style="NORMAL">publ. by Canada Wide Media</content-note>
+                                                  <frequency>10 a year</frequency>
+                                                  <role-group>
+                                                       <role>Group Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ryan</forename>
+                                                                 <surname>Benn</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editorial Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Anicka</forename>
+                                                                 <surname>Quin</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 58,000 (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

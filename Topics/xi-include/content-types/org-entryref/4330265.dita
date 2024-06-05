@@ -1,0 +1,36 @@
+<org-entryref id="SL4330326" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4330325" slsdocid="4330265" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390306344" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Reading Eagle</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>390 Eagleview Blvd, Exton, PA 19341</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(610) 371-5000</telephone>
+                                                       <email>news@readingeagle.com</email>
+                                                       <internet>readingeagle.com</internet>
+                                                  </address-block>
+                                                  <found-date>1868</found-date>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Edward S.</forename>
+                                                                 <surname>Condra</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>David S.</forename>
+                                                                 <surname>Mowery</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 37,000, Sun. 51,000 (2018)</stats>
+                                             </org-entry>
+                                        </org-entryref>

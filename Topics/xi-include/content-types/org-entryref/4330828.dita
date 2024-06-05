@@ -1,0 +1,29 @@
+<org-entryref id="SL6404862" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6404861" slsdocid="4330828" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390370121" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Texarkana Gazette</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>101 E Broad St, Texarkana, AR 71854</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(870) 330-7550</telephone>
+                                                       <fax>(870) 330-7571</fax>
+                                                       <email>clerk@texarkanagazette.com</email>
+                                                       <internet>texarkanagazette.com</internet>
+                                                  </address-block>
+                                                  <found-date>1875</found-date>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>Gen. Man. and Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>James</forename>
+                                                                 <surname>Bright</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 25,000 (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

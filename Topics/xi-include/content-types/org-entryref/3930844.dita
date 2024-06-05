@@ -1,0 +1,30 @@
+<org-entryref id="SL3930906" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3930905" slsdocid="3930844" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="CA.DIR.USAC.32.118" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Publishers’ Organizations and Associations" usage="usac">
+                                             <data-protection date-added="15.08.2005" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Association of English-Language Publishers of Quebec/Association des Editeurs de Langue Anglaise du Québec</org-entry-name>
+                                                  <abbr>AELAQ</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1200 ave Atwater, suite 3, Westmount, QC H3Z 1X4</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(514) 932-5633</telephone>
+                                                  <email>admin@aelaq.org</email>
+                                                  <internet>aelaq.org</internet>
+                                             </address-block>
+                                             <found-date>1990</found-date>
+                                             <content-note style="NORMAL">affiliated to ACP</content-note>
+                                             <stats>29 mem. cos (2023)</stats>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Rebecca</forename>
+                                                            <surname>West</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

@@ -1,0 +1,26 @@
+<org-entryref id="SL7799461" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799460" slsdocid="7799375" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1643455337" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="usac ewyb">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Military Journal/Revue Militaire Canadienne</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>POB 17000, Stn Forces, Kingston, ON K7K 7B4</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 541-5010</telephone>
+                                                       <email>cmj.rmc@forces.gc.ca</email>
+                                                       <internet>www.journal.forces.gc.ca</internet>
+                                                  </address-block>
+                                                  <frequency>quarterly</frequency>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Christian</forename>
+                                                                 <surname>Leuprecht</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

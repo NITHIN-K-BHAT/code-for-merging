@@ -1,0 +1,27 @@
+<org-entryref id="SL5543744" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5543743" slsdocid="249537" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.995" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Des Moines Register</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>400 Locust St, Suite 500, Des Moines, IA 50309</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(515) 284-8000</telephone>
+                                                       <email>customerservice@registermedia.com</email>
+                                                       <internet>desmoinesregister.com</internet>
+                                                  </address-block>
+                                                  <found-date>1849</found-date>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Carol</forename>
+                                                                 <surname>Hunter</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 33,000, Sun. 56,000 (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

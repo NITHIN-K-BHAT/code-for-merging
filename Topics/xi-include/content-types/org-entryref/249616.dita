@@ -1,0 +1,34 @@
+<org-entryref id="SL1741108" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741107" slsdocid="249616" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.909" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Montgomery Advertiser</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>425 Molton St, Montgomery, AL 36104</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(334) 262-1611</telephone>
+                                                       <email>mtgadvertiser@gannett.com</email>
+                                                       <internet>montgomeryadvertiser.com</internet>
+                                                  </address-block>
+                                                  <found-date>1829</found-date>
+                                                  <content-note style="NORMAL">owned by Gannett Co, Inc</content-note>
+                                                  <role-group>
+                                                       <role>Pres. and Publr</role>
+                                                       <person>
+                                                            <vacancy />
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Paige O.</forename>
+                                                                 <surname>Windsor</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>Mon. to Sat. 8,735, Sun. 11,792 (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,26 @@
+<org-entryref id="SL1741625" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741624" slsdocid="249469" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1081" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Staten Island Advance</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>1441 South Ave, Suite 603, Staten Island, NY 10314</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(718) 816–2804</telephone>
+                                                            <internet>silive.com</internet>
+                                                       </address-block>
+                                                       <found-date>1886</found-date>
+                                                       <frequency>Mon. to Sat. evening, Sun. morning</frequency>
+                                                       <role-group>
+                                                            <role>Editor</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Brian J.</forename>
+                                                                      <surname>Laline</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

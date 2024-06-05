@@ -1,0 +1,38 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8926935" sllink="SLSDOCRF" sllinkid="8926934" slsdocid="7111948" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <dir-section id="CA.DIR.1589876793" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                                   <heading>Buddhism</heading>
+                                   <p>Some 356,975 people described themselves as Buddhists at the Canadian census of 2021.</p>
+                                   <org-list>
+                                        <org-entryref id="SL7111952" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7111951" slsdocid="79132" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.399" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BUDDHISM" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Jodo Shinshu Buddhist Temples of Canada</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>11786 Fentiman Pl., Richmond, BC V7E 6M6</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(604) 272-3330</telephone>
+                                                       <fax>(604) 272-6865</fax>
+                                                       <email>jsbtcheadquarters@gmail.com</email>
+                                                       <internet>bcc.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1905</found-date>
+                                                  <content-note style="NORMAL">fmrly Buddhist Churches of Canada</content-note>
+                                                  <role-group>
+                                                       <role>Bishop</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Rev.</title>
+                                                                 <forename>Tatsuya</forename>
+                                                                 <surname>Aoki</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                         </dir-sectref>

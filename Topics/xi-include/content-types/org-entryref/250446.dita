@@ -1,0 +1,27 @@
+<org-entryref id="SL8922929" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922928" slsdocid="250446" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1681" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Bank of New York Mellon</org-entry-name>
+                                                       <abbr>BNY Mellon</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>240 Greenwich St, New York, NY 10286</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(212) 495-1784</telephone>
+                                                       <email>tlsadmin@bnymellon.com</email>
+                                                       <internet>bnymellon.com</internet>
+                                                  </address-block>
+                                                  <found-date>2007</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Robin</forename>
+                                                                 <surname>Vince</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

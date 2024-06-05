@@ -1,0 +1,38 @@
+<org-entryref id="SL260740" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260739" slsdocid="249321" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1235" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <data-protection date-added="02.04.2009" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Highlights for Children</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1800 Watermark Dr., POB 269, Columbus, OH 43215</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(888) 372-6433</telephone>
+                                                  <internet>highlights.com</internet>
+                                             </address-block>
+                                             <found-date>1946</found-date>
+                                             <frequency>monthly</frequency>
+                                             <content-note style="NORMAL">4 editions for different age groups</content-note>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Kent S.</forename>
+                                                            <surname>Johnson</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Christine French</forename>
+                                                            <surname>Cully</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 1m. (2023)</stats>
+                                        </org-entry>
+                                   </org-entryref>

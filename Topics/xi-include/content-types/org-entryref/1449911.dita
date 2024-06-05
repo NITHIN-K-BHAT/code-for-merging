@@ -1,0 +1,29 @@
+<org-entryref id="SL3180840" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3180841" slsdocid="1449911" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1133446168" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>WhereTraveler</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Morris Visitor Publications, 699 Broad St, Suite 500, Augusta, GA 30901</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(646) 695-7046</telephone>
+                                                  <email>editorial@wheretraveler.com</email>
+                                                  <internet>wheretraveler.com</internet>
+                                             </address-block>
+                                             <found-date>1936</found-date>
+                                             <frequency>monthly</frequency>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Margaret</forename>
+                                                            <surname>Martin</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 1,055,921 (2019)</stats>
+                                        </org-entry>
+                                   </org-entryref>

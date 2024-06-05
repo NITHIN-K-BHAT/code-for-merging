@@ -1,0 +1,26 @@
+<org-entryref id="SL291634" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="291633" slsdocid="288065" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="BA.DIR.251" id-root="ba.dir" iso="ba" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN BOSNIA AND HERZEGOVINA">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>71000 Sarajevo, ul. Roberta C. Frasurea 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(33) 704000</telephone>
+                                             <fax>(33) 659722</fax>
+                                             <email>bhopa@state.gov</email>
+                                             <internet>ba.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Michael</forename>
+                                                       <surname>Murphy</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

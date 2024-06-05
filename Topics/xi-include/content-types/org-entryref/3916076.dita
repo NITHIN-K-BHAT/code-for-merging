@@ -1,0 +1,37 @@
+<org-entryref id="SL3916081" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3916080" slsdocid="3916076" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="CA.DIR.USAC.31.320" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Press Associations">
+                                             <org-entry-head>
+                                                  <org-entry-name>Canadian Association of Journalists/L’Association Canadienne des Journalistes</org-entry-name>
+                                                  <abbr>CAJ/ACJ</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>POB 117, Station F, Toronto, ON M4Y 2L4</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(613) 526-8061</telephone>
+                                                  <email>admin@caj.ca</email>
+                                                  <internet>caj.ca</internet>
+                                             </address-block>
+                                             <found-date>1978</found-date>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Zane</forename>
+                                                            <surname>Schwartz</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Brent</forename>
+                                                            <surname>Jolly</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>c. 1,300 mems (2023)</stats>
+                                        </org-entry>
+                                   </org-entryref>

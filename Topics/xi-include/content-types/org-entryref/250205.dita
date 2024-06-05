@@ -1,0 +1,28 @@
+<org-entryref id="SL262576" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262575" slsdocid="250205" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1911" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>US Dairy Export Council</org-entry-name>
+                                                       <abbr>USDEC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2107 Wilson Blvd, Suite 600, Arlington, VA 22201-3061</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(703) 528-3049</telephone>
+                                                       <fax>(703) 528-3705</fax>
+                                                       <internet>usdec.org</internet>
+                                                  </address-block>
+                                                  <found-date>1995</found-date>
+                                                  <stats>over 120 mem cos (2023)</stats>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Krysta</forename>
+                                                                 <surname>Harden</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

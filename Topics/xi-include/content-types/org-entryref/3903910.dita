@@ -1,0 +1,41 @@
+<org-entryref id="SL8822663" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8822662" slsdocid="3903910" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="AM.DIR.1353994746" id-root="am.dir" iso="am" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Newspapers">
+                                        
+                                        
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>Azat Artsakh</org-entry-name>
+                                             <alt-name>Free Artsakh</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Yerevan</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(47) 94-33-32</telephone>
+                                             <email>artsakhtert@gmail.com</email>
+                                             <internet>artsakhtert.am</internet>
+                                        </address-block>
+                                        <found-date>
+                  1923 as 
+                  <i>Geghtchouk (Villager)</i>
+                  ; later renamed, in turn, 
+                  <i>Khorherdayin Gharabagh (Soviet Karabakh)</i>
+                  , 
+                  <i>Artsakh</i>
+                  , and 
+                  <i>Lernayin Gharabaghi Hanrapetutyuny (Nagornyi Karabakh Republic)</i>
+                                        </found-date>
+                                        <content-note style="NORMAL">previously owned by the `Republic of Nagornyi Karabakh (Artsakh)’ and based in its capital, Stepanakert</content-note>
+                                        <content-note style="NORMAL">relocated to Yerevan 2023</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Norek A.</forename>
+                                                       <surname>Gasparyan</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

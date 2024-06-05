@@ -1,0 +1,36 @@
+<org-entryref id="SL4326409" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4326408" slsdocid="4326166" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389955632" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>The Hour</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>301 Merritt 7, Norwalk, CT 06851</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(203) 842-2500</telephone>
+                                                       <email>news@thehour.com</email>
+                                                       <internet>thehour.com</internet>
+                                                  </address-block>
+                                                  <found-date>1871</found-date>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>Group Publr and Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mike</forename>
+                                                                 <surname>DeLuca</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mike</forename>
+                                                                 <surname>Pignataro</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

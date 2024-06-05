@@ -1,0 +1,39 @@
+<org-entryref id="SL1741111" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741110" slsdocid="249615" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.911" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Anchorage Daily News</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>300 W 31st Ave, Anchorage, AK 99503</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(907) 257-4200</telephone>
+                                                       <email>newstips@adn.com</email>
+                                                       <internet>adn.com</internet>
+                                                  </address-block>
+                                                  <found-date>
+                      2017 as successor to 
+                      <i>Alaska Dispatch News</i>
+                                                  </found-date>
+                                                  <content-note style="NORMAL">owned by Binkley Group</content-note>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Andy</forename>
+                                                                 <surname>Pennington</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>David</forename>
+                                                                 <surname>Hulen</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

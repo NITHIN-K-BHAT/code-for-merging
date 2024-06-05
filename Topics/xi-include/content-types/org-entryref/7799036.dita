@@ -1,0 +1,37 @@
+<org-entryref id="SL8817251" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8817250" slsdocid="7799036" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637846762" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Wm B. Eerdmans Publishing Co</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>4035 Park E Court SE, Grand Rapids, MI 49546</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(616) 459-4591</telephone>
+                                             <email>info@eerdmans.com</email>
+                                             <internet>eerdmans.com</internet>
+                                        </address-block>
+                                        <found-date>1911</found-date>
+                                        <content-note style="NORMAL">theology, social concerns, regional history, religion, scholarly and juvenile</content-note>
+                                        <role-group>
+                                             <role>Pres. and Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Anita</forename>
+                                                       <surname>Eerdmans</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Willian B.</forename>
+                                                       <surname>Eerdmans</surname>
+                                                       <gen-name>Jr</gen-name>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

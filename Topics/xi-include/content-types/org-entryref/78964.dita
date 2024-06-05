@@ -1,0 +1,38 @@
+<org-entryref id="SL2493165" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2493164" slsdocid="78964" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.593" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Jewish News</org-entry-name>
+                                                       <abbr>CJN</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1750 Steeles Ave, Suite 218, Vaughan, ON L4K 2L7</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 391-1836</telephone>
+                                                       <email>info@thecjn.ca</email>
+                                                       <internet>thecjn.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1960</found-date>
+                                                  <frequency>quarterly print edn, weekly online edn with daily online updates</frequency>
+                                                  <role-group>
+                                                       <role>CEO and Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Yoni</forename>
+                                                                 <surname>Goldstein</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Marc</forename>
+                                                                 <surname>Weisblott</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 32,000 (2019)</stats>
+                                             </org-entry>
+                                        </org-entryref>

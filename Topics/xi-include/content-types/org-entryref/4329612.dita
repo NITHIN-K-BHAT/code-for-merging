@@ -1,0 +1,29 @@
+<org-entryref id="SL4330060" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4330059" slsdocid="4329612" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390302584" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Tribune Chronicle</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>240 Franklin St, SE, Warren, OH 44483</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(330) 841-1600</telephone>
+                                                       <fax>(330) 841-1717</fax>
+                                                       <email>blinert@tribtoday.com</email>
+                                                       <internet>tribtoday.com</internet>
+                                                  </address-block>
+                                                  <found-date>1812</found-date>
+                                                  <frequency>Mon. to Sat. evening, Sun. morning</frequency>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Brenda</forename>
+                                                                 <surname>Linert</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 20,532, Sun. 25,200 (2019)</stats>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,29 @@
+<org-entryref id="SL2486819" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2486818" slsdocid="2486804" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="UZ.DIR.1223398337" id-root="uz.dir" iso="uz" media="PRINTANDONLINE" print-only="NO" section="Trade &amp; Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Major Companies">
+                                             <org-entry-head>
+                                                  <org-entry-name>UzAuto Motors</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>100060 Tashkent, A. Temur ko`ch. 13</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(71) 141-77-77</telephone>
+                                                  <email>info@uzautomotors.com</email>
+                                                  <internet>uzautomotors.com</internet>
+                                             </address-block>
+                                             <found-date>2019 to replace GM Uzbekistan (fmrly Uzdaewoo)</found-date>
+                                             <content-note style="NORMAL">wholly owned by Uzavtosanoat</content-note>
+                                             <content-note style="NORMAL">produces and imports Chevrolet automobiles at factory in Asaka, Andijon Viloyat</content-note>
+                                             <role-group>
+                                                  <role>Gen. Man.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Bu</forename>
+                                                            <surname>Andersson</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>more than 11,624 employees (2023)</stats>
+                                        </org-entry>
+                                   </org-entryref>

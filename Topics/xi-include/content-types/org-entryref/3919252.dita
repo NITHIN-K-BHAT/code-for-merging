@@ -1,0 +1,26 @@
+<org-entryref id="SL3919461" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3919460" slsdocid="3919252" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.USAC.31.307" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="News Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                                       
+                                                       
+                                                       <org-entry-head>
+                                                            <org-entry-name>TASS</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>200 Rideau Terrace, Suite 1207, Ottawa, ON K1M 0Z3</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(613) 749-9546</telephone>
+                                                            <email>tasscanada@yahoo.ca</email>
+                                                       </address-block>
+                                                       <role-group>
+                                                            <role>Bureau Chief</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Daniil</forename>
+                                                                      <surname>Studnev</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

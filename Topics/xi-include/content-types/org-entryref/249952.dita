@@ -1,0 +1,37 @@
+<org-entryref id="SL1739203" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1739202" slsdocid="249952" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2178" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CIVIL AVIATION" usage="ewyb usac">
+                                                  <data-protection date-added="12.09.2007" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Southwest Airlines</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2702 Love Field Dr., POB 36647, Dallas, TX 75235</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(214) 792-4908</telephone>
+                                                       <email>swamedia@wnco.com</email>
+                                                       <internet>southwest.com</internet>
+                                                  </address-block>
+                                                  <found-date>1967</found-date>
+                                                  <content-note style="NORMAL">domestic and international services</content-note>
+                                                  <role-group>
+                                                       <role>Exec. Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Gary C.</forename>
+                                                                 <surname>Kelly</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Robert E.</forename>
+                                                                 <surname>Jordan</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

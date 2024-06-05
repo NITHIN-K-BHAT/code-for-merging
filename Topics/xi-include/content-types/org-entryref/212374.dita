@@ -1,0 +1,26 @@
+<org-entryref id="SL229646" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="229645" slsdocid="212374" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="NZ.DIR.117" id-root="nz.dir" iso="nz" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES AND HIGH COMMISSIONS IN NEW ZEALAND">
+                                        <data-protection date-added="29.03.2009" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>29 Fitzherbert Terrace, Thorndon, POB 1190, Wellington 6140</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(4) 462-6000</telephone>
+                                             <fax>(4) 499-0490</fax>
+                                             <internet>nz.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Thomas Stewart</forename>
+                                                       <surname>Udall</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

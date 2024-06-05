@@ -1,0 +1,28 @@
+<org-entryref id="SL5524146" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5524145" slsdocid="78843" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.718" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <data-protection date-added="24.08.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Penguin Random House Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>320 Front St W, Suite 1400, Toronto, ON M5V 3B6</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(416) 364-4449</telephone>
+                                             <email>customerservicescanada@penguinrandomhouse.com</email>
+                                             <internet>penguinrandomhouse.ca</internet>
+                                        </address-block>
+                                        <found-date>2013 by merger of Penguin and Random House of Canada</found-date>
+                                        <content-note style="NORMAL">imprints include McClelland &amp; Stewart, Appetite by Random House, Bond Street Books, Puffin Canada</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kristin</forename>
+                                                       <surname>Cochrane</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

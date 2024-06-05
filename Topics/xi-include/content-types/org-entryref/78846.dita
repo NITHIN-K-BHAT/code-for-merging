@@ -1,0 +1,28 @@
+<org-entryref id="SL8830174" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8830173" slsdocid="78846" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.715" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <data-protection date-added="17.08.2005" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Les Presses de l'Université Laval</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>2180 chemin Sainte-Foy, Pavillon de l’Est, 1e étage, Québec, QC G1V 0A6</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(418) 656-2803</telephone>
+                                             <email>presses@pul.ulaval.ca</email>
+                                             <internet> pulaval.com</internet>
+                                        </address-block>
+                                        <found-date>1950</found-date>
+                                        <content-note style="NORMAL">scholarly</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marie-Hélène</forename>
+                                                       <surname>Boucher</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

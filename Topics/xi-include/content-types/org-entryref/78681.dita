@@ -1,0 +1,37 @@
+<org-entryref id="SL101476" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101475" slsdocid="78681" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.902" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Beer Canada</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>POB 654, Stittsville, ON K2S 1A7</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 232-9601</telephone>
+                                                       <email>cheers@beercanada.com</email>
+                                                       <internet>industry.beercanada.com</internet>
+                                                  </address-block>
+                                                  <found-date>1943</found-date>
+                                                  <content-note style="NORMAL">fmrly Brewers Asscn of Canada</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Frederic</forename>
+                                                                 <surname>Landtmeters</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>C. J.</forename>
+                                                                 <surname>Hélie</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>45 mems (2024)</stats>
+                                             </org-entry>
+                                        </org-entryref>

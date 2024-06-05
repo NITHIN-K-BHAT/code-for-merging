@@ -1,0 +1,37 @@
+<org-entryref id="SL2125523" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2125522" slsdocid="250210" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1906" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS' ORGANIZATIONS">
+                                                  <data-protection date-added="22.06.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Commodity Markets Council</org-entry-name>
+                                                       <abbr>CMC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>600 Pennsylvania Ave, SE, Suite 300, Washington, DC 20003</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 842-0400</telephone>
+                                                       <internet>commoditymkts.org</internet>
+                                                  </address-block>
+                                                  <found-date>2006</found-date>
+                                                  <stats>35 mems (2022)</stats>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Charles P.</forename>
+                                                                 <surname>Carey</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>James E.</forename>
+                                                                 <surname>Newsome</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

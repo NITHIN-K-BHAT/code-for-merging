@@ -1,0 +1,36 @@
+<org-entryref id="SL8362763" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8362762" slsdocid="1858220" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.1170697162" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PROVINCIAL AND TERRITORIAL PARTIES">
+                                        <org-entry-head>
+                                             <org-entry-name>United Conservative Party</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>2915 21 St NE, Suite 203, Calgary, AB T2E 7T1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(888) 465-2660</telephone>
+                                             <email>info@unitedconservative.ca</email>
+                                             <internet>unitedconservative.ca</internet>
+                                        </address-block>
+                                        <found-date>2017 by merger of Progressive Conservative Party of Alberta and Wildrose Party</found-date>
+                                        <content-note style="NORMAL">active in Alberta</content-note>
+                                        <role-group>
+                                             <role>Leader</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Danielle</forename>
+                                                       <surname>Smith</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Rob</forename>
+                                                       <surname>Smith</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

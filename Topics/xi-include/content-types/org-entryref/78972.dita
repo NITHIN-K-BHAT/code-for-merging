@@ -1,0 +1,35 @@
+<org-entryref id="SL1759341" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759340" slsdocid="78972" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.585" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Business</org-entry-name>
+                                                       <abbr>CB</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>15 Benton Rd, Toronto, ON M6M 3G2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 764-2000</telephone>
+                                                       <fax>(416) 764-1888</fax>
+                                                       <email>editor@canadianbusiness.com</email>
+                                                       <internet>canadianbusiness.com</internet>
+                                                  </address-block>
+                                                  <found-date>1928</found-date>
+                                                  <frequency>18 a year</frequency>
+                                                  <content-note style="NORMAL">owned by St Joseph Communications</content-note>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Charlotte</forename>
+                                                                 <surname>Herrold</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>
+                      circ. 56,535 
+                      
+                      (2016)
+                    </stats>
+                                             </org-entry>
+                                        </org-entryref>

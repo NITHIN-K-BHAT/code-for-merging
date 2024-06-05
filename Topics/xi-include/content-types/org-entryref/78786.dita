@@ -1,0 +1,28 @@
+<org-entryref id="SL8956507" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8956506" slsdocid="78786" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.781" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELEVISION" usage="ewyb usac">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Réseau TVA</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>1600 blvd de Maisonneuve est, Montréal, QC H2L 4P2</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(514) 526-9251</telephone>
+                                                            <email>nouvelles@tva.ca</email>
+                                                            <internet>qub.ca/tvaplus</internet>
+                                                       </address-block>
+                                                       <found-date>1960 as Corporation Télé-Métropole</found-date>
+                                                       <content-note style="NORMAL">runs the Canoë network</content-note>
+                                                       <content-note style="NORMAL">French-language network, 9 stations in Québec and 19 rebroadcasters serving 98% of the province and Francophone communities in Ontario and New Brunswick</content-note>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Pierre Karl</forename>
+                                                                      <surname>Péladeau</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

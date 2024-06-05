@@ -1,0 +1,28 @@
+<org-entryref id="SL3529740" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3529739" slsdocid="249071" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1465" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>St Martin’s Press Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>120 Bdwy, New York, NY 10271</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(888) 330-8477</telephone>
+                                             <email>publicity@stmartins.com</email>
+                                             <internet>us.macmillan.com/smp</internet>
+                                        </address-block>
+                                        <found-date>1952</found-date>
+                                        <content-note style="NORMAL">division of Macmillan Publrs, part of Holtzbrinck Publishing Group (Germany)</content-note>
+                                        <content-note style="NORMAL">general, scholarly, college textbooks, trade and mass-market</content-note>
+                                        <role-group>
+                                             <role>Chair. and Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Sally</forename>
+                                                       <surname>Richardson</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

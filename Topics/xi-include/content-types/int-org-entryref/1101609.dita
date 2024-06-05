@@ -1,0 +1,1074 @@
+<int-org-entryref id="SL1115869" int-org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1115868" slsdocid="1101609" slsdocty="int-org-entry int-org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <int-org-entry id="SL1101617" id-root="int-org_eu" iso="" print-style="COLUMN" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio casee">
+                    <int-org-entry-head>
+                         <int-org-name-group type="MAIN">
+                              <org-entry-name>European Commission</org-entry-name>
+                         </int-org-name-group>
+                    </int-org-entry-head>
+                    <int-org-block>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>200 rue de la Loi, 1049 Brussels, Belgium</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 299-11-11</telephone>
+                              <fax>(2) 295-01-38</fax>
+                              <email>forename.surname@ec.europa.eu</email>
+                              <internet>ec.europa.eu</internet>
+                         </address-block>
+                         <int-org-section id="WB02047.IO.TXT.33490" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="ewyb edio casee">
+                              <heading>Members of the Commission</heading>
+                              <heading-note>2019–24</heading-note>
+                              <dir-list>
+                                   
+                                   
+                                   <dir-entry id="WB02047.IO.TXT.337459" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>President</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ursula</forename>
+                                                       <surname>von der Leyen</surname>
+                                                  </person-name>
+                                                  <person-note>Germany</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Vice-President, responsible for a Europe Fit for the Digital Age</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Margrethe</forename>
+                                                       <surname>Vestager</surname>
+                                                  </person-name>
+                                                  <person-note>Denmark</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry id="WB02047.IO.TXT.44012" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Vice-President, responsible for an Economy that Works for People and Commissioner, responsible for Trade</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Valdis</forename>
+                                                       <surname>Dombrovskis</surname>
+                                                  </person-name>
+                                                  <person-note>Latvia</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry id="WB02047.IO.TXT.11956" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>High Representative of the Union for Foreign Affairs and Security Policy and Vice-President, responsible for a Stronger Europe in the World</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Josep</forename>
+                                                       <surname>Borrell Fontelles</surname>
+                                                  </person-name>
+                                                  <person-note>Spain</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry id="WB02047.IO.TXT.44501" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Vice-President, responsible for the European Green Deal and Inter-institutional Relations and Foresight</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Maroš</forename>
+                                                       <surname>Šefčovič</surname>
+                                                  </person-name>
+                                                  <person-note>Slovakia</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry id="WB02047.IO.TXT.55786" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Vice-President, responsible for Values and Transparency</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Věra</forename>
+                                                       <surname>Jourová</surname>
+                                                  </person-name>
+                                                  <person-note>Czech Republic</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry id="WB02047.IO.TXT.55009" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Vice-President, responsible for Democracy and Demography</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dubravka</forename>
+                                                       <surname>Šuica</surname>
+                                                  </person-name>
+                                                  <person-note>Croatia</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry id="WB02047.IO.TXT.22845" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Vice-President, responsible for Promoting our European Way of Life</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Margaritis</forename>
+                                                       <surname>Schinas</surname>
+                                                  </person-name>
+                                                  <person-note>Greece</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry id="WB02047.IO.TXT.334987" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Commissioner, responsible for Budget and Administration</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Johannes</forename>
+                                                       <surname>Hahn</surname>
+                                                  </person-name>
+                                                  <person-note>Austria</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry id="WB02047.IO.TXT.11298" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Commissioner, responsible for Financial Services, Financial Stability and Capital Markets Union</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mairead</forename>
+                                                       <surname>McGuinness</surname>
+                                                  </person-name>
+                                                  <person-note>Ireland</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Commissioner, responsible for Jobs and Social Rights</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nicholas</forename>
+                                                       <surname>Schmit</surname>
+                                                  </person-name>
+                                                  <person-note>Luxembourg</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Commissioner, responsible for the Economy</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Paolo</forename>
+                                                       <surname>Gentiloni</surname>
+                                                  </person-name>
+                                                  <person-note>Italy</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Commissioner, responsible for Agriculture</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Janusz</forename>
+                                                       <surname>Wojciechowski</surname>
+                                                  </person-name>
+                                                  <person-note>Poland</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Commissioner, responsible for the Internal Market</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Thierry</forename>
+                                                       <surname>Breton</surname>
+                                                  </person-name>
+                                                  <person-note>France</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Commissioner, responsible for Cohesion and Reforms</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Elisa</forename>
+                                                       <surname>Ferreira</surname>
+                                                  </person-name>
+                                                  <person-note>Portugal</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Commissioner, responsible for Health and Food Safety</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Stella</forename>
+                                                       <surname>Kyriakides</surname>
+                                                  </person-name>
+                                                  <person-note>Cyprus</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry id="WB02047.IO.TXT.66045" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Commissioner, responsible for Justice</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Didier</forename>
+                                                       <surname>Reynders</surname>
+                                                  </person-name>
+                                                  <person-note>Belgium</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry id="WB02047.IO.TXT.44523" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Commissioner, responsible for Equality</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Helena</forename>
+                                                       <surname>Dalli</surname>
+                                                  </person-name>
+                                                  <person-note>Malta</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry id="WB02047.IO.TXT.55647" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Commissioner, responsible for Home Affairs</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ylva</forename>
+                                                       <surname>Johansson</surname>
+                                                  </person-name>
+                                                  <person-note>Sweden</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry id="WB02047.IO.TXT.77845" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Commissioner, responsible for Crisis Management</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Janez</forename>
+                                                       <surname>Lenarčič</surname>
+                                                  </person-name>
+                                                  <person-note>Slovenia</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry id="WB02047.IO.TXT.44509" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Commissioner, responsible for Transport</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Adina</forename>
+                                                       <surname>Vălean</surname>
+                                                  </person-name>
+                                                  <person-note>Romania</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry id="WB02047.IO.TXT.445099778" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Commissioner, responsible for Neighbourhood and Enlargement</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Olivér</forename>
+                                                       <surname>Várhelyi</surname>
+                                                  </person-name>
+                                                  <person-note>Hungary</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry id="WB02047.IO.TXT.55623" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Commissioner, responsible for International Partnerships</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jutta</forename>
+                                                       <surname>Urpilainen</surname>
+                                                  </person-name>
+                                                  <person-note>Finland</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry id="WB02047.IO.TXT.33547" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Commissioner, responsible for Energy</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kadri</forename>
+                                                       <surname>Simson</surname>
+                                                  </person-name>
+                                                  <person-note>Estonia</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry id="WB02047.IO.TXT.774980" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Commissioner, responsible for the Environment, Oceans and Fisheries</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Virginijus</forename>
+                                                       <surname>Sinkevičius</surname>
+                                                  </person-name>
+                                                  <person-note>Lithuania</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry id="WB02047.IO.TXT.190720171517" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        
+                                        <dir-entry-name>Commissioner, responsible for Innovation, Research, Culture, Education and Youth</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Iliana</forename>
+                                                       <surname>Ivanova</surname>
+                                                  </person-name>
+                                                  <person-note>Bulgaria</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                                   <dir-entry id="WB02047.IO.TXT.44967" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Commissioner, responsible for Climate Action</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Wopke</forename>
+                                                       <surname>Hoekstra</surname>
+                                                  </person-name>
+                                                  <person-note>Netherlands</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-list>
+                              <p id="WB02047.IO.TXT.26" usage="ewyb edio casee">The European Commission, like the European Parliament (EP) and the Council of the European Union, was established in the 1950s under the EU’s founding treaties. The functions of the Commission are fourfold: to propose legislation to the EP and the Council; to implement EU policies and programmes adopted by the EP and to manage and implement the budget; to enforce European law, in conjunction with the Court of Justice, in all the member states; and to represent the EU in international affairs and to negotiate agreements between the EU and other organizations or countries.</p>
+                              <p id="WB02047.IO.TXT.28" usage="ewyb edio casee">A new Commission is appointed for a five-year term, normally within six months of the elections to the EP. The European Council nominates an individual for the post of Commission President. The nominee must then be elected by the EP by majority vote; if the Parliament fails to elect the nominated candidate, a new candidate must be nominated within a period of one month. The Governments of member states then nominate the other members of the Commission, who must be approved by the EP. In the performance of their duties, the members of the Commission are forbidden to seek or accept instructions from any government or other body, or to engage in any other paid or unpaid professional activity. Once approved, the Commission may nominate a number of its members as Vice-President. Any member of the Commission, if they no longer fulfil the conditions required for the performance of their duties, or commit a serious offence, may be removed from office by the Court of Justice. The Court may, furthermore, on the petition of the Council or of the Commission itself, provisionally suspend any member of the Commission from their duties. The EP has the authority to dismiss the entire Commission by adopting a motion of censure.</p>
+                              <p id="WB02047.IO.TXT.65464764764" usage="ewyb edio casee">The members of the Commission, also known as the College, meet once a week and a collective decision is made on policy following a presentation by the relevant Commissioner. The Commission’s staff is organized into Directorates-General and Services. Each Directorate-General is responsible for a particular policy area and they devise and draft the Commission’s legislative proposals, which become official when adopted by the Commission.</p>
+                              <p id="WB02047.IO.TXT.29" usage="ewyb edio">
+              Following allegations of fraud, mismanagement and nepotism within the Commission, in March 1999 two new codes of conduct for Commissioners were announced, and a Committee of Independent Experts published a report that criticized the Commission’s failure to control, 
+              <i>inter alia</i>
+              , the administration of the budget. The Commission duly agreed to resign. In November 2005 the Commission launched the Euro­pean Transparency Initiative, with the aim of strengthening ethical rules for EU policymakers, increasing the transparency of lobbying and ensuring the openness of the institutions.
+            </p>
+                              <p usage="ewyb edio casee">On 1 May 2004 the 20 existing members of the Commission were joined by 10 new members (one from each new member state). For the first six months of their term of office, although considered full members, they worked alongside existing Commissioners and were not allocated their own departments. From November, when a new Commission began its mandate, there were 25 members of the Commission, one from each member state as stipulated by the Treaty of Nice (prior to 1 May, large countries had been permitted two Commissioners, while smaller countries had one). In January 2007, following the accession of Bulgaria and Romania, the number of Commissioners increased to 27, the number increasing to 28 following Croatia’s accession to the EU in July 2013.</p>
+                              <p>A Commission led by Jean-Claude Juncker of Luxembourg took office on 1 November 2014. A new Commission for 2019–24, led by Ursula von der Leyen of Germany, took office on 1 December 2019, comprising 27 Commissioners (anticipating the UK’s withdrawal from the EU, which took place on 31 January 2020).</p>
+                         </int-org-section>
+                         <int-org-section id="WB02047.IO.TXT.419" sllink="SLSDOC" slsdocrf="INT-ORG-SECTREF" usage="ewyb edio casee">
+                              <heading>DIRECTORATES-GENERAL</heading>
+                              <org-list>
+                                   <org-entry id="WB02047.IO.TXT.36" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Agriculture and Rural Development</org-entry-name>
+                                             <abbr>DG AGRI</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>130 rue de la Loi, 1049 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/dgs/agriculture</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Wolfgang</forename>
+                                                       <surname>Burtscher</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.60" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Budget</org-entry-name>
+                                             <abbr>DG BUDG</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>15 rue Montoyer, 1000 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/info/departments/budget</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Stéphanie</forename>
+                                                       <surname>Riso</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="IO-EU.999" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Climate Action</org-entry-name>
+                                             <abbr>DG CLIMA</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>19 ave d’Auderghem, 1040 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/info/departments/climate-action</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kurt</forename>
+                                                       <surname>Vandenberghe</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.33" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Communication</org-entry-name>
+                                             <abbr>DG COMM</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>200 rue de la Loi, 1049 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/info/departments/communication</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dana</forename>
+                                                       <surname>Spinant</surname>
+                                                  </person-name>
+                                                  <person-note>acting</person-note>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.46" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Communications Networks, Content and Technology</org-entry-name>
+                                             <abbr>DG CNECT</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>51 rue de la Loi, 1000 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/digital-single-market/dg-connect</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Roberto</forename>
+                                                       <surname>Viola</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.37" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <data-protection date-added="24.04.2007" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Competition</org-entry-name>
+                                             <abbr>DG COMP</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1 place Madou, 1210 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/competition</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Olivier</forename>
+                                                       <surname>Guersent</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.04022020" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Defence Industry and Space</org-entry-name>
+                                             <abbr>DG DEFIS</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>45 ave d’Auderghem, 1040 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/info/departments/defence-industry-and-space_en</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Timo</forename>
+                                                       <surname>Pesonen</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.38" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Economic and Financial Affairs</org-entry-name>
+                                             <abbr>DG ECFIN</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>170 rue de la Loi, 1049 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/info/departments/economic-and-financial-affairs</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Maarten</forename>
+                                                       <surname>Verwey</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.39" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Education, Youth, Sport and Culture</org-entry-name>
+                                             <abbr>DG EAC</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>70 rue Joseph II, 1049 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/info/departments/education-youth-sport-and-culture</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Pia</forename>
+                                                       <surname>Ahrenkilde Hansen</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.40" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <data-protection date-added="27.04.2011" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Employment, Social Affairs and Inclusion</org-entry-name>
+                                             <abbr>DG EMPL</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>27 rue de Joseph II, 1000 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/info/departments/employment-social-affairs-and-inclusion</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Andriana</forename>
+                                                       <surname>Sukova</surname>
+                                                  </person-name>
+                                                  <person-note>acting</person-note>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.41" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Energy</org-entry-name>
+                                             <abbr>DG ENER</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>24 rue de Mot, 1049 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/info/departments/energy</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ditte Juul</forename>
+                                                       <surname>Jørgensen</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.43" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Environment</org-entry-name>
+                                             <abbr>DG ENV</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>19 ave d’Auderghem, 1040 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/environment</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Florika</forename>
+                                                       <surname>Fink-Hooijer</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.58" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for European Civil Protection and Humanitarian Aid Operations</org-entry-name>
+                                             <abbr>DG ECHO</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>86 rue de la Loi, 1049 Brussels</verbatim-address>
+                                             </address>
+                                             <fax>(2) 295-45-44</fax>
+                                             <internet>ec.europa.eu/echo</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Maciej</forename>
+                                                       <surname>Popowski</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.55" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for European Neighbourhood and Enlargement Negotiations</org-entry-name>
+                                             <abbr>DG NEAR</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>15 rue de la Loi, 1049 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/info/departments/european-neighbourhood-policy-and-enlargement-negotiations</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gert Jan</forename>
+                                                       <surname>Koopman</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.42" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Financial Stability, Financial Services and Capital Markets Union</org-entry-name>
+                                             <abbr>DG FISMA</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>2 rue de Spa, 1000 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/info/departments/financial-stability-financial-services-and-capital-markets-union</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>John</forename>
+                                                       <surname>Berrigan</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.45" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Health and Food Safety</org-entry-name>
+                                             <abbr>DG SANTE</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>4 rue Breydel, 1040 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/info/departments/health-and-food-safety</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Sandra</forename>
+                                                       <surname>Gallina</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.64" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Human Resources and Security</org-entry-name>
+                                             <abbr>DG HR</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>200 rue de la Loi, 1000 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/dgs/human-resources</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Christian</forename>
+                                                       <surname>Roques</surname>
+                                                  </person-name>
+                                                  <person-note>acting</person-note>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.9876545678" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <data-protection date-added="07.02.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Informatics</org-entry-name>
+                                             <abbr>DG DIGIT</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>28 rue Belliard, 1000 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/info/departments/informatics</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Veronica</forename>
+                                                       <surname>Gaffey</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.47" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs</org-entry-name>
+                                             <abbr>DG GROW</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>45 ave d’Auderghem, 1049 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/info/departments/internal-market-industry-entrepreneurship-and-smes</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kerstin</forename>
+                                                       <surname>Jorna</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.54" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for International Partnerships</org-entry-name>
+                                             <abbr>DG INTPA</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>41 rue de la Loi, 1040 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/international-partnerships/home</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Koen</forename>
+                                                       <surname>Doens</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.62" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <data-protection date-added="07.02.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Interpretation</org-entry-name>
+                                             <abbr>DG SCIC</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>36 rue Froissart, 1040 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/dgs/scic</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Genoveva</forename>
+                                                       <surname>Ruíz Calavera</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.49" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Justice and Consumers</org-entry-name>
+                                             <abbr>DG JUST</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>40 rue du Luxembourg, 1000 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/info/departments/justice-and-consumers</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ana</forename>
+                                                       <surname>Gallego Torres</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.44" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Maritime Affairs and Fisheries</org-entry-name>
+                                             <abbr>DG MARE</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>99 rue de Joseph II, 1000 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/info/departments/maritime-affairs-and-fisheries</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Charlina</forename>
+                                                       <surname>Vitcheva</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.4900" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Migration and Home Affairs</org-entry-name>
+                                             <abbr>DG HOME</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>46 rue du Luxembourg, 1049 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/dgs/home-affairs</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Beate</forename>
+                                                       <surname>Gminder</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="IO-EU.333" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Mobility and Transport</org-entry-name>
+                                             <abbr>DG MOVE</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>28 rue Demot, 1040 Brussels</verbatim-address>
+                                             </address>
+                                             <email>move-infos@ec.europa.eu</email>
+                                             <internet>ec.europa.eu/transport</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Magda</forename>
+                                                       <surname>Kopczynska</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.50" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Regional and Urban Policy</org-entry-name>
+                                             <abbr>DG REGIO</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>23 cours Saint-Michel, 1049 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/dgs/regional_policy</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Themis</forename>
+                                                       <surname>Christophidou</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.51" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Research and Innovation</org-entry-name>
+                                             <abbr>DG RTD</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>8 sq. Frère-Orban, 1000 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/info/departments/research-and-innovation</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marc</forename>
+                                                       <surname>Lemaître</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.52" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Structural Reform Support</org-entry-name>
+                                             <abbr>DG REFORM</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>41 ave de Tervueren, 1040 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/info/departments/structural-reform-support-service</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mario</forename>
+                                                       <surname>Nava</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.5252" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Taxation and Customs Union</org-entry-name>
+                                             <abbr>DG TAXUD</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>79 rue Joseph II, 1000 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/info/departments/taxation-and-customs-union</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gerassimos</forename>
+                                                       <surname>Thomas</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.59" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Trade</org-entry-name>
+                                             <abbr>DG TRADE</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>170 rue de la Loi, 1000 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/trade</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Sabine</forename>
+                                                       <surname>Weyand</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.65" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <data-protection date-added="07.02.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Directorate-General for Translation</org-entry-name>
+                                             <abbr>DGT</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>6–8 rue de Genève, 1140 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/info/departments/translation</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Christos</forename>
+                                                       <surname>Ellinides</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.32" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <data-protection date-added="22.03.2006" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Eurostat</org-entry-name>
+                                             <abbr>ESTAT</abbr>
+                                             <alt-name>Statistical Office of the European Communities</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>5 rue Alphonse Weicker, 2721 Luxembourg</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/eurostat</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role> Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mariana</forename>
+                                                       <surname>Kotzeva</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                                   <org-entry id="WB02047.IO.TXT.48" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Joint Research Centre</org-entry-name>
+                                             <abbr>JRC</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>21 rue du Champ de Mars, 1050 Brussels</verbatim-address>
+                                             </address>
+                                             <internet>ec.europa.eu/info/departments/joint-research-centre</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Stephen</forename>
+                                                       <surname>Quest</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-list>
+                         </int-org-section>
+                    </int-org-block>
+               </int-org-entry>
+          </int-org-entryref>

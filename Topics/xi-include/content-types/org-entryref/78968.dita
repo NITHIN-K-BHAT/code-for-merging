@@ -1,0 +1,38 @@
+<org-entryref id="SL6405811" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6405810" slsdocid="78968" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.589" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Electronic Products &amp; Technology</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>111 Gordon Baker Rd, Suite 400, Toronto, ON M2H 3R1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 442-5600</telephone>
+                                                       <fax>(416) 510-5134</fax>
+                                                       <email>info@ept.ca</email>
+                                                       <internet>ept.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1979</found-date>
+                                                  <frequency>8 a year</frequency>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Scott</forename>
+                                                                 <surname>Atkinson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Stephen</forename>
+                                                                 <surname>Law</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 22,014 (June 2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

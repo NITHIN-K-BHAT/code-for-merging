@@ -1,0 +1,533 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL89966" sllink="SLSDOCRF" sllinkid="89965" slsdocid="73697" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="AO.DIR.337" id-root="ao.dir" iso="ao" sect-type="transport" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                    <heading>Transport</heading>
+                    <p id="AO.DIR.338">The transport infrastructure was severely dislocated by the civil war that ended in 2002. Subsequently, major rebuilding and upgrading projects have been undertaken.</p>
+                    <dir-section id="AO.DIR.339" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>Railways</heading>
+                         <p id="AO.DIR.340">There are three main railway lines in Angola: the Benguela railway, which runs from the coast to the Zambian border; the Luanda–Malange line; and the Moçãmedes line, which connects Namibe and Kuando Kubango. Following the end of the civil war in mid-2005 a project for rebuilding and upgrading the railway system was approved by the Southern African Development Community (SADC). The 424-km Luanda–Malange line was completed in mid-2010; passenger services resumed in January 2011 and goods transport (between Luanda and Dondo) in May 2013. The Benguela line—a significant export route—reopened in 2011, following demining and reconstruction work by Chinese workers. The Moçãmedes line was reopened in mid-2012.</p>
+                         <org-list>
+                              <org-entryref id="SL93972" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93971" slsdocid="73810" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.341" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="RAILWAYS">
+                                        <org-entry-head>
+                                             <org-entry-name>Agência Nacional dos Transportes Terrestres,</org-entry-name>
+                                             <abbr>ANTT</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Rainha Ginga 74, 1º andar, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">941004300</telephone>
+                                             <email>geral@antt.gov.ao</email>
+                                             <internet>www.antt.gov.ao</internet>
+                                        </address-block>
+                                        <found-date>2022, following the merger of Instituto Nacional dos Caminhos de Ferro de Angola (INFCA) and Instituto Nacional dos Transportes Rodoviários (INTR)</found-date>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Énio Renato de</forename>
+                                                       <surname>Magalhães Costa</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <org-list>
+                                             <org-entryref id="SL7507376" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7507375" slsdocid="73808" slsdocty="org-entry org-entrydtd">
+                                                  
+                                                  <org-entry id="AO.DIR.343" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="RAILWAYS">
+                                                       <!--VD 16.06.2023 https://www.jornaldeangola.ao/ao/noticias/antonio-manuel-cabral-e-novo-pca-do-cfb/, address not confirmed-->
+                                                       <org-entry-head>
+                                                            <org-entry-name>Caminho de Ferro de Benguela, EP</org-entry-name>
+                                                            <abbr>CFB</abbr>
+                                                            <alt-name>Benguela Railway</alt-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>Praça 11 Novembro 3, CP 32, Lobito, Benguela</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">272222645</telephone>
+                                                            <email>cfbeng@ebonet.net</email>
+                                                       </address-block>
+                                                       <content-note style="NORMAL">owned by Govt of Angola</content-note>
+                                                       <content-note style="NORMAL">line carry­ing passenger and freight traffic from the port of Lobito across Angola, via Huambo and Luena, to the border of the Democratic Republic of the Congo (DRC)</content-note>
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>António Manuel</forename>
+                                                                      <surname>Cabral</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>
+                                             <org-entryref id="SL8448969" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8448968" slsdocid="73807" slsdocty="org-entry org-entrydtd">
+                                                  
+                                                  <org-entry id="AO.DIR.344" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="RAILWAYS">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Caminho de Ferro de Luanda, EP</org-entry-name>
+                                                            <abbr>CFL</abbr>
+                                                            <alt-name>Luanda Railway</alt-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>Rua Major Kanhangulo 1, Bungo, Luanda</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">222301001</telephone>
+                                                            <email>cfl@cflep.co.ao</email>
+                                                            <internet>cflep.co.ao</internet>
+                                                       </address-block>
+                                                       <found-date>1886</found-date>
+                                                       <content-note style="NORMAL">serves an iron-,&#160;cotton-&#160;and sisal-producing region between Luanda and Malange</content-note>
+                                                       <stats>479 track-km</stats>
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Manuel António</forename>
+                                                                      <surname>Kanda Kanda</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>
+                                             <org-entryref id="SL1601769" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1601768" slsdocid="73806" slsdocty="org-entry org-entrydtd">
+                                                  
+                                                  <org-entry id="AO.DIR.345" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="RAILWAYS">
+                                                       <data-protection date-added="04.08.2009" ticked-box="Y" />
+                                                       <org-entry-head>
+                                                            <org-entry-name>Caminho de Ferro de Moçãmedes</org-entry-name>
+                                                            <abbr>CFM</abbr>
+                                                            <alt-name>Moçãmedes Railways</alt-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>Av. 4 de Fevereiro, Bairro Sto. António, CP 130, Lubango</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">261221752</telephone>
+                                                            <email>gab.dir.cfm@netangola.com</email>
+                                                       </address-block>
+                                                       <found-date>1905</found-date>
+                                                       <content-note style="NORMAL">main line from Namibe to Menongue, via Lubango</content-note>
+                                                       <content-note style="NORMAL">br. lines to Chibia and iron ore mines at Cassinga</content-note>
+                                                       <stats>838 track-km</stats>
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>António Coelho</forename>
+                                                                      <surname>Fernandes da Cruz</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>
+                                        </org-list>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="AO.DIR.346" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>Roads</heading>
+                         <org-list>
+                              <org-entryref id="SL962616" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="962615" slsdocid="962613" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1088852815" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ROADS">
+                                        <!--VD 16.06.2023 not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Direcção Nacional dos Transportes Rodoviárias</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Rainha Ginga 74, 1° andar, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">228742171</telephone>
+                                             <email>dntr@mintrans.gov.ao</email>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Noélia Concentina</forename>
+                                                       <surname>Sachicago</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL629328" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="629327" slsdocid="629300" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1060084031" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ROADS">
+                                        <!--VD 26.11.2019 is managed by a committee: https://opais.co.ao/index.php/2018/08/06/inea-passa-a-ser-gerida-por-comissao-de-gestao/ address blk not confirmed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Instituto Nacional de Estradas de Angola</org-entry-name>
+                                             <abbr>INEA</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Amílcar Cabral 35, 3° andar, CP 5667, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222332828</telephone>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Henrique</forename>
+                                                       <surname>Victorino</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="AO.DIR.348" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>Shipping</heading>
+                         <p id="AO.DIR.349">The main harbours are at Lobito, Luanda and Namibe.</p>
+                         <org-list>
+                              <org-entryref id="SL962621" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="962620" slsdocid="962618" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1088853068" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Shipping">
+                                        <!--www.portal-impa.co not working-->
+                                        <!--VD 26.11.2019 http://www.mintrans.gov.ao/VerPrestadorServico.aspx?id=196-->
+                                        <data-protection date-added="08.09.2008" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Instituto Marítimo e Portuário de Angola</org-entry-name>
+                                             <abbr>IMPA</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Rainha Ginga 74, 4º andar, Bairro dos Coqueiros, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222390034</telephone>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Manuel Nazareth</forename>
+                                                       <surname>Neto</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL6943375" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6943374" slsdocid="289022" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1003" id-root="ao" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SHIPPING" usage="ewyb ass">
+                                        <!--VD 26.11.2019 Teiga seems to have resigned; no replacement found-->
+                                        <org-entry-head>
+                                             <org-entry-name>Orey Angola</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Largo 17 de Setembro 7, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">943721456</telephone>
+                                             <email>info@orey.com</email>
+                                             <internet>www.orey.com</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">int. shipping, especially to Portugal</content-note>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL8448957" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8448956" slsdocid="1712162" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1157107725" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Shipping">
+                                        <org-entry-head>
+                                             <org-entry-name>Porto de Luanda, EP</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Largo 4 de Fevereiro, CP 1224, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">226431121</telephone>
+                                             <email>geral@portoluanda.co.ao</email>
+                                             <internet>www.portoluanda.co.ao</internet>
+                                        </address-block>
+                                        <found-date>1980</found-date>
+                                        <content-note style="NORMAL">fmrly known as Empresa Portuária de Luanda</content-note>
+                                        <content-note style="NORMAL">present name adopted in 2021</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Alberto</forename>
+                                                       <surname>António Bengue</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL8590663" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8590662" slsdocid="73801" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.352" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SHIPPING">
+                                        <org-entry-head>
+                                             <org-entry-name>Porto do Lobito, EP</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Av. da Independência 16, Lobito, Benguela</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">272222711</telephone>
+                                             <email>marketing@eplobito.net</email>
+                                             <internet>portodolobito.co.ao</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">long-distance sea transport</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Celso Rodrigues</forename>
+                                                       <surname>de Lemos Rosas</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL6475095" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6475094" slsdocid="73800" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.353" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SHIPPING">
+                                        <org-entry-head>
+                                             <org-entry-name>Porto do Namibe, EP</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Av Mondlaine, CP 49, Namibe</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">264260643</telephone>
+                                             <email>geral@portodonamibe.co.ao</email>
+                                             <internet>portodonamibe.co.ao</internet>
+                                        </address-block>
+                                        <found-date>1954</found-date>
+                                        <content-note style="NORMAL">long-distance sea transport</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Manuel Nazareth</forename>
+                                                       <surname>Neto</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="AO.DIR.355" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>Civil Aviation</heading>
+                         <p id="AO.DIR.10823475">Angola’s airport system is well developed and a new international airport, at Lubango was opened in January 2010. In August 2012 a new international airport, built at a cost of US&#160;$250m., was inaugurated at Catumbela, Benguela province, and a new international airport serving Luanda was inaugurated in November 2023.</p>
+                         <org-list>
+                              <org-entryref id="SL8096689" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8096688" slsdocid="8096588" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1653305764" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CIVIL AVIATION">
+                                        <org-entry-head>
+                                             <org-entry-name>Autoridade Nacional da Aviação Civil</org-entry-name>
+                                             <abbr>ANAC</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Luanda</verbatim-address>
+                                             </address>
+                                             <internet>www.anac.ao</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Amélia Cristina de</forename>
+                                                       <surname>Sousa Domingues Kuvíngua</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL6867561" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6867560" slsdocid="1712292" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1157108497" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Civil Aviation">
+                                        <org-entry-head>
+                                             <org-entry-name>Empresa Nacional de Navegação Aerea</org-entry-name>
+                                             <abbr>ENNA, EP</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Av. 21 de Janeiro 21, CCR, Aeroporto Internacional, 4 de Fevereiro, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222651000</telephone>
+                                             <email>info@enna.co.ao</email>
+                                             <internet>enna.co.ao</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">administers air traffic and air navigational safety</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Manuel Agostinho</forename>
+                                                       <surname>Filipe Junior</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3414202" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3414201" slsdocid="3414080" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1309255471" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Civil Aviation">
+                                        <!--VD 16.06.2023 under ANAC-->
+                                        <org-entry-head>
+                                             <org-entry-name>Instituto Nacional da Aviação Civil</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Miguel de Melo 96, 6º andar, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222335936</telephone>
+                                             <email>anac@anac.co.ao</email>
+                                             <internet>www.inavic.gov.ao</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gaspar Francisco</forename>
+                                                       <surname>dos Santos</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL6867548" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6867547" slsdocid="6864768" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1573473853" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Civil Aviation">
+                                        <org-entry-head>
+                                             <org-entry-name>Sociedade Nacional de Gestão de Aeroportos de Angola</org-entry-name>
+                                             <abbr>SGA</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua 21 de Janeiro, Aeroporto Internacional 4 de Fevereiro, CP 841, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222651773</telephone>
+                                             <email>geral@sga.co.ao</email>
+                                             <internet>www.sga.co.ao</internet>
+                                        </address-block>
+                                        <found-date>2019</found-date>
+                                        <content-note style="NORMAL">administers management and operation of the national airports</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <vacancy />
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Man. Dir</role>
+                                             <person>
+                                                  <vacancy />
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2963699" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2963698" slsdocid="827976" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1078769164" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CIVIL AVIATION">
+                                        <!--VD 23.06.2023 own web not working-->
+                                        <data-protection date-added="14.07.2020" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>SONAIR SARL</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Aeroporto Internacional 4 de Fevereiro, CP 2675 Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">226691133</telephone>
+                                             <email>snr.dai.ext@sonangol.co.ao</email>
+                                             <internet>www.sonair.co.ao</internet>
+                                        </address-block>
+                                        <found-date>1998</found-date>
+                                        <content-note style="NORMAL">
+                  subsidiary of 
+                  <xr pageref="N" ref="AO.DIR.319">SONANGOL</xr>
+                                        </content-note>
+                                        <content-note style="NORMAL">operates direct flights between Luanda and Houston, USA</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Sebastião Pai</forename>
+                                                       <surname>Querido Gaspar Martins</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Alfredo</forename>
+                                                       <surname>Caputo</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93986" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93985" slsdocid="73796" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.357" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CIVIL AVIATION">
+                                        <!--VD 27.11.2019 email from official fb page-->
+                                        <org-entry-head>
+                                             <org-entry-name>TAAG—Linhas Aéreas de Angola</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua da Missão 123, CP 79, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">923190001</telephone>
+                                             <email>cliente.angola@flytaag.com</email>
+                                             <internet>www.taag.com</internet>
+                                        </address-block>
+                                        <found-date>1938</found-date>
+                                        <content-note style="NORMAL">internal scheduled passenger and cargo services, and services from Luanda to destinations within Africa and to Europe and South America</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Eduardo Fairen</forename>
+                                                       <surname>Soria</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <org-list>
+                                             <org-entryref id="SL119226" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="119225" slsdocid="73795" slsdocty="org-entry org-entrydtd">
+                                                  
+                                                  <org-entry id="AO.DIR.358" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CIVIL AVIATION">
+                                                       <!--VD 10.06.2019 could not find email ID; domain does not exist. Source for changes:https://www.pilotcareercentre.com/Air-Carrier-PCC-Profile/2169/Angola-Air-Charter-->
+                                                       <org-entry-head>
+                                                            <org-entry-name>Angola Air Charter</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>Aeroporto Internacional 4 de Fevereiro, CP 3010, Luanda</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">222330994</telephone>
+                                                       </address-block>
+                                                       <found-date>1987</found-date>
+                                                       <content-note style="NORMAL">subsidiary of TAAG Angola Airlines</content-note>
+                                                       <role-group>
+                                                            <role>CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>A.</forename>
+                                                                      <surname>de Matos</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>
+                                        </org-list>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

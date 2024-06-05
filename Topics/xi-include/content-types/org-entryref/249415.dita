@@ -1,0 +1,37 @@
+<org-entryref id="SL1742136" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1742135" slsdocid="249415" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1143" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Houston Chronicle</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>4747 SW Freeway, Houston, TX 77027</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(713) 362-7211</telephone>
+                                                       <email>news@chron.com</email>
+                                                       <internet>chron.com</internet>
+                                                  </address-block>
+                                                  <found-date>1901</found-date>
+                                                  <role-group>
+                                                       <role>Editorial Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Matthew</forename>
+                                                                 <surname>Kitchen</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Katharine</forename>
+                                                                 <surname>Jose</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 65,084 (2023)</stats>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,27 @@
+<org-entryref id="SL8773223" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8773222" slsdocid="8772376" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1697804151" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Energy" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Major Producers and Distributors">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Imperial Oil Ltd</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>505 Quarry Park Blvd, Calgary, AB T2C 5N1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 567-3776</telephone>
+                                                       <email>contact.imperial@esso.ca</email>
+                                                       <internet>imperialoil.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1880</found-date>
+                                                  <content-note style="NORMAL">majority-owned by ExxonMobil (USA)</content-note>
+                                                  <role-group>
+                                                       <role>Chair., Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Brad W.</forename>
+                                                                 <surname>Corson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

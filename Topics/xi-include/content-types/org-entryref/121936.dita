@@ -1,0 +1,26 @@
+<org-entryref id="SL141141" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="141140" slsdocid="121936" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="GA.DIR.168" id-root="ga.dir" iso="ga" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN GABON">
+                                        <data-protection date-added="04.08.2009" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Avorbam, La Sablière, BP 4000, Libreville</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">011-45-71-00</telephone>
+                                             <email>usembassylibreville@state.gov</email>
+                                             <internet>ga.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Vernelle Trim</forename>
+                                                       <surname>FitzPatrick</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

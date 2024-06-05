@@ -1,0 +1,27 @@
+<org-entryref id="SL3930821" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3930820" slsdocid="3930719" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.USAC.32.71" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Publishers" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Mosaic Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1252 Speers Rd, Units 1 &amp; 2, Oakville, ON L6L 5N9</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(905) 825-2130</telephone>
+                                             <email>info@mosaicpress.com</email>
+                                             <internet>mosaicpress.com</internet>
+                                        </address-block>
+                                        <found-date>1975</found-date>
+                                        <content-note style="NORMAL">literary, scholarly and cultural</content-note>
+                                        <role-group>
+                                             <role>Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Howard</forename>
+                                                       <surname>Aster</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

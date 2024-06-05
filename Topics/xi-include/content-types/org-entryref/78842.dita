@@ -1,0 +1,30 @@
+<org-entryref id="SL8830036" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8830035" slsdocid="78842" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.719" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <data-protection date-added="14.09.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Scholastic Canada Ltd</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>175 Hillmont Rd, Markham, ON L6C 1Z7</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(905) 887-7323</telephone>
+                                             <email>custserve@scholastic.ca</email>
+                                             <internet>scholastic.ca</internet>
+                                        </address-block>
+                                        <found-date>1957</found-date>
+                                        <content-note style="NORMAL">wholly owned subsidiary of Scholastic, Inc</content-note>
+                                        <content-note style="NORMAL">children's books and educational materials in English and French</content-note>
+                                        <content-note style="NORMAL">imprints include North Winds Press, Editions Scholastic</content-note>
+                                        <role-group>
+                                             <role>Pres</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Linda</forename>
+                                                       <surname>Gosnell</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

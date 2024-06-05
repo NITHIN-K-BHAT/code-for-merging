@@ -1,0 +1,497 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL89948" sllink="SLSDOCRF" sllinkid="89947" slsdocid="73691" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="AO.DIR.122" id-root="ao.dir" iso="ao" sect-type="political-orgs" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                    <heading>Political Organizations</heading>
+                    <!--VD 07.04.2021 role groups checked-->
+                    <!--List as at 2017 can be found here http://www.tribunalconstitucional.ao/Conteudos/Artigos/detalhe_artigo.aspx?idc=151&idsc=164&idl=1-->
+                    <p>In 2024 there were 13 legally recognized political parties in Angola, five of which were grouped in a formal coalition.</p>
+                    <org-list>
+                         <org-entryref id="SL6096217" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6096216" slsdocid="6096201" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="AO.DIR.1520238575" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="POLITICAL ORGANIZATIONS" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES">
+                                   <!--WM 11.04.2019 http://jornaldeangola.sapo.ao/politica/samakuva-luta-contra-a-corrupcao-e-selectiva-->
+                                   <org-entry-head>
+                                        <org-entry-name>Aliança Patriótica Nacional</org-entry-name>
+                                        <abbr>APN</abbr>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Luanda</verbatim-address>
+                                        </address>
+                                        <email>aliancapatrioticanacional@gmail.com</email>
+                                   </address-block>
+                                   <found-date>2015</found-date>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Quintino António</forename>
+                                                  <surname>Moreira</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Gen. Sec.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Pedro</forename>
+                                                  <surname>Vita</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL3807801" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3807800" slsdocid="3807385" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="AO.DIR.1344851928" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Convergência Ampla de Salvação de Angola-Coligação Eleitoral</org-entry-name>
+                                        <abbr>CASA-CE</abbr>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Sagrada Família, Rua Cabral Moncada 179, Junto ao INE Garcia Neto, Luanda</verbatim-address>
+                                        </address>
+                                        <email>ce.sen@hotmail.com</email>
+                                        <internet>casa-ce.org</internet>
+                                   </address-block>
+                                   <found-date>2012</found-date>
+                                   <role-group>
+                                        <role>Leader</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Manuel</forename>
+                                                  <surname>Fernandes</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Exec. Sec.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Leonel</forename>
+                                                  <surname>Gomes</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <org-list>
+                                        <org-entryref id="SL6053739" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6053738" slsdocid="1109372" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="AO.DIR.1102590200" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                                  <!--VD 07.04.2020 http://bdluanda.blogspot.com/-->
+                                                  <org-entry-head>
+                                                       <org-entry-name>Bloco Democrático</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Rua Eugenio de Castro 166, Luanda</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">928554655</telephone>
+                                                       <email>blocodemocraticoluanda2015@gmail.com</email>
+                                                       <internet>blocodemocraticoangola.com</internet>
+                                                  </address-block>
+                                                  <found-date>2010</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Filomeno Vieira</forename>
+                                                                 <surname>Lopes</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Sec.-Gen.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Muata</forename>
+                                                                 <surname>Sebastião</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8275867" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8275866" slsdocid="73750" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="AO.DIR.132" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Partido de Aliança Livre de Maioria Angolana</org-entry-name>
+                                                       <abbr>PALMA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Luanda</verbatim-address>
+                                                       </address>
+                                                  </address-block>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Manuel</forename>
+                                                                 <surname>Fernandes</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Sec.-Gen.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Casimiro António</forename>
+                                                                 <surname>Francisco</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL6053779" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6053778" slsdocid="5278270" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="AO.DIR.1459498493" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Political Organisations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="entries">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Partido de Apoio para Democracia e Desenvolvimento de Angola—Aliança Patriótica</org-entry-name>
+                                                       <abbr>PADDA-AP</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Luanda</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">992058169</telephone>
+                                                       <email>padda.apsenoc@gmail.com</email>
+                                                       <internet>fb.com/PADDA.AP1</internet>
+                                                  </address-block>
+                                                  <found-date>2010</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Alexandre</forename>
+                                                                 <surname>Sebastião André</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Sec. Gen.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>António Gonçalves</forename>
+                                                                 <surname>Jurante</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL6053854" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6053853" slsdocid="73743" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="AO.DIR.138" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Partido Nacional de Salvação de Angola</org-entry-name>
+                                                       <abbr>PNSA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Luanda</verbatim-address>
+                                                       </address>
+                                                  </address-block>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Sikonda Lulendo</forename>
+                                                                 <surname>Alexandre</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Sec.-Gen.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Bokolo Kabuiku</forename>
+                                                                 <surname>Manuel</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL6053896" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6053895" slsdocid="73748" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="AO.DIR.134" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Partido Pacífico Angolano</org-entry-name>
+                                                       <abbr>PPA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Luanda</verbatim-address>
+                                                       </address>
+                                                  </address-block>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Felê</forename>
+                                                                 <surname>António</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Sec.-Gen.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Pedro</forename>
+                                                                 <surname>Lundemba</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL93840" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93839" slsdocid="73752" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="AO.DIR.130" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <data-protection date-added="12.12.2017" ticked-box="Y" />
+                                   <org-entry-head>
+                                        <org-entry-name>Frente Nacional de Libertação de Angola</org-entry-name>
+                                        <abbr>FNLA</abbr>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Av. Hoji Va Henda (ex Av. do Brasil) 91/306, CP 151, Luanda</verbatim-address>
+                                        </address>
+                                        <email>fnlangola@gmail.com</email>
+                                   </address-block>
+                                   <found-date>1962</found-date>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Nimi a</forename>
+                                                  <surname>Simbi</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Sec.-Gen.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Pedro</forename>
+                                                  <surname>Mucombe Dala</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL93842" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93841" slsdocid="73751" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="AO.DIR.131" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <data-protection date-added="01.07.2020" ticked-box="Y" />
+                                   <!--WM 11.04.2019 http://jornaldeangola.sapo.ao/politica/secretario-geral-orienta-reuniao-de-militantes-->
+                                   <org-entry-head>
+                                        <org-entry-name>Movimento Popular de Libertação de Angola</org-entry-name>
+                                        <abbr>MPLA</abbr>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Av. Ho Chi Minh 34, Luanda</verbatim-address>
+                                        </address>
+                                        <email>sede@mpla-angola.org</email>
+                                        <internet>www.mpla.ao</internet>
+                                   </address-block>
+                                   <found-date>1956</found-date>
+                                   <content-note style="NORMAL">in 1961–74 conducted guerrilla operations against Portuguese rule</content-note>
+                                   <content-note style="NORMAL">governing party since 1975</content-note>
+                                   <content-note style="NORMAL">known as Movimento Popular de Libertação de Angola—Partido do Trabalho (MPLA—PT) (People’s Movement for the Liberation of Angola—Workers’ Party) 1977–92</content-note>
+                                   <content-note style="NORMAL">in Dec. 1990 replaced Marxist-Leninist ideology with commitment to `democratic socialism’</content-note>
+                                   <content-note style="NORMAL">absorbed the Fórum Democrático Angolano (FDA) in 2002</content-note>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>João Manuel</forename>
+                                                  <surname>Gonçalves Lourenço</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Sec.-Gen.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Paulo</forename>
+                                                  <surname>Pombolo</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL8325831" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8325830" slsdocid="73746" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="AO.DIR.136" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <data-protection date-added="26.08.2009" ticked-box="Y" />
+                                   <org-entry-head>
+                                        <org-entry-name>Partido Democrático para o Progresso de Aliança Nacional Angolana</org-entry-name>
+                                        <abbr>PDP—ANA</abbr>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Rua 6, Casa 73, Quarterão 6, Bairro Palanca, Municipio de Kilamba Kiaxi</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">926013905</telephone>
+                                        <email>pdpana@pdp-ana.org</email>
+                                   </address-block>
+                                   <found-date>1991</found-date>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Abreu Capitão</forename>
+                                                  <surname>Bernardo</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Sec.-Gen.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Zissala</forename>
+                                                  <surname>Pululu</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL8273335" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8273334" slsdocid="8273300" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="AO.DIR.1664792678" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Partido Humanista de Angola</org-entry-name>
+                                        <abbr>PHA</abbr>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Rua Nelito Soares C7 de Baixo 26, Zona 14, Luanda</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">998043712</telephone>
+                                        <email>info@humanistas.co</email>
+                                        <internet>humanistas.co</internet>
+                                   </address-block>
+                                   <found-date>2020 following split from UNITA</found-date>
+                                   <role-group>
+                                        <role>Leader</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Florbela</forename>
+                                                  <surname>Malaquias</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL8273338" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8273337" slsdocid="8273330" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="AO.DIR.1664794083" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Partido Nacionalista para a Justiça em Angola</org-entry-name>
+                                        <abbr>P-NJANGO</abbr>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Luanda</verbatim-address>
+                                        </address>
+                                   </address-block>
+                                   <found-date>2022</found-date>
+                                   <role-group>
+                                        <role>Leader</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Eduardo Jonatão </forename>
+                                                  <surname>Samuel Chingungi</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL8275869" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8275868" slsdocid="73740" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="AO.DIR.141" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--WM 11.04.2019 Could not confirm contact-->
+                                   <org-entry-head>
+                                        <org-entry-name>Partido de Renovação Social</org-entry-name>
+                                        <abbr>PRS</abbr>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>
+                    Rua 1, Martires de Kifangondo n° 33
+                    <sc>d</sc>
+                                             </verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">222326293</telephone>
+                                        <email>prspartidoderenovacaosocial@gmail.com</email>
+                                        <internet>prsangola.com</internet>
+                                   </address-block>
+                                   <found-date>1990</found-date>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>João Benedito</forename>
+                                                  <surname>Daniel</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Sec.-Gen.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Rui Malopa</forename>
+                                                  <surname>Miguel</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL93868" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93867" slsdocid="73737" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="AO.DIR.144" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>União Nacional para a Independência Total de Angola</org-entry-name>
+                                        <abbr>UNITA</abbr>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>
+                    Rua 28 de Maio, 1
+                    <sc>a</sc>
+                     Travessa 2, Maianga, Luanda
+                  </verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">222331215</telephone>
+                                        <email>info@unitaangola.org</email>
+                                        <internet>www.unitaangola.com</internet>
+                                   </address-block>
+                                   <found-date>1966</found-date>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Adalberto Costa</forename>
+                                                  <surname>Júnior</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Sec.-Gen.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Franco Marcolino</forename>
+                                                  <surname>Nhany</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

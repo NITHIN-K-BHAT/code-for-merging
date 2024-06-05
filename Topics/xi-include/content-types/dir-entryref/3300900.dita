@@ -1,0 +1,18 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7946921" sllink="SLSDOCRF" sllinkid="7946920" slsdocid="3300900" slsdocty="dir-entry dir-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <dir-entry id="AN-ST.DIR.1300875337" id-root="an-st.dir" iso="an-st" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Island Secretary</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Malvern</forename>
+                                                       <surname>Dijkshoorn-Lopes</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                        <address-block>
+                                             <telephone alsofax="N">318-2552</telephone>
+                                             <email>sec.islandcouncil@statiagov.com</email>
+                                        </address-block>
+                                   </dir-entry>
+                              </dir-entryref>

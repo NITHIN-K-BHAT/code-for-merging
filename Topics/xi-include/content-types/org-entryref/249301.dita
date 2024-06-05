@@ -1,0 +1,27 @@
+<org-entryref id="SL8924277" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8924276" slsdocid="249301" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.315A" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Independent Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Federal Deposit Insurance Corporation</org-entry-name>
+                                                       <abbr>FDIC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>550 17th St, NW, Washington, DC 20429</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 898-6993</telephone>
+                                                       <email>publicinfo@fdic.gov</email>
+                                                       <internet>fdic.gov</internet>
+                                                  </address-block>
+                                                  <found-date>1933</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Martin J.</forename>
+                                                                 <surname>Gruenberg</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

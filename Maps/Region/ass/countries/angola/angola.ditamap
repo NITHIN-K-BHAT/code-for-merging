@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+     <booktitle>
+          <mainbooktitle>Angola</mainbooktitle>
+     </booktitle>
+     <chapter href="./content-types/intro-survey.ditamap" format="ditamap" />
+     <chapter href="./content-types/stats-survey.ditamap" format="ditamap" />
+     <chapter href="./content-types/country-survey.ditamap" format="ditamap" />
+     <chapter href="./content-types/country-overview.ditamap" format="ditamap" />
+     <chapter href="./content-types/directory.ditamap" format="ditamap" />
+</bookmap>

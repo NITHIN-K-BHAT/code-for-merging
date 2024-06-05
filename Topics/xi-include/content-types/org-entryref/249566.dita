@@ -1,0 +1,49 @@
+<org-entryref id="SL3862177" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3862176" slsdocid="249566" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.963" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <data-protection date-added="08.10.2008" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Tampa Bay Times</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>490 1st Ave S, POB 1121, St Petersburg, FL 33701</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(727) 893-8111</telephone>
+                                                       <fax>(727) 893-8675</fax>
+                                                       <email>help@tampabay.com</email>
+                                                       <internet>www.tampabay.com</internet>
+                                                  </address-block>
+                                                  <found-date>1884</found-date>
+                                                  <content-note style="NORMAL">division of Poynter Institute for Media Studies</content-note>
+                                                  <content-note style="NORMAL">
+                      fmrly 
+                      <i>St Petersburg Times</i>
+                      , renamed as above 2012
+                    </content-note>
+                                                  <content-note style="NORMAL">
+                      acquired 
+                      <i>Tampa Tribune</i>
+                       in 2016
+                    </content-note>
+                                                  <role-group>
+                                                       <role>Chair. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Conan</forename>
+                                                                 <surname>Gallaty</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Vice-Pres. and Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mark</forename>
+                                                                 <surname>Katches</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 81,890 (2022)</stats>
+                                             </org-entry>
+                                        </org-entryref>

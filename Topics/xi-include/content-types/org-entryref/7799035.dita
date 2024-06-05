@@ -1,0 +1,27 @@
+<org-entryref id="SL7799139" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799138" slsdocid="7799035" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637846821" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Fodor's Travel Publications</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>909 N Sepulveda Blvd, 11th Floor, El Segundo, CA 90245</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(310) 280-4000</telephone>
+                                             <email>editors@fodors.com</email>
+                                             <internet>fodors.com</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">owned by Internet Brands, Inc</content-note>
+                                        <content-note style="NORMAL">travel guides</content-note>
+                                        <role-group>
+                                             <role>Editorial Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Douglas</forename>
+                                                       <surname>Stallings</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

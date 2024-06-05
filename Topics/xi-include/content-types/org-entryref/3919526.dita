@@ -1,0 +1,42 @@
+<org-entryref id="SL3999470" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3999469" slsdocid="3919526" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.USAC.8.6" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS">
+                                                  <data-protection date-added="14.09.2007" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Coal Association of Canada</org-entry-name>
+                                                       <abbr>CAC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>10240-124 St, Suite 302, Edmonton, AB T5N 3W6</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(780) 757-9488</telephone>
+                                                       <email>info@coal.ca</email>
+                                                       <internet>coal.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1973</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Brian</forename>
+                                                                 <surname>Marshall</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Robin</forename>
+                                                                 <surname>Campbell</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>
+                      48 mem. cos (2024
+                      
+                      )
+                    </stats>
+                                             </org-entry>
+                                        </org-entryref>

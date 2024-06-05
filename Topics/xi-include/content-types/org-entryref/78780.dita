@@ -1,0 +1,39 @@
+<org-entryref id="SL8955453" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8955452" slsdocid="78780" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.787" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ASSOCIATIONS" usage="ewyb usac">
+                                                       <data-protection date-added="11.09.2007" ticked-box="N" />
+                                                       <org-entry-head>
+                                                            <org-entry-name>thinktv</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>160 Bloor St E, Suite 1005, Toronto, ON M4W 1B9</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(416) 923-8813</telephone>
+                                                            <email>info@thinktv.ca</email>
+                                                            <internet>thinktv.ca</internet>
+                                                       </address-block>
+                                                       <found-date>1962</found-date>
+                                                       <content-note style="NORMAL">present name since 2015</content-note>
+                                                       <content-note style="NORMAL">marketing and research asscn dedicated to advancement of commercial TV</content-note>
+                                                       <stats>16 mem cos (2023)</stats>
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Alan</forename>
+                                                                      <surname>Dark</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Catherine</forename>
+                                                                      <surname>MacLeod</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

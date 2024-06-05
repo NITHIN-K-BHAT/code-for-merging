@@ -1,0 +1,37 @@
+<org-entryref id="SL4327843" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4327842" slsdocid="4327693" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390201451" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Eagle-Tribune</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>100 Turnpike St, North Andover, MA 01845</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(978) 946-2000</telephone>
+                                                       <email>news@eagletribune.com</email>
+                                                       <internet>eagletribune.com</internet>
+                                                  </address-block>
+                                                  <found-date>1867</found-date>
+                                                  <content-note style="NORMAL">owned by Community Newspaper Holdings, Inc </content-note>
+                                                  <content-note style="NORMAL">morning</content-note>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>John</forename>
+                                                                 <surname>Celestino</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tracey</forename>
+                                                                 <surname>Rauh</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

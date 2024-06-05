@@ -1,0 +1,27 @@
+<org-entryref id="SL7061555" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7061554" slsdocid="3918227" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.USAC.11202004171459" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Employers Organizations">
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Sand, Stone and Gravel Association</org-entry-name>
+                                                       <abbr>NSSGA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>66 Canal Center Plaza, Suite 300, VA 22314</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(703) 525-8788</telephone>
+                                                       <email>info@nssga.org</email>
+                                                       <internet>nssga.org</internet>
+                                                  </address-block>
+                                                  <content-note style="NORMAL">f. 2001</content-note>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Michael W.</forename>
+                                                                 <surname>Johnson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

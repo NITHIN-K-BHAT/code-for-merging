@@ -1,0 +1,31 @@
+<org-entryref id="SL8819565" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8819564" slsdocid="249055" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1477" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Union Square &amp; Co</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>33 East 17th St, New York, NY 10003</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 367-9692</telephone>
+                                             <email>custservice@unionsquareandco.com</email>
+                                             <internet>unionsquareandco.com</internet>
+                                        </address-block>
+                                        <found-date>1949</found-date>
+                                        <content-note style="NORMAL">fmrly Sterling Publishing Co</content-note>
+                                        <content-note style="NORMAL">present name since 2022</content-note>
+                                        <content-note style="NORMAL">owned by Barnes &amp; Noble</content-note>
+                                        <content-note style="NORMAL">imprints incl. Lark Crafts, Hearst Books</content-note>
+                                        <content-note style="NORMAL">non-fiction, illustrated</content-note>
+                                        <role-group>
+                                             <role>Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Emily</forename>
+                                                       <surname>Meehan</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

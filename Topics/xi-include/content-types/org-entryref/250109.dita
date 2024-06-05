@@ -1,0 +1,77 @@
+<org-entryref id="SL262444" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262443" slsdocid="250109" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2021" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="UTILITIES">
+                                                  <data-protection date-added="24.09.2008" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>American Water Works Association</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>6666 W Quincy Ave, Denver, CO 80235</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(303) 794-7711</telephone>
+                                                       <email>service@awwa.org</email>
+                                                       <internet>awwa.org</internet>
+                                                  </address-block>
+                                                  <found-date>1881</found-date>
+                                                  <content-note style="NORMAL">international, non-profit, scientific and educational society</content-note>
+                                                  <stats>51,000 mems (2023)</stats>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Patrick</forename>
+                                                                 <surname>Kerr</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>David B.</forename>
+                                                                 <surname>LaFrance</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <org-list>
+                                                       <org-entryref id="SL2791229" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2791228" slsdocid="1738855" slsdocty="org-entry org-entrydtd">
+                                                            
+                                                            <org-entry id="US.DIR.USAC.18.4" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" region="USAC" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="UTILITIES" usage="usac">
+                                                                 <data-protection date-added="13.09.2007" ticked-box="N" />
+                                                                 <org-entry-head>
+                                                                      <org-entry-name>The Water Research Foundation</org-entry-name>
+                                                                 </org-entry-head>
+                                                                 <address-block>
+                                                                      <address type="POSTAL">
+                                                                           <verbatim-address>6666 W Quincy Ave, Denver, CO 80235-3098</verbatim-address>
+                                                                      </address>
+                                                                      <telephone alsofax="N">(303) 347-6100</telephone>
+                                                                      <fax>(303) 730-0851</fax>
+                                                                      <email>info@waterrf.org</email>
+                                                                      <internet>waterrf.org</internet>
+                                                                 </address-block>
+                                                                 <found-date>1966</found-date>
+                                                                 <role-group>
+                                                                      <role>Chair.</role>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Paul</forename>
+                                                                                <surname>Rush</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </role-group>
+                                                                 <role-group>
+                                                                      <role>CEO</role>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Peter</forename>
+                                                                                <surname>Grevatt</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </role-group>
+                                                            </org-entry>
+                                                       </org-entryref>
+                                                  </org-list>
+                                             </org-entry>
+                                        </org-entryref>

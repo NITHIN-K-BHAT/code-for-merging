@@ -1,0 +1,27 @@
+<org-entryref id="SL1739119" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1739118" slsdocid="249979" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2152" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="OCEAN SHIPPING" usage="ewyb usac">
+                                                  <data-protection date-added="17.07.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Crowley Maritime Corpn</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>9487 Regency Sq. Blvd, Jacksonville, FL 32225</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(904) 727-2200</telephone>
+                                                       <internet>crowley.com</internet>
+                                                  </address-block>
+                                                  <found-date>1892</found-date>
+                                                  <role-group>
+                                                       <role>Chair. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Thomas B.</forename>
+                                                                 <surname>Crowley</surname>
+                                                                 <gen-name>Jr</gen-name>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

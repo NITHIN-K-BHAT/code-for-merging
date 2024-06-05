@@ -1,0 +1,29 @@
+<org-entryref id="SL1745463" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745462" slsdocid="249052" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1480" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        
+                                        <data-protection date-added="08.08.2009" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Taplinger Publishing Co Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>POB 310251, Miami, FL 33231</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(305) 256-7880</telephone>
+                                             <fax>(305) 256-7816</fax>
+                                             <internet>parkwestpubs.com</internet>
+                                        </address-block>
+                                        <found-date>1955</found-date>
+                                        <content-note style="NORMAL">fiction, non-fiction</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ted</forename>
+                                                       <surname>Rosenfeld</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

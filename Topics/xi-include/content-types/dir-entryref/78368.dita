@@ -1,0 +1,15 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL102174" sllink="SLSDOCRF" sllinkid="102173" slsdocid="78368" slsdocty="dir-entry dir-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <dir-entry id="CA.DIR.123" id-root="ca.dir" iso="ca" section="Provincial Legislatures" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="QUÉBEC">
+                                        <dir-entry-name>Lieutenant Governor</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Manon</forename>
+                                                       <surname>Jeannotte</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                        
+                                   </dir-entry>
+                              </dir-entryref>

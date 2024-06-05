@@ -1,0 +1,29 @@
+<org-entryref id="SL8819420" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8819419" slsdocid="7799042" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637847666" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        <data-protection date-added="07.07.2009" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Henry Holt and Co</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>120 Broadway, New York, NY 10271</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(646) 307-5151</telephone>
+                                             <email>publicity@hholt.com</email>
+                                             <internet>henryholt.com</internet>
+                                        </address-block>
+                                        <found-date>1866</found-date>
+                                        <content-note style="NORMAL">division of Macmillan Publrs, part of Verlagsgruppe Georg von Holtzbrinck Publishing Group (Germany)</content-note>
+                                        <content-note style="NORMAL">imprints incl. Metropolitan Books (f. 1995, fiction and non-fiction) and Times Books (f. 2001, science, business and current affairs)</content-note>
+                                        <role-group>
+                                             <role>Pres. and Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Amy</forename>
+                                                       <surname>Einhorn</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

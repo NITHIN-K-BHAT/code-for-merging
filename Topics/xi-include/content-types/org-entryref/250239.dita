@@ -1,0 +1,30 @@
+<org-entryref id="SL262514" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262513" slsdocid="250239" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1879" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <data-protection date-added="27.07.2005" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>American Society of Heating, Refrigerating and Air-Conditioning Engineers</org-entry-name>
+                                                       <abbr>ASHRAE</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>180 Technology Pkwy, Peachtree Corners, GA 30092</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(404) 636-8400</telephone>
+                                                       <fax>(404) 321-5478</fax>
+                                                       <email>ashrae@ashrae.org</email>
+                                                       <internet>ashrae.org</internet>
+                                                  </address-block>
+                                                  <found-date>1959 by merger</found-date>
+                                                  <stats>over 50,000 mems (2023)</stats>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ginger</forename>
+                                                                 <surname>Scoggins</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

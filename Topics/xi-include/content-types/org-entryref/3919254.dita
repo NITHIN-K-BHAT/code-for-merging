@@ -1,0 +1,25 @@
+<org-entryref id="SL3919478" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3919477" slsdocid="3919254" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.USAC.31.316" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="News Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                                       
+                                                       <org-entry-head>
+                                                            <org-entry-name>Associated Press</org-entry-name>
+                                                            <content-note style="NORMAL">Toronto</content-note>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>36 King St E, Suite 301, Toronto, ON M5C 2L9</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(416) 368-1388</telephone>
+                                                       </address-block>
+                                                       <role-group>
+                                                            <role>Bureau Chief</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Rob</forename>
+                                                                      <surname>Gillies</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

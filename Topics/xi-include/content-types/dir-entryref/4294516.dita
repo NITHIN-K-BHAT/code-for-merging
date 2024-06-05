@@ -1,0 +1,14 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8097780" sllink="SLSDOCRF" sllinkid="8097779" slsdocid="4294516" slsdocty="dir-entry dir-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <dir-entry id="CA.DIR.1387201994" id-root="ca.dir" iso="ca" section="Legislature" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="House of Commons">
+                                        <dir-entry-name>House of Commons (Chambre des Communes)</dir-entry-name>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Parliament of Canada, Ottawa, ON K1A 0A6</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(613) 992-4793</telephone>
+                                             <email>info@parl.gc.ca</email>
+                                             <internet>www.ourcommons.ca</internet>
+                                        </address-block>
+                                   </dir-entry>
+                              </dir-entryref>

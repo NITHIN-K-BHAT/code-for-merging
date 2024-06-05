@@ -1,0 +1,37 @@
+<org-entryref id="SL7799085" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799084" slsdocid="7799023" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637846054" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Chicago Review Press, Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>814 N Franklin St, Chicago, IL 60610</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(312) 337-0747</telephone>
+                                             <fax>(312) 337-5110</fax>
+                                             <email>frontdesk@ipgbook.com</email>
+                                             <internet>chicagoreviewpress.com</internet>
+                                        </address-block>
+                                        <found-date>1973</found-date>
+                                        <content-note style="NORMAL">imprints incl. A Capella (music and film) , Ball Publishing (gardening), Lawrence Hill Books (African American and left-wing non-fiction), Zephyr Press (educational and teaching), and Parenting Press (parenting guidance)</content-note>
+                                        <role-group>
+                                             <role>Man. Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Devon</forename>
+                                                       <surname>Freeny</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Cynthia</forename>
+                                                       <surname>Sherry</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

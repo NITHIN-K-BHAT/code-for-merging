@@ -1,0 +1,26 @@
+<org-entryref id="SL97252" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="97251" slsdocid="75889" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="BH.DIR.82" id-root="bh.dir" iso="bh" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN BAHRAIN">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>POB 26431, Bldg 979, Rd 3119, Blk 331, Zinj, Manama</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">17242700</telephone>
+                                             <fax>17272594</fax>
+                                             <email>manamaconsular@state.gov</email>
+                                             <internet>bh.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Stephen C.</forename>
+                                                       <surname>Bundy</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

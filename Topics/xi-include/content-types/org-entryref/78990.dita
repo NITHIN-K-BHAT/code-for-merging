@@ -1,0 +1,29 @@
+<org-entryref id="SL1759271" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759270" slsdocid="78990" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.563" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Atlantic Business</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>95 Le Marchant Rd, Suite 302, St John’s, NL A1C 2H1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(709) 726-9300</telephone>
+                                                       <email>dchafe@atlanticbusinessmagazine.com</email>
+                                                       <internet>atlanticbusinessmagazine.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1989</found-date>
+                                                  <frequency>6 a year</frequency>
+                                                  <content-note style="NORMAL">business</content-note>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Dawn</forename>
+                                                                 <surname>Chafe</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 37,000 (2019)</stats>
+                                             </org-entry>
+                                        </org-entryref>

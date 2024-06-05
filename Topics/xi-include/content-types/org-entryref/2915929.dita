@@ -1,0 +1,37 @@
+<org-entryref id="SL2915941" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2915940" slsdocid="2915929" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1268987653" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Tourism" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Corporation for Travel Promotion</org-entry-name>
+                                                  <alt-name>Brand USA</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1725 Eye St, NW, 8th Floor, Washington, DC 20006</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 536-2060</telephone>
+                                                  <email>info@thebrandusa.com</email>
+                                                  <internet>thebrandusa.com</internet>
+                                             </address-block>
+                                             <found-date>2010</found-date>
+                                             <content-note style="NORMAL">non-profit org., promotion of USA as tourist destination</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Todd</forename>
+                                                            <surname>Davidson</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Christopher L.</forename>
+                                                            <surname>Thompson</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

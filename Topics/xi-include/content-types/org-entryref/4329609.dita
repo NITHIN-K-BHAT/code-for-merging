@@ -1,0 +1,28 @@
+<org-entryref id="SL4330038" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4330037" slsdocid="4329609" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390302335" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Springfield News-Sun</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>POB 1122, Springfield, OH 45501</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 441-6397</telephone>
+                                                       <email>springfieldnewssun@coxinc.com</email>
+                                                       <internet>springfieldnewssun.com</internet>
+                                                  </address-block>
+                                                  <found-date>1817</found-date>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ashley</forename>
+                                                                 <surname>Bethard</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 11,632, Sun. 13,697 (2019)</stats>
+                                             </org-entry>
+                                        </org-entryref>

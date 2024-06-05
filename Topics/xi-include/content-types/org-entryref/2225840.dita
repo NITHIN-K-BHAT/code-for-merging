@@ -1,0 +1,38 @@
+<org-entryref id="SL8956519" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8956518" slsdocid="2225840" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.1203003400" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELEVISION" usage="ewyb usac">
+                                                       
+                                                       <org-entry-head>
+                                                            <org-entry-name>Rogers Broadcasting Ltd (Rogers Media)</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>333 Bloor St E, Toronto, ON M4W 1G9</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(416) 935-7777</telephone>
+                                                            <email>investor.relations@rci.rogers.com</email>
+                                                            <internet>rogers.com</internet>
+                                                       </address-block>
+                                                       <found-date>1960</found-date>
+                                                       <content-note style="NORMAL">subsidiary of Rogers Communications Inc</content-note>
+                                                       <stats>51 radio stations and 8 television channels</stats>
+                                                       <role-group>
+                                                            <role>Chair</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Edward S.</forename>
+                                                                      <surname>Rogers</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Tony</forename>
+                                                                      <surname>Staffieri</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

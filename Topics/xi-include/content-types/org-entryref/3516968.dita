@@ -1,0 +1,29 @@
+<org-entryref id="SL3516976" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3516975" slsdocid="3516968" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.40149" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>Hachette Book Group</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1290 Ave of the Americas, New York, NY 10104</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 364-1100</telephone>
+                                             <internet>hachettebookgroup.com</internet>
+                                        </address-block>
+                                        <found-date>2006</found-date>
+                                        <content-note style="NORMAL">owned by Lagardère SCA (France)</content-note>
+                                        <content-note style="NORMAL">fiction and non-fiction</content-note>
+                                        <content-note style="NORMAL">divisions incl. Little, Brown and Co, Grand Central Publishing, Hachette Books, Perseus Books, Hachette Audio, Hachette Nashville and Orbit</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>David</forename>
+                                                       <surname>Shelley</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

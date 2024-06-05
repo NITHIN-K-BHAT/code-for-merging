@@ -1,0 +1,42 @@
+<org-entryref id="SL7799438" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799437" slsdocid="7799371" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1637853981" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals" usage="usac">
+                                                  <data-protection date-added="12.09.2007" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Architect</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>126 Old Sheppard Ave, Toronto, ON M2J 3L9</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 441-2085</telephone>
+                                                       <email>pressroom@canadianarchitect.com</email>
+                                                       <internet>canadianarchitect.com</internet>
+                                                  </address-block>
+                                                  <found-date>1955</found-date>
+                                                  <frequency>
+                      9 a
+                      
+                       year
+                    </frequency>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Steve</forename>
+                                                                 <surname>Wilson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Elsa</forename>
+                                                                 <surname>Lam</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 13,553 (2019)</stats>
+                                             </org-entry>
+                                        </org-entryref>

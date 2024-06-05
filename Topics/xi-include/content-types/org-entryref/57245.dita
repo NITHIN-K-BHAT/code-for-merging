@@ -1,0 +1,27 @@
+<org-entryref id="SL64734" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="64733" slsdocid="57245" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="CZ.DIR.230" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN THE CZECH REPUBLIC">
+                                        <data-protection date-added="13.07.2007" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Tržiště 15, 118 01 Prague 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">257022000</telephone>
+                                             <fax>257022809</fax>
+                                             <email>hroprague@state.gov</email>
+                                             <internet>cz.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Bijan</forename>
+                                                       <surname>Sabet</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

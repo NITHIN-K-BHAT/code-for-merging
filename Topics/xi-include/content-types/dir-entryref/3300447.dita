@@ -1,0 +1,28 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7946924" sllink="SLSDOCRF" sllinkid="7946923" slsdocid="3300447" slsdocty="dir-entry dir-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <dir-entry id="AN-ST.DIR.1300862180" id-root="an-st.dir" iso="an-st" section="The Goverment" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Council</dir-entry-name>
+                                        <content-note style="NORMAL">appointed by the Island Council</content-note>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Alida</forename>
+                                                       <surname>Francis</surname>
+                                                  </person-name>
+                                                  <person-note>Island Governor</person-note>
+                                             </person>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Arlene</forename>
+                                                       <surname>Spanner-Schmidt</surname>
+                                                  </person-name>
+                                             </person>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Reuben</forename>
+                                                       <surname>Merkman</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>

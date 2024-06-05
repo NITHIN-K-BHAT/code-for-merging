@@ -1,0 +1,30 @@
+<org-entryref id="SL7799523" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799522" slsdocid="7799390" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1637858176" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals" usage="usac">
+                                                  
+                                                  <data-protection date-added="02.09.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Journal of Economics/Revue Canadienne d'Economique</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1221 rue Fleury est, CP 35006, Montréal, QC H2C 3K4</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 454-5275</telephone>
+                                                       <email>cje@economics.ca</email>
+                                                       <internet>www.economics.ca/cpages/cje-home</internet>
+                                                  </address-block>
+                                                  <found-date>1968</found-date>
+                                                  <frequency>quarterly</frequency>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Zhiqi</forename>
+                                                                 <surname>Chen</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 3,000 (2014)</stats>
+                                             </org-entry>
+                                        </org-entryref>

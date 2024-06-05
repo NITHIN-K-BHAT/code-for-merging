@@ -1,0 +1,22 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL3302280" sllink="SLSDOCRF" sllinkid="3302279" slsdocid="1542681" slsdocty="dir-entry dir-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <dir-entry id="AN-SA.DIR.32" id-root="an-sa.dir" iso="an-sa" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Island Governor</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jonathan</forename>
+                                                       <surname>Johnson</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1 Power St, The Bottom</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">416-3311</telephone>
+                                             <email>governor@sabagov.nl</email>
+                                             <internet>www.sabagov.com</internet>
+                                        </address-block>
+                                   </dir-entry>
+                              </dir-entryref>

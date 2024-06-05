@@ -1,0 +1,39 @@
+<org-entryref id="SL7799419" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799418" slsdocid="7799367" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1637853673" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals" usage="usac">
+                                                  <data-protection date-added="23.07.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Dimension</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>91 Albert St, Winnipeg, MB R3B 1G5</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(204) 957-1519</telephone>
+                                                       <fax>(204) 943-4617</fax>
+                                                       <email>info@canadiandimension.com</email>
+                                                       <internet>canadiandimension.com</internet>
+                                                  </address-block>
+                                                  <found-date>1963</found-date>
+                                                  <frequency>4 a year</frequency>
+                                                  <content-note style="NORMAL">left-wing politics and culture</content-note>
+                                                  <role-group>
+                                                       <role>Publr and Co-ordinating Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Cy</forename>
+                                                                 <surname>Gonick</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Harrison</forename>
+                                                                 <surname>Samphir</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

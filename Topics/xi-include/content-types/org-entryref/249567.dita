@@ -1,0 +1,26 @@
+<org-entryref id="SL1741289" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741288" slsdocid="249567" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.962" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Sarasota Herald-Tribune</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1777 Main St, Sarasota, FL 34236</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(941) 361-4800</telephone>
+                                                       <internet>heraldtribune.com</internet>
+                                                  </address-block>
+                                                  <found-date>1925</found-date>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jennifer</forename>
+                                                                 <surname>Orsi</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 53,470 , Sun. 67,618 (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

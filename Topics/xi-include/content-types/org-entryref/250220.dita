@@ -1,0 +1,39 @@
+<org-entryref id="SL262548" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262547" slsdocid="250220" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1897" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <data-protection date-added="13.09.2007" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>FMI—The Food Industry Association</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2345 Crystal Dr., Suite 800, Arlington, VA 22202</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 452-8444</telephone>
+                                                       <fax>(202) 429-4519</fax>
+                                                       <email>webmaster@fmi.org</email>
+                                                       <internet>fmi.org</internet>
+                                                  </address-block>
+                                                  <found-date>1977</found-date>
+                                                  <content-note style="NORMAL">fmrly Food Marketing Institute</content-note>
+                                                  <content-note style="NORMAL">present name since 2020</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Brian</forename>
+                                                                 <surname>George</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Leslie G.</forename>
+                                                                 <surname>Sarasin</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

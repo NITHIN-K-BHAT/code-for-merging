@@ -1,0 +1,37 @@
+<org-entryref id="SL1745692" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745691" slsdocid="250591" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1515" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="07.07.2009" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>University Press of Kansas</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>2502 Westbrooke Circle, Lawrence, KS 66045</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(785) 864-4154</telephone>
+                                             <fax>(785) 864-4586</fax>
+                                             <email>upress@ku.edu</email>
+                                             <internet>kansaspress.ku.edu</internet>
+                                        </address-block>
+                                        <found-date>1946</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Timothy</forename>
+                                                       <surname>Paulson</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Joyce</forename>
+                                                       <surname>Harrison</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

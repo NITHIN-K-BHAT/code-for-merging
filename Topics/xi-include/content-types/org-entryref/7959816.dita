@@ -1,0 +1,29 @@
+<org-entryref id="SL7959828" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7959827" slsdocid="7959816" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1648563410" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Selected Periodicals">
+                                             <org-entry-head>
+                                                  <org-entry-name>First Things</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>9 E 40th St, 10th Floor, New York, NY 10016</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 627-1985</telephone>
+                                                  <email>ft@firstthings.com</email>
+                                                  <internet>firstthings.com</internet>
+                                             </address-block>
+                                             <found-date>1990</found-date>
+                                             <content-note style="NORMAL">monthly</content-note>
+                                             <content-note style="NORMAL">publ. by Institute on Religion and Public Life</content-note>
+                                             <content-note style="NORMAL">Christianity, religion, ethics and philosophy</content-note>
+                                             <role-group>
+                                                  <role>Editor</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>R. R.</forename>
+                                                            <surname>Reno</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

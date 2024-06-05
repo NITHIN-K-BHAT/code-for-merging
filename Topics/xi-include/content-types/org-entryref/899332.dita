@@ -1,0 +1,29 @@
+<org-entryref id="SL1745163" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745162" slsdocid="899332" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.44559" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        
+                                        <data-protection date-added="27.04.2007" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Merriam-Webster Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>47 Federal St, Springfield, MA 01105</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(413) 734-3134</telephone>
+                                             <internet>merriam-webster.com</internet>
+                                        </address-block>
+                                        <found-date>1831</found-date>
+                                        <content-note style="NORMAL">owned by Encyclopaedia Britannica, Inc</content-note>
+                                        <content-note style="NORMAL">dictionaries, reference</content-note>
+                                        <role-group>
+                                             <role>Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Lisa</forename>
+                                                       <surname>Schneider</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

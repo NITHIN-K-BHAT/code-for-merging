@@ -1,0 +1,39 @@
+<org-entryref id="SL1759642" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759641" slsdocid="78914" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.644" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Western Producer</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>3530 Millar Ave, Suite 1000, POB 2500, Saskatoon, SK S7P 0B6</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(306) 665-3500</telephone>
+                                                       <fax>(306) 244-9445</fax>
+                                                       <email>newsroom@producer.com</email>
+                                                       <internet>producer.com</internet>
+                                                  </address-block>
+                                                  <found-date>1923</found-date>
+                                                  <frequency>weekly</frequency>
+                                                  <content-note style="NORMAL">agriculture</content-note>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Cory</forename>
+                                                                 <surname>Bourdeaud’hui</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Michael</forename>
+                                                                 <surname>Raine</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 25,963 (June 2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

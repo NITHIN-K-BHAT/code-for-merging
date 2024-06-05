@@ -1,0 +1,58 @@
+<org-entryref id="SL262922" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262921" slsdocid="250379" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1746" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL STOCK EXCHANGES">
+                                             <data-protection date-added="23.06.2009" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>New York Stock Exchange</org-entry-name>
+                                                  <abbr>NYSE</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>11 Wall St, New York, NY 10005</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 656-3000</telephone>
+                                                  <internet>nyse.com</internet>
+                                             </address-block>
+                                             <found-date>1792</found-date>
+                                             <content-note style="NORMAL">owned by Intercontinental Exchange (ICE)</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Sharon</forename>
+                                                            <surname>Bowen</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Lynn</forename>
+                                                            <surname>Martin</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <org-list>
+                                                  <org-entryref id="SL7810568" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7810567" slsdocid="250382" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="US.DIR.1743" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL STOCK EXCHANGES">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>NYSE Chicago</org-entry-name>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>1 Financial Pl., 440 S LaSalle St, Suite 800, Chicago, IL 60605</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(312) 663-2222</telephone>
+                                                                 <fax>(312) 663-2721</fax>
+                                                                 <email>info@chx.com</email>
+                                                                 <internet>nyse.com/markets/nyse-chicago</internet>
+                                                            </address-block>
+                                                            <found-date>1882 </found-date>
+                                                            <content-note style="NORMAL">fmrly Chicago Stock Exchange</content-note>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                             </org-list>
+                                        </org-entry>
+                                   </org-entryref>

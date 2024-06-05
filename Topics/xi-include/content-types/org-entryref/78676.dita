@@ -1,0 +1,28 @@
+<org-entryref id="SL101484" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101483" slsdocid="78676" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.906" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian National Millers’ Association</org-entry-name>
+                                                       <abbr>CNMA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>c/o Welch LLP, 123 Slater St, Suite 300, Ottawa, ON K1P 5H2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 238-2293</telephone>
+                                                       <email>office@canadianmillers.ca</email>
+                                                       <internet>canadianmillers.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1920</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Olivier</forename>
+                                                                 <surname>Lavigne-Lacroix</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>11 mems (2024)</stats>
+                                             </org-entry>
+                                        </org-entryref>

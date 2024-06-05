@@ -1,0 +1,30 @@
+<org-entryref id="SL1759264" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759263" slsdocid="78993" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.558" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  <data-protection date-added="01.09.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Manitoba Co-operator</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1666 Dublin Ave, Winnipeg, MB R3H 0H1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(204) 954-1400</telephone>
+                                                       <fax>(204) 954-1422</fax>
+                                                       <internet>manitobacooperator.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1925</found-date>
+                                                  <content-note style="NORMAL">owned by Farm Business Communications, a subsidiary of Glacier Media Inc</content-note>
+                                                  <frequency>weekly</frequency>
+                                                  <content-note style="NORMAL">farming</content-note>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Gord</forename>
+                                                                 <surname>Gilmour</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

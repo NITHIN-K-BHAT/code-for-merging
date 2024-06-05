@@ -1,0 +1,27 @@
+<org-entryref id="SL764008" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="764007" slsdocid="764000" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1077203572" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Selected Agricultural, Forestry, Fisheries" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canada Beef Inc</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>6715 8th St NE, Suite 146, Calgary, AB T2E 7H7</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(403) 275-5890</telephone>
+                                                       <fax>(403) 275-9288</fax>
+                                                       <email>info@canadabeef.ca</email>
+                                                       <internet>canadabeef.ca</internet>
+                                                  </address-block>
+                                                  <found-date>2011</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Eric</forename>
+                                                                 <surname>Bienvenue</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,29 @@
+<org-entryref id="SL1745744" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745743" slsdocid="250574" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1531" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ORGANIZATIONS AND ASSOCIATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>American Booksellers' Association</org-entry-name>
+                                             <abbr>ABA</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>333 Westchester Ave, Suite S202, White Plains, NY 10604</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 637-0037</telephone>
+                                             <fax>(914) 417-4013</fax>
+                                             <email>info@bookweb.org</email>
+                                             <internet>bookweb.org</internet>
+                                        </address-block>
+                                        <found-date>1900</found-date>
+                                        <stats>1,835 mems (2018)</stats>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Tegan</forename>
+                                                       <surname>Tigani</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

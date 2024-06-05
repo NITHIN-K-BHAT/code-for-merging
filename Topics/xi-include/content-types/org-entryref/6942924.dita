@@ -1,0 +1,36 @@
+<org-entryref id="SL6943106" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6943105" slsdocid="6942924" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1580296050" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CIVIL AVIATION" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>JetBlue Airways Corpn</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>27-01 Queens Plaza N, New York, NY 11101</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(718) 286-7900</telephone>
+                                                       <email>corporatecommunications@jetblue.com</email>
+                                                       <internet>jetblue.com</internet>
+                                                  </address-block>
+                                                  <found-date>2000</found-date>
+                                                  <content-note style="NORMAL">serves 100 domestic and int. destinations</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Peter</forename>
+                                                                 <surname>Boneparth</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Joanna</forename>
+                                                                 <surname>Geraghty</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

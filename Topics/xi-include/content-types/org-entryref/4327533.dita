@@ -1,0 +1,28 @@
+<org-entryref id="SL4327624" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4327623" slsdocid="4327533" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390195150" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Telegraph</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>219 Piasa St, Alton, IL 62002</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(618) 463-2500</telephone>
+                                                       <email>news@thetelegraph.com</email>
+                                                       <internet>www.thetelegraph.com</internet>
+                                                  </address-block>
+                                                  <found-date>1836</found-date>
+                                                  <content-note style="NORMAL">publ. by Ohio Community Media</content-note>
+                                                  <frequency>Mon. to Fri. evening, Sat. and Sun. morning</frequency>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ron</forename>
+                                                                 <surname>DeBrock</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

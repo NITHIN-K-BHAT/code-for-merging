@@ -1,0 +1,27 @@
+<org-entryref id="SL1745432" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745431" slsdocid="249062" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1473" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Southern Illinois University Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>605 Agriculture Dr., Carbondale, IL 62901</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(618) 453-6614</telephone>
+                                             <fax>(618) 453-1221</fax>
+                                             <email>custserv@press.uchicago.edu</email>
+                                             <internet>siupress.com</internet>
+                                        </address-block>
+                                        <found-date>1953</found-date>
+                                        <role-group>
+                                             <role>Interim Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Amy</forename>
+                                                       <surname>Etcheson</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

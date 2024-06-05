@@ -1,0 +1,38 @@
+<org-entryref id="SL4718964" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4718963" slsdocid="1442438" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1132315105" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="National Newspaper Groups">
+                                             <data-protection date-added="25.03.2009" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Digital First Media</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>101 W Colfax Ave, 11th Floor, Denver, CO 80202-5177</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(303) 964-6360</telephone>
+                                                  <internet>medianewsgroup.com</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">
+                    68 daily newspapers incl. 
+                    <i>Denver Post</i>
+                    , 
+                    <i>San Jose Mercury News</i>
+                    , 
+                    <i>Orange County Register</i>
+                    , 
+                    <i>St Paul Pioneer Press</i>
+                     and 
+                    <i>Boston Herald</i>
+                    , over 300 non-daily other publs (2023)
+                  </content-note>
+                                             <role-group>
+                                                  <role>CEO and Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>John</forename>
+                                                            <surname>Paton</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

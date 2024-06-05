@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+    <booktitle>
+        <mainbooktitle>int-org-entryref</mainbooktitle>
+    </booktitle>
+    <chapter id="1101609" navtitle="1101609">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/wb02047.io.txt.dita"/>
+    </chapter>
+    <chapter id="1103208" navtitle="1103208">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/wb02047.io.txt.dita"/>
+    </chapter>
+    <chapter id="1101623" navtitle="1101623">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/wb02047.io.txt.dita"/>
+    </chapter>
+    <chapter id="3277832" navtitle="3277832">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/wb02047.io.txt.dita"/>
+    </chapter>
+    <chapter id="1101659" navtitle="1101659">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/wb02047.io.txt.dita"/>
+    </chapter>
+    <chapter id="1101818" navtitle="1101818">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/wb02047.io.txt.dita"/>
+    </chapter>
+    <chapter id="1101824" navtitle="1101824">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/wb02047.io.txt.dita"/>
+    </chapter>
+    <chapter id="1101849" navtitle="1101849">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/wb02047.io.txt.dita"/>
+    </chapter>
+    <chapter id="1101865" navtitle="1101865">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/wb02047.io.txt.dita"/>
+    </chapter>
+    <chapter id="1101886" navtitle="1101886">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/wb02047.io.txt.dita"/>
+    </chapter>
+    <chapter id="1101888" navtitle="1101888">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/wb02047.io.txt.dita"/>
+    </chapter>
+    <chapter id="1597008" navtitle="1597008">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/wb02047.io.txt.dita"/>
+    </chapter>
+    <chapter id="3953624" navtitle="3953624">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/wb02047.io.txt.dita"/>
+    </chapter>
+    <chapter id="1101889" navtitle="1101889">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/wb02047.io.txt.dita"/>
+    </chapter>
+    <chapter id="1101890" navtitle="1101890">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/wb02047.io.txt.dita"/>
+    </chapter>
+</bookmap>

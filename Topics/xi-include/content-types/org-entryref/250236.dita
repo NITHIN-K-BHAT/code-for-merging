@@ -1,0 +1,37 @@
+<org-entryref id="SL5314590" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5314589" slsdocid="250236" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1882" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>AMT—The Association for Manufacturing Technology</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>7901 Jones Branch Dr., Suite 900, McLean, VA 22102-3316</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(703) 893-2900</telephone>
+                                                       <fax>(703) 893-1151</fax>
+                                                       <email>amtnews@amtonline.org</email>
+                                                       <internet>amtonline.org</internet>
+                                                  </address-block>
+                                                  <found-date>1902</found-date>
+                                                  <stats>over 650 mems (2023)</stats>
+                                                  <role-group>
+                                                       <role>Chair</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Daniel D.</forename>
+                                                                 <surname>Janka</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Douglas K.</forename>
+                                                                 <surname>Woods</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,37 @@
+<org-entryref id="SL1741496" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741495" slsdocid="249507" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1033" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Star Tribune</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>650 3rd Ave S, Suite 1300, Minneapolis, MN 55488</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(612) 673-4000</telephone>
+                                                       <email>feedback@startribune.com</email>
+                                                       <internet>startribune.com</internet>
+                                                  </address-block>
+                                                  <found-date>1920</found-date>
+                                                  <role-group>
+                                                       <role>Publr and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Steve</forename>
+                                                                 <surname>Grove</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Scott</forename>
+                                                                 <surname>Gillespie</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Fri. 242,270, Sun. 351,180 (2023)</stats>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,38 @@
+<org-entryref id="SL3180648" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3180649" slsdocid="1451696" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1133799176" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Fast Company</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>7 World Trade Center, New York, NY 10007-2195</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(800) 542-6029</telephone>
+                                                  <email>care@fastcompany.com</email>
+                                                  <internet>fastcompany.com</internet>
+                                             </address-block>
+                                             <found-date>1995</found-date>
+                                             <frequency>monthly</frequency>
+                                             <content-note style="NORMAL">international business</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Joe</forename>
+                                                            <surname>Mansueto</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Brendan</forename>
+                                                            <surname>Vaughan</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 278,749</stats>
+                                        </org-entry>
+                                   </org-entryref>

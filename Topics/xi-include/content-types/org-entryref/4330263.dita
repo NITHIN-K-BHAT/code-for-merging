@@ -1,0 +1,27 @@
+<org-entryref id="SL4330322" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4330321" slsdocid="4330263" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390306185" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Observer-Reporter</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>122 S Main St, Washington, PA 15301</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(724) 222-2200</telephone>
+                                                       <email>webmaster@observer-reporter.com</email>
+                                                       <internet>observer-reporter.com</internet>
+                                                  </address-block>
+                                                  <found-date>1808</found-date>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Liz</forename>
+                                                                 <surname>Rogers</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

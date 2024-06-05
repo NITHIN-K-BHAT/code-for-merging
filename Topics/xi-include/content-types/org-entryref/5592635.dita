@@ -1,0 +1,29 @@
+<org-entryref id="SL8961471" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8961470" slsdocid="5592635" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1482902958" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELEVISION" usage="ewyb usac">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Hulu</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>2500 Bdwy, Santa Monica, CA 90404</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(310) 571-4700</telephone>
+                                                            <email>media@hulu.com</email>
+                                                            <internet>hulu.com</internet>
+                                                       </address-block>
+                                                       <found-date>2007</found-date>
+                                                       <content-note style="NORMAL">subscription video on demand</content-note>
+                                                       <content-note style="NORMAL">also provides online TV streaming service, Hulu Live TV</content-note>
+                                                       <content-note style="NORMAL">48m. subs (2023)</content-note>
+                                                       <role-group>
+                                                            <role>Pres.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Joe</forename>
+                                                                      <surname>Earley</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

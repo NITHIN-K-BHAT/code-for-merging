@@ -1,0 +1,38 @@
+<org-entryref id="SL101438" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101437" slsdocid="78702" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.877" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS" usage="usac">
+                                                  <data-protection date-added="11.09.2007" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Seed Growers’ Association</org-entry-name>
+                                                       <abbr>CSGA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>21 Florence St, Ottawa, ON K2P 0W6</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 236-0497</telephone>
+                                                       <email>info@seedgrowers.ca</email>
+                                                       <internet>seedgrowers.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1904</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Dale</forename>
+                                                                 <surname>Connell</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Dir and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Doug</forename>
+                                                                 <surname>Miller</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>3,113 mems (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

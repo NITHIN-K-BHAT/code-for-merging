@@ -1,0 +1,27 @@
+<org-entryref id="SL8927127" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8927126" slsdocid="249999" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2127" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INLAND WATERWAYS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>St Lawrence Seaway Development Corpn</org-entry-name>
+                                                       <abbr>SLSDC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1200 New Jersey Ave, SE, Suite W62-300, Washington, DC 20590</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 366-0091</telephone>
+                                                       <fax>(202) 366-7147</fax>
+                                                       <internet>greatlakes-seaway.com</internet>
+                                                  </address-block>
+                                                  <content-note style="NORMAL">responsible for operations and maintenance of US sections of St Lawrence Seaway</content-note>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename> Terence F.</forename>
+                                                                 <surname>Bowles</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

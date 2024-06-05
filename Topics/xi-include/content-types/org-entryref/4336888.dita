@@ -1,0 +1,33 @@
+<org-entryref id="SL8362738" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8362737" slsdocid="4336888" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.1390974364" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PROVINCIAL AND TERRITORIAL PARTIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Québec Solidaire</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>533 rue Ontario est, Suite 010, Montréal, QC H2L 1N8</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(514) 278-9014</telephone>
+                                             <email>info@quebecsolidaire.net</email>
+                                             <internet>quebecsolidaire.net</internet>
+                                        </address-block>
+                                        <found-date>2006</found-date>
+                                        <content-note style="NORMAL">left-wing</content-note>
+                                        <role-group>
+                                             <role>Spokespersons</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gabriel</forename>
+                                                       <surname>Nadeau-Dubois</surname>
+                                                  </person-name>
+                                             </person>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Émilise</forename>
+                                                       <surname>Lessard-Therrien</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

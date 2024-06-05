@@ -1,0 +1,31 @@
+<org-entryref id="SL1741321" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741320" slsdocid="249558" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.973" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Honolulu Star-Advertiser</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Restaurant Row, 7 Waterfront Plaza, Suite 210, 500 Ala Moana Blvd, Honolulu, HI 96813</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(808) 529-4747</telephone>
+                                                       <email>webmaster@staradvertiser.com</email>
+                                                       <internet>staradvertiser.com</internet>
+                                                  </address-block>
+                                                  <found-date>
+                      1882 as 
+                      <i>Honolulu Star-Bulletin</i>
+                                                  </found-date>
+                                                  <content-note style="NORMAL">present name adopted 2010</content-note>
+                                                  <role-group>
+                                                       <role>Pres. and Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Dennis</forename>
+                                                                 <surname>Francis</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 75,460 (2023)</stats>
+                                             </org-entry>
+                                        </org-entryref>

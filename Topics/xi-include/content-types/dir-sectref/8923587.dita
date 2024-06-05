@@ -1,0 +1,39 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8923605" sllink="SLSDOCRF" sllinkid="8923604" slsdocid="8923587" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <dir-section id="CA.DIR.1708524789" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                                   <heading>Central Bank</heading>
+                                   <p id="CA.DIR.USAC.23.12" usage="usac">The Bank of Canada was established as the nation's central bank in 1935 following the Bank of Canada Act. Its principal responsibility is the control of credit through monetary action in order to promote the economic and financial welfare of Canada. The Bank is managed by a Board of Directors, comprising the Governor (its chief executive officer), the Senior Deputy Governor and 12 part-time directors. The part-time directors are appointed by the Minister of Finance, with the approval of the Governor-in-Council, for three-year terms and they, in turn, appoint the Governor for seven-year terms. In addition, the Deputy Minister of Finance is a non-voting ex officio member of the Board. While the Bank of Canada may operate with a considerable amount of independence, it liaises closely with the federal Government, which has ultimate responsibility for monetary policy. The total assets of the Bank of Canada amounted to C $322,081m. at 31 January 2024.</p>
+                                   
+                                   <org-list>
+                                        <org-entryref id="SL8923591" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8923590" slsdocid="78777" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.795" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING" usage="ewyb usac">
+                                                  <data-protection date-added="15.03.2006" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Bank of Canada</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>234 Wellington St, Ottawa, ON K1A 0G9</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 782-8111</telephone>
+                                                       <email>info@bankofcanada.ca</email>
+                                                       <internet>www.bankofcanada.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1934</found-date>
+                                                  <content-note style="NORMAL">bank of issue</content-note>
+                                                  <role-group>
+                                                       <role>Gov.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tiff</forename>
+                                                                 <surname>Macklem</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                                   <p usage="usac">The principal methods by which the Bank of Canada controls monetary supply are: (a) transferring, as fiscal agent of the federal Government, government deposits to the direct-clearing deposit-taking institutions, adding to their settlement balances and enabling them to make investments or reduce liabilities in the money market; (b) selling or purchasing government securities under an agreement to reverse the transaction on the subsequent day, thereby influencing the cost of overnight financing in the money market; (c) selling or purchasing government securities outright, thereby influencing the prevailing rates of interest at the corresponding terms to maturity; and (d) participating in the weekly tender of three-month government treasury bills. From 1996 the Bank Rate was set at the upper limit of the Bank's operating band for the overnight financing rate.</p>
+                              </dir-section>
+                         </dir-sectref>

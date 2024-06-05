@@ -1,0 +1,27 @@
+<org-entryref id="SL262468" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262467" slsdocid="250264" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1854" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>American Institute of Constructors</org-entry-name>
+                                                       <abbr>AIC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>19 Mantua Rd, Mount Royal, NJ 08061</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(703) 683-4999</telephone>
+                                                       <email>info@aic-builds.org</email>
+                                                       <internet>aic-builds.org</internet>
+                                                  </address-block>
+                                                  <found-date>1971</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Gregg</forename>
+                                                                 <surname>Bradshaw</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,37 @@
+<org-entryref id="SL1744986" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1744985" slsdocid="249132" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1409" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Grove Atlantic, Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>154 W 14th St, 12th Floor, New York, NY 10011</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 614-7850</telephone>
+                                             <fax>(212) 614-7886</fax>
+                                             <email>info@groveatlantic.com</email>
+                                             <internet>groveatlantic.com</internet>
+                                        </address-block>
+                                        <found-date>1993</found-date>
+                                        <content-note style="NORMAL">fiction, non-fiction, biography, history, social sciences, poetry</content-note>
+                                        <role-group>
+                                             <role>Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Morgan</forename>
+                                                       <surname>Entrekin</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editorial Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Elisabeth</forename>
+                                                       <surname>Schmitz</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

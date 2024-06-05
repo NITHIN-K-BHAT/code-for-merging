@@ -1,0 +1,28 @@
+<org-entryref id="SL1759895" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759894" slsdocid="78848" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.713" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Pontifical Institute of Mediaeval Studies</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>59 Queen’s Park Cres. E, Toronto, ON M5S 2C4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(416) 926-7142</telephone>
+                                             <email>pims.library@utoronto.ca</email>
+                                             <internet>pims.ca</internet>
+                                        </address-block>
+                                        <found-date>1939</found-date>
+                                        <content-note style="NORMAL">scholarly publs concerning the Middle Ages</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Very Rev.</title>
+                                                       <forename>Augustine</forename>
+                                                       <surname>Thompson</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

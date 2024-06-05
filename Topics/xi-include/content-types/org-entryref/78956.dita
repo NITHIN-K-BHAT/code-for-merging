@@ -1,0 +1,35 @@
+<org-entryref id="SL1759409" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759408" slsdocid="78956" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.601" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  <data-protection date-added="17.09.2008" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Chatelaine/Chãtelaine</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>15 Benton Rd, Toronto, ON M6M 3G2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(833) 632-0833</telephone>
+                                                       <internet>chatelaine.com</internet>
+                                                  </address-block>
+                                                  <found-date>1960</found-date>
+                                                  <content-note style="NORMAL">publ. by St Joseph Communications</content-note>
+                                                  <frequency>6 a year</frequency>
+                                                  <content-note style="NORMAL">women’s journal</content-note>
+                                                  <content-note style="NORMAL">English and French edns</content-note>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Maureen</forename>
+                                                                 <surname>Halushak</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>
+                      circ. 140,265 (English, 
+                      
+                      2021) and 50,272 (French, 2021)
+                    </stats>
+                                             </org-entry>
+                                        </org-entryref>

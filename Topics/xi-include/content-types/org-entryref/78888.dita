@@ -1,0 +1,20 @@
+<org-entryref id="SL8830086" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8830085" slsdocid="78888" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.673" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Chenelière Education</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>5800 rue Saint-Denis, suite 900, Montréal, QC H2S 3L5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(450) 461-2782</telephone>
+                                             <email>info@cheneliere.ca</email>
+                                             <internet>cheneliere.ca</internet>
+                                        </address-block>
+                                        <found-date>1984</found-date>
+                                        <content-note style="NORMAL">owned by TC Transcontinental Inc</content-note>
+                                        <content-note style="NORMAL">French-language educational publr</content-note>
+                                        <content-note style="NORMAL">imprints incl. Beauchemin, Chenelière Education, Editions de la Chenelière, Gaëtan Morin Editeur, Graficor and Modulo</content-note>
+                                   </org-entry>
+                              </org-entryref>

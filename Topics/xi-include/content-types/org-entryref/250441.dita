@@ -1,0 +1,35 @@
+<org-entryref id="SL8922951" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922950" slsdocid="250441" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1685" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Citibank NA</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>388 Greenwich St, New York, NY 10043</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(646) 502-4677</telephone>
+                                                       <email>customer.help@citi.com</email>
+                                                       <internet>citi.com</internet>
+                                                  </address-block>
+                                                  <found-date>1812</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>John C.</forename>
+                                                                 <surname>Dugan</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Sunil</forename>
+                                                                 <surname>Garg</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,38 @@
+<org-entryref id="SL7799477" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799476" slsdocid="7799379" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1637856356" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals" usage="usac">
+                                                  <data-protection date-added="20.07.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Design Engineering</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>111 Gordon Baker Rd, Suite 400, North York, ON M2H 3R1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 510-6756</telephone>
+                                                       <internet>design-engineering.com</internet>
+                                                  </address-block>
+                                                  <found-date>1955</found-date>
+                                                  <frequency>6 a year</frequency>
+                                                  <content-note style="NORMAL">mechanical design engineering</content-note>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Paul</forename>
+                                                                 <surname>Burton</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mike</forename>
+                                                                 <surname>McLeod</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 18,494 (June 2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

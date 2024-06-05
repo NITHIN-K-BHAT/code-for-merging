@@ -1,0 +1,174 @@
+<org-entryref id="SL1756477" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1756476" slsdocid="78806" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.756" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Bell Canada Enterprises Inc</org-entry-name>
+                                                       <abbr>BCE</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1 Carrefour Alexander Graham Bell, Edif. A, 4e étage, Verdun, QC H3E 3B3</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 339-6353</telephone>
+                                                       <email>corporate.secretariat@bell.ca</email>
+                                                       <internet>bce.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1880</found-date>
+                                                  <content-note style="NORMAL">provides fixed-line, mobile and satellite telecommunications services</content-note>
+                                                  <content-note style="NORMAL">subsidiary cos incl. Bell Aliant, Bell Canada, Bell Mobility, Bell MTS, Lucky Mobile, Northwestel Inc, Télébec, Virgin Plus</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Gordon M.</forename>
+                                                                 <surname>Nixon</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mirko</forename>
+                                                                 <surname>Bibic</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <org-list>
+                                                       <org-entryref id="SL4712314" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4712313" slsdocid="78818" slsdocty="org-entry org-entrydtd">
+                                                            
+                                                            <org-entry id="CA.DIR.745" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS" usage="usac">
+                                                                 
+                                                                 <data-protection date-added="23.03.2006" ticked-box="Y" />
+                                                                 <org-entry-head>
+                                                                      <org-entry-name>Bell Aliant</org-entry-name>
+                                                                 </org-entry-head>
+                                                                 <address-block>
+                                                                      <address type="POSTAL">
+                                                                           <verbatim-address>6 S, Maritime Centre, 1505 Barrington St, Halifax, NS B3J 2W3</verbatim-address>
+                                                                      </address>
+                                                                      <telephone alsofax="N">(888) 214-7896</telephone>
+                                                                      <email>socialmedia@bellaliant.ca</email>
+                                                                      <internet>www.bell.ca</internet>
+                                                                 </address-block>
+                                                                 <found-date>2006</found-date>
+                                                                 <content-note style="NORMAL">part owned by Bell Canada and BCE</content-note>
+                                                                 <content-note style="NORMAL">operates as Aliant in Atlantic Canada and as Bell in central Canada</content-note>
+                                                                 <content-note style="NORMAL">worldwide communications and information technology solutions</content-note>
+                                                            </org-entry>
+                                                       </org-entryref>
+                                                       <org-entryref id="SL1171680" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1171679" slsdocid="78807" slsdocty="org-entry org-entrydtd">
+                                                            
+                                                            <org-entry id="CA.DIR.755" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS" usage="usac">
+                                                                 
+                                                                 <org-entry-head>
+                                                                      <org-entry-name>Bell Canada</org-entry-name>
+                                                                      <alt-name>Bell</alt-name>
+                                                                 </org-entry-head>
+                                                                 <address-block>
+                                                                      <address type="POSTAL">
+                                                                           <verbatim-address>POB 8716, Station A, Montréal, QC H3C 3P3</verbatim-address>
+                                                                      </address>
+                                                                      <email>corporate.secretariat@bell.ca</email>
+                                                                      <internet>bell.ca</internet>
+                                                                 </address-block>
+                                                                 <content-note style="NORMAL">80% owned by BCE</content-note>
+                                                                 <content-note style="NORMAL">holds a monopoly in most of Québec and Ontario</content-note>
+                                                                 <role-group>
+                                                                      <role>Pres. and CEO</role>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Mirko</forename>
+                                                                                <surname>Bibic</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </role-group>
+                                                            </org-entry>
+                                                       </org-entryref>
+                                                       <org-entryref id="SL119574" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="119573" slsdocid="78805" slsdocty="org-entry org-entrydtd">
+                                                            
+                                                            <org-entry id="CA.DIR.757" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS" usage="usac">
+                                                                 
+                                                                 <org-entry-head>
+                                                                      <org-entry-name>Bell Mobility</org-entry-name>
+                                                                 </org-entry-head>
+                                                                 <address-block>
+                                                                      <address type="POSTAL">
+                                                                           <verbatim-address>5099 Creekbank Rd, Mississauga, ON L4W 5N2</verbatim-address>
+                                                                      </address>
+                                                                      <telephone alsofax="N">(514) 420-3907</telephone>
+                                                                      <internet>bell.ca/mobility</internet>
+                                                                 </address-block>
+                                                                 <content-note style="NORMAL">mobile telecommunications</content-note>
+                                                            </org-entry>
+                                                       </org-entryref>
+                                                       <org-entryref id="SL119576" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="119575" slsdocid="78804" slsdocty="org-entry org-entrydtd">
+                                                            
+                                                            <org-entry id="CA.DIR.758" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS" usage="usac">
+                                                                 <org-entry-head>
+                                                                      <org-entry-name>Bell MTS</org-entry-name>
+                                                                 </org-entry-head>
+                                                                 <address-block>
+                                                                      <address type="POSTAL">
+                                                                           <verbatim-address>191 Pioneer Ave, POB 6666, Winnipeg, MB R3C 3N8</verbatim-address>
+                                                                      </address>
+                                                                      <telephone alsofax="N">(204) 225-5687</telephone>
+                                                                      <email>accessibilitycentre@bellmts.ca</email>
+                                                                      <internet>bellmts.ca</internet>
+                                                                 </address-block>
+                                                                 <content-note style="NORMAL">full-service telecommunications co for Manitoba</content-note>
+                                                                 <content-note style="NORMAL">national broadband fibre optic network of 24,300 km</content-note>
+                                                                 <content-note style="NORMAL">Allstream (National) Division serves business customers nationwide</content-note>
+                                                            </org-entry>
+                                                       </org-entryref>
+                                                       <org-entryref id="SL119578" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="119577" slsdocid="78803" slsdocty="org-entry org-entrydtd">
+                                                            
+                                                            <org-entry id="CA.DIR.759" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS" usage="usac">
+                                                                 
+                                                                 <data-protection date-added="11.09.2007" ticked-box="N" />
+                                                                 <org-entry-head>
+                                                                      <org-entry-name>Northwestel Inc</org-entry-name>
+                                                                 </org-entry-head>
+                                                                 <address-block>
+                                                                      <address type="POSTAL">
+                                                                           <verbatim-address>301 Lambert St, POB 2727, Whitehorse, YT Y1A 4Y4</verbatim-address>
+                                                                      </address>
+                                                                      <telephone alsofax="N">(867) 455-4265</telephone>
+                                                                      <email>customerservice@nwtel.ca</email>
+                                                                      <internet>nwtel.ca</internet>
+                                                                 </address-block>
+                                                                 <found-date>1979</found-date>
+                                                                 <content-note style="NORMAL">provides fixed-line and mobile telecommunications services to 120,000 customers in Yukon, NW Territories, Nunavut and British Columbia (2019)</content-note>
+                                                                 <role-group>
+                                                                      <role>Pres.</role>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Curtis</forename>
+                                                                                <surname>Shaw</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </role-group>
+                                                            </org-entry>
+                                                       </org-entryref>
+                                                       <org-entryref id="SL119580" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="119579" slsdocid="78802" slsdocty="org-entry org-entrydtd">
+                                                            
+                                                            <org-entry id="CA.DIR.760" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS" usage="usac">
+                                                                 
+                                                                 <org-entry-head>
+                                                                      <org-entry-name>Télébec</org-entry-name>
+                                                                 </org-entry-head>
+                                                                 <address-block>
+                                                                      <address type="POSTAL">
+                                                                           <verbatim-address>555 ave Centrale, Val-d'Or, QC J9P 1P6</verbatim-address>
+                                                                      </address>
+                                                                      <telephone alsofax="N">(888) 835-3232</telephone>
+                                                                      <email>telebec@telebec.com</email>
+                                                                      <internet>telebec.com</internet>
+                                                                 </address-block>
+                                                                 <found-date>1969</found-date>
+                                                                 <content-note style="NORMAL">mobile telecommunications and internet services (Télébec Internet) for Québec</content-note>
+                                                            </org-entry>
+                                                       </org-entryref>
+                                                  </org-list>
+                                             </org-entry>
+                                        </org-entryref>

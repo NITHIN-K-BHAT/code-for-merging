@@ -1,0 +1,37 @@
+<org-entryref id="SL8956465" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8956464" slsdocid="2225790" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.1203002718" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES">
+                                                       <data-protection date-added="23.07.2008" ticked-box="N" />
+                                                       <org-entry-head>
+                                                            <org-entry-name>Corus Entertainment Inc</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>Corus Quay, 25 Dockside Dr., Toronto, ON M5A 0B5</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(416) 479-7000</telephone>
+                                                            <fax>(416) 479-7006</fax>
+                                                            <internet>corusent.com</internet>
+                                                       </address-block>
+                                                       <found-date>1999</found-date>
+                                                       <content-note style="NORMAL">operates 39 radio stations and 33 TV channels</content-note>
+                                                       <role-group>
+                                                            <role>Exec. Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Heather</forename>
+                                                                      <surname>Shaw</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Doug</forename>
+                                                                      <surname>Murphy</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

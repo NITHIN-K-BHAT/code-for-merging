@@ -1,0 +1,28 @@
+<org-entryref id="SL4331068" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4331067" slsdocid="4330851" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390372332" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Tri-City Herald</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>4253 W 24th Ave, Suite 120 Kennewick, WA 99338</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(509) 582-1500</telephone>
+                                                       <fax>(509) 582-1510</fax>
+                                                       <email>news@tricityherald.com</email>
+                                                       <internet>tri-cityherald.com</internet>
+                                                  </address-block>
+                                                  <found-date>1947</found-date>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Laurie</forename>
+                                                                 <surname>Williams</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

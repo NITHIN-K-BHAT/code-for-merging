@@ -1,0 +1,28 @@
+<org-entryref id="SL8831737" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8831736" slsdocid="78831" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.730" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <org-entry-head>
+                                             <org-entry-name>John Wiley and Sons Canada Ltd</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>90 Eglinton Ave E, Suite 300, Toronto, ON M4P 2Y3</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(416) 236-4433</telephone>
+                                             <fax>(416) 236-4446</fax>
+                                             <internet>wiley.com/en-ca</internet>
+                                        </address-block>
+                                        <found-date>1968</found-date>
+                                        <content-note style="NORMAL">higher academic</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Matthew</forename>
+                                                       <surname>Kissner</surname>
+                                                  </person-name>
+                                                  <person-note>interim</person-note>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

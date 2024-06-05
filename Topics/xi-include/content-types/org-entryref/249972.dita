@@ -1,0 +1,28 @@
+<org-entryref id="SL1739138" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1739137" slsdocid="249972" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2158" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="OCEAN SHIPPING" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Matson Navigation Co</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>555 12th St, Suite 700, Oakland, CA 94607</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(510) 628-4000</telephone>
+                                                       <email>customerservice@matson.com</email>
+                                                       <internet>matson.com</internet>
+                                                  </address-block>
+                                                  <found-date>1882</found-date>
+                                                  <content-note style="NORMAL">freight services between US W coast and Hawaii, container leasing</content-note>
+                                                  <stats>14 vessels (2023)</stats>
+                                                  <role-group>
+                                                       <role>Chair. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Matthew J.</forename>
+                                                                 <surname>Cox</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

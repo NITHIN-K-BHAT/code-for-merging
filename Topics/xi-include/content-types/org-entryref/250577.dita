@@ -1,0 +1,26 @@
+<org-entryref id="SL1745736" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745735" slsdocid="250577" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1527" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Yale University Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>302 Temple St, POB 209040, New Haven, CT 06511</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(203) 432-0960</telephone>
+                                             <email>yuppublicity@yale.edu</email>
+                                             <internet>yalebooks.yale.edu</internet>
+                                        </address-block>
+                                        <found-date>1908</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>John</forename>
+                                                       <surname>Donatich</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

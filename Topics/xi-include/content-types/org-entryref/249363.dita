@@ -1,0 +1,32 @@
+<org-entryref id="SL3190724" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3190723" slsdocid="249363" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1197" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Bloomberg Businessweek</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1221 Ave of the Americas, 43rd Floor, New York, NY 10120</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 512-2511</telephone>
+                                                  <email>bwkcustserv@cdsfulfillment.com</email>
+                                                  <internet>bloomberg.com/businessweek</internet>
+                                             </address-block>
+                                             <found-date>1929</found-date>
+                                             <frequency>weekly</frequency>
+                                             <content-note style="NORMAL">publ. by Bloomberg LP</content-note>
+                                             <content-note style="NORMAL">business, finance and technology</content-note>
+                                             <role-group>
+                                                  <role>Editor</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Joel</forename>
+                                                            <surname>Weber</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 228,646</stats>
+                                        </org-entry>
+                                   </org-entryref>

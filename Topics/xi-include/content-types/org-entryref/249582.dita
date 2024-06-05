@@ -1,0 +1,27 @@
+<org-entryref id="SL1741211" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741210" slsdocid="249582" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.947" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="eywb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Wilmington News Journal</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>950 W Basin Rd, Wilmington, DE 19805</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(302) 324-2679</telephone>
+                                                       <internet>delawareonline.com</internet>
+                                                  </address-block>
+                                                  <found-date>1871</found-date>
+                                                  <content-note style="NORMAL">publ. by Gannett Co Inc</content-note>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mike</forename>
+                                                                 <surname>Feeley</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 26,550, Sun. 39,375 (2019)</stats>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,26 @@
+<org-entryref id="SL98526" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="98525" slsdocid="76789" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="BN.DIR.74" id-root="bn.dir" iso="bn" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES AND HIGH COMMISSIONS IN BRUNEI">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Simpang 336-52-16-9, Jalan Duta, Bandar Seri Begawan BC4115</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">2387400</telephone>
+                                             <fax>2387533</fax>
+                                             <email>ConsularBrunei@state.gov</email>
+                                             <internet>bn.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Caryn R.</forename>
+                                                       <surname>McClelland</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

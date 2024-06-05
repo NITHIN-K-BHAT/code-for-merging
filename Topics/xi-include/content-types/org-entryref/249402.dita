@@ -1,0 +1,27 @@
+<org-entryref id="SL1742171" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1742170" slsdocid="249402" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1158" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>USA Today</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>7950 Jones Branch Dr., McLean, VA 22102</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 872-0001</telephone>
+                                                       <email>social@usatoday.com</email>
+                                                       <internet>usatoday.com</internet>
+                                                  </address-block>
+                                                  <found-date>1982</found-date>
+                                                  <content-note style="NORMAL">owned by Gannett Co, Inc.</content-note>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Terence</forename>
+                                                                 <surname>Samuel</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

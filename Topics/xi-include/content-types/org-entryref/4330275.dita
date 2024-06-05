@@ -1,0 +1,28 @@
+<org-entryref id="SL4330365" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4330364" slsdocid="4330275" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390307328" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>York Daily Record</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1891 Loucks Rd, York, PA 17408</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 559-3520</telephone>
+                                                       <email>yorkdailyrecord@gannett.com</email>
+                                                       <internet>ydr.com</internet>
+                                                  </address-block>
+                                                  <found-date>1796</found-date>
+                                                  <frequency>Mon. to Sat. morning</frequency>
+                                                  <content-note style="NORMAL">owned by Gannett Co</content-note>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Scott</forename>
+                                                                 <surname>Fisher</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,21 @@
+<org-entryref id="SL5108650" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5108649" slsdocid="78940" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.617" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Style at Home</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Stn Main, POB 814, Markham, ON L3P 9Z9</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 387-6332</telephone>
+                                                       <fax>(416) 218-3632</fax>
+                                                       <internet>styleathome.com</internet>
+                                                  </address-block>
+                                                  <found-date>1997</found-date>
+                                                  <frequency>monthly</frequency>
+                                                  <content-note style="NORMAL">owned by TVA Group Inc</content-note>
+                                                  <stats>circ. 75,576 (June 2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,27 @@
+<org-entryref id="SL101456" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101455" slsdocid="78692" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.888" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Apparel Federation</org-entry-name>
+                                                       <abbr>CAF</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>85 Albert St, Suite 1501, Ottawa, ON K1P 6A4</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 231-3220</telephone>
+                                                       <email>info@apparel.ca</email>
+                                                       <internet>apparel.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1977</found-date>
+                                                  <role-group>
+                                                       <role>Exec. Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Bob</forename>
+                                                                 <surname>Kirke</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,38 @@
+<org-entryref id="SL3526231" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3526230" slsdocid="3525703" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1320664441" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Telecommunications" usage="ewyb usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>TerreStar Solutions</org-entry-name>
+                                                       <alt-name>Strigo</alt-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1035 ave Laurier ouest, Outremont, QC H2V 2L1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(833) 955-1862</telephone>
+                                                       <email>info@strigo.ca</email>
+                                                       <internet>strigo.ca</internet>
+                                                  </address-block>
+                                                  <found-date>2008</found-date>
+                                                  <content-note style="NORMAL">integrated satellite-terrestrial mobile communications services</content-note>
+                                                  <role-group>
+                                                       <role>Exec. Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>André</forename>
+                                                                 <surname>Tremblay</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jacques</forename>
+                                                                 <surname>Leduc</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

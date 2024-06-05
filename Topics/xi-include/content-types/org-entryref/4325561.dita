@@ -1,0 +1,37 @@
+<org-entryref id="SL4325654" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4325653" slsdocid="4325561" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389946870" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Jonesboro Sun</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1302 Stone St, Jonesboro, AR 72401</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(870) 935-5525</telephone>
+                                                       <fax>(870) 935-5823</fax>
+                                                       <email>sunweb@jonesborosun.com</email>
+                                                       <internet>jonesborosun.com</internet>
+                                                  </address-block>
+                                                  <found-date>1903</found-date>
+                                                  <content-note style="NORMAL">publ. by Paxton Media Group</content-note>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Reece B.</forename>
+                                                                 <surname>Terry</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Gretchen</forename>
+                                                                 <surname>Hunt</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL89970" sllink="SLSDOCRF" sllinkid="89969" slsdocid="73695" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="AO.DIR.362" id-root="ao.dir" iso="ao" sect-type="defence" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                    <!--VD 07.04.2021 checked role groups-->
+                    <heading>Defence</heading>
+                    <p id="AO.DIR.363">As assessed at November 2023, the Forças Armadas de Angola had an estimated total strength of 107,000: army 100,000, navy 1,000 and air force 6,000. In addition, there was a paramilitary force numbering an estimated 10,000. In 2023 a total of 18 troops were stationed abroad.</p>
+                    <dir-list>
+                         <dir-entry-simple id="AO.DIR.364">
+                              <dir-entry-name>Defence Budget</dir-entry-name>
+                              <content-note style="NORMAL">855,000m. kwanza in 2023.</content-note>
+                         </dir-entry-simple>
+                         <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL93968" sllink="SLSDOCRF" sllinkid="93967" slsdocid="73684" slsdocty="dir-entry dir-entrydtd">
+                              
+                              <dir-entry id="AO.DIR.365" id-root="ao.dir" iso="ao" section="Defence" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Entries">
+                                   <dir-entry-name>Chief of General Staff of the Armed Forces</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <title>Gen.</title>
+                                                  <forename>Altino Carlos José</forename>
+                                                  <surname>dos Santos</surname>
+                                             </person-name>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                         </dir-entryref>
+                         <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1284650" sllink="SLSDOCRF" sllinkid="1284649" slsdocid="1284644" slsdocty="dir-entry dir-entrydtd">
+                              
+                              <dir-entry id="AO.DIR.1118060094" id-root="ao.dir" iso="ao" section="Defence" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Entries">
+                                   <dir-entry-name>Chief of General Staff of the Army</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <title>Lt.-Gen.</title>
+                                                  <forename>Dinis</forename>
+                                                  <surname>Segunda Lucama</surname>
+                                             </person-name>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                         </dir-entryref>
+                         <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1117973" sllink="SLSDOCRF" sllinkid="1117972" slsdocid="1117966" slsdocty="dir-entry dir-entrydtd">
+                              
+                              <dir-entry id="AO.DIR.1105438448" id-root="ao.dir" iso="ao" section="Defense" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Entries">
+                                   <dir-entry-name>Chief of General Staff of the National Air Force</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <title>Gen.</title>
+                                                  <forename>Virgínio António</forename>
+                                                  <surname>da Cunha Pinto</surname>
+                                             </person-name>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                         </dir-entryref>
+                         <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1169326" sllink="SLSDOCRF" sllinkid="1169325" slsdocid="1169311" slsdocty="dir-entry dir-entrydtd">
+                              
+                              <dir-entry id="AO.DIR.1109673324" id-root="ao.dir" iso="ao" section="Defence" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Entries">
+                                   <dir-entry-name>Chief of General Staff of the Navy</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <title>Adm.</title>
+                                                  <forename>Valentim Alberto</forename>
+                                                  <surname>António</surname>
+                                             </person-name>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                         </dir-entryref>
+                    </dir-list>
+               </dir-section>
+          </dir-sectref>
+          

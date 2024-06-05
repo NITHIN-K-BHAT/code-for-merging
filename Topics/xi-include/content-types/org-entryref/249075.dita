@@ -1,0 +1,39 @@
+<org-entryref id="SL1745326" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745325" slsdocid="249075" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1461" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>Rizzoli International Publications</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>300 Park Ave S, 4th Floor, New York, NY 10010</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 387-3400</telephone>
+                                             <email>comments@rizzoliusa.com</email>
+                                             <internet>rizzoliusa.com</internet>
+                                        </address-block>
+                                        <found-date>1975</found-date>
+                                        <content-note style="NORMAL">division of RCS Media Group (Italy)</content-note>
+                                        <content-note style="NORMAL">fine arts, performing arts, architecture</content-note>
+                                        <role-group>
+                                             <role>Pres. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Stefano</forename>
+                                                       <surname>Peccatori</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Vice-Pres. and Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Charles</forename>
+                                                       <surname>Miers</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

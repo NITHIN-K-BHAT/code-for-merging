@@ -1,0 +1,26 @@
+<org-entryref id="SL3930815" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3930814" slsdocid="3930717" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.USAC.32.60" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publising" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Publishers" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Kids Can Press Ltd</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>25 Dockside Dr., Toronto, ON M5A 0B5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(416) 479-7000</telephone>
+                                             <fax>(416) 960-5437</fax>
+                                             <email>customerservice@kidscan.com</email>
+                                             <internet>kidscanpress.com</internet>
+                                        </address-block>
+                                        <found-date>1973</found-date>
+                                        <content-note style="NORMAL">children's and young adults' books</content-note>
+                                        <content-note style="NORMAL">owned by Corus Entertainment Inc</content-note>
+                                        <role-group>
+                                             <role>Pres. and Publr</role>
+                                             <person>
+                                                  <vacancy />
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,38 @@
+<org-entryref id="SL262714" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262713" slsdocid="250129" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2000" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Institute for Supply Management</org-entry-name>
+                                                       <abbr>ISM</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>309 W Elliot Rd, Suite 113, Tempe, AZ 85284-1556</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(480) 752-6276</telephone>
+                                                       <fax>(480) 752-7890</fax>
+                                                       <email>membersvcs@ismworld.org</email>
+                                                       <internet>ismworld.org</internet>
+                                                  </address-block>
+                                                  <found-date>1915</found-date>
+                                                  <stats>over 50,000 mems (2023)</stats>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Norbert</forename>
+                                                                 <surname>Dean</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Thomas W.</forename>
+                                                                 <surname>Derry</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,28 @@
+<org-entryref id="SL1741563" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741562" slsdocid="249488" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1059" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Star-Ledger</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1 Star-Ledger Plaza, Newark, NJ 07102-1200</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(888) 782-7533</telephone>
+                                                       <email>custserv@starledger.com</email>
+                                                       <internet>nj.com/starledger</internet>
+                                                  </address-block>
+                                                  <found-date>1917</found-date>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tom</forename>
+                                                                 <surname>Moran</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Fri. 217,023, Sun. 244,884 (2016)</stats>
+                                             </org-entry>
+                                        </org-entryref>

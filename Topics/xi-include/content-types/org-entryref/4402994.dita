@@ -1,0 +1,27 @@
+<org-entryref id="SL4403045" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4403044" slsdocid="4402994" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="CA.DIR.1395814961.16" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="GOVERNMENT AGENCIES">
+                                             <org-entry-head>
+                                                  <org-entry-name>Federal Economic Development Agency for Southern Ontario</org-entry-name>
+                                                  <abbr>FedDev Ontario</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>139 Northfield Dr. W, Suite 101, Waterloo, ON N2L 5A6</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(866) 593-5505</telephone>
+                                                  <email>info@feddevontario.gc.ca</email>
+                                                  <internet>feddevontario.gc.ca</internet>
+                                             </address-block>
+                                             <found-date>2009</found-date>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Nancy</forename>
+                                                            <surname>Gardiner</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

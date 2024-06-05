@@ -1,0 +1,38 @@
+<org-entryref id="SL1418190" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1418189" slsdocid="1418184" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1128616189" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Employers Organizations">
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Center for Manufacturing Sciences</org-entry-name>
+                                                       <abbr>NCMS</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>3025 Boardwalk, Ann Arbor, MI 48108-3230</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 222-6267</telephone>
+                                                       <fax>(734) 995-1150</fax>
+                                                       <email>contact@ncms.org</email>
+                                                       <internet>ncms.org</internet>
+                                                  </address-block>
+                                                  <found-date>1986</found-date>
+                                                  <role-group>
+                                                       <role>Chair. of Bd</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Dr</title>
+                                                                 <forename>C. Alan</forename>
+                                                                 <surname>Ferguson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Lisa</forename>
+                                                                 <surname>Strama</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

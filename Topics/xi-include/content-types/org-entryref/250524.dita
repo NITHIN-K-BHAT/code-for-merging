@@ -1,0 +1,38 @@
+<org-entryref id="SL8961542" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8961541" slsdocid="250524" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1586" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELEVISION" usage="ewyb usac">
+                                                  <data-protection date-added="12.09.2007" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Association of Broadcasters</org-entry-name>
+                                                       <abbr>NAB</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1 M St, SE, Washington, DC 20003</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 429-5300</telephone>
+                                                       <email>nab@nab.org</email>
+                                                       <internet>nab.org</internet>
+                                                  </address-block>
+                                                  <found-date>1922</found-date>
+                                                  <content-note style="NORMAL">trade asscn of radio and TV stations and networks</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Perry</forename>
+                                                                 <surname>Sook</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Curtis</forename>
+                                                                 <surname>LeGeyt</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

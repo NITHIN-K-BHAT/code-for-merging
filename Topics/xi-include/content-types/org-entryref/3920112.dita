@@ -1,0 +1,26 @@
+<org-entryref id="SL3920192" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3920191" slsdocid="3920112" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1356101757" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies" usage="usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>New York Times News Service/Syndicate</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>620 8th Ave, New York, NY 10018</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 591-9233</telephone>
+                                                       <email>help@nytimes.com</email>
+                                                       <internet>nytlicensing.com</internet>
+                                                  </address-block>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Joseph</forename>
+                                                                 <surname>Kahn</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

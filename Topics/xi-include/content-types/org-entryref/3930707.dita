@@ -1,0 +1,35 @@
+<org-entryref id="SL8830112" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8830111" slsdocid="3930707" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.USAC.32.33" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Publishers" usage="usac">
+                                        <data-protection date-added="05.08.2005" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Les Editions du Boréal</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>3970 rue Saint-Ambroise, Montréal, QC H4C 2C7</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(514) 287-7401</telephone>
+                                             <fax>(514) 287-7664</fax>
+                                             <email>boreal@editionsboreal.qc.ca</email>
+                                             <internet>editionsboreal.qc.ca</internet>
+                                        </address-block>
+                                        <found-date>1963</found-date>
+                                        <content-note style="NORMAL">history, biography, fiction, politics, economics, educational, chil­dren's</content-note>
+                                        <role-group>
+                                             <role>Dirs-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gilles</forename>
+                                                       <surname>Ostiguy</surname>
+                                                  </person-name>
+                                             </person>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Renaud</forename>
+                                                       <surname>Roussel</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,29 @@
+<org-entryref id="SL7799341" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799340" slsdocid="7799075" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637852120" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Organizations and Associations" usage="usac">
+                                        <data-protection date-added="16.09.2009" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Protestant Church-Owned Publishers' Association</org-entry-name>
+                                             <abbr>PCPA</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>6631 Westbury Oaks Ct, Springfield, VA 22152</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(703) 220-5989</telephone>
+                                             <email>mulder@pcpaonline.org</email>
+                                             <internet>pcpaonline.org</internet>
+                                        </address-block>
+                                        <found-date>1951</found-date>
+                                        <stats>35 mems</stats>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Robin</forename>
+                                                       <surname>Johnston</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

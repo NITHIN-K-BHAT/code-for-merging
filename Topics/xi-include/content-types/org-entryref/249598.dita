@@ -1,0 +1,35 @@
+<org-entryref id="SL1741163" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741162" slsdocid="249598" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.929" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <data-protection date-added="24.03.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Press-Telegram</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>5150 E Pacific Coast Hwy, Suite 200, Long Beach, CA 90804</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(562) 435-1161</telephone>
+                                                       <email>editor@scng.com</email>
+                                                       <internet>presstelegram.com</internet>
+                                                  </address-block>
+                                                  <role-group>
+                                                       <role>Pres. and Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ronald C.</forename>
+                                                                 <surname>Hasse</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Frank</forename>
+                                                                 <surname>Pine</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

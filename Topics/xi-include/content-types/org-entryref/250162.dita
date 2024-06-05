@@ -1,0 +1,34 @@
+<org-entryref id="SL262654" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262653" slsdocid="250162" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1958" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  
+                                                  <data-protection date-added="12.09.2007" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Idealliance</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>10015 Main St, Fairfax, VA 22031</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(703) 837-1070</telephone>
+                                                       <fax>(703) 837-1072</fax>
+                                                       <email>membership@idealliance.org</email>
+                                                       <internet>idealliance.org</internet>
+                                                  </address-block>
+                                                  <found-date>2016</found-date>
+                                                  <content-note style="NORMAL">
+                      part of 
+                      <xr pageref="N" ref="US.DIR.1959">PRINTING United Alliance (q.v.)</xr>
+                       since 2021
+                    </content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Meghan</forename>
+                                                                 <surname>Milkowski</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

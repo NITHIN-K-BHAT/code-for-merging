@@ -1,0 +1,26 @@
+<org-entryref id="SL1742103" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1742102" slsdocid="249428" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1129" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Argus Leader</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>200 S Minnesota Ave, Sioux Falls, SD 57104</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 952-0127</telephone>
+                                                       <email>alletters@argusleader.com</email>
+                                                       <internet>argusleader.com</internet>
+                                                  </address-block>
+                                                  <found-date>1881</found-date>
+                                                  <role-group>
+                                                       <role>News Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Shelly</forename>
+                                                                 <surname>Conlon</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

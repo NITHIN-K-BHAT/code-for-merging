@@ -1,0 +1,27 @@
+<org-entryref id="SL1760270" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1760269" slsdocid="1171152" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.1109764135" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES" usage="ewyb usac">
+                                        <data-protection date-added="05.09.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>University of Calgary Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>2500 University Dr., NW, Calgary, AB T2N 1N4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(403) 220-7578</telephone>
+                                             <email>ucpbooks@ucalgary.ca</email>
+                                             <internet>press.ucalgary.ca</internet>
+                                        </address-block>
+                                        <found-date>1981</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Brian</forename>
+                                                       <surname>Scrivener</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

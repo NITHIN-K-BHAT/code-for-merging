@@ -1,0 +1,28 @@
+<org-entryref id="SL7799535" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799534" slsdocid="7799393" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1637858391" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Good Times</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>POB 11002, Anjou Station, Anjou, QC H1K 4H2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 465-8443</telephone>
+                                                       <email>editor@goodtimes.ca</email>
+                                                       <internet>goodtimes.ca</internet>
+                                                  </address-block>
+                                                  <frequency>10 a year</frequency>
+                                                  <content-note style="NORMAL">advice and information on retirement</content-note>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Linda</forename>
+                                                                 <surname>Priestley</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 73,862 (June 2022)</stats>
+                                             </org-entry>
+                                        </org-entryref>

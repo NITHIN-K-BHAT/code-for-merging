@@ -1,0 +1,19 @@
+<org-entryref id="SL4689634" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4689633" slsdocid="4689631" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1412353216" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Selected Periodicals" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>The Maple Leaf</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>National Defence HQ, Maj.-Gen. George R. Pearkes Bldg, 101 Col By Dr., Ottawa, ON K1A 0K2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 941-5995</telephone>
+                                                       <email>internal_communications_internes@forces.gc.ca</email>
+                                                       <internet>bit.ly/3oRQYWm</internet>
+                                                  </address-block>
+                                                  <frequency>monthly</frequency>
+                                                  <content-note style="NORMAL">online only</content-note>
+                                                  <content-note style="NORMAL">publ. of Dept of Nat. Defence and Canadian Forces</content-note>
+                                             </org-entry>
+                                        </org-entryref>

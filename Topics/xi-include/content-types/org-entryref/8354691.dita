@@ -1,0 +1,36 @@
+<org-entryref id="SL8362770" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8362769" slsdocid="8354691" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.1670576825" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Political Organisations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PROVINCIAL AND TERRITORIAL PARTIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Yukon Liberal Party </org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>108 Elliott St, POB 183, Whitehorse, YT Y1A 6C4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(867) 393-7142</telephone>
+                                             <email>info@ylp.ca</email>
+                                             <internet>ylp.ca</internet>
+                                        </address-block>
+                                        <found-date>1978</found-date>
+                                        <content-note style="NORMAL">not affiliated to the Liberal Party of Canada</content-note>
+                                        <role-group>
+                                             <role>Leader</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ranj</forename>
+                                                       <surname>Pillai</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Carly</forename>
+                                                       <surname>Carruthers</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

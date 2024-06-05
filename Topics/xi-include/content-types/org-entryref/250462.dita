@@ -1,0 +1,26 @@
+<org-entryref id="SL8923231" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8923230" slsdocid="250462" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.281009" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Comerica Bank</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Comerica Bank Tower, 1717 Main St, Dallas, TX 75201</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(214) 462-4000</telephone>
+                                                       <email>investorrelations@comerica.com</email>
+                                                       <internet>comerica.com</internet>
+                                                  </address-block>
+                                                  <found-date>1849</found-date>
+                                                  <role-group>
+                                                       <role>Chair., Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Curtis C.</forename>
+                                                                 <surname>Farmer</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

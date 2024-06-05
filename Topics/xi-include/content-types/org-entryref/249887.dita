@@ -1,0 +1,25 @@
+<org-entryref id="SL6847009" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6847008" slsdocid="249887" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                    
+                    <org-entry country-id="ca" id="US.DIR.601" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN THE UNITED STATES">
+                         <org-entry-head>
+                              <org-entry-name>Canada</org-entry-name>
+                         </org-entry-head>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>501 Pennsylvania Ave, NW, Washington, DC 20001</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(202) 682-1740</telephone>
+                              <email>ccs.scc@international.gc.ca</email>
+                              <internet>bit.ly/3o65E3T</internet>
+                         </address-block>
+                         <role-group>
+                              <role>Ambassador</role>
+                              <person>
+                                   <person-name>
+                                        <forename>Kirsten</forename>
+                                        <surname>Hillman</surname>
+                                   </person-name>
+                              </person>
+                         </role-group>
+                    </org-entry>
+               </org-entryref>

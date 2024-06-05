@@ -1,0 +1,38 @@
+<org-entryref id="SL7799184" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799183" slsdocid="7799047" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637848400" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Lerner Publishing Group</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>241 1st Ave N, Minneapolis, MN 55401-1036</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 328-4929</telephone>
+                                             <fax>(800) 332-1132</fax>
+                                             <email>custserv@lernerbooks.com</email>
+                                             <internet>lernerbooks.com</internet>
+                                        </address-block>
+                                        <found-date>1959</found-date>
+                                        <content-note style="NORMAL">imprints incl. Carolrhoda Books, Inc (f. 1969)</content-note>
+                                        <content-note style="NORMAL">juvenile, fiction and non-fiction</content-note>
+                                        <role-group>
+                                             <role>CEO and Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Adam</forename>
+                                                       <surname>Lerner</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief and Vice Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Andy</forename>
+                                                       <surname>Cummings</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

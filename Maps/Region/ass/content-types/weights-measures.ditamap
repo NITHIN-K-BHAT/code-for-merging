@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+     <booktitle>
+          <mainbooktitle>Weights measures</mainbooktitle>
+     </booktitle>
+     <chapter id="ass.wm" navtitle="Calendars">
+          <topicref href="../../../../Topics/Region/ass/content-types/weights-measures/ass.wm.dita" navtitle="Calendars" keyscope="weights-and-measures" keys="weights-and-measures" format="dita" />
+     </chapter>
+</bookmap>

@@ -1,0 +1,27 @@
+<org-entryref id="SL2030972" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2030971" slsdocid="2030962" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1181291644" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Employers Organizations">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Alliance for Automobive Innovation</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1050 K St, NW, Suite 650, Washington, DC 20001</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 326-5500</telephone>
+                                                       <email>info@autosinnovate.org</email>
+                                                       <internet>autosinnovate.org</internet>
+                                                  </address-block>
+                                                  <found-date>2019 by merger of Global Automakers and Alliance of Automobile Manufacturers</found-date>
+                                                  <stats>41 mem. cos (2023)</stats>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>John</forename>
+                                                                 <surname>Bozzella</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

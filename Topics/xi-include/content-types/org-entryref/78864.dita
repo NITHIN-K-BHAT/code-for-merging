@@ -1,0 +1,29 @@
+<org-entryref id="SL8830728" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8830727" slsdocid="78864" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.697" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac ewyb">
+                                        <data-protection date-added="14.09.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Institut de Recherches Psychologiques, Inc/Institute of Psychological Research, Inc</org-entry-name>
+                                             <abbr>IRP</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>CP 68, Succursale St Dominique, Montréal, QC H2S 3K6</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(514) 382-3000</telephone>
+                                             <email>info@irpcanada.com</email>
+                                             <internet>irpcanada.com</internet>
+                                        </address-block>
+                                        <found-date>1964</found-date>
+                                        <content-note style="NORMAL">educational and psychological materials, particularly diagnostic tests</content-note>
+                                        <role-group>
+                                             <role>Pres. and Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Patricia</forename>
+                                                       <surname>Bergeron</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,40 @@
+<org-entryref id="SL8830138" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8830137" slsdocid="78875" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.686" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Les Editions du Septentrion</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>86 Côte de la Montagne, bureau 200, Québec, QC G1K 4E3</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(418) 688-3556</telephone>
+                                             <email>info@septentrion.qc.ca</email>
+                                             <internet>septentrion.qc.ca</internet>
+                                        </address-block>
+                                        <found-date>1988</found-date>
+                                        <content-note style="NORMAL">
+                  history, archaeology, 
+                  
+                  ethnography
+                </content-note>
+                                        <role-group>
+                                             <role>Pres. and Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Denis</forename>
+                                                       <surname>Vaugeois</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Man. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gilles</forename>
+                                                       <surname>Herman</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

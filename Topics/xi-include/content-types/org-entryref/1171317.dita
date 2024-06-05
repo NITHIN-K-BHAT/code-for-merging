@@ -1,0 +1,37 @@
+<org-entryref id="SL1759727" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759726" slsdocid="1171317" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.1109765991" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <data-protection date-added="24.03.2009" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Broadview Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>280 Perry St, Unit 5, POB 1243, Peterborough, ON K9J 7H5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(705) 482-5915</telephone>
+                                             <email>customerservice@broadviewpress.com</email>
+                                             <internet>broadviewpress.com</internet>
+                                        </address-block>
+                                        <found-date>1985</found-date>
+                                        <content-note style="NORMAL">English studies and philosophy, history, politics</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Don</forename>
+                                                       <surname>LePan</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Man. Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Laura</forename>
+                                                       <surname>Buzzard</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

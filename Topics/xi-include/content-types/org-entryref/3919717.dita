@@ -1,0 +1,38 @@
+<org-entryref id="SL3919748" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3919747" slsdocid="3919717" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.USAC.39.24" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="National Associations" usage="usac">
+                                             <data-protection date-added="13.09.2007" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>National Press Photographers Association</org-entry-name>
+                                                  <abbr>NPPA</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>120 Hooper St, Athens, GA 30602-3018</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(706) 542-2506</telephone>
+                                                  <email>info@nppa.org</email>
+                                                  <internet>nppa.org</internet>
+                                             </address-block>
+                                             <found-date>1946</found-date>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Marie D.</forename>
+                                                            <surname>De Jesús</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Akili</forename>
+                                                            <surname>Ramsess</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>4,500 mems (2020)</stats>
+                                        </org-entry>
+                                   </org-entryref>

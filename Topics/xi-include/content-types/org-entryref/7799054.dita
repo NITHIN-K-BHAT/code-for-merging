@@ -1,0 +1,28 @@
+<org-entryref id="SL8819528" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8819527" slsdocid="7799054" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637849779" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Lynne Rienner Publishers, Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1800 30th St, Suite 314, Boulder, CO 80301</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(303) 444-6684</telephone>
+                                             <fax>(303) 444-0824</fax>
+                                             <email>questions@rienner.com</email>
+                                             <internet>www.rienner.com</internet>
+                                        </address-block>
+                                        <found-date>1984</found-date>
+                                        <content-note style="NORMAL">scholarly</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Lynne</forename>
+                                                       <surname>Rienner</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

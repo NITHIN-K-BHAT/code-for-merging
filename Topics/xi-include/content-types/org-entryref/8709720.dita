@@ -1,0 +1,28 @@
+<org-entryref id="SL8709808" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8709807" slsdocid="8709720" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1695119673" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES" usage="ewyb usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Skyhorse Publishing</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>307 W 36th St, 11th Floor, New York, NY 10018</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 643-6816</telephone>
+                                             <email>info@skyhorsepublishing.com</email>
+                                             <internet>skyhorsepublishing.com</internet>
+                                        </address-block>
+                                        <found-date>2006</found-date>
+                                        <content-note style="NORMAL">imprints incl. Arcade Publishing, Allworth Press, Sky Pony Press, Sports Publishing</content-note>
+                                        <content-note style="NORMAL">fiction and non-fiction</content-note>
+                                        <role-group>
+                                             <role>Pres. and Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Tony</forename>
+                                                       <surname>Lyons</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

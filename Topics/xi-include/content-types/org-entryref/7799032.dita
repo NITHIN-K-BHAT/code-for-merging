@@ -1,0 +1,28 @@
+<org-entryref id="SL7799120" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799119" slsdocid="7799032" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637846507" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Da Capo Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Market Place Center, 53 State St, Boston, MA 02109</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 759-0190</telephone>
+                                             <email>dacapo.info@hbgusa.com</email>
+                                             <internet>dacapopress.com</internet>
+                                        </address-block>
+                                        <found-date>1975</found-date>
+                                        <content-note style="NORMAL">imprint of Perseus Books, a division of Hachette Book Group</content-note>
+                                        <content-note style="NORMAL">history, biography, music, film, art, photography, sports and humour</content-note>
+                                        <role-group>
+                                             <role>Man. Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Fred</forename>
+                                                       <surname>Francis</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

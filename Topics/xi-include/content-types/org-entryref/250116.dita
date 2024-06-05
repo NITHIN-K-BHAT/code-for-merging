@@ -1,0 +1,29 @@
+<org-entryref id="SL262432" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262431" slsdocid="250116" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2013" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="UTILITIES">
+                                                  <data-protection date-added="13.09.2007" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Energy Telecommunications and Electrical Association</org-entry-name>
+                                                       <abbr>ENTELEC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>3341 Regent Blvd, Suite 130-325, Irving, TX 75063</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(888) 503-8700</telephone>
+                                                       <email>info@entelec.org</email>
+                                                       <internet>entelec.org</internet>
+                                                  </address-block>
+                                                  <found-date>1928</found-date>
+                                                  <content-note style="NORMAL">present name since 1978</content-note>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Billy</forename>
+                                                                 <surname>Hayes</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

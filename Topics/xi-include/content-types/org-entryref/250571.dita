@@ -1,0 +1,26 @@
+<org-entryref id="SL1745757" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745756" slsdocid="250571" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1534" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ORGANIZATIONS AND ASSOCIATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>The Children’s Book Council, Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>54 W 39th St, 14th Floor, New York, NY 10018</verbatim-address>
+                                             </address>
+                                             <email>cbc.info@cbcbooks.org</email>
+                                             <internet>cbcbooks.org</internet>
+                                        </address-block>
+                                        <found-date>1945</found-date>
+                                        <stats>117 mems (2023)</stats>
+                                        <role-group>
+                                             <role>Exec. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Carl</forename>
+                                                       <surname>Lennertz</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

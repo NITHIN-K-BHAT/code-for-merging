@@ -1,0 +1,28 @@
+<org-entryref id="SL8830691" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8830690" slsdocid="78829" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.732" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Government Publishing House" usage="ewyb usac">
+                                        <data-protection date-added="16.04.2007" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Government of Canada Publications</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Publishing and Depository Services Directorate, 350 Albert St, Ottawa, ON K1A 0S5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 622-6232</telephone>
+                                             <email>infodep@tpsgc-pwgsc.gc.ca</email>
+                                             <internet>publications.gc.ca</internet>
+                                        </address-block>
+                                        <found-date>1876</found-date>
+                                        <content-note style="NORMAL">books and periodicals on numerous subjects, incl. agriculture, economics, environment, geology, history and sociology</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Christian</forename>
+                                                       <surname>Bernier</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

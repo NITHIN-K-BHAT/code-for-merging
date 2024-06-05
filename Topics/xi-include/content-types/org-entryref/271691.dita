@@ -1,0 +1,25 @@
+<org-entryref id="SL280372" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="280371" slsdocid="271691" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="ca" id="KZ.DIR.139" id-root="kz.dir" iso="kz" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN KAZAKHSTAN">
+                                        <org-entry-head>
+                                             <org-entry-name>Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>010000 Astana, Qabanbai batIr d-lI 13/1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(7172) 47-55-77</telephone>
+                                             <email>astnag@international.gc.ca</email>
+                                             <internet>www.canadainternational.gc.ca/kazakhstan</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Alan W.</forename>
+                                                       <surname>Hamson</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,28 @@
+<org-entryref id="SL1759605" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759604" slsdocid="78923" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.635" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Québec Science</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1251 rue Rachel est, Montréal, QC H2J 2J9</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(514) 521-8356</telephone>
+                                                       <email>serviceclient@velo.qc.ca</email>
+                                                       <internet>quebecscience.qc.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1962</found-date>
+                                                  <content-note style="NORMAL">publ. by Vélo Québec Editions</content-note>
+                                                  <frequency>8 a year</frequency>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mélissa</forename>
+                                                                 <surname>Guillemette</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

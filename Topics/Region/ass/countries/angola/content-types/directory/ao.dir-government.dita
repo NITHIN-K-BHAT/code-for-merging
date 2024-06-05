@@ -1,0 +1,1131 @@
+<dir-sectref xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL89944" sllink="SLSDOCRF" sllinkid="89943" slsdocid="73693" slsdocty="dir-section dir-sectiondtd" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="AO.DIR.32" id-root="ao.dir" iso="ao" sect-type="government" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                    <heading>The Government</heading>
+                    <dir-section id="AO.DIR.33" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>Head of State</heading>
+                         <dir-list>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1543704" sllink="SLSDOCRF" sllinkid="1543703" slsdocid="1543702" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.34" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>President</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jo&#227;o Manuel</forename>
+                                                       <surname>Gon&#231;alves Louren&#231;o</surname>
+                                                  </person-name>
+                                                  <person-note>took office 26 September 2017; re-elected 24 August 2022</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../../../xi-include/content-types/dir-entryref/2860557.dita"/></dir-list>
+                    </dir-section>
+                    <dir-section id="AO.DIR.35" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>Council of Ministers</heading>
+                         <!--https://governo.gov.ao/ministro-->
+                         <heading-note>April 2024</heading-note>
+                         <dir-list>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6052607" sllink="SLSDOCRF" sllinkid="6052606" slsdocid="1543706" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.36" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>President</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jo&#227;o Manuel</forename>
+                                                       <surname>Gon&#231;alves Louren&#231;o</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../../../../../../xi-include/content-types/dir-entryref/2860557.dita"/><dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL2861430" sllink="SLSDOCRF" sllinkid="2861429" slsdocid="2861422" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.1265709697" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of State for Economic Co-ordination</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jos&#233; de Lima</forename>
+                                                       <surname>Massano</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8465830" sllink="SLSDOCRF" sllinkid="8465829" slsdocid="7042977" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.1586272573" id-root="ao.dir" iso="ao" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Minister of State and Chief of Staff in the Presidency</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ad&#227;o Francisco</forename>
+                                                       <surname>Correia de Almeida</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7242539" sllink="SLSDOCRF" sllinkid="7242538" slsdocid="7239885" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.1599196514" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of State for Social Affairs</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dalva Maur&#237;cia</forename>
+                                                       <surname>Calombo Ringote Allen</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7242543" sllink="SLSDOCRF" sllinkid="7242542" slsdocid="1543834" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.1312041120" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of State and Head of Security in the Presidency</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Francisco Pereira</forename>
+                                                       <surname>Furtado</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL3858094" sllink="SLSDOCRF" sllinkid="3858093" slsdocid="1543714" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.37" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of National Defence and War Veterans</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jo&#227;o Ernesto</forename>
+                                                       <surname>dos Santos</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8972043" sllink="SLSDOCRF" sllinkid="8972042" slsdocid="1543774" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.2000" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of Culture</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Filipe Silvino de</forename>
+                                                       <surname>Pina Zau</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8972047" sllink="SLSDOCRF" sllinkid="8972046" slsdocid="8971715" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.1711640590" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of Tourism</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>M&#225;rcio de Jesus</forename>
+                                                       <surname>Lopes Daniel</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8968675" sllink="SLSDOCRF" sllinkid="8968674" slsdocid="1543726" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.40" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of Planning</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>V&#237;ctor Hugo</forename>
+                                                       <surname>Guilherme</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL3858100" sllink="SLSDOCRF" sllinkid="3858099" slsdocid="1543718" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.38" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of the Interior</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Eug&#233;nio C&#233;sar</forename>
+                                                       <surname>Laborinho</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7043063" sllink="SLSDOCRF" sllinkid="7043062" slsdocid="7041287" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.1586233384" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of External Relations</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>T&#233;te</forename>
+                                                       <surname>Ant&#243;nio</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8250636" sllink="SLSDOCRF" sllinkid="8250635" slsdocid="1543734" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.42" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of Territorial Administration</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dion&#237;sio Manuel</forename>
+                                                       <surname>da Fonseca</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8251075" sllink="SLSDOCRF" sllinkid="8251074" slsdocid="2483287" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.1223044304" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of Justice and Human Rights</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marcy Cl&#225;udio</forename>
+                                                       <surname>Lopes</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL3858114" sllink="SLSDOCRF" sllinkid="3858113" slsdocid="1543738" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.43" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of Finance</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Vera Esperan&#231;a</forename>
+                                                       <surname>dos Santos Daves de Sousa</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8250688" sllink="SLSDOCRF" sllinkid="8250687" slsdocid="1543762" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.49" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of Public Administration, Labour and Social Security</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Teresa Rodrigues</forename>
+                                                       <surname>Dias</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8250694" sllink="SLSDOCRF" sllinkid="8250693" slsdocid="1543754" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.47" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of Agriculture and Forestry</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ant&#243;nio Francisco</forename>
+                                                       <surname>de Assis</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8250723" sllink="SLSDOCRF" sllinkid="8250722" slsdocid="8250712" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.1663573022" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of Fisheries and Marine Resources</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Carmen Sacramento</forename>
+                                                       <surname>Neto</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8250726" sllink="SLSDOCRF" sllinkid="8250725" slsdocid="1543806" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.59" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of Industry and Commerce</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Rui Migu&#234;ns</forename>
+                                                       <surname>de Oliveira</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8250732" sllink="SLSDOCRF" sllinkid="8250731" slsdocid="1543742" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.44" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of Mineral Resources, Petroleum and Gas</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Diamantino Pedro</forename>
+                                                       <surname>Azevedo</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8250743" sllink="SLSDOCRF" sllinkid="8250742" slsdocid="1543782" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.53" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of Transport</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ricardo Daniel Sand&#227;o Queir&#243;s</forename>
+                                                       <surname>Veigas d&#8217;Abreu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8250747" sllink="SLSDOCRF" sllinkid="8250746" slsdocid="1543822" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.63" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of Energy and Water</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jo&#227;o Baptista</forename>
+                                                       <surname>Borges</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8250753" sllink="SLSDOCRF" sllinkid="8250752" slsdocid="1543826" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.2002" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of Public Works, Urban Planning and Housing</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Carlos Alberto Greg&#243;rio</forename>
+                                                       <surname>dos Santos</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8250756" sllink="SLSDOCRF" sllinkid="8250755" slsdocid="1543818" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.62" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of Telecommunications, Information Technology and Social Communication</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mario Augusto da</forename>
+                                                       <surname>Silva Oliveira</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8250771" sllink="SLSDOCRF" sllinkid="8250770" slsdocid="3856210" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.1349090347" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Ministers and Head of State">
+                                        <dir-entry-name>Minister of Higher Education, Science, Technology and Innovation</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Maria do Ros&#225;rio</forename>
+                                                       <surname>Bragan&#231;a Sambo</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8250775" sllink="SLSDOCRF" sllinkid="8250774" slsdocid="1543770" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.51" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of Education</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Lu&#237;sa Maria</forename>
+                                                       <surname>Alves Grilo</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8250787" sllink="SLSDOCRF" sllinkid="8250786" slsdocid="1543766" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.50" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of Health</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>S&#237;lvia Paula</forename>
+                                                       <surname>Valentim Lutucuta</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8250791" sllink="SLSDOCRF" sllinkid="8250790" slsdocid="1543790" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.55" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of Social Action, Families and the Promotion of Women</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ana Paula do</forename>
+                                                       <surname>Sacramento Neto</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8250817" sllink="SLSDOCRF" sllinkid="8250816" slsdocid="2483363" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.1223046263" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of the Environment</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ana Paula Chantre</forename>
+                                                       <surname>Luna de Carvalho</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8250840" sllink="SLSDOCRF" sllinkid="8250839" slsdocid="1543798" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.57" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Minister of Youth and Sports</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Rui Lu&#237;s Falc&#227;o</forename>
+                                                       <surname>Pinto de Andrade</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8252575" sllink="SLSDOCRF" sllinkid="8252574" slsdocid="1543830" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.65" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Secretary of the Council of Ministers</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ana Maria da Silva</forename>
+                                                       <surname>Sousa e Silva</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                         </dir-list>
+                         <!--VD 26.09.2023 website gives more than 50 secretaties but they often do resign/get dismissed, so better to leave out-->
+                    </dir-section>
+                    <dir-section id="AO.DIR.67" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>Ministries</heading>
+                         <!--https://governo.gov.ao/ao/ministerios-2/ links to ministries can be found here-->
+                         <org-list>
+                              <org-entryref id="SL93876" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93875" slsdocid="73773" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.68" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Office of the President</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua 17 de Setembro, Pal&#225;cio do Povo, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222332939</telephone>
+                                             <internet>fb.com/PresidedaRepublica</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1077949" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1077948" slsdocid="1077942" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1097748416" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Office of the Vice-President</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Largo 17 de Setembro, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222396501</telephone>
+                                             <internet>governo.gov.ao</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93878" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93877" slsdocid="73761" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.69" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <!--www.minagrif.gov.ao not working, removed-->
+                                        <!--VD 24.05.2019 contact details and address are not there on the website-->
+                                        <org-entry-head>
+                                             <org-entry-name>Ministry of Agriculture and Forestry</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Largo Ant&#243;nio Jacinto, CP 527, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222322377</telephone>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1077989" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1077988" slsdocid="1077978" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1097749055" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <!--VD 03.10.2022 Environment dept was bifurcated following new govt VD 26.09.2023 no website-->
+                                        <org-entry-head>
+                                             <org-entry-name>Ministry of Culture</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Luanda</verbatim-address>
+                                             </address>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93882" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93881" slsdocid="73744" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.71" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Ministry of Education</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Edif. MED, Largo Ant&#243;nio Jacinto, Rua Comandante Gika 82, CP 1281, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">930521412</telephone>
+                                             <email>official.med@med.gov.ao</email>
+                                             <internet>med.gov.ao</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93884" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93883" slsdocid="73732" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.72" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Ministry of Energy and Water</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua C&#243;nego Manuel das Neves 234, CP 2229, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222430227</telephone>
+                                             <email>geral@minea.gov.ao</email>
+                                             <internet>www.minea.gov.ao</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL8251181" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8251180" slsdocid="2483912" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1223285916" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Goverment" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Ministries">
+                                        <org-entry-head>
+                                             <org-entry-name>Ministry of the Environment</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      Edif. Zimbo Tower 2&#8211;6
+                      <sc>a</sc>
+                      , Rua dos Enganos, Luanda
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">923123456</telephone>
+                                             <email>geral@minamb.gov.ao</email>
+                                             <internet>minamb.gov.ao</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL5939920" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5939919" slsdocid="73948" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.76" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Ministry of External Relations</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Pal&#225;cio do Com&#233;rcio, Rua Maj. Kanhangulo, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">226430546</telephone>
+                                             <email>geral@mirex.gov.ao</email>
+                                             <internet>mirex.gov.ao</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93888" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93887" slsdocid="73970" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.74" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Ministry of Finance</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Largo da Mutamba, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222706000</telephone>
+                                             <email>gci.minfin@minfin.gov.ao</email>
+                                             <internet>www.minfin.gov.ao</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL8251148" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8251147" slsdocid="8251123" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1663580872" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Ministry of Fisheries and Marine Resources</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Luanda</verbatim-address>
+                                             </address>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93898" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93897" slsdocid="73919" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.79" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Ministry of Health</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua 17 de Setembro, CP 1201, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222330473</telephone>
+                                             <email>geral@minsa.gov.ao</email>
+                                             <internet>minsa.gov.ao</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3140762" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3140761" slsdocid="73788" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.89" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Ministry of Higher Education, Science, Technology and Innovation</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Edif. MED, Largo Ant&#243;nio Jacinto, Rua Comandante Gika 82, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">225425300</telephone>
+                                             <email>geral@mescti.gov.ao</email>
+                                             <internet>mescti.gov.ao</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3858464" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3858463" slsdocid="73893" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.81" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Ministry of Industry and Commerce</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Cerqeira Lukoki 25, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222334700</telephone>
+                                             <internet>www.mind.gov.ao</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93904" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93903" slsdocid="73880" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.82" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Ministry of the Interior</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Av. 4 de Fevereiro, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">945716517</telephone>
+                                             <email>geral@minint.gov.ao</email>
+                                             <internet>minint.gov.ao</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93906" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93905" slsdocid="73865" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.83" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <!--VD 18.09.2019 removed failed email: geral@minjus.gov.ao; site uses contact form VD 26.09.2023 alt email: portal.minjudh.contactos@gmail.com-->
+                                        <org-entry-head>
+                                             <org-entry-name>Ministry of Justice and Human Rights</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua 17 de Setembro, CP 2250, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222336045</telephone>
+                                             <email>geral@minjusdh.gov.ao</email>
+                                             <internet>minjusdh.gov.ao</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL5939984" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5939983" slsdocid="73852" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.84" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Ministry of Mineral Resources, Petroleum and Gas</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Gamal Abdel Nasser, Torre A, Eixo Vi&#225;rio, Distrito Urbano da Ingombota, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">226421248</telephone>
+                                             <email>geral@mirempet.gov.ao</email>
+                                             <internet>mirempet.gov.ao</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL628227" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="628226" slsdocid="73755" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.70" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Ministry of National Defence and War Veterans</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua 17 de Setembro, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222330354</telephone>
+                                             <email>geral@mindenvp.gov.ao</email>
+                                             <internet>mindenvp.gov.ao</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL8883424" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8883423" slsdocid="1077954" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1097748603" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <!--geral@mep.gov.ao-->
+                                        <org-entry-head>
+                                             <org-entry-name>Ministry of Planning</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Edif. CIF 1, 10&#186; andar, Av. I, Congresso do MPLA, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">930091708</telephone>
+                                             <email>geral@mep.gov.ao</email>
+                                             <internet>www.mep.gov.ao</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93914" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93913" slsdocid="73817" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.87" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Ministry of Public Administration, Labour and Social Security</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Largo dos Ambiente, Rua do Municipios, Portugueses-Ingombota, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222333095</telephone>
+                                             <email>contacto@maptss.gov.ao</email>
+                                             <internet>www.maptss.gov.ao</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL8251177" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8251176" slsdocid="8251163" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1663581672" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Ministry of Public Works, Urban Planning and Housing</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Luanda</verbatim-address>
+                                             </address>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL5939815" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5939814" slsdocid="73721" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.73" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Ministry of Social Action, Families and the Promotion of Women</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Pal&#225;cio de Vidro, Largo 4 de Fevereiro, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222311728</telephone>
+                                             <email>geral@masfamu.gov.ao</email>
+                                             <internet>masfamu.gov.ao</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93928" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93927" slsdocid="73783" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.94" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Ministry of Telecommunications, Information Technology and Social Communication</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Av. 4 de Feve&#173;reiro, Rua da Alf&#227;ndega 10, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222210740</telephone>
+                                             <email>geral@minttics.gov.ao</email>
+                                             <internet>minttics.gov.ao</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7440621" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7440620" slsdocid="73785" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.92" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <!--VD 03.10.2022 details from https://www.facebook.com/profile.php?id=100067085200909-->
+                                        <!--VD 01.03.2021 still referred to as the Ministry of Territorial Administration although it has been merged with Public Works-->
+                                        <org-entry-head>
+                                             <org-entry-name>Ministry of Territorial Administration</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Complexo Administrativo Cl&#225;ssicos de Talatona, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">937116515</telephone>
+                                             <email>geral@mat.gov.ao</email>
+                                             <internet>www.mat.gov.ao</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL8971724" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8971723" slsdocid="8971721" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1711640722" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Ministry of Tourism</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Luanda</verbatim-address>
+                                             </address>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL7242877" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7242876" slsdocid="7242874" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1599200893" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Ministry of Transport</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Av. 4 de Fevereiro 42, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222311303</telephone>
+                                             <email>geral@mintrans.gov.ao</email>
+                                             <internet>mintrans.gov.ao</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL93930" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="93929" slsdocid="73782" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.95" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <!--https://www.facebook.com/MINJUD2-->
+                                        <org-entry-head>
+                                             <org-entry-name>Ministry of Youth and Sports</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Av. Comandante GIKA, Largo Ant&#243;nio Jacinto, Bloco 3, 2&#176; andar, Ala Esquerda, Maianga, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">942517450</telephone>
+                                             <email>minjud@minjud.gov.ao</email>
+                                             <internet>fb.com/MINJUD2</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="AO.DIR.96" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>Provincial Governors</heading>
+                         <heading-note>April 2024</heading-note>
+                         <!--https://governo.gov.ao/ao/governo/governadores-provinciais-->
+                         <p>All Provincial Governors are ex officio members of the Government.</p>
+                         <dir-list>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1543852" sllink="SLSDOCRF" sllinkid="1543851" slsdocid="1543850" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.0806051739" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Bengo</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Maria Ant&#243;nia</forename>
+                                                       <surname>Nelumba</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1543856" sllink="SLSDOCRF" sllinkid="1543855" slsdocid="1543854" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.0806051740" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Benguela</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Lu&#237;s Manuel da</forename>
+                                                       <surname>Fonseca Nunes</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1543860" sllink="SLSDOCRF" sllinkid="1543859" slsdocid="1543858" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.0806051742" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Bi&#233;</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Pereira</forename>
+                                                       <surname>Alfredo</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1543864" sllink="SLSDOCRF" sllinkid="1543863" slsdocid="1543862" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.0806051745" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Cabinda</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mara Regina da</forename>
+                                                       <surname>Silva Baptista Domingos Quiosa</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1543880" sllink="SLSDOCRF" sllinkid="1543879" slsdocid="1543878" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.0806051750" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Cunene</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gerdina</forename>
+                                                       <surname>Ulipame Didalewa</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1543884" sllink="SLSDOCRF" sllinkid="1543883" slsdocid="1543882" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.0806051751" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Huambo</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Lotti</forename>
+                                                       <surname>Nolika</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1543888" sllink="SLSDOCRF" sllinkid="1543887" slsdocid="1543886" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.0806051752" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Hu&#237;la</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nuno Bernab&#233;</forename>
+                                                       <surname>Mahapi Dala</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL3140778" sllink="SLSDOCRF" sllinkid="3140777" slsdocid="1543866" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.0806051746" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Kuando Kubango</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jos&#233;</forename>
+                                                       <surname>Martins</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL2191831" sllink="SLSDOCRF" sllinkid="2191830" slsdocid="1543870" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.0806051747" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Kwanza-Norte</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jo&#227;o Diogo</forename>
+                                                       <surname>Gaspar</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL2191834" sllink="SLSDOCRF" sllinkid="2191833" slsdocid="1543874" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.0806051749" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Kwanza-Sul</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Job Pedro Castelo</forename>
+                                                       <surname>Capapinha</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1543892" sllink="SLSDOCRF" sllinkid="1543891" slsdocid="1543890" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.0806051753" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Luanda</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Manuel Gomes da</forename>
+                                                       <surname>Concei&#231;&#227;o Homem</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1543896" sllink="SLSDOCRF" sllinkid="1543895" slsdocid="1543894" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.0806051755" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Lunda-Norte</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Deolinda &#211;dia Paulo</forename>
+                                                       <surname>Satula Vilarinho</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1543900" sllink="SLSDOCRF" sllinkid="1543899" slsdocid="1543898" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.0806051756" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Lunda-Sul</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Daniel F&#233;lix</forename>
+                                                       <surname>Neto</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1543904" sllink="SLSDOCRF" sllinkid="1543903" slsdocid="1543902" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.0806051757" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Malanje</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marcos Alexandre</forename>
+                                                       <surname>Nhunga</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1543908" sllink="SLSDOCRF" sllinkid="1543907" slsdocid="1543906" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.0806051758" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Moxico</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ernesto</forename>
+                                                       <surname>Muangala</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1543912" sllink="SLSDOCRF" sllinkid="1543911" slsdocid="1543910" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.0806051759" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Namibe</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Augusto Archer</forename>
+                                                       <surname>de Sousa Mangueira</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1543916" sllink="SLSDOCRF" sllinkid="1543915" slsdocid="1543914" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.0806051800" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>U&#237;ge</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jos&#233; Carvalho</forename>
+                                                       <surname>da Rocha</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1543920" sllink="SLSDOCRF" sllinkid="1543919" slsdocid="1543918" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="AO.DIR.0806051801" id-root="ao.dir" iso="ao" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="MINISTERS AND HEAD OF STATE">
+                                        <dir-entry-name>Zaire</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Adriano Mendes de</forename>
+                                                       <surname>Carvalho</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                         </dir-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>

@@ -1,0 +1,225 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8926896" sllink="SLSDOCRF" sllinkid="8926895" slsdocid="7115809" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <dir-section id="US.DIR.1590056923" id-root="us.dir" iso="us" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                                   <heading>Judaism</heading>
+                                   <p>There were an estimated 2.1m. adherents of Judaism in the USA in 2020, of whom around 941,480 were Orthodox (in 914 congregations), 662,104 Reform (in 690 congregations) and 417,316 Conservative (in 529 congregations).</p>
+                                   
+                                   <org-list>
+                                        <org-entryref id="SL7115812" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7115811" slsdocid="249640" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="US.DIR.877" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="JUDAISM">
+                                                  <org-entry-head>
+                                                       <org-entry-name>American Jewish Congress</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>654 Madison Ave, 9th Floor, New York, NY 10065</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(212) 879-4500</telephone>
+                                                       <email>leadership@ajcongress.org</email>
+                                                       <internet>ajcongress.org</internet>
+                                                  </address-block>
+                                                  <found-date>1918</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jack</forename>
+                                                                 <surname>Rosen</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Sec.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ben</forename>
+                                                                 <surname>Chouake</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL7115815" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7115814" slsdocid="249639" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="US.DIR.878" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="JUDAISM" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Central Conference of American Rabbis</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>355 Lexington Ave, New York, NY 10017</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(212) 972-3636</telephone>
+                                                       <email>info@ccarnet.org</email>
+                                                       <internet>ccarnet.org</internet>
+                                                  </address-block>
+                                                  <found-date>1889</found-date>
+                                                  <content-note style="NORMAL">organized rabbinate of Reform Judaism</content-note>
+                                                  <stats>1,850 mems</stats>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Rabbi</title>
+                                                                 <forename>Erica</forename>
+                                                                 <surname>Asch</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Chief Exec.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Rabbi</title>
+                                                                 <forename>Hara</forename>
+                                                                 <surname>Person</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL7115818" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7115817" slsdocid="249638" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="US.DIR.879" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="JUDAISM" usage="usac">
+                                                  <data-protection date-added="14.04.2003" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>The Rabbinical Assembly</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>3080 Broadway, New York, NY 10027</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(212) 280-6000</telephone>
+                                                       <email>info@rabbinicalassembly.org</email>
+                                                       <internet>rabbinicalassembly.org</internet>
+                                                  </address-block>
+                                                  <found-date>1901</found-date>
+                                                  <stats>1,700 mems</stats>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Rabbi</title>
+                                                                 <forename>Jacob</forename>
+                                                                 <surname>Blumenthal</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL7115822" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7115821" slsdocid="249637" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="US.DIR.880" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="JUDAISM">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Union for Reform Judaism</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>633 3rd Ave, New York, NY 10017</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(212) 650-4000</telephone>
+                                                       <email>pressinquiry@urj.org</email>
+                                                       <internet>urj.org</internet>
+                                                  </address-block>
+                                                  <found-date>1873 as Union of American Hebrew Congregations</found-date>
+                                                  <content-note style="NORMAL">present name adopted 2003</content-note>
+                                                  <stats>approx. 850 affiliated congregations representing c. 1.5m. mems</stats>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jennifer Brodkey</forename>
+                                                                 <surname>Kaufman</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Rabbi</title>
+                                                                 <forename>Rick</forename>
+                                                                 <surname>Jacobs</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL7115825" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7115824" slsdocid="249635" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="US.DIR.881" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="JUDAISM">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Union of Orthodox Jewish Congregations of America</org-entry-name>
+                                                       <alt-name>Orthodox Union</alt-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>40 Rector St, 4th Floor, New York, NY 10006</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(212) 563-4000</telephone>
+                                                       <email>pr@ou.org</email>
+                                                       <internet>ou.org</internet>
+                                                  </address-block>
+                                                  <found-date>1898</found-date>
+                                                  <stats>1,000 affiliated congregations representing c. 1.0m. mems</stats>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mitch</forename>
+                                                                 <surname>Aeder</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Yehuda</forename>
+                                                                 <surname>Neuberger</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL7115828" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7115827" slsdocid="249634" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="US.DIR.882" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="JUDAISM">
+                                                  <org-entry-head>
+                                                       <org-entry-name>United Synagogue of Conservative Judaism</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>3080 Broadway, Suite B208, New York, NY 10027</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(212) 533-7800</telephone>
+                                                       <email>info@uscj.org</email>
+                                                       <internet>uscj.org</internet>
+                                                  </address-block>
+                                                  <found-date>1913</found-date>
+                                                  <stats>c. 600 affiliated con­gregations in N America representing c. 1.5m. mems</stats>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Andy</forename>
+                                                                 <surname>Schaer</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Rabbi</title>
+                                                                 <forename>Jacob</forename>
+                                                                 <surname>Blumenthal</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                         </dir-sectref>

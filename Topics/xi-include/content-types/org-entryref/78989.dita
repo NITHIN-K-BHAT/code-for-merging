@@ -1,0 +1,29 @@
+<org-entryref id="SL1759276" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759275" slsdocid="78989" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.565" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="usac">
+                                                  <data-protection date-added="14.01.2008" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>L’Aquilon</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>POB 456, Yellowknife, NT X1A 2N4</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(867) 766-5172</telephone>
+                                                       <email>ykjournaliste@northwestel.net</email>
+                                                       <internet>aquilon.nt.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1986</found-date>
+                                                  <frequency>weekly</frequency>
+                                                  <role-group>
+                                                       <role>Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Nicolas</forename>
+                                                                 <surname>Servel</surname>
+                                                            </person-name>
+                                                            <person-note>acting</person-note>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

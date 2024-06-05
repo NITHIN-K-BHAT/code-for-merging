@@ -1,0 +1,214 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6908762" sllink="SLSDOCRF" sllinkid="6908761" slsdocid="4928818" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                         
+                         <dir-section id="CA.DIR.1433504656" id-root="ca.dir" iso="ca" section="The Press" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                              <heading>Newspaper Publishing Groups</heading>
+                              <org-list>
+                                   <org-entryref id="SL5286834" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5286833" slsdocid="2499083" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1224684939" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Glacier Media Group</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>2188 Yukon St, Vancouver, BC V5Y 3P1</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(604) 872-8565</telephone>
+                                                  <email>info@glaciermedia.ca</email>
+                                                  <internet>glaciermedia.ca</internet>
+                                             </address-block>
+                                             <found-date>1988</found-date>
+                                             <content-note style="NORMAL">fmrly Glacier Ventures International Corpn</content-note>
+                                             <content-note style="NORMAL">owns 89 business media and 63 community media, incl. magazines, newspapers, websites and web search portals</content-note>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Mark</forename>
+                                                            <surname>Melville</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6908769" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6908768" slsdocid="6861413" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1573139627" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                             <org-entry-head>
+                                                  <org-entry-name>Metroland Media Group</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>10 Tempo Ave, Toronto, ON M2H 2N8</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(833) 874-7800</telephone>
+                                                  <email>customerservice@metroland.com</email>
+                                                  <internet>metroland.com</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">subsidiary of Torstar Corpn</content-note>
+                                             <content-note style="NORMAL">community news publications</content-note>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Neil</forename>
+                                                            <surname>Oliver</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL4928825" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4928824" slsdocid="452936" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.200305151625" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                             <org-entry-head>
+                                                  <org-entry-name>Postmedia Network Inc</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>365 Bloor St E, Toronto, ON M4W 3L4</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(416) 383-2300</telephone>
+                                                  <email>AODAliaison@postmedia.com</email>
+                                                  <internet>www.postmedia.com</internet>
+                                             </address-block>
+                                             <found-date>2010</found-date>
+                                             <content-note style="NORMAL">owns 35 English-language daily newspapers</content-note>
+                                             <role-group>
+                                                  <role>Interim Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Peter</forename>
+                                                            <surname>Sharpe</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Andrew</forename>
+                                                            <surname>MacLeod</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL4928830" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4928829" slsdocid="79118" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.420" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                             <org-entry-head>
+                                                  <org-entry-name>Québecor Media Inc</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>612 rue St-Jacques, Montréal, QC H3C 4M8</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(514) 380-1999</telephone>
+                                                  <email>medias@quebecor.com</email>
+                                                  <internet>quebecor.com</internet>
+                                             </address-block>
+                                             <found-date>1965</found-date>
+                                             <content-note style="NORMAL">television, cable, telecommunications and publishing</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Brian</forename>
+                                                            <surname>Mulroney</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Pierre Karl</forename>
+                                                            <surname>Péladeau</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL4928833" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4928832" slsdocid="452982" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.200305151627" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                             <org-entry-head>
+                                                  <org-entry-name>Torstar Corpn</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>8 Spadina Ave, Toronto, ON M5V 0S8</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(416) 869-4010</telephone>
+                                                  <email>torstar@torstar.ca</email>
+                                                  <internet>torstar.com</internet>
+                                             </address-block>
+                                             <found-date>1958</found-date>
+                                             <content-note style="NORMAL">
+                    incorporates 
+                    
+                    Star Media Group and Metroland Media Group
+                  </content-note>
+                                             <content-note style="NORMAL">owns two free daily newspapers</content-note>
+                                             <content-note style="NORMAL">acquired by NordStar Capital 2020</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>David</forename>
+                                                            <surname>Peterson</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Neil</forename>
+                                                            <surname>Oliver</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL4928836" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4928835" slsdocid="2225686" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1203000999" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                             <org-entry-head>
+                                                  <org-entry-name>Transcontinental Media</org-entry-name>
+                                                  <alt-name>TC Media</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1 Pl. Ville Marie, Suite 3240, Montréal QC H3B 0G1</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(514) 954-4000</telephone>
+                                                  <email>communications@tc.tc</email>
+                                                  <internet>tctranscontinental.com</internet>
+                                             </address-block>
+                                             <found-date>1976</found-date>
+                                             <content-note style="NORMAL">publs 11 dailies and more than 125 weekly, fortnightly and monthly newspapers</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Isabelle</forename>
+                                                            <surname>Marcoux</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Thomas</forename>
+                                                            <surname>Morin</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-sectref>

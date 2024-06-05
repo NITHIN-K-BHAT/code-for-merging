@@ -1,0 +1,19 @@
+<org-entryref id="SL1759302" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759301" slsdocid="78984" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.571" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  <data-protection date-added="28.01.2008" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Progress Magazine</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1600 Grafton St, Halifax, NS B3J 2C3</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(902) 427-0493</telephone>
+                                                       <internet>progressmedia.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1993</found-date>
+                                                  <frequency>8 a year</frequency>
+                                                  <content-note style="NORMAL">business</content-note>
+                                             </org-entry>
+                                        </org-entryref>

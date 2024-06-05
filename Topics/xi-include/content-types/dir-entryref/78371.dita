@@ -1,0 +1,14 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL102168" sllink="SLSDOCRF" sllinkid="102167" slsdocid="78371" slsdocty="dir-entry dir-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <dir-entry id="CA.DIR.119" id-root="ca.dir" iso="ca" section="Provincial Legislatures" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="PRINCE EDWARD ISLAND">
+                                        <dir-entry-name>Lieutenant Governor</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Antoinette</forename>
+                                                       <surname>Perry</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>

@@ -1,0 +1,27 @@
+<org-entryref id="SL185586" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="185585" slsdocid="168308" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="ca" id="AU.DIR.167" id-root="au.dir" iso="au" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES AND HIGH COMMISSIONS IN AUSTRALIA">
+                                        <data-protection date-added="10.07.2009" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Commonwealth Ave, Canberra, ACT 2600</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 6270-4000</telephone>
+                                             <fax>(2) 6273-3285</fax>
+                                             <email>cnbra@international.gc.ca</email>
+                                             <internet>www.australia.gc.ca</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>High Commissioner</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mark</forename>
+                                                       <surname>Glauser</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

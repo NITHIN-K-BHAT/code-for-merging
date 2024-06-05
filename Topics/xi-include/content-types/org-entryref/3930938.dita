@@ -1,0 +1,35 @@
+<org-entryref id="SL3930997" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3930996" slsdocid="3930938" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.USAC.20.14" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Civil Aviation" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Air Transat</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>5959 blvd Côte-Vertu, Montréal, QC H4S 2E6</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(514) 636-3630</telephone>
+                                                       <email>customerrelations@transat.com</email>
+                                                       <internet>airtransat.com</internet>
+                                                  </address-block>
+                                                  <found-date>1986</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Annick</forename>
+                                                                 <surname>Guérard</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Gen. Man.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jean-François</forename>
+                                                                 <surname>Lemay</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

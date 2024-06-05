@@ -1,0 +1,28 @@
+<org-entryref id="SL1417765" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1417764" slsdocid="1417762" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1128608650" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Employers Organizations">
+                                                  <data-protection date-added="13.09.2007" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Association of Printing Ink Manufacturers</org-entry-name>
+                                                       <abbr>NAPIM</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>529 14th Street NW, Suite 1280, Washington, DC 20045</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(410) 940-6589</telephone>
+                                                       <email>napim@napim.org</email>
+                                                       <internet>napim.org</internet>
+                                                  </address-block>
+                                                  <found-date>1916</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Geoffrey A.</forename>
+                                                                 <surname>Peters</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

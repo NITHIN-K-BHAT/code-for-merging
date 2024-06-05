@@ -1,0 +1,38 @@
+<org-entryref id="SL4329748" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4329747" slsdocid="4329596" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390299027" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Grand Forks Herald</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>3535 S 31st St, Suite 205, Grand Forks, ND 58201</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(701) 780-1100</telephone>
+                                                       <fax>(701) 780-1123</fax>
+                                                       <email>onlineteam@gfherald.com</email>
+                                                       <internet>grandforksherald.com</internet>
+                                                  </address-block>
+                                                  <found-date>1879</found-date>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>Publr and Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Korrie</forename>
+                                                                 <surname>Wenzel</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Hannah</forename>
+                                                                 <surname>Shirley</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,49 @@
+<int-org-entryref id="SL1115960" int-org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1115959" slsdocid="1101889" slsdocty="int-org-entry int-org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <int-org-entry id="WB02047.IO.TXT.200305091616" id-root="int-org_eu" iso="" print-style="COLUMN" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio casee">
+                    <int-org-entry-head>
+                         <int-org-name-group type="MAIN">
+                              <org-entry-name>European Economic and Social Committee</org-entry-name>
+                              <abbr>EESC</abbr>
+                         </int-org-name-group>
+                    </int-org-entry-head>
+                    <int-org-block>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>99 rue Belliard, 1040 Brussels</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 546-99-32</telephone>
+                              <email>eescinfo@eesc.europa.eu</email>
+                              <internet>www.eesc.europa.eu</internet>
+                         </address-block>
+                         <p id="WB02047.IO.TXT.345" usage="ewyb edio casee">The EESC was set up by the 1957 Rome Treaties. It is advisory and is consulted by the Council of the European Union or by the European Commission, particularly with regard to agriculture, free movement of workers, harmonization of laws and transport, as well as legislation adopted under the Euratom Treaty. In certain cases consultation of the EESC by the Commission or the Council is mandatory. In addition, the EESC has the power to deliver opinions on its own initiative.</p>
+                         <p id="WB02047.IO.TXT.346" usage="ewyb edio casee">The EESC has a tripartite structure with members belonging to one of three groupings: the Employers’ Group; the Workers’ Group; and the Civil Society Organizations’ Group, which includes representatives of academic, citizens’, consumer, agricultural, professional and social economy organizations. The 329 EESC members are nominated by national governments, and are appointed for a renewable term of five years by the unanimous vote of the Council. The existing mandate began in October 2020, and runs until September 2025. France, Germany and Italy have 24 members each; Poland and Spain 21; Romania, 15; Austria, Belgium, Bulgaria, the Czech Republic, Greece, Hungary, the Netherlands, Portugal and Sweden, 12; Croatia, Denmark, Finland, Ireland, Lithuania and Slovakia, nine; Latvia, Estonia and Slovenia, seven; Cyprus and Luxembourg, six; and Malta, five. The Committee is served by a permanent and independent General Secre­tariat, headed by the Secretary-General.</p>
+                         <dir-list>
+                              <dir-entry id="WB02047.IO.TXT.347" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb edio casee">
+                                   <dir-entry-name>President</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Oliver</forename>
+                                                  <surname>Röpke</surname>
+                                             </person-name>
+                                             <person-note>Austria</person-note>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                              <dir-entry id="WB02047.IO.TXT.349" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb edio casee">
+                                   <dir-entry-name>Secretary-General</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Isabelle</forename>
+                                                  <surname>Le Galo Flores</surname>
+                                             </person-name>
+                                             <person-note>Spain</person-note>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                         </dir-list>
+                    </int-org-block>
+               </int-org-entry>
+          </int-org-entryref>

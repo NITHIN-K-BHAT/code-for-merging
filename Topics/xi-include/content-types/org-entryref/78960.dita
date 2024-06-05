@@ -1,0 +1,33 @@
+<org-entryref id="SL1759393" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759392" slsdocid="78960" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.597" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Nurse/L’Infirmière Canadienne</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>
+                          1554 Carling Ave, Suite 209
+                          <sc>m</sc>
+                          , Ottawa, ON K1Z 7M4
+                        </verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 237-2133</telephone>
+                                                       <email>editor@canadian-nurse.com</email>
+                                                       <internet>canadian-nurse.com</internet>
+                                                  </address-block>
+                                                  <found-date>1908 as journal of the Canadian Nurses’ Asscn</found-date>
+                                                  <content-note style="NORMAL">French and English edns</content-note>
+                                                  <content-note style="NORMAL">online</content-note>
+                                                  <frequency>weekly</frequency>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Barb</forename>
+                                                                 <surname>Shellian</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

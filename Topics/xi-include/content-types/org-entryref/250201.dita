@@ -1,0 +1,26 @@
+<org-entryref id="SL7061037" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7061036" slsdocid="250201" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1915" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Steel Founders’ Society of America</org-entry-name>
+                                                       <abbr>SFSA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>780 McArdle Dr., Unit G, Crystal Lake, IL 60014–8155</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(815) 455-8240</telephone>
+                                                       <internet>sfsa.org</internet>
+                                                  </address-block>
+                                                  <found-date>1902</found-date>
+                                                  <role-group>
+                                                       <role>Exec. Vice-Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Raymond W.</forename>
+                                                                 <surname>Monroe</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

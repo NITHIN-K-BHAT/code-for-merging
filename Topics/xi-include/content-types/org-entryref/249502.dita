@@ -1,0 +1,36 @@
+<org-entryref id="SL1741511" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741510" slsdocid="249502" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1040" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>St Louis Post-Dispatch</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>901 N 10th St, St Louis, MO 63101</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(314) 340-8000</telephone>
+                                                       <email>service@stltoday.com</email>
+                                                       <internet>stltoday.com</internet>
+                                                  </address-block>
+                                                  <found-date>1878</found-date>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ian</forename>
+                                                                 <surname>Caso</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Alan</forename>
+                                                                 <surname>Achkar</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 48,246 (2023)</stats>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,27 @@
+<org-entryref id="SL3180710" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3180711" slsdocid="1448132" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1133180272" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Maxim</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>415 Madison Ave, 3rd Floor, New York, NY 10017</verbatim-address>
+                                                  </address>
+                                                  <email>editor@maxim.com</email>
+                                                  <internet>maxim.com</internet>
+                                             </address-block>
+                                             <found-date>1997</found-date>
+                                             <frequency>monthly</frequency>
+                                             <content-note style="NORMAL">lifestyle</content-note>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Sardar</forename>
+                                                            <surname>Biglari</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

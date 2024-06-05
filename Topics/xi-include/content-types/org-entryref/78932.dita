@@ -1,0 +1,29 @@
+<org-entryref id="SL1759558" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759557" slsdocid="78932" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.626" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Le Bulletin des Agriculteurs</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>6 blvd Desaulniers, Suite 200, Saint-Lambert, QC J4P 1L3</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(450) 486-7770</telephone>
+                                                       <email>services.clients@lebulletin.com</email>
+                                                       <internet>lebulletin.com</internet>
+                                                  </address-block>
+                                                  <found-date>1918</found-date>
+                                                  <frequency>monthly</frequency>
+                                                  <role-group>
+                                                       <role>Publr and Chief Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Yvon</forename>
+                                                                 <surname>Thérien</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 5,845 (June 2022)</stats>
+                                             </org-entry>
+                                        </org-entryref>

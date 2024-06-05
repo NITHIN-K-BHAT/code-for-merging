@@ -1,0 +1,40 @@
+<org-entryref id="SL1415989" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1415988" slsdocid="1415932" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1128509328" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Employers Organizations">
+                                                  <data-protection date-added="01.08.2005" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>North American Meat Institute</org-entry-name>
+                                                       <abbr>NAMI</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1150 Connecticut Ave, NW, 12th Floor, Washington, DC 20036</verbatim-address>
+                                                       </address>
+                                                  </address-block>
+                                                  <address-block>
+                                                       <telephone alsofax="N">(202) 587-4200</telephone>
+                                                       <fax>(202) 587-4300</fax>
+                                                       <email>info@meatinstitute.org</email>
+                                                       <internet>meatinstitute.org</internet>
+                                                  </address-block>
+                                                  <found-date>2015</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Steve Van</forename>
+                                                                 <surname>Lannen</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Julie Anna</forename>
+                                                                 <surname>Potts</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

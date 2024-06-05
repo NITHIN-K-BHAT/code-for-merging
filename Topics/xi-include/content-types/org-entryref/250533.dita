@@ -1,0 +1,16 @@
+<org-entryref id="SL4397404" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4397403" slsdocid="250533" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.350A" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Executive Office of the President" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Small Business Administration</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>409 3rd St, SW, Washington, DC 20416</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(800) 827-5722</telephone>
+                                                  <email>answerdesk@sba.gov</email>
+                                                  <internet>www.sba.gov</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>

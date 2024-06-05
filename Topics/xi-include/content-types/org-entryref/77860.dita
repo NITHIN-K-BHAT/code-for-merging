@@ -1,0 +1,26 @@
+<org-entryref id="SL99300" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1466833" slsdocid="77860" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="BR.DIR.218" id-root="br.dir" iso="br" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN BRAZIL">
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>SES, Av. das Nações, Quadra 801, Lote 03, 70403-900 Brasília, DF</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(61) 3312-7000</telephone>
+                                             <fax>(61) 3225-9136</fax>
+                                             <internet>br.usembassy.gov/pt</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Elizabeth</forename>
+                                                       <surname>Bagley</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

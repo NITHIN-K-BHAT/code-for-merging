@@ -1,0 +1,28 @@
+<org-entryref id="SL4326320" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4326319" slsdocid="4326163" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389955022" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Pueblo Chieftain</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>825 W 6th St, POB 4040, Pueblo, CO 81003</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(719) 544-0166</telephone>
+                                                       <email>newsroom@chieftain.com</email>
+                                                       <internet>chieftain.com</internet>
+                                                  </address-block>
+                                                  <found-date>1872</found-date>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Zach</forename>
+                                                                 <surname>Hillstrom</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sun. 30,000 (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

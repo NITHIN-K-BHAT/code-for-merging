@@ -1,0 +1,37 @@
+<org-entryref id="SL262492" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262491" slsdocid="250251" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1867" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Edison Electric Institute</org-entry-name>
+                                                       <abbr>EEI</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>701 Pennsylvania Ave, NW, Washington, DC 20004-2696</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 508-5000</telephone>
+                                                       <email>feedback@eei.org</email>
+                                                       <internet>eei.org</internet>
+                                                  </address-block>
+                                                  <found-date>1933</found-date>
+                                                  <stats>mems: over 240 industry suppliers and related orgs as assoc. mems; more than 65 int. affiliates; mems generate about 70% of electricity produced by US utilities</stats>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Pedro J.</forename>
+                                                                 <surname>Pizarro</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Thomas R.</forename>
+                                                                 <surname>Kuhn</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

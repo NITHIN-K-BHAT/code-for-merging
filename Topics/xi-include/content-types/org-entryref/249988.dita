@@ -1,0 +1,28 @@
+<org-entryref id="SL6891970" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891969" slsdocid="249988" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.2140" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="OCEAN SHIPPING">
+                                             <data-protection date-added="17.07.2009" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Federal Maritime Commission</org-entry-name>
+                                                  <abbr>FMC</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>800 N Capitol St, NW, Washington, DC 20573</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 523-5725</telephone>
+                                                  <email>inquiries@fmc.gov</email>
+                                                  <internet>www.fmc.gov</internet>
+                                             </address-block>
+                                             <found-date>1961</found-date>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Daniel B.</forename>
+                                                            <surname>Maffei</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

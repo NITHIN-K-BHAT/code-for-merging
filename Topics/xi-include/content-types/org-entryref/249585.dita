@@ -1,0 +1,27 @@
+<org-entryref id="SL1741202" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741201" slsdocid="249585" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.943" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Hartford Courant</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>285 Broad St, Hartford, CT 06115</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(860) 241-6200</telephone>
+                                                       <email>letters@courant.com</email>
+                                                       <internet>courant.com</internet>
+                                                  </address-block>
+                                                  <found-date>1764</found-date>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Helen</forename>
+                                                                 <surname>Bennett</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Fri. 92,998, Sun. 135,609 (2018)</stats>
+                                             </org-entry>
+                                        </org-entryref>

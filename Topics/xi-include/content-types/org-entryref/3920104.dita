@@ -1,0 +1,35 @@
+<org-entryref id="SL3920159" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3920158" slsdocid="3920104" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1356099796" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>City News Service, Inc</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>11340 W Olympic Blvd, Suite 210, Los Angeles, CA 90064</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(310) 481-0404</telephone>
+                                                       <email>news@socalnews.com</email>
+                                                       <internet>socalnews.com</internet>
+                                                  </address-block>
+                                                  <content-note style="NORMAL">regional news agency covering four counties in S California</content-note>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Lori</forename>
+                                                                 <surname>Streifler</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Marty</forename>
+                                                                 <surname>Sauerzopf</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

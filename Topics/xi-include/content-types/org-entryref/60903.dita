@@ -1,0 +1,26 @@
+<org-entryref id="SL70538" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="70537" slsdocid="60903" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="RO.DIR.209" id-root="ro.dir" iso="ro" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ROMANIA">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>015118 Bucharest 1, Str. Dr Liviu Librescu 4–6</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 2003300</telephone>
+                                             <fax>(21) 2003442</fax>
+                                             <email>acsbucharest@state.gov</email>
+                                             <internet>ro.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kathleen Ann</forename>
+                                                       <surname>Kavalec</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,42 @@
+<org-entryref id="SL1759223" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759222" slsdocid="78998" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.553" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canada's History</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Bryce Hall, 515 Portage Ave, Winnipeg, MB R3B 2E9</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(204) 988-9300</telephone>
+                                                       <email>editors@canadashistory.ca</email>
+                                                       <internet>canadashistory.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1920</found-date>
+                                                  <content-note style="NORMAL">
+                      present name since 
+                      
+                      2010
+                    </content-note>
+                                                  <frequency>6 a year</frequency>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Melony</forename>
+                                                                 <surname>Ward</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mark</forename>
+                                                                 <surname>Reid</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 35,834 (2020)</stats>
+                                             </org-entry>
+                                        </org-entryref>

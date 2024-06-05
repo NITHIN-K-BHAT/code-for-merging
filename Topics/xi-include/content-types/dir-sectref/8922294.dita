@@ -1,0 +1,240 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8922322" sllink="SLSDOCRF" sllinkid="8922321" slsdocid="8922294" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <dir-section id="CA.DIR.1708427838" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="usac">
+                                   <heading>Schedule III Banks</heading>
+                                   <heading-note>branches of foreign banks in Canada</heading-note>
+                                   <org-list>
+                                        <org-entryref id="SL8922298" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922297" slsdocid="8765183" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1697455950" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Barclays Bank PLC (Canada)</org-entry-name>
+                                                       <alt-name>UK</alt-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Bay Adelaide Centre, 333 Bay St, Suite 4910, Toronto, ON M5H 2R2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 863-8900</telephone>
+                                                       <email>corporate.communications@barclays.com</email>
+                                                       <internet>bit.ly/3twN7oK</internet>
+                                                  </address-block>
+                                                  <found-date>1929</found-date>
+                                                  <content-note style="NORMAL">resumed operations in 2010 after hiatus</content-note>
+                                                  <role-group>
+                                                       <role>Chair. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Geoffrey</forename>
+                                                                 <surname>Belsher</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8922301" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922300" slsdocid="1492864" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1140178678" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                                  <org-entry-head>
+                                                       <org-entry-name>BNP Paribas (Canada) (France)</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2001 blvd Robert-Bourassa, Montréal, QC H3A 2A6</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(514) 285-6000</telephone>
+                                                       <email>contact@ca.bnpparibas.com</email>
+                                                       <internet>bnpparibas.ca</internet>
+                                                  </address-block>
+                                                  <found-date>2000</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Sonja</forename>
+                                                                 <surname>Volpe</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8922305" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922304" slsdocid="78765" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.808" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Citibank Canada (USA)</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Citibank Pl., 123 Front St W, Suite 1900, Toronto, ON M5J 2M3</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 947-5500</telephone>
+                                                       <internet>www.citigroup.com/canada</internet>
+                                                  </address-block>
+                                                  <found-date>1981</found-date>
+                                                  <content-note style="NORMAL">subsidiary of Citibank NA (USA)</content-note>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>John</forename>
+                                                                 <surname>Hastings</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8922308" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922307" slsdocid="3918094" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.USAC.23.52" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Mega International Commercial Bank (Canada) (Taiwan)</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Suite 1002, Madison Centre, 4950 Yonge St, Toronto, ON M2N 6K1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 947-2800</telephone>
+                                                       <fax>(416) 947-9964</fax>
+                                                       <email>icbcca@megaicbc.com</email>
+                                                       <internet>megabank.com.tw</internet>
+                                                  </address-block>
+                                                  <found-date>1982</found-date>
+                                                  <content-note style="NORMAL">
+                      fmrly Interna
+                      
+                      tional Commercial Bank of Cathay
+                    </content-note>
+                                                  <content-note style="NORMAL">renamed as above in 2006</content-note>
+                                                  <content-note style="NORMAL">subsidiary of Mega International Commercial Bank (Taiwan)</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Paul C.D.</forename>
+                                                                 <surname>Lei</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Kuang-Hua</forename>
+                                                                 <surname>Hu</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8922312" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922311" slsdocid="78766" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.807" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <org-entry-head>
+                                                       <org-entry-name>MUFG Bank Canada (Japan)</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>S Tower, Suite 1800, Royal Bank Plaza, 200 Bay St, Toronto, ON M5J 2J1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 865-0220</telephone>
+                                                       <internet>bit.ly/3Gk2YbU</internet>
+                                                  </address-block>
+                                                  <content-note style="NORMAL">fmrly Bank of Tokyo-Mitsubishi UFJ (Canada)</content-note>
+                                                  <content-note style="NORMAL">present name adopted 2018</content-note>
+                                                  <role-group>
+                                                       <role>Gp Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Naoki</forename>
+                                                                 <surname>Hori</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Group Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Junichi</forename>
+                                                                 <surname>Hanzawa</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8922315" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922314" slsdocid="78762" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.811" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <data-protection date-added="02.03.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Société Générale (Canada) (France)</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1501 ave McGill College, bureau 1800, Montréal, QC H3A 3M8</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(514) 841-6000</telephone>
+                                                       <email>info.canada@sgcib.com</email>
+                                                       <internet>americas.societegenerale.com</internet>
+                                                  </address-block>
+                                                  <found-date>1974</found-date>
+                                                  <content-note style="NORMAL">subsidiary of Société Générale SA (France)</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Lorenzo Bini</forename>
+                                                                 <surname>Smaghi</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Slawomir</forename>
+                                                                 <surname>Krupa</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8922319" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922318" slsdocid="1492883" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1140179098" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Sumitomo Mitsui Banking Corpn of Canada (SMBC) (Japan)</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Toronto Dominion Centre, 222 Bay St, Suite 1400, POB 172, Toronto ON M5K 1H6</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 368-4766</telephone>
+                                                       <internet>www.smbc.co.jp/global</internet>
+                                                  </address-block>
+                                                  <found-date>2001 following merger of Sakura Bank and Sumitomo Bank of Canada</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Makao</forename>
+                                                                 <surname>Takashima</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Akihiro</forename>
+                                                                 <surname>Fukutome</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                         </dir-sectref>

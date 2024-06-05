@@ -1,0 +1,32 @@
+<org-entryref id="SL101490" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101489" slsdocid="78673" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.909" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Food, Health &amp; Consumer Products of Canada</org-entry-name>
+                                                       <abbr>FHCP</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>
+                          2700 Matheson Blvd E, E Tower, Suite 602
+                          <sc>e</sc>
+                          , Mississauga, ON L4W 4V9
+                        </verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 510-8024</telephone>
+                                                       <fax>(416) 510-8043</fax>
+                                                       <email>info@fhcp.ca</email>
+                                                       <internet>fhcp.ca</internet>
+                                                  </address-block>
+                                                  <found-date>2020 by merger of Food &amp; Consumer Products of Canada and Consumer Health Products Canada</found-date>
+                                                  <role-group>
+                                                       <role>Chair</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Gary</forename>
+                                                                 <surname>Wade</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

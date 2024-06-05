@@ -1,0 +1,33 @@
+<org-entryref id="SL1759251" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759250" slsdocid="78996" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.555" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Country Guide</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1666 Dublin Ave, Winnipeg, MB R3H 0H1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(204) 954-1400</telephone>
+                                                       <internet>country-guide.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1886</found-date>
+                                                  <frequency>13 a year</frequency>
+                                                  <content-note style="NORMAL">agriculture</content-note>
+                                                  <content-note style="NORMAL">2 regional edns</content-note>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tom</forename>
+                                                                 <surname>Button</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>
+                      circ. 26,369 (
+                      
+                      2021)
+                    </stats>
+                                             </org-entry>
+                                        </org-entryref>

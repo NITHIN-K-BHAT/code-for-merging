@@ -1,0 +1,28 @@
+<org-entryref id="SL7799259" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799258" slsdocid="7799058" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637850182" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Santillana USA Publishing Co, Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>677 Brighton Beach Rd, Menasha, WI 54952</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 269-6311</telephone>
+                                             <internet>vistahigherlearning.com</internet>
+                                        </address-block>
+                                        <found-date>1972</found-date>
+                                        <content-note style="NORMAL">subsidiary of Vista Higher Learning (USA)</content-note>
+                                        <content-note style="NORMAL">textbooks</content-note>
+                                        <content-note style="NORMAL">foreign language materials</content-note>
+                                        <role-group>
+                                             <role>Pres. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Miguel A.</forename>
+                                                       <surname>Tapia</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

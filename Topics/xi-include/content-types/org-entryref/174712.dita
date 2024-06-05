@@ -1,0 +1,26 @@
+<org-entryref id="SL196892" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="196891" slsdocid="174712" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="ca" id="JP.DIR.105" id-root="jp.dir" iso="jp" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN JAPAN">
+                                        <org-entry-head>
+                                             <org-entry-name>Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>7-3-38, Akasaka, Minato-ku, Tokyo 107-8503</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(3) 5412-6200</telephone>
+                                             <fax>(3) 5412-6249</fax>
+                                             <email>tokyo.admin@international.gc.ca</email>
+                                             <internet>www.canadainternational.gc.ca/japan-japon</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ian G.</forename>
+                                                       <surname>McKay</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

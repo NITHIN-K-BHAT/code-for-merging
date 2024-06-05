@@ -1,0 +1,38 @@
+<org-entryref id="SL4325716" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4325715" slsdocid="4325564" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389947983" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Daily Californian</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2483 Hearst Ave, POB 1949, Berkeley, CA 94701-0949</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(510) 548-8300</telephone>
+                                                       <fax>(844) 361-8839</fax>
+                                                       <email>editor@dailycal.org</email>
+                                                       <internet>dailycal.org</internet>
+                                                  </address-block>
+                                                  <found-date>1871</found-date>
+                                                  <content-note style="NORMAL">publ. by Independent Berkeley Students Publishing Co, Inc</content-note>
+                                                  <content-note style="NORMAL">independent, student-run</content-note>
+                                                  <role-group>
+                                                       <role>Pres. and Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Katherine</forename>
+                                                                 <surname>Shok</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Aditya</forename>
+                                                                 <surname>Katewa</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

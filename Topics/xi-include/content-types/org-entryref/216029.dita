@@ -1,0 +1,26 @@
+<org-entryref id="SL233052" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="233051" slsdocid="216029" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="ca" id="PK.DIR.169" id-root="pk.dir" iso="pk" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES AND HIGH COMMISSIONS IN PAKISTAN">
+                                        <org-entry-head>
+                                             <org-entry-name>Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Diplomatic Enclave, G-5, POB 1042, Islamabad</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(51) 2086000</telephone>
+                                             <fax>(51) 2086900</fax>
+                                             <email>isbad@international.gc.ca</email>
+                                             <internet>www.canadainternational.gc.ca/pakistan</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>High Commissioner</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Leslie</forename>
+                                                       <surname>Scanlon</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,40 @@
+<org-entryref id="SL262712" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262711" slsdocid="250130" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1999" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  
+                                                  <data-protection date-added="26.06.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>ASAE: The Center for Association Leadership</org-entry-name>
+                                                       <alt-name>American Society of Association Executives</alt-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1575 I St, NW, Washington, DC 20005</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 626-2723</telephone>
+                                                       <fax>(202) 371-8315</fax>
+                                                       <email>socmed@asaecenter.org</email>
+                                                       <internet>asaecenter.org</internet>
+                                                  </address-block>
+                                                  <found-date>1920</found-date>
+                                                  <content-note style="NORMAL">resources, education and advocacy</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Lynda Bouchard</forename>
+                                                                 <surname>Patterson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Michelle</forename>
+                                                                 <surname>Mason</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

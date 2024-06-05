@@ -1,0 +1,44 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8922340" sllink="SLSDOCRF" sllinkid="8922339" slsdocid="8922329" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <dir-section id="CA.DIR.1708428741" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                                   <heading>Savings Institutions with Provincial Charters</heading>
+                                   <org-list>
+                                        <org-entryref id="SL8922333" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922332" slsdocid="78756" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.820" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <org-entry-head>
+                                                       <org-entry-name>ATB Financial</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>10020 100 St NW, Suite 2100, Edmonton, AB T5J 0N3</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 332-8383</telephone>
+                                                       <email>social@atb.com</email>
+                                                       <internet>atb.com</internet>
+                                                  </address-block>
+                                                  <found-date>1938 as Alberta Treasury Branches</found-date>
+                                                  <content-note style="NORMAL">present name since 2002</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Joan</forename>
+                                                                 <surname>Hertz</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Curtis</forename>
+                                                                 <surname>Stange</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                         </dir-sectref>

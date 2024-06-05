@@ -1,0 +1,31 @@
+<org-entryref id="SL260846" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260845" slsdocid="249263" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1288" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             
+                                             <data-protection date-added="12.03.2011" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Scouting Magazine</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1325 W Walnut Hill Lane, POB 152401, Irving, TX 75015-2401</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(866) 584-6589</telephone>
+                                                  <email>jte@scouting.org</email>
+                                                  <internet>scoutingmagazine.org</internet>
+                                             </address-block>
+                                             <found-date>1913</found-date>
+                                             <frequency>five a year</frequency>
+                                             <content-note style="NORMAL">publ. by Boy Scouts of America</content-note>
+                                             <role-group>
+                                                  <role>Editorial Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Mike</forename>
+                                                            <surname>Goldman</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 641,382 (2019)</stats>
+                                        </org-entry>
+                                   </org-entryref>

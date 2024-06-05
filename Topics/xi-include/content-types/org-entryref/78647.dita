@@ -1,0 +1,32 @@
+<org-entryref id="SL3999481" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3999480" slsdocid="78647" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="CA.DIR.945" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS">
+                                             <data-protection date-added="17.08.2009" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Canadian Association of Importers and Exporters Inc—I. E. Canada</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        15 Allstate Pkwy, 6th Floor, Markham, ON
+                        
+                         L3R 5B4
+                      </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(866) 616-2243</telephone>
+                                                  <email>info@iecanada.com</email>
+                                                  <internet>iecanada.com</internet>
+                                             </address-block>
+                                             <found-date>1932</found-date>
+                                             <content-note style="NORMAL">present name since 2000</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Warrington</forename>
+                                                            <surname>Ellacott</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

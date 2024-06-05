@@ -1,0 +1,37 @@
+<org-entryref id="SL1745172" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745171" slsdocid="249105" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1434" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Michigan State University Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Manly Miles Bldg, Suite 25, 1405 S Harrison Rd, East Lansing, MI 48823-5245</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(517) 355-9543</telephone>
+                                             <fax>(517) 432-2611</fax>
+                                             <email>connect@msu.edu</email>
+                                             <internet>msupress.org</internet>
+                                        </address-block>
+                                        <found-date>1947</found-date>
+                                        <content-note style="NORMAL">scholarly</content-note>
+                                        <role-group>
+                                             <role>Interim Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Arlene</forename>
+                                                       <surname>Weismantel</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Man. Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kristine M.</forename>
+                                                       <surname>Blakeslee</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

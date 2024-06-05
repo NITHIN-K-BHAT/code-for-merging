@@ -1,0 +1,29 @@
+<org-entryref id="SL3517016" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3517015" slsdocid="249085" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1452" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="13.09.2007" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Paragon House</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>3600 Labore Rd, Suite 1, St Paul, MN 55110-4144</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(651) 644-3087</telephone>
+                                             <fax>(651) 212-7162</fax>
+                                             <email>info@paragonhouse.com</email>
+                                             <internet>paragonhouse.com</internet>
+                                        </address-block>
+                                        <found-date>1981</found-date>
+                                        <content-note style="NORMAL">academic non-fiction, university texts</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gordon L.</forename>
+                                                       <surname>Anderson</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

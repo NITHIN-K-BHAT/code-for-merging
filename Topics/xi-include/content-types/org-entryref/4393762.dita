@@ -1,0 +1,27 @@
+<org-entryref id="SL4457485" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4457484" slsdocid="4393762" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.1395292073" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" region="USAC" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Emond Montgomery Publications</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1 Eglinton Ave E, Suite 600, Toronto, ON M4P 3A1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(416) 975-3925</telephone>
+                                             <email>orders@emond.ca</email>
+                                             <internet>emond.ca</internet>
+                                        </address-block>
+                                        <found-date>1978</found-date>
+                                        <content-note style="NORMAL">educational and professional</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Paul</forename>
+                                                       <surname>Emond</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,36 @@
+<org-entryref id="SL7806394" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7806393" slsdocid="250594" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1512" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="29.01.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>University of Wisconsin Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>728 State St, Suite 443, Madison, WI 53706</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(608) 263-1110</telephone>
+                                             <email>uwiscpress@uwpress.wisc.edu</email>
+                                             <internet>uwpress.wisc.edu</internet>
+                                        </address-block>
+                                        <found-date>1936</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dennis</forename>
+                                                       <surname>Lloyd</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nathan</forename>
+                                                       <surname>MacBrien</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

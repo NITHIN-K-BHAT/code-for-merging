@@ -1,0 +1,38 @@
+<org-entryref id="SL3875283" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3875282" slsdocid="78894" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.667" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                        <data-protection date-added="01.08.2005" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>House of Anansi Press Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>128 Sterling Rd, Lower Level, Toronto, ON M6R 2B7</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(416) 363-4343</telephone>
+                                             <email>customerservice@houseofanansi.com</email>
+                                             <internet>houseofanansi.com</internet>
+                                        </address-block>
+                                        <found-date>1967</found-date>
+                                        <content-note style="NORMAL">fiction, non-fiction, general interest</content-note>
+                                        <content-note style="NORMAL">divisions incl. Groundwood Books (f. 1978) specializing in children’s literature, fiction, graphic novels and non-fiction</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Semareh</forename>
+                                                       <surname>Al-Hillal</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Karen</forename>
+                                                       <surname>Brochu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

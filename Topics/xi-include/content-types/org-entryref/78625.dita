@@ -1,0 +1,37 @@
+<org-entryref id="SL101384" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101383" slsdocid="78625" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.966" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="UTILITIES">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Hydro-Québec</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>75 blvd René-Lévesque ouest, 19e étage, Montréal, QC H2Z 1A4</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(514) 385-7252</telephone>
+                                                       <email>accueil@hydro.qc.ca</email>
+                                                       <internet>www.hydroquebec.com</internet>
+                                                  </address-block>
+                                                  <found-date>1944</found-date>
+                                                  <content-note style="NORMAL">generates, transmits and distributes electricity</content-note>
+                                                  <content-note style="NORMAL">state-owned</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Manon</forename>
+                                                                 <surname>Brouillette</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Michael</forename>
+                                                                 <surname>Sabia</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

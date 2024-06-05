@@ -1,0 +1,27 @@
+<org-entryref id="SL8830182" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8830181" slsdocid="78844" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.717" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Les Presses de l’Université du Québec</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Edifice Fleurie, 480 rue de la Chapelle, suite F015, Québec, QC G1K 0B6</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(418) 657-4399</telephone>
+                                             <email>puq@puq.ca</email>
+                                             <internet>puq.ca</internet>
+                                        </address-block>
+                                        <found-date>1969</found-date>
+                                        <content-note style="NORMAL">scholarly and general</content-note>
+                                        <role-group>
+                                             <role>Gen. Man.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Martine</forename>
+                                                       <surname>Des Rochers</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

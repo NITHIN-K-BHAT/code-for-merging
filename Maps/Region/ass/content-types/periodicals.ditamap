@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+     <booktitle>
+          <mainbooktitle>Periodicals</mainbooktitle>
+     </booktitle>
+     <chapter id="ass.per" navtitle="Select bibliography (periodicals)">
+          <topicref href="../../../../Topics/Region/ass/content-types/periodicals/ass.per.dita" navtitle="Select bibliography (periodicals)" keyscope="periodicals" keys="periodicals" format="dita" />
+     </chapter>
+</bookmap>

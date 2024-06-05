@@ -1,0 +1,26 @@
+<org-entryref id="SL1759787" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759786" slsdocid="78872" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.689" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                        
+                                        <data-protection date-added="14.09.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Fitzhenry &amp; Whiteside Ltd</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>209 Wicksteed Ave, Unit 51, Toronto, ON M4G 0B1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(905) 477-9700</telephone>
+                                             <email>webmaster@fitzhenry.ca</email>
+                                             <internet>fitzhenry.ca</internet>
+                                        </address-block>
+                                        <found-date>1966</found-date>
+                                        <content-note style="NORMAL">children’s fiction and non-fiction, history, biography, e-books, poetry, reference, photography, sports, cookbooks, travel, lifestyle</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <vacancy />
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

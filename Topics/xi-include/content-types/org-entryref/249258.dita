@@ -1,0 +1,29 @@
+<org-entryref id="SL260856" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260855" slsdocid="249258" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1293" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Southern Living</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>4100 Old Montgomery Hwy, Birmingham, AL 35209</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(800) 272-4101</telephone>
+                                                  <email>editors@southernliving.com</email>
+                                                  <internet>southernliving.com</internet>
+                                             </address-block>
+                                             <found-date>1966</found-date>
+                                             <frequency>monthly</frequency>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Sid</forename>
+                                                            <surname>Evans</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 2,804,808</stats>
+                                        </org-entry>
+                                   </org-entryref>

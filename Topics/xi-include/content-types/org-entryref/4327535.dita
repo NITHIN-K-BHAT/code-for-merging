@@ -1,0 +1,27 @@
+<org-entryref id="SL4327640" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4327639" slsdocid="4327535" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390195414" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Herald-Times</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1900 S Walnut St, Bloomington, IN 47401</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(812) 336-4200</telephone>
+                                                       <email>jbond@heraldt.com</email>
+                                                       <internet>www.heraldtimesonline.com</internet>
+                                                  </address-block>
+                                                  <found-date>1877</found-date>
+                                                  <content-note style="NORMAL">print and online edns, Mon. to Fri., online edn, Sat.</content-note>
+                                                  <role-group>
+                                                       <role>News Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jill</forename>
+                                                                 <surname>Bond</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

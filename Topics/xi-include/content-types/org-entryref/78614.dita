@@ -1,0 +1,38 @@
+<org-entryref id="SL101404" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101403" slsdocid="78614" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.977" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="UTILITIES">
+                                                  <org-entry-head>
+                                                       <org-entry-name>TC Energy</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>450 1st Street SW, Calgary, AB T2P 5H1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(403) 920-2000</telephone>
+                                                       <email>engage@tcenergy.com</email>
+                                                       <internet>tcenergy.com</internet>
+                                                  </address-block>
+                                                  <content-note style="NORMAL">1951</content-note>
+                                                  <content-note style="NORMAL">present name since 2019</content-note>
+                                                  <content-note style="NORMAL">production, storage, trans­mission and sale of natural gas</content-note>
+                                                  <content-note style="NORMAL">operates over 68,000 km of gas pipelines in USA and Canada, and gas, nuclear, coal, hydro and wind generation facilities</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>John E.</forename>
+                                                                 <surname>Lowe</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>François</forename>
+                                                                 <surname>Poirier</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

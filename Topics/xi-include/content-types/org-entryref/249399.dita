@@ -1,0 +1,36 @@
+<org-entryref id="SL1742177" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1742176" slsdocid="249399" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1161" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <data-protection date-added="20.02.2008" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>The Herald</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1800 41st St, S-300, Everett, WA 98203; POB 930, Everett, WA 98206</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(425) 339-3000</telephone>
+                                                       <email>customersvc@heraldnet.com</email>
+                                                       <internet>heraldnet.com</internet>
+                                                  </address-block>
+                                                  <found-date>1891</found-date>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Rudi</forename>
+                                                                 <surname>Alcott</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Phillip</forename>
+                                                                 <surname>O’Connor</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

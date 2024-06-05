@@ -1,0 +1,38 @@
+<org-entryref id="SL262534" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262533" slsdocid="250228" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1889" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <data-protection date-added="14.02.2022" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Society of Naval Architects and Marine Engineers</org-entry-name>
+                                                       <abbr>SNAME</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>99 Canal Center Plaza, Suite 500, Alexandria, VA 22314</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(703) 997-6701</telephone>
+                                                       <email>sname@sname.org</email>
+                                                       <internet>sname.org</internet>
+                                                  </address-block>
+                                                  <found-date>1893</found-date>
+                                                  <stats>over 6,000 mems worldwide (2023)</stats>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Rick</forename>
+                                                                 <surname>Spaulding</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Valerie</forename>
+                                                                 <surname>Hutnan</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

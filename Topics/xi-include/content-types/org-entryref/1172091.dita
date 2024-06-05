@@ -1,0 +1,40 @@
+<org-entryref id="SL8955449" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8955448" slsdocid="1172091" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.1109778986" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Radio">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Radio Advisory Board of Canada/Conseil Consultatif Canadien de la Radio</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>
+                            2583 Carling Ave, Unit 
+                            <sc>m</sc>
+                            038, Ottawa, ON K2B 7H7
+                          </verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(613) 696-5850</telephone>
+                                                            <email>david@rabc-cccr.ca</email>
+                                                            <internet>rabc-cccr.ca</internet>
+                                                       </address-block>
+                                                       <found-date>1944</found-date>
+                                                       <stats>20 mem. asscns (2022)</stats>
+                                                       <role-group>
+                                                            <role>Pres.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Elisabeth</forename>
+                                                                      <surname>Neasmith</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Gen. Man.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>David</forename>
+                                                                      <surname>Farnes</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

@@ -1,0 +1,31 @@
+<org-entryref id="SL8961381" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8961380" slsdocid="250537" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1570" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="RADIO" usage="ewyb usac">
+                                                       
+                                                       <org-entry-head>
+                                                            <org-entry-name>Voice of America</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>330 Independence Ave, SW, Washington, DC 20237</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(202) 203-4000</telephone>
+                                                            <email>publicrelations@voanews.com</email>
+                                                            <internet>voanews.com</internet>
+                                                       </address-block>
+                                                       <found-date>1942</found-date>
+                                                       <content-note style="NORMAL">govt-funded</content-note>
+                                                       <content-note style="NORMAL">broadcasts c. 2,300 hours weekly in 47 languages to all areas of the world via radio, television and online</content-note>
+                                                       <content-note style="NORMAL">serves more than 3,500 affiliate stations and networks worldwide (radio, television and cable)</content-note>
+                                                       <role-group>
+                                                            <role>Dir</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>John</forename>
+                                                                      <surname>Lippman</surname>
+                                                                 </person-name>
+                                                                 <person-note>acting</person-note>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

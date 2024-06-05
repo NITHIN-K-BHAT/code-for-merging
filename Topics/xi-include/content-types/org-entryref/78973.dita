@@ -1,0 +1,37 @@
+<org-entryref id="SL1759336" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759335" slsdocid="78973" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.584" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Bar Review/Revue du Barreau Canadien</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Canadian Bar Association, 66 Slater St, Suite 1200, Ottawa, ON K1P 5H1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 237-2925</telephone>
+                                                       <fax>(613) 237-0185</fax>
+                                                       <email>review@cba.org</email>
+                                                       <internet>cbr.cba.org</internet>
+                                                  </address-block>
+                                                  <found-date>1923</found-date>
+                                                  <content-note style="NORMAL">English and French</content-note>
+                                                  <frequency>online only</frequency>
+                                                  <role-group>
+                                                       <role>Co-Editors-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Prof.</title>
+                                                                 <forename>Wissam</forename>
+                                                                 <surname>Aoun</surname>
+                                                            </person-name>
+                                                       </person>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Dr</title>
+                                                                 <forename>Christopher</forename>
+                                                                 <surname>Waters</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

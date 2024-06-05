@@ -1,0 +1,27 @@
+<org-entryref id="SL1739172" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1739171" slsdocid="249962" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2168A" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="OCEAN SHIPPING" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Chamber of Shipping of America</org-entry-name>
+                                                       <abbr>CSA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1730 Rhode Island Ave, NW, Suite 506, Washington, DC 20036</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 775-4399</telephone>
+                                                       <internet>csashipping.org</internet>
+                                                  </address-block>
+                                                  <found-date>1917</found-date>
+                                                  <stats>27 mem. cos (2023)</stats>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Kathy J.</forename>
+                                                                 <surname>Metcalf</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

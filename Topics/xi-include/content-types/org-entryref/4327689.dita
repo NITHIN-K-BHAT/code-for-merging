@@ -1,0 +1,27 @@
+<org-entryref id="SL4327820" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4327819" slsdocid="4327689" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390200928" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Sun Journal</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>64 Lisbon St, Lewiston, ME 04240</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(207) 784-5411</telephone>
+                                                       <email>contact@sunjournal.com</email>
+                                                       <internet>sunjournal.com</internet>
+                                                  </address-block>
+                                                  <found-date>1847</found-date>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Judith</forename>
+                                                                 <surname>Meyer</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

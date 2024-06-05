@@ -1,0 +1,26 @@
+<org-entryref id="SL8922922" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922921" slsdocid="4300789" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1388132570" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Bank of Nevada</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2700 W Sahara Ave, Las Vegas, NV 89102-1700</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(702) 248-4200</telephone>
+                                                       <internet>bit.ly/3G2lWDZ</internet>
+                                                  </address-block>
+                                                  <found-date>1994</found-date>
+                                                  <content-note style="NORMAL">owned by Western Alliance Bancorporation</content-note>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Bob</forename>
+                                                                 <surname>Cerminaro</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

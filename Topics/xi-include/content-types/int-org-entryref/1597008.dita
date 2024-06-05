@@ -1,0 +1,40 @@
+<int-org-entryref id="SL1597319" int-org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1597318" slsdocid="1597008" slsdocty="int-org-entry int-org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <int-org-entry id="INT-ORG_EU.1145971987" id-root="int-org_eu" iso="" print-style="COLUMN" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio">
+                    <int-org-entry-head>
+                         <int-org-name-group type="MAIN">
+                              <org-entry-name>European Investment Fund</org-entry-name>
+                              <abbr>EIF</abbr>
+                         </int-org-name-group>
+                    </int-org-entry-head>
+                    <int-org-block>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>
+                37
+                <sc>b</sc>
+                 ave J. F. Kennedy, 2968 Luxembourg
+              </verbatim-address>
+                              </address>
+                              <telephone alsofax="N">2485-1</telephone>
+                              <email>info@eif.org</email>
+                              <internet>www.eif.org</internet>
+                         </address-block>
+                         <p id="WB02047.IO.TXT.362">The EIF was founded in 1994 as a specialized financial institution to support the growth of small and medium-sized enterprises (SMEs). Its operations are focused on helping SMEs to gain access to equity, through investment in funds that support SMEs, and on guarantee activities. The Fund makes use of risk-sharing principles. The EIF is oper­ational in the member states of the EU, and candidate and potential candidate countries, and in the member countries of the European Free Trade Association.</p>
+                         <dir-list>
+                              <dir-entry id="WB02047.IO.TXT.363" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                   <dir-entry-name>Chief Executive</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Marjut</forename>
+                                                  <surname>Falkstedt</surname>
+                                             </person-name>
+                                             <person-note>Finland</person-note>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                         </dir-list>
+                    </int-org-block>
+               </int-org-entry>
+          </int-org-entryref>

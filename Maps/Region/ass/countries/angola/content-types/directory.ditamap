@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+     <booktitle>
+          <mainbooktitle>Directory</mainbooktitle>
+     </booktitle>
+     <chapter id="ao.dir" navtitle="Directory">
+          <topicref href="Topics/Region/ass/countries/angola/content-types/directory/ao.dir.dita" navtitle="Directory" keyscope="directory" keys="directory" format="dita" />
+          <topicref href="Topics/Region/ass/countries/angola/content-types/directory/ao.dir-government.dita" navtitle="The government" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="Topics/Region/ass/countries/angola/content-types/directory/ao.dir-legislature.dita" navtitle="Legislature" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="Topics/Region/ass/countries/angola/content-types/directory/ao.dir-election-commission.dita" navtitle="Election commission" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="Topics/Region/ass/countries/angola/content-types/directory/ao.dir-advisory-council.dita" navtitle="Advisory council" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="Topics/Region/ass/countries/angola/content-types/directory/ao.dir-political-organizations.dita" navtitle="Political organizations" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="Topics/Region/ass/countries/angola/content-types/directory/ao.dir-diplomatic-representation.dita" navtitle="Diplomatic representation" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="Topics/Region/ass/countries/angola/content-types/directory/ao.dir-judicial-system.dita" navtitle="Judicial system" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="Topics/Region/ass/countries/angola/content-types/directory/ao.dir-religion.dita" navtitle="Religion" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="Topics/Region/ass/countries/angola/content-types/directory/ao.dir-press.dita" navtitle="The press" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="Topics/Region/ass/countries/angola/content-types/directory/ao.dir-publishers.dita" navtitle="Publishers" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="Topics/Region/ass/countries/angola/content-types/directory/ao.dir-broadcasting-communications.dita" navtitle="Broadcasting and communications" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="Topics/Region/ass/countries/angola/content-types/directory/ao.dir-finance.dita" navtitle="Finance" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="Topics/Region/ass/countries/angola/content-types/directory/ao.dir-trade-industry.dita" navtitle="Trade and industry" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="Topics/Region/ass/countries/angola/content-types/directory/ao.dir-transport.dita" navtitle="Transport" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="Topics/Region/ass/countries/angola/content-types/directory/ao.dir-tourism.dita" navtitle="Tourism" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="Topics/Region/ass/countries/angola/content-types/directory/ao.dir-defence.dita" navtitle="Defence" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="Topics/Region/ass/countries/angola/content-types/directory/ao.dir-education.dita" navtitle="Education" keyscope="dir-sectref" keys="directory dir-section" format="dita" />
+          <topicref href="Topics/Region/ass/countries/angola/content-types/directory/ao.dir-bibliography.dita" navtitle="Bibliography" keyscope="bibl-ref" keys="directory" format="dita" />
+     </chapter>
+</bookmap>

@@ -1,0 +1,27 @@
+<org-entryref id="SL8906619" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8906618" slsdocid="8906615" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1707310791" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>Bloomsbury USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1385 Broadway, Fifth Floor, New York, NY 10018</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 419-5300</telephone>
+                                             <email>contact-usa@bloomsbury.com</email>
+                                             <internet>www.bloomsbury.com/us</internet>
+                                        </address-block>
+                                        <found-date>1998</found-date>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Sabrina</forename>
+                                                       <surname>McCarthy</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

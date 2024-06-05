@@ -1,0 +1,29 @@
+<org-entryref id="SL1759719" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759718" slsdocid="78892" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.669" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <data-protection date-added="22.07.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Breakwater Books</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1 Stamp's Lane, POB 2188, St John's, NL A1C 6E6</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(709) 722-6680</telephone>
+                                             <fax>(709) 753-0708</fax>
+                                             <email>info@breakwaterbooks.com</email>
+                                             <internet>breakwaterbooks.com</internet>
+                                        </address-block>
+                                        <found-date>1973</found-date>
+                                        <content-note style="NORMAL">fiction, non-fiction, children's and young adult, educational, cookbooks, art and photography</content-note>
+                                        <role-group>
+                                             <role>Pres. and Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Rebecca</forename>
+                                                       <surname>Rose</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

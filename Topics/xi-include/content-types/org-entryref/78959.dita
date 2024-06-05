@@ -1,0 +1,44 @@
+<org-entryref id="SL1759397" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759396" slsdocid="78959" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.598" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="usac">
+                                                  
+                                                  <data-protection date-added="25.02.2008" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Pharmacists Journal/Revue des Pharmaciens du Canada</org-entry-name>
+                                                       <abbr>CPJ</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1785 Alta Vista Dr., Ottawa, ON K1G 3Y6</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 523-7877</telephone>
+                                                       <fax>(613) 523-2332</fax>
+                                                       <email>cpj@pharmacists.ca</email>
+                                                       <internet>journals.sagepub.com/home/cph</internet>
+                                                  </address-block>
+                                                  <found-date>1868</found-date>
+                                                  <content-note style="NORMAL">
+                      fmrly 
+                      <i>Canadian Pharma­ceutical Journal</i>
+                                                  </content-note>
+                                                  <frequency>6 a year</frequency>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ross</forename>
+                                                                 <surname>Tsuyuki</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Renee</forename>
+                                                                 <surname>Dykeman</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

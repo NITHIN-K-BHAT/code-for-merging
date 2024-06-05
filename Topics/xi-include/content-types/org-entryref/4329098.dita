@@ -1,0 +1,26 @@
+<org-entryref id="SL4329181" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4329180" slsdocid="4329098" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390288677" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Hattiesburg American</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>403 Main St, Hattiesburg, MS 39401</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 844-2637</telephone>
+                                                       <internet>hattiesburgamerican.com</internet>
+                                                  </address-block>
+                                                  <found-date>1917</found-date>
+                                                  <frequency>Mon. to Sat. evening, Sun. morning</frequency>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mark</forename>
+                                                                 <surname>Konradi</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

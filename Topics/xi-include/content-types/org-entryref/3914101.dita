@@ -1,0 +1,36 @@
+<org-entryref id="SL8928348" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8928347" slsdocid="3914101" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.USAC.19.10" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Shipping" usage="ewyb usac">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Association of Canadian Port Authorities</org-entry-name>
+                                                            <abbr>ACPA</abbr>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>85 Albert St, Suite 1605, Ottawa, ON K1P 6A4</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(613) 407-2750</telephone>
+                                                            <internet>acpa-aapc.ca</internet>
+                                                       </address-block>
+                                                       <found-date>1958</found-date>
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Ian</forename>
+                                                                      <surname>Hamilton</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Pres.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Daniel-Robert</forename>
+                                                                      <surname>Gooch</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <stats>17 corporate mems (2023)</stats>
+                                                  </org-entry>
+                                             </org-entryref>

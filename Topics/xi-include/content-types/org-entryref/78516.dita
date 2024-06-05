@@ -1,0 +1,27 @@
+<org-entryref id="SL1757604" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1757603" slsdocid="78516" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="CA.DIR.1085" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Tourism" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Destination Canada</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1045 Howe St, Suite 800, Vancouver, BC V6Z 2A9</verbatim-address>
+                                                  </address>
+                                                  <email>info@destinationcanada.com</email>
+                                                  <internet>destinationcanada.com</internet>
+                                             </address-block>
+                                             <found-date>1995</found-date>
+                                             <content-note style="NORMAL">present name since 2015</content-note>
+                                             <content-note style="NORMAL">state-owned</content-note>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Marsha</forename>
+                                                            <surname>Walden</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

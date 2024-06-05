@@ -1,0 +1,30 @@
+<org-entryref id="SL227994" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="227993" slsdocid="211383" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="NO.DIR.139" id-root="no.dir" iso="no" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN NORWAY">
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Morgedalsvn 36, 0378 Oslo</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">
+                    21-
+                    
+                    30-85-40
+                  </telephone>
+                                             <email>osloamb@state.gov</email>
+                                             <internet>no.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chargé d'affaires a.i.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Sharon E.</forename>
+                                                       <surname>Hudson-Dean</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

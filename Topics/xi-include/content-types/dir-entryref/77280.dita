@@ -1,0 +1,17 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL5473985"
+     sllink="SLSDOCRF" sllinkid="5473984" slsdocid="77280" slsdocty="dir-entry dir-entrydtd"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <dir-entry id="BR.DIR.232.2" id-root="br.dir" iso="br" section="Judicial System"
+          sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Entries">
+          <dir-entry-name>Attorney-General test </dir-entry-name>
+          <person-group>
+               <person>
+                    <person-name>
+                         <forename>Jorge Rodrigo</forename>
+                         <surname>Araújo Messias</surname>
+                    </person-name>
+               </person>
+          </person-group>
+     </dir-entry>
+</dir-entryref>

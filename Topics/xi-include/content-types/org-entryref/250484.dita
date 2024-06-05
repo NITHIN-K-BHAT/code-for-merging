@@ -1,0 +1,29 @@
+<org-entryref id="SL8923364" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8923363" slsdocid="250484" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1645" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Old National Bank</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>One Main St, POB 718, Evansville, IN 47705-0718</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 731-2265</telephone>
+                                                       <email>clientservices@oldnational.com</email>
+                                                       <internet>oldnational.com</internet>
+                                                  </address-block>
+                                                  <found-date>1834</found-date>
+                                                  <content-note style="NORMAL">merged with First Midwest Bank 2022</content-note>
+                                                  <role-group>
+                                                       <role>Chair. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>James C.</forename>
+                                                                 <surname>Ryan</surname>
+                                                                 <gen-name>III</gen-name>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

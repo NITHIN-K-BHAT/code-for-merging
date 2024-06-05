@@ -1,0 +1,45 @@
+<org-entryref id="SL1741618" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741617" slsdocid="249470" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1080" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                       <org-entry-head>
+                                                            <org-entry-name>New York Times</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>620 8th Ave, New York, NY 10018</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(212) 556-7777</telephone>
+                                                            <email>help@nytimes.com</email>
+                                                            <internet>nytimes.com</internet>
+                                                       </address-block>
+                                                       <found-date>1851</found-date>
+                                                       <role-group>
+                                                            <role>Chair. and Publr</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>A. G.</forename>
+                                                                      <surname>Sulzberger</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>CEO and Pres.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Meredith Kopit</forename>
+                                                                      <surname>Levien</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Exec. Editor</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Joseph</forename>
+                                                                      <surname>Kahn</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <stats>circ. 296,330 (2023)</stats>
+                                                  </org-entry>
+                                             </org-entryref>

@@ -1,0 +1,27 @@
+<org-entryref id="SL8923326" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8923325" slsdocid="250424" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1701" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Huntington National Bank</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>17 S High St, Columbus, OH 43215</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(614) 480-4293</telephone>
+                                                       <fax>(614) 480-4548</fax>
+                                                       <internet>huntington.com</internet>
+                                                  </address-block>
+                                                  <found-date>1866</found-date>
+                                                  <role-group>
+                                                       <role>Chair., Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Stephen D.</forename>
+                                                                 <surname>Steinour</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

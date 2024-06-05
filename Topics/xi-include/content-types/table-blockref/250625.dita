@@ -1,0 +1,83 @@
+<table-blockref id="SL8923754" sllink="SLSDOCRF" sllinkid="8923753" slsdocid="250625" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <table-block id="US.DIR.1609" id-root="us.dir" iso="us" section="Finance" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" subsection="BANKING" type="OTHER">
+                                                  <table-heading>Federal Reserve Districts (May 2024)</table-heading>
+                                                  
+                                                  <table pgwide="NO" style="WITHOUT-RULES">
+                                                       <tgroup cols="3">
+                                                            <colspec colwidth="5cm" />
+                                                            <colspec colwidth="7.50cm" />
+                                                            <colspec colwidth="7.25cm" />
+                                                            <thead>
+                                                                 <row>
+                                                                      <entry align="left" style="NO-DOT-LEADER" />
+                                                                      <entry align="left" style="NO-DOT-LEADER">Chair</entry>
+                                                                      <entry align="left" style="NO-DOT-LEADER">President</entry>
+                                                                 </row>
+                                                            </thead>
+                                                            <tbody>
+                                                                 <row>
+                                                                      <entry style="NO-DOT-LEADER">Atlanta</entry>
+                                                                      <entry style="NO-DOT-LEADER">Claire Lewis Arnold</entry>
+                                                                      <entry style="NO-DOT-LEADER">Raphael W. Bostic</entry>
+                                                                 </row>
+                                                                 <row>
+                                                                      <entry align="left" style="NO-DOT-LEADER">Boston</entry>
+                                                                      <entry align="left" style="NO-DOT-LEADER">Corey Thomas</entry>
+                                                                      <entry align="left" style="NO-DOT-LEADER">Susan M. Collins</entry>
+                                                                 </row>
+                                                                 <row>
+                                                                      <entry style="NO-DOT-LEADER">Chicago</entry>
+                                                                      <entry style="NO-DOT-LEADER">Jennifer F. Scanlon</entry>
+                                                                      <entry style="NO-DOT-LEADER">Austan D. Goolsbee</entry>
+                                                                 </row>
+                                                                 <row>
+                                                                      <entry style="NO-DOT-LEADER">Cleveland</entry>
+                                                                      <entry style="NO-DOT-LEADER">Heidi L. Gartland</entry>
+                                                                      <entry style="NO-DOT-LEADER">Loretta J. Mester</entry>
+                                                                 </row>
+                                                                 <row>
+                                                                      <entry style="NO-DOT-LEADER">Dallas</entry>
+                                                                      <entry style="NO-DOT-LEADER">Thomas J. Falk</entry>
+                                                                      <entry style="NO-DOT-LEADER">Lorie K. Logan</entry>
+                                                                 </row>
+                                                                 <row>
+                                                                      <entry style="NO-DOT-LEADER">Kansas City</entry>
+                                                                      <entry style="NO-DOT-LEADER">Patrick A. Dujakovich</entry>
+                                                                      <entry style="NO-DOT-LEADER">Jeffrey R. Schmid</entry>
+                                                                 </row>
+                                                                 <row>
+                                                                      <entry style="NO-DOT-LEADER">Minneapolis</entry>
+                                                                      <entry style="NO-DOT-LEADER">Chris Hilger</entry>
+                                                                      <entry style="NO-DOT-LEADER">Neel T. Kashkari</entry>
+                                                                 </row>
+                                                                 <row>
+                                                                      <entry align="left" style="NO-DOT-LEADER">New York</entry>
+                                                                      <entry align="left" style="NO-DOT-LEADER">Vincent Alvarez</entry>
+                                                                      <entry align="left" style="NO-DOT-LEADER">John C. Williams</entry>
+                                                                 </row>
+                                                                 <row>
+                                                                      <entry align="left" style="NO-DOT-LEADER">Philadelphia</entry>
+                                                                      <entry align="left" style="NO-DOT-LEADER">Anthony Ibargüen</entry>
+                                                                      <entry align="left" style="NO-DOT-LEADER">Patrick T. Harker</entry>
+                                                                 </row>
+                                                                 <row>
+                                                                      <entry align="left" style="NO-DOT-LEADER">Richmond</entry>
+                                                                      <entry align="left" style="NO-DOT-LEADER">Jodie McLean</entry>
+                                                                      <entry align="left" style="NO-DOT-LEADER">Thomas I. Barkin</entry>
+                                                                 </row>
+                                                                 <row>
+                                                                      <entry align="left" style="NO-DOT-LEADER">St Louis</entry>
+                                                                      <entry align="left" style="NO-DOT-LEADER">Carolyn Chism Hardy</entry>
+                                                                      <entry align="left" style="NO-DOT-LEADER">Alberto G. Musalem</entry>
+                                                                 </row>
+                                                                 <row>
+                                                                      <entry align="left" style="NO-DOT-LEADER">San Francisco</entry>
+                                                                      <entry align="left" style="NO-DOT-LEADER">David P. White</entry>
+                                                                      <entry align="left" style="NO-DOT-LEADER">Mary C. Daly</entry>
+                                                                 </row>
+                                                            </tbody>
+                                                       </tgroup>
+                                                  </table>
+                                             </table-block>
+                                        </table-blockref>

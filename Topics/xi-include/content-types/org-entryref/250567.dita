@@ -1,0 +1,37 @@
+<org-entryref id="SL2152141" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2152140" slsdocid="250567" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1537" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ORGANIZATIONS AND ASSOCIATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>Independent Book Publishers’ Association</org-entry-name>
+                                             <abbr>IBPA</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1020 Manhattan Beach Blvd, Suite 204, Manhattan Beach, CA 90266</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(310) 546-1818</telephone>
+                                             <email>info@ibpa-online.org</email>
+                                             <internet>ibpa-online.org</internet>
+                                        </address-block>
+                                        <found-date>1983 as Publishers' Marketing Asscn</found-date>
+                                        <stats>3,000 mem. publrs</stats>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Karen</forename>
+                                                       <surname>Pavlicin</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Andrea</forename>
+                                                       <surname>Fleck-Nisbet</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

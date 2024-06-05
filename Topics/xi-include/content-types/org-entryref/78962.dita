@@ -1,0 +1,39 @@
+<org-entryref id="SL1759384" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759383" slsdocid="78962" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.595" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  <data-protection date-added="11.09.2007" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Medical Association Journal</org-entry-name>
+                                                       <abbr>CMAJ</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1410 Blair Towers Pl., Suite 500, Ottawa, ON K1J 9B9</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(866) 971-9171</telephone>
+                                                       <email>editorial@cmaj.ca</email>
+                                                       <internet>cmaj.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1911</found-date>
+                                                  <frequency>50 a year</frequency>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Kirsten</forename>
+                                                                 <surname>Patrick</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Wendy</forename>
+                                                                 <surname>Carroll</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 76,500 (2020)</stats>
+                                             </org-entry>
+                                        </org-entryref>

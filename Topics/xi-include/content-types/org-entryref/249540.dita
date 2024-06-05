@@ -1,0 +1,29 @@
+<org-entryref id="SL1741380" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741379" slsdocid="249540" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.991" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <data-protection date-added="12.09.2007" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>South Bend Tribune</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>635 S Lafayette Blvd, Suite 138, South Bend, IN 46601</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(574) 235-6161</telephone>
+                                                       <email>sbtnews@sbtinfo.com</email>
+                                                       <internet>southbendtribune.com</internet>
+                                                  </address-block>
+                                                  <found-date>1872</found-date>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ismail</forename>
+                                                                 <surname>Turay</surname>
+                                                                 <gen-name>Jr</gen-name>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Fri. 46,400, Sun. 63,000 (2020)</stats>
+                                             </org-entry>
+                                        </org-entryref>

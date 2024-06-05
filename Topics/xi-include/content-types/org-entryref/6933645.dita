@@ -1,0 +1,27 @@
+<org-entryref id="SL8829955" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8829954" slsdocid="6933645" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.USAC.1579588435" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Publishers" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Canadian Scholars</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>180 Bloor St W, Suite 1401, Toronto, ON M5S 1T6</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(416) 929-2774</telephone>
+                                             <email>info@canadianscholars.ca</email>
+                                             <internet>canadianscholars.ca</internet>
+                                        </address-block>
+                                        <found-date>1986</found-date>
+                                        <content-note style="NORMAL">higher education</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Andrew</forename>
+                                                       <surname>Wayne</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

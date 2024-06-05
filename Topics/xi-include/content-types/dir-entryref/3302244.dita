@@ -1,0 +1,30 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL3302285" sllink="SLSDOCRF" sllinkid="3302284" slsdocid="3302244" slsdocty="dir-entry dir-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <dir-entry id="AN-SA.DIR.1300950683" id-root="an-sa.dir" iso="an-sa" section="The Government" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Executive Council</dir-entry-name>
+                                        <content-note style="NORMAL">appointed by the Island Council </content-note>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jonathan</forename>
+                                                       <surname>Johnson</surname>
+                                                  </person-name>
+                                                  <person-note>Island Governor</person-note>
+                                             </person>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Bruce Peter</forename>
+                                                       <surname>Zagers</surname>
+                                                  </person-name>
+                                                  <person-note>WIPM</person-note>
+                                             </person>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Eviton</forename>
+                                                       <surname>Heyliger</surname>
+                                                  </person-name>
+                                                  <person-note>WIPM</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>

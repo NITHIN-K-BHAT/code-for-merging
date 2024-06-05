@@ -1,0 +1,45 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8926943" sllink="SLSDOCRF" sllinkid="8926942" slsdocid="7111961" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <dir-section id="CA.DIR.1589877022" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                                   <heading>Hinduism</heading>
+                                   <p>According to census figures, there were 828,195 Hindus in Canada in 2021.</p>
+                                   <org-list>
+                                        <org-entryref id="SL7111965" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7111964" slsdocid="3872237" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1350302556" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Hinduism" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Hindu Federation</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>270 Export Blvd, Mississauga, ON L5S 1Y9</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(905) 696-8886</telephone>
+                                                       <email>info@hindufederation.ca</email>
+                                                       <internet>hindufederation.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1999</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Pandit</title>
+                                                                 <forename>Roopnauth</forename>
+                                                                 <surname>Sharma</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Sec.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jay</forename>
+                                                                 <surname>Jayaraman</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                         </dir-sectref>

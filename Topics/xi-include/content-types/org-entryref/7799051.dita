@@ -1,0 +1,18 @@
+<org-entryref id="SL7799220" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799219" slsdocid="7799051" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637849501" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Palgrave Macmillan</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1 New York Plaza, Suite 4500, New York, NY 10004-1562</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 726-9200</telephone>
+                                             <internet>www.palgrave.com/us/</internet>
+                                        </address-block>
+                                        <found-date>2000 as Palgrave, the academic arm of Macmillan Publrs, present name adopted in 2002</found-date>
+                                        <content-note style="NORMAL">part of Springer Nature (Germany)</content-note>
+                                        <content-note style="NORMAL">journals, monographs and reference</content-note>
+                                   </org-entry>
+                              </org-entryref>

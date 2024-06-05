@@ -1,0 +1,28 @@
+<org-entryref id="SL1745571" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745570" slsdocid="250621" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1487" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>University of Alaska Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1732 Tanana Loop, Suite 402, Fairbanks, AK 99775</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(907) 474-5831</telephone>
+                                             <email>nate.bauer@alaska.edu</email>
+                                             <internet>upcolorado.com/university-of-alaska-press</internet>
+                                        </address-block>
+                                        <found-date>1967</found-date>
+                                        <content-note style="NORMAL">scholarly regional non-fiction, history, anthropology</content-note>
+                                        <content-note style="NORMAL">imprint of University Press of Colorado since 2021</content-note>
+                                        <role-group>
+                                             <role> Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nate</forename>
+                                                       <surname>Bauer</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

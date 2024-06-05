@@ -1,0 +1,27 @@
+<org-entryref id="SL284468" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="284467" slsdocid="274248" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="TM.DIR.110" id-root="tm.dir" iso="tm" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN TURKMENISTAN">
+                                        <data-protection date-added="26.10.2004" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>744000 Aşgabat, Puşkin köç. 9</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(12) 94-00-45</telephone>
+                                             <fax>(12) 94-26-14</fax>
+                                             <email>consularashgab@state.gov</email>
+                                             <internet>tm.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Elizabeth</forename>
+                                                       <surname>Rood</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+<weights-and-measures id="ASS.WM" id-root="ass.wm.sgm" usage="ass" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <heading>Calendars</heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="ass">Regional Information</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="ass">Calendars</alt-heading>
+     <gen-section id="ASS.WM.1" print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+          <heading>The Islamic Calendar</heading>
+          <p id="ASS.WM.2">
+      The Islamic era dates from 16 July 622, which was the beginning of the Arab year in which the 
+      <i>Hijra</i>
+       (`flight’ or migration) of the prophet Muhammad (the founder of Islam), from Mecca to Medina (in modern Saudi Arabia), took place. The Islamic or 
+      <i>Hijri</i>
+       Calendar is lunar, each year having 354 or 355 days, the extra day being intercalated 11 times every 30 years. Accordingly, the beginning of the 
+      <i>Hijri</i>
+       year occurs earlier in the Gregorian Calendar by a few days each year. Dates are reckoned in terms of the 
+      <i>anno Hegirae</i>
+       (
+      <sc>ah</sc>
+      ) or year of the Hegira (
+      <i>Hijra</i>
+      ). The Islamic year 
+      <sc>ah</sc>
+       1445 began on 19 July 2023.
+    </p>
+          <p id="ASS.WM.3">The year is divided into the following months:</p>
+          <table-block-simple id="ASS.WM.4" type="OTHER">
+               <table style="WITHOUT-RULES">
+                    <tgroup cols="4">
+                         <colspec colwidth="6cm" />
+                         <colspec colwidth="4cm" />
+                         <colspec colwidth="6cm" />
+                         <colspec colwidth="4cm" />
+                         <tbody>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER">1. Muharram</entry>
+                                   <entry align="left" style="NO-DOT-LEADER">30 days</entry>
+                                   <entry align="left" style="NO-DOT-LEADER">7. Rajab</entry>
+                                   <entry align="left" style="NO-DOT-LEADER">30 days</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER">2. Safar</entry>
+                                   <entry align="left" style="NO-DOT-LEADER">29 days</entry>
+                                   <entry align="left" style="NO-DOT-LEADER">8. Shaaban</entry>
+                                   <entry align="left" style="NO-DOT-LEADER">29 days</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER">3. Rabia I</entry>
+                                   <entry align="left" style="NO-DOT-LEADER">30 days</entry>
+                                   <entry align="left" style="NO-DOT-LEADER">9. Ramadan</entry>
+                                   <entry align="left" style="NO-DOT-LEADER">30 days</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER">4. Rabia II</entry>
+                                   <entry align="left" style="NO-DOT-LEADER">29 days</entry>
+                                   <entry align="left" style="NO-DOT-LEADER">10. Shawwal</entry>
+                                   <entry align="left" style="NO-DOT-LEADER">29 days</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER">5. Jumada I</entry>
+                                   <entry align="left" style="NO-DOT-LEADER">30 days</entry>
+                                   <entry align="left" style="NO-DOT-LEADER">11. Dhu`l-Qa`da</entry>
+                                   <entry align="left" style="NO-DOT-LEADER">30 days</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER">6. Jumada II</entry>
+                                   <entry align="left" style="NO-DOT-LEADER">29 days</entry>
+                                   <entry align="left" style="NO-DOT-LEADER">12. Dhu`l-Hijja</entry>
+                                   <entry align="left" style="NO-DOT-LEADER">29 or 30 days</entry>
+                              </row>
+                         </tbody>
+                    </tgroup>
+               </table>
+          </table-block-simple>
+          <p id="ASS.WM.5">
+      The 
+      <i>Hijri</i>
+       Calendar is used for religious purposes throughout the Islamic world.
+    </p>
+          <gen-section id="ASS.WM.6" print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+               <heading>Principal Islamic Festivals</heading>
+               <p-group id="ASS.WM.7">
+                    <heading>New Year</heading>
+                    <p id="ASS.WM.8">1st Muharram. The first 10 days of the year are regarded as holy, especially the 10th.</p>
+               </p-group>
+               <p-group id="ASS.WM.9">
+                    <heading>Ashoura</heading>
+                    <p id="ASS.WM.10">10th Muharram. Celebrates the first meeting of Adam and Eve after leaving Paradise, also the ending of the Flood and the death of Hussain, grandson of the prophet Muhammad. The feast is celebrated with fairs and processions.</p>
+               </p-group>
+               <p-group id="ASS.WM.11">
+                    <heading>Mouloud (Birth of Muhammad)</heading>
+                    <p id="ASS.WM.12">12th Rabia I.</p>
+               </p-group>
+               <p-group id="ASS.WM.13">
+                    <heading>Leilat al-Meiraj (Ascension of Muhammad)</heading>
+                    <p id="ASS.WM.14">27th Rajab.</p>
+               </p-group>
+               <p-group>
+                    <heading>Ramadan (Month of Fasting)</heading>
+                    <p />
+               </p-group>
+               <p-group id="ASS.WM.16">
+                    <heading>Id al-Fitr or Id al-Saghir (The Small Feast)</heading>
+                    <p id="ASS.WM.17">Three days beginning 1st Shawwal. This celebration follows the constraint of the Ramadan fast.</p>
+               </p-group>
+               <p-group id="ASS.WM.18">
+                    <heading>Id al-Adha or Id al-Kabir (The Great Feast, Feast of the Sacrifice)</heading>
+                    <p id="ASS.WM.19">Four days beginning on 10th Dhu`l-Hijja. The principal Islamic festival, commemorating Abraham’s sacrifice and coinciding with the pilgrimage to Mecca. Celebrated by the sacrifice of a sheep, by feasting and by donations to the poor.</p>
+               </p-group>
+               <table-block-simple id="ASS.WM.20" type="OTHER">
+                    <table pgwide="YES" style="WITH-RULES">
+                         <tgroup cols="4">
+                              <colspec colwidth="18cm" />
+                              <colspec colname="COLSPEC2" colwidth="8.00cm" />
+                              <colspec colname="COLSPEC4" colwidth="8.00cm" />
+                              <colspec colname="COLSPEC0" colwidth="8.00cm" />
+                              <thead>
+                                   <row>
+                                        <entry align="left" style="NO-DOT-LEADER" />
+                                        <entry align="right" style="NO-DOT-LEADER">
+                                             <sc>ah</sc>
+                   1444
+                </entry>
+                                        <entry align="right" style="NO-DOT-LEADER">
+                                             <sc>ah</sc>
+                   1445
+                </entry>
+                                        <entry align="right" style="NO-DOT-LEADER">
+                                             <sc>ah</sc>
+                   1446
+                </entry>
+                                   </row>
+                              </thead>
+                              <tbody>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">New Year</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">30 July 2022</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">19 July 2023</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">9 July 2024</entry>
+                                   </row>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">Ashoura</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">8 August 2022</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">28 July 2023</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">18 July 2024</entry>
+                                   </row>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">Mouloud</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">9 October 2022</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">28 September 2023</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">17 September 2024</entry>
+                                   </row>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">Leilat al-Meiraj</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">18 February 2023</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">10 February 2024</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">29 January 2025</entry>
+                                   </row>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">Ramadan begins</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">23 March 2023</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">13 March 2024</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">3 March 2025</entry>
+                                   </row>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">Id al-Fitr</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">22 April 2023</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">12 April 2024</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">1 April 2025</entry>
+                                   </row>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">Id al-Adha</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">29 June 2023</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">18 June 2024</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">8 June 2025</entry>
+                                   </row>
+                              </tbody>
+                         </tgroup>
+                    </table>
+                    <content-note style="NORMAL">Note: Local determinations may vary by one day from those given here.</content-note>
+               </table-block-simple>
+          </gen-section>
+     </gen-section>
+     <gen-section id="ASS.WM.21" print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+          <heading>The Ethiopian Calendar</heading>
+          <p id="ASS.WM.22">The Ethiopian Calendar is solar, and is the traditional calendar of the Ethiopian Church. New Year (1st Maskarem) usually occurs on 11 September Gregorian. The Ethiopian year 2016 began on 12 September 2023.</p>
+          <!--New Year's Day usually 11 September, but 12 September in all Ethiopian years that are evenly divisible by 4 (ie. Gregorian 2023=Ethiopian 2016). -->
+          <p id="ASS.WM.23">The year is divided into 13 months, of which 12 have 30 days each. The 13th and last month (Paguemen) has five or six days, the extra day occurring in leap years. The months are as follows:</p>
+          <table-block-simple id="ASS.WM.24" type="OTHER">
+               <table style="WITHOUT-RULES">
+                    <tgroup cols="3">
+                         <colspec colwidth="6.6cm" />
+                         <colspec colwidth="6.6cm" />
+                         <colspec colwidth="6.6cm" />
+                         <tbody>
+                              <row>
+                                   <entry style="NO-DOT-LEADER">1. Maskarem</entry>
+                                   <entry style="NO-DOT-LEADER">5. Tir</entry>
+                                   <entry style="NO-DOT-LEADER">10. Sene</entry>
+                              </row>
+                              <row>
+                                   <entry style="NO-DOT-LEADER">2. Tikimit</entry>
+                                   <entry style="NO-DOT-LEADER">6. Yekatit</entry>
+                                   <entry style="NO-DOT-LEADER">11. Hamle</entry>
+                              </row>
+                              <row>
+                                   <entry style="NO-DOT-LEADER">3. Hidar</entry>
+                                   <entry style="NO-DOT-LEADER">7. Megabit</entry>
+                                   <entry style="NO-DOT-LEADER">12. Nahasse</entry>
+                              </row>
+                              <row>
+                                   <entry style="NO-DOT-LEADER">4. Tahsas</entry>
+                                   <entry style="NO-DOT-LEADER">8. Maiza</entry>
+                                   <entry style="NO-DOT-LEADER">13. Paguemen</entry>
+                              </row>
+                              <row>
+                                   <entry style="NO-DOT-LEADER" />
+                                   <entry style="NO-DOT-LEADER">9. Ginbat</entry>
+                                   <entry style="NO-DOT-LEADER" />
+                              </row>
+                         </tbody>
+                    </tgroup>
+               </table>
+          </table-block-simple>
+          <p id="ASS.WM.25">The Ethiopian Calendar is used for most purposes, religious and secular, in Ethiopia.</p>
+     </gen-section>
+</weights-and-measures>

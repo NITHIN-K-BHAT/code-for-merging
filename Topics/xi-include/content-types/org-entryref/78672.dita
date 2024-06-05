@@ -1,0 +1,37 @@
+<org-entryref id="SL101492" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101491" slsdocid="78672" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.910" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Food Producers of Canada</org-entry-name>
+                                                       <abbr>FPC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>300 Greenbank Rd, Suite 19, Ottawa, ON K2H 0B6</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 722-1000</telephone>
+                                                       <email>info@foodproducersofcanada.ca</email>
+                                                       <internet>foodproducersofcanada.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1949</found-date>
+                                                  <content-note style="NORMAL">present name since 2021</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Irv</forename>
+                                                                 <surname>Teper</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Denise</forename>
+                                                                 <surname>Allen</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

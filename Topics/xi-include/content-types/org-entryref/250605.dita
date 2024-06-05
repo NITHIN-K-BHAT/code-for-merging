@@ -1,0 +1,27 @@
+<org-entryref id="SL1745640" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745639" slsdocid="250605" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1502" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>University of North Carolina Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>116 S Boundary St, Chapel Hill, NC 27514-3808</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(919) 966-3561</telephone>
+                                             <email>ellen.bush@uncpress.org</email>
+                                             <internet>uncpress.org</internet>
+                                        </address-block>
+                                        <found-date>1922</found-date>
+                                        <content-note style="NORMAL">biography, regional and scholarly</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>John</forename>
+                                                       <surname>Sherer</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,28 @@
+<org-entryref id="SL1745419" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745418" slsdocid="249065" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1470" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Simon &amp; Schuster, Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1230 Ave of the Americas, New York, NY 10020</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 698-7000</telephone>
+                                             <internet>simonandschuster.com</internet>
+                                        </address-block>
+                                        <found-date>1924</found-date>
+                                        <content-note style="NORMAL">part of CBS Group</content-note>
+                                        <content-note style="NORMAL">trade, juvenile, reference, educational, business and professional</content-note>
+                                        <content-note style="NORMAL">imprints incl. Aladdin Paperbacks (juvenile fiction), Free Press (politics, history, religion, business, fiction), Howard Books (religion, gift books), Pocket Books (fiction), Scribner (fiction).</content-note>
+                                        <role-group>
+                                             <role>Pres. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jonathan</forename>
+                                                       <surname>Karp</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

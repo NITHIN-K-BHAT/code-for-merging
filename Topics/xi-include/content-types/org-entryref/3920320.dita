@@ -1,0 +1,27 @@
+<org-entryref id="SL3920323" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3920322" slsdocid="3920320" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1356104462" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies">
+                                                       
+                                                       <org-entry-head>
+                                                            <org-entry-name>Agencia EFE</org-entry-name>
+                                                            <content-note style="NORMAL">Miami</content-note>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>5775 Blue Lagoon Dr., Suite 308, Miami, FL 33126</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(305) 262-7575</telephone>
+                                                            <email>amengotti@efe.com</email>
+                                                            <internet>efe.com</internet>
+                                                       </address-block>
+                                                       <role-group>
+                                                            <role>Delegate</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Ana Rosa</forename>
+                                                                      <surname>Mengotti</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

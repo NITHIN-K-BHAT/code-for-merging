@@ -1,0 +1,44 @@
+<org-entryref id="SL1741051" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741050" slsdocid="249629" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.895" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="National Newspaper Groups">
+                                             <org-entry-head>
+                                                  <org-entry-name>Dow Jones &amp; Co Inc</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1211 Ave of the Americas, New York, NY 10036</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 416-2000</telephone>
+                                                  <email>service@dowjones.com</email>
+                                                  <internet>dowjones.com</internet>
+                                             </address-block>
+                                             <found-date>1882</found-date>
+                                             <content-note style="NORMAL">owned by News Corp since 2007</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Rupert</forename>
+                                                            <surname>Murdoch</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Almar</forename>
+                                                            <surname>Latour</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <content-note style="NORMAL">
+                    publs incl. 
+                    <i>The Wall Street Journal</i>
+                    , 
+                    <i>MarketWatch</i>
+                     and the weekly financial magazine 
+                    <i>Barron’s</i>
+                                             </content-note>
+                                        </org-entry>
+                                   </org-entryref>

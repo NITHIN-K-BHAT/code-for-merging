@@ -1,0 +1,39 @@
+<org-entryref id="SL1759421" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759420" slsdocid="78953" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.604" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Flare</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>111 Queen St E, Suite 320, Toronto, ON M5C 1S2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 364-3333</telephone>
+                                                       <fax>(416) 594-3374</fax>
+                                                       <email>circ@fashionmagazine.com</email>
+                                                       <internet>fashionmagazine.com/flare</internet>
+                                                  </address-block>
+                                                  <found-date>1979</found-date>
+                                                  <frequency>monthly</frequency>
+                                                  <content-note style="NORMAL">fashion, beauty and health</content-note>
+                                                  <content-note style="NORMAL">online only since 2017</content-note>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ken</forename>
+                                                                 <surname>Hunt</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Bernadette</forename>
+                                                                 <surname>Morra</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

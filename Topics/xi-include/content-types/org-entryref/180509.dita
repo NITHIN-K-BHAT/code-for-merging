@@ -1,0 +1,26 @@
+<org-entryref id="SL204748" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="204747" slsdocid="180509" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="MX.DIR.222" id-root="mx.dir" iso="mx" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN MEXICO">
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Paseo de la Reforma 305, Cuauhtémoc, 06500 Ciudad de México</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(55) 5080-2000</telephone>
+                                             <fax>(55) 5080-2005</fax>
+                                             <internet>mx.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kenneth Lee</forename>
+                                                       <surname>Salazar</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

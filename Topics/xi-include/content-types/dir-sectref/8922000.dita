@@ -1,0 +1,391 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8922073" sllink="SLSDOCRF" sllinkid="8922072" slsdocid="8922000" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <dir-section id="CA.DIR.1708422619" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                                   <heading>Schedule I Banks (Principal Commercial Banks)</heading>
+                                   <org-list>
+                                        <org-entryref id="SL8922010" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922009" slsdocid="78776" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.797" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Bank of Montréal</org-entry-name>
+                                                       <abbr>BMO</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>100 King St W, 1 First Canada Pl., 21st Floor, Toronto, ON M5X 1A1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 867-6785</telephone>
+                                                       <internet>bmo.com</internet>
+                                                  </address-block>
+                                                  <found-date>1817</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>George A.</forename>
+                                                                 <surname>Cope</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Darryl</forename>
+                                                                 <surname>White</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8922015" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922014" slsdocid="78775" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.798" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Bank of Nova Scotia (Scotiabank)</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Scotia Plaza, 40 King St W, Toronto, ON M5H 1H1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 701-7200</telephone>
+                                                       <email>email@scotiabank.com</email>
+                                                       <internet>scotiabank.com</internet>
+                                                  </address-block>
+                                                  <found-date>1832</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Aaron W.</forename>
+                                                                 <surname>Regent</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Scott</forename>
+                                                                 <surname>Thomson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8922018" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922017" slsdocid="78774" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.799" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Imperial Bank of Commerce</org-entry-name>
+                                                       <abbr>CIBC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>81 Bay St, CIBC Sq., Toronto, ON M5J 0E7</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 980-7777</telephone>
+                                                       <email>investorrelations@cibc.com</email>
+                                                       <internet>cibc.com</internet>
+                                                  </address-block>
+                                                  <found-date>1961</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Katharine B.</forename>
+                                                                 <surname>Stevenson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Victor G.</forename>
+                                                                 <surname>Dodig</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8922023" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922022" slsdocid="78773" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.800" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Western Bank</org-entry-name>
+                                                       <abbr>CWB</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>10303 Jasper Ave, Suite 3000, Edmonton, AB T5J 3X6</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(306) 477-8888</telephone>
+                                                       <email>cwbcommunity@cwbank.com</email>
+                                                       <internet>cwbank.com</internet>
+                                                  </address-block>
+                                                  <found-date>1988</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Sarah A.</forename>
+                                                                 <surname>Morgan-Silvester</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Chris</forename>
+                                                                 <surname>Fowler</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8922027" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922026" slsdocid="8563367" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1685449493" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Equitable Bank</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>30 St Clair Ave W, Suite 700, Toronto, Ontario M4V 3A1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 515-7000</telephone>
+                                                       <fax>(416) 515-7001</fax>
+                                                       <email>customerservice@eqbank.ca</email>
+                                                       <internet>www.equitablebank.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1970</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Andrew</forename>
+                                                                 <surname>Moor</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8922038" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922037" slsdocid="78772" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.801" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Laurentian Bank of Canada/Banque Laurentienne du Canada</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1360 blvd René-Lévesque ouest, Suite 600, Montréal, QC H3G 0E5</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(514) 252-1846</telephone>
+                                                       <email>courrier@banquelaurentienne.ca</email>
+                                                       <internet>banquelaurentienne.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1846</found-date>
+                                                  <content-note style="NORMAL">present name since 1987</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Michael</forename>
+                                                                 <surname>Boychuk</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Éric</forename>
+                                                                 <surname>Provost</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8922043" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922042" slsdocid="78771" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.802" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Bank of Canada/Banque Nationale du Canada</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>600 rue de la Gauchetière ouest, 4th Floor, Montréal, QC H3B 4L2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(888) 483-5628</telephone>
+                                                       <email>investorrelations@nbc.ca</email>
+                                                       <internet>nbc.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1859</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Robert</forename>
+                                                                 <surname>Paré</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Laurent</forename>
+                                                                 <surname>Ferreira</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8922048" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922047" slsdocid="78770" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.803" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Royal Bank of Canada</org-entry-name>
+                                                       <abbr>RBC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>200 Bay St, Toronto, ON M5J 2J5</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 974-3940</telephone>
+                                                       <internet>rbc.com</internet>
+                                                  </address-block>
+                                                  <found-date>
+                      186
+                      
+                      9
+                    </found-date>
+                                                  <content-note style="NORMAL">absorbed HSBC Bank Canada 2024</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jacynthe</forename>
+                                                                 <surname>Côté</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>David I.</forename>
+                                                                 <surname>McKay</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8922055" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922054" slsdocid="3918092" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.USAC.23.51" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Tangerine</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>3389 Steeles Ave E, Toronto, ON M2H 0A1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 758-3139</telephone>
+                                                       <email>clientservices@tangerine.ca</email>
+                                                       <internet>tangerine.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1997 as ING Direct Canada</found-date>
+                                                  <content-note style="NORMAL">subsidiary of Scotiabank</content-note>
+                                                  <content-note style="NORMAL">present name since 2014</content-note>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Gillian</forename>
+                                                                 <surname>Rilley</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8922061" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922060" slsdocid="78769" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.804" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Toronto-Dominion Bank</org-entry-name>
+                                                       <abbr>TD Bank Group</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Toronto-Dominion Centre, King St W and Bay St, POB 1, Toronto, ON M5K 1A2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 982-5722</telephone>
+                                                       <email>customer.service@td.com</email>
+                                                       <internet>td.com</internet>
+                                                  </address-block>
+                                                  <found-date>1955</found-date>
+                                                  <content-note style="NORMAL">subsidiaries incl. TD Canada Trust and Banking</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Alan N.</forename>
+                                                                 <surname>MacGibbon</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Group Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Bharat</forename>
+                                                                 <surname>Masrani</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8922066" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922065" slsdocid="1756669" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1160402033" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Banking">
+                                                  <data-protection date-added="22.06.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>VersaBank</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>140 Fullarton St, Suite 2002, London, ON N6A 5P2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(519) 645-1919</telephone>
+                                                       <email>tellus@versabank.com</email>
+                                                       <internet>versabank.com</internet>
+                                                  </address-block>
+                                                  <found-date>1980</found-date>
+                                                  <content-note style="NORMAL">present name since 2016</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Thomas A.</forename>
+                                                                 <surname>Hockin</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Dir, Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>David R.</forename>
+                                                                 <surname>Taylor</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                         </dir-sectref>

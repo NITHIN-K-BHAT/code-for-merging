@@ -1,0 +1,39 @@
+<org-entryref id="SL7799306" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799305" slsdocid="7799068" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637851699" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Organizations and Associations" usage="usac">
+                                        <data-protection date-added="07.08.2017" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Book Industry Study Group, Inc</org-entry-name>
+                                             <abbr>BISG</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>232 Madison Ave, Suite 1400, New York, NY 10016</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(646) 336-7141</telephone>
+                                             <email>info@bisg.org</email>
+                                             <internet>bisg.org</internet>
+                                        </address-block>
+                                        <found-date>1975</found-date>
+                                        <stats>over 175 mem. cos</stats>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kathleen</forename>
+                                                       <surname>Reid</surname>
+                                                       <gen-name>Jr</gen-name>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Exec. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Brian</forename>
+                                                       <surname>O'Leary</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

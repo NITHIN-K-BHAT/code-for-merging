@@ -1,0 +1,36 @@
+<org-entryref id="SL8928048" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8928047" slsdocid="3914130" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.USAC.18.7" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="St Lawrence River and Great Lakes Shipping" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Selected Organizations" usage="ewyb usac">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Algoma Central Corpn</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>63 Church St, Suite 600, St Catharines, ON L2R 3C4</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(905) 687-7888</telephone>
+                                                            <email>inquiry@algonet.com</email>
+                                                            <internet>algonet.com</internet>
+                                                       </address-block>
+                                                       <found-date>1899</found-date>
+                                                       <content-note style="NORMAL">bulk cargo transportation</content-note>
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Duncan N. R.</forename>
+                                                                      <surname>Jackman</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Gregg</forename>
+                                                                      <surname>Ruhl</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

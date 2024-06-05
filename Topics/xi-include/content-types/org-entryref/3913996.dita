@@ -1,0 +1,38 @@
+<org-entryref id="SL5107754" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5107753" slsdocid="3913996" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.USA.DIR.201014" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Utilities">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Inuvialuit Water Board</org-entry-name>
+                                                       <abbr>IWB</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>151 Mackenzie Rd, Mack Travel Bldg, 2nd Floor, POB 2531, Inuvik, NT X0E 0T0</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(867) 678-2942</telephone>
+                                                       <fax>(867) 678-2943</fax>
+                                                       <email>info@inuvwb.ca</email>
+                                                       <internet>inuvwb.ca</internet>
+                                                  </address-block>
+                                                  <content-note style="NORMAL">fmrly Northwest Territories Water Board</content-note>
+                                                  <content-note style="NORMAL">present name since 2014</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Richard</forename>
+                                                                 <surname>Binder</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mardy</forename>
+                                                                 <surname>Semmler</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

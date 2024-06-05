@@ -1,0 +1,27 @@
+<org-entryref id="SL1741328" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741327" slsdocid="249554" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.978" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Chicago Sun-Times</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Navy Pier, 848 E Grand Ave, Chicago, IL 60611</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(312) 321-3000</telephone>
+                                                       <email>customerservice@suntimes.com</email>
+                                                       <internet>chicago.suntimes.com</internet>
+                                                  </address-block>
+                                                  <found-date>1948</found-date>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jennifer</forename>
+                                                                 <surname>Kho</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 57,222 (2023)</stats>
+                                             </org-entry>
+                                        </org-entryref>

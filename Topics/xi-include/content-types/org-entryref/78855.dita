@@ -1,0 +1,28 @@
+<org-entryref id="SL1759861" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759860" slsdocid="78855" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.706" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <org-entry-head>
+                                             <org-entry-name>McGraw-Hill Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>145 King St W, Suite 1501, Toronto, ON M5H 1J8</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 245-2914</telephone>
+                                             <fax>(800) 463-5885</fax>
+                                             <email>canada.cs.queries@mheducation.com</email>
+                                             <internet>mheducation.ca</internet>
+                                        </address-block>
+                                        <found-date>1944</found-date>
+                                        <content-note style="NORMAL">higher education and professional books</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Simon</forename>
+                                                       <surname>Allen</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

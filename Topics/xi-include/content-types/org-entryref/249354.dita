@@ -1,0 +1,28 @@
+<org-entryref id="SL260680" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260679" slsdocid="249354" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1205" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Congressional Digest</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Congressional Digest Corpn, POB 240, Boyds, MD 20841-0240</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(301) 916-1800</telephone>
+                                                  <email>support@congressionaldigest.com</email>
+                                                  <internet>congressionaldigest.com</internet>
+                                             </address-block>
+                                             <found-date>1921</found-date>
+                                             <frequency>monthly (except July and Aug.)</frequency>
+                                             <role-group>
+                                                  <role>Publr</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Page</forename>
+                                                            <surname>Robinson</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

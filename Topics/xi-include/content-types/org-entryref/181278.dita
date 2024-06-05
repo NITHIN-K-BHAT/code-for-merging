@@ -1,0 +1,26 @@
+<org-entryref id="SL207096" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="207095" slsdocid="181278" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="MY.DIR.270" id-root="my.dir" iso="my" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES AND HIGH COMMISSIONS IN MALAYSIA">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>376 Jalan Tun Razak, POB 10035, 50400 Kuala Lumpur</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(3) 21685000</telephone>
+                                             <fax>(3) 21422207</fax>
+                                             <email>klconsular@state.gov</email>
+                                             <internet>my.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Edgard D.</forename>
+                                                       <surname>Kagan</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

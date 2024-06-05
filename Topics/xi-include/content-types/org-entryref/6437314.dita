@@ -1,0 +1,30 @@
+<org-entryref id="SL8961493" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8961492" slsdocid="6437314" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1544524157" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELEVISION" usage="usac">
+                                                       
+                                                       <org-entry-head>
+                                                            <org-entry-name>Sling TV</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>9601 S Meridian Blvd, Englewood, CO 80112</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(888) 348-1248</telephone>
+                                                            <email>support@sling.com</email>
+                                                            <internet>sling.com</internet>
+                                                       </address-block>
+                                                       <found-date>2015</found-date>
+                                                       <content-note style="NORMAL">owned by Dish Network</content-note>
+                                                       <content-note style="NORMAL">online TV streaming service</content-note>
+                                                       <stats>2.41m. subs (2022)</stats>
+                                                       <role-group>
+                                                            <role>Pres.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Gary</forename>
+                                                                      <surname>Schanman</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

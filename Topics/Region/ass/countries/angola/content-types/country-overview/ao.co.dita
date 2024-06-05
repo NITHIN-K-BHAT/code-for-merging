@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<country-overview id="AO.CO" iso="ao" media="ONLINE" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <p>
+    The 
+    <xr pageref="N" ref="AO.IS.1">Republic of Angola</xr>
+     lies on the west coast of Africa. The Portuguese Government proclaimed Angola independent in 1975. Independence has been defined by armed conflict between the governing Movimento Popular de Libertação de Angola (MPLA) and the União Nacional para a Independência Total de Angola (UNITA). In 2002 the MPLA Government and UNITA signed a memorandum of understanding aimed at ending the civil war, and in 2008 legislative elections took place for the first time since 1992, at which the MPLA secured a decisive majority. The MPLA retained power in elections held in 2012, in 2017 and in 2022. Angola’s capital is Luanda. The official language is Portuguese.
+  </p>
+     <gen-section print-style="COLUMN" sect-type="gov-pol" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+          <heading>
+               <xr pageref="N" ref="AO.DIR.35">Government</xr>
+          </heading>
+          <gen-section print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+               <heading>Head of State</heading>
+               <p>President João Manuel Gonçalves Lourenço</p>
+          </gen-section>
+          <gen-section print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+               <heading>Head of Government</heading>
+               <p>President João Manuel Gonçalves Lourenço</p>
+          </gen-section>
+     </gen-section>
+     <gen-section print-style="COLUMN" sect-type="gov-pol" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+          <heading>
+               <xr pageref="N" ref="AO.DIR.116">Legislative Election</xr>
+          </heading>
+          <gen-section print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+               <heading>Last Election</heading>
+               <p>24 August 2022</p>
+          </gen-section>
+          <gen-section print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+               <heading>Next Election</heading>
+               <p>2027</p>
+          </gen-section>
+     </gen-section>
+     <gen-section print-style="COLUMN" sect-type="area-pop" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+          <heading>
+               <xr pageref="N" ref="AO.SS.2">Area and Population</xr>
+          </heading>
+          <gen-section print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+               <heading>Area</heading>
+               <p>1,246,700 sq km</p>
+          </gen-section>
+          <gen-section print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+               <heading>Population</heading>
+               <heading-note>official projection, mid-2024</heading-note>
+               <p>35,121,734</p>
+          </gen-section>
+          <gen-section print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+               <heading>Population density</heading>
+               <heading-note>at mid-2024</heading-note>
+               <p>28.2 per sq km</p>
+          </gen-section>
+          <gen-section print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+               <heading>Life expectancy</heading>
+               <heading-note>years at birth, 2021</heading-note>
+               <p>61.6 (males 59.0; females 64.3)</p>
+          </gen-section>
+     </gen-section>
+     <gen-section print-style="COLUMN" sect-type="finance" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+          <heading>
+               <xr pageref="N" ref="ROPAAAS2.SS.7">Finance</xr>
+          </heading>
+          <gen-section print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+               <heading>GDP in current prices</heading>
+               <heading-note>World Bank estimates, 2022</heading-note>
+               <p>
+        US $106,714m. ($2,
+        
+        999 per head)
+      </p>
+          </gen-section>
+          <gen-section print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+               <heading>Real GDP growth</heading>
+               <heading-note>2022</heading-note>
+               <p>3.0%</p>
+          </gen-section>
+          <gen-section print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+               <heading>Inflation</heading>
+               <heading-note>average change in consumer prices, 2022</heading-note>
+               <p>21.4%</p>
+          </gen-section>
+          <gen-section print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+               <heading>Currency</heading>
+               <p>kwanza</p>
+          </gen-section>
+     </gen-section>
+</country-overview>

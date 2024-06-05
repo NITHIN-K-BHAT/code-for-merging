@@ -1,0 +1,38 @@
+<org-entryref id="SL1757608" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1757607" slsdocid="78515" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="CA.DIR.1086" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Tourism" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <data-protection date-added="29.03.2011" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Tourism Industry Association of Canada</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>180 Elgin St, Suite 1300, Ottawa, ON K2P 2K32</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(613) 238-7887</telephone>
+                                                  <email>contact@tiac-aitc.ca</email>
+                                                  <internet>tiac-aitc.ca</internet>
+                                             </address-block>
+                                             <found-date>1930</found-date>
+                                             <content-note style="NORMAL">private sector asscn</content-note>
+                                             <content-note style="NORMAL">promotes devt of travel services and facilities</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Nina</forename>
+                                                            <surname>Kressler</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Beth</forename>
+                                                            <surname>Potter</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

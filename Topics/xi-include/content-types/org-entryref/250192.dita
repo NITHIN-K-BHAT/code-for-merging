@@ -1,0 +1,29 @@
+<org-entryref id="SL262600" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262599" slsdocid="250192" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1926" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Southern Forest Products Association</org-entry-name>
+                                                       <abbr>SFPA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>6660 Riverside Dr., Suite 212, Metairie, LA 70003</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(504) 443-4464</telephone>
+                                                       <fax>(504) 443-6612</fax>
+                                                       <email>mail@sfpa.org</email>
+                                                       <internet>sfpa.org</internet>
+                                                  </address-block>
+                                                  <found-date>1915</found-date>
+                                                  <stats>13 lumber mfr mems, 116 assoc mems (2022)</stats>
+                                                  <role-group>
+                                                       <role>Exec. Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Eric</forename>
+                                                                 <surname>Gee</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

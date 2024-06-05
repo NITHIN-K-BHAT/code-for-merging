@@ -1,0 +1,29 @@
+<org-entryref id="SL260888" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260887" slsdocid="249240" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1309" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>VFW Magazine</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>406 W 34th St, Kansas City, MO 64111</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(816) 756-3390</telephone>
+                                                  <email>magazine@vfw.org</email>
+                                                  <internet>vfw.org</internet>
+                                             </address-block>
+                                             <found-date>1912</found-date>
+                                             <frequency>10 a year</frequency>
+                                             <content-note style="NORMAL">publ. of Veterans of Foreign Wars of US</content-note>
+                                             <role-group>
+                                                  <role>Publr and Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Tim</forename>
+                                                            <surname>Dyhouse</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 871,379</stats>
+                                        </org-entry>
+                                   </org-entryref>

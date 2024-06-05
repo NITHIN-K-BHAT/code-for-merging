@@ -1,0 +1,28 @@
+<org-entryref id="SL2137912" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2137911" slsdocid="78969" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.588" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Journal of the Canadian Dental Association</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1815 Alta Vista Dr., Ottawa, ON K1G 3Y6</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 523-1770</telephone>
+                                                       <fax>(613) 523-7736</fax>
+                                                       <email>jcda@cda-adc.ca</email>
+                                                       <internet>jcda.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1935</found-date>
+                                                  <content-note style="NORMAL">online only</content-note>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Sean</forename>
+                                                                 <surname>McNamara</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

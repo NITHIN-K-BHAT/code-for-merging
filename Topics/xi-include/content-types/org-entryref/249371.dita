@@ -1,0 +1,38 @@
+<org-entryref id="SL260650" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260649" slsdocid="249371" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1190" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Better Homes and Gardens</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1716 Locust St, Des Moines, IA 50309</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(515) 284-3000</telephone>
+                                                  <email>bhg.press@dotdashmdp.com.</email>
+                                                  <internet>bhg.com</internet>
+                                             </address-block>
+                                             <found-date>1922</found-date>
+                                             <frequency>monthly</frequency>
+                                             <role-group>
+                                                  <role>Gen. Man.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Emily</forename>
+                                                            <surname>Manchester</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Stephen</forename>
+                                                            <surname>Orr</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 3,109,415</stats>
+                                        </org-entry>
+                                   </org-entryref>

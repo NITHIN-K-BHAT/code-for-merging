@@ -1,0 +1,26 @@
+<org-entryref id="SL256486" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="256485" slsdocid="246661" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="ca" id="TN.DIR.104" id-root="tn.dir" iso="tn" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN TUNISIA">
+                                        <org-entry-head>
+                                             <org-entry-name>Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>rue de la Feuille d’Erable, Les Berges du Lac II, BP 48, 1053 Tunis</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(71) 010-200</telephone>
+                                             <fax>(71) 010-393</fax>
+                                             <email>tunis@international.gc.ca</email>
+                                             <internet>www.canadainternational.gc.ca/tunisia-tunisie</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Lorraine</forename>
+                                                       <surname>Diguer</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

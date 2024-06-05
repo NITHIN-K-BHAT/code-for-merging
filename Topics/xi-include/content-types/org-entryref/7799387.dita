@@ -1,0 +1,38 @@
+<org-entryref id="SL7801892" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7801891" slsdocid="7799387" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1637857974" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Supply Professional</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>126 Old Sheppard Ave, Toronto, ON M2J 3L9</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 441-2085</telephone>
+                                                       <email>pressroom@supplypro.ca</email>
+                                                       <internet>supplypro.ca/magazine</internet>
+                                                  </address-block>
+                                                  <content-note style="NORMAL">fmrly Purchasing B2B</content-note>
+                                                  <content-note style="NORMAL">present name since 2018</content-note>
+                                                  <content-note style="NORMAL">owned by iQ Business Media</content-note>
+                                                  <frequency>6 a year</frequency>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Alex</forename>
+                                                                 <surname>Papanou</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Michael</forename>
+                                                                 <surname>Power</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

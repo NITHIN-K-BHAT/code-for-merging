@@ -1,0 +1,39 @@
+<org-entryref id="SL7768506" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7768505" slsdocid="78668" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.915" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS" usage="usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>BC Council of Forest Industries</org-entry-name>
+                                                       <abbr>COFI</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>595 Howe St, Suite 1220, Vancouver, BC V6C 2T5</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(604) 684-0211</telephone>
+                                                       <fax>(604) 687-4930</fax>
+                                                       <email>info@cofi.org</email>
+                                                       <internet>cofi.org</internet>
+                                                  </address-block>
+                                                  <found-date>1960</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Don</forename>
+                                                                 <surname>Kayne</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Linda</forename>
+                                                                 <surname>Coady</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>20 corp. mems (2024)</stats>
+                                             </org-entry>
+                                        </org-entryref>

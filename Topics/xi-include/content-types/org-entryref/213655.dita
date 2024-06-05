@@ -1,0 +1,26 @@
+<org-entryref id="SL230634" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="230633" slsdocid="213655" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="PE.DIR.142" id-root="pe.dir" iso="pe" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN PERU">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Avda La Encalada 17, Surco, Lima 33</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 6182000</telephone>
+                                             <email>lima_webmaster@state.gov</email>
+                                             <internet>pe.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Stephanie</forename>
+                                                       <surname>Syptak-Ramnath</surname>
+                                                  </person-name>
+                                                  <person-note>designate</person-note>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

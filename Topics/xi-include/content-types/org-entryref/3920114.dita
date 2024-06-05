@@ -1,0 +1,37 @@
+<org-entryref id="SL3920200" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3920199" slsdocid="3920114" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1356101877" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>S&amp;P Global Commodity Insights</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2 Penn Plaza, 25th Floor, New York, NY 10121-2298</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 752-8878</telephone>
+                                                       <email>ci.support@spglobal.com</email>
+                                                       <internet>spglobal.com/commodityinsights</internet>
+                                                  </address-block>
+                                                  <found-date>1984</found-date>
+                                                  <content-note style="NORMAL">information on energy and metals industries</content-note>
+                                                  <content-note style="NORMAL">owned by S&amp;P Global (UK)</content-note>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Douglas L.</forename>
+                                                                 <surname>Peterson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Saugata</forename>
+                                                                 <surname>Saha</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

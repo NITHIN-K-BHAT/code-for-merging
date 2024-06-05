@@ -1,0 +1,25 @@
+<org-entryref id="SL2261895" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2261894" slsdocid="2261873" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="LY.DIR.1206626730" id-root="ly.dir" iso="ly" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Embassies in Libya">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Sidi Slim Area, Sharia Wali al-Ahed, Tripoli</verbatim-address>
+                                             </address>
+                                             <email>tripolipao@state.gov</email>
+                                             <internet>ly.usembassy.gov</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">presence in Libya suspended in 2014; currently operating from Tunis, Tunisia</content-note>
+                                        <role-group>
+                                             <role>Chargé d'affaires</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Leslie</forename>
+                                                       <surname>Ordeman</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

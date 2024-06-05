@@ -1,0 +1,29 @@
+<org-entryref id="SL260792" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260791" slsdocid="249293" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1261" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>The New Yorker</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1 World Trade Center, New York, NY 10007</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(800) 444-7570</telephone>
+                                                  <email>themail@newyorker.com</email>
+                                                  <internet>newyorker.com</internet>
+                                             </address-block>
+                                             <found-date>1925</found-date>
+                                             <frequency>weekly</frequency>
+                                             <content-note style="NORMAL">publ. by Condé Nast</content-note>
+                                             <role-group>
+                                                  <role>Editor</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>David</forename>
+                                                            <surname>Remnick</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 1,234,340</stats>
+                                        </org-entry>
+                                   </org-entryref>

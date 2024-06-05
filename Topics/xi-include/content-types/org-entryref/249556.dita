@@ -1,0 +1,27 @@
+<org-entryref id="SL1741324" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741323" slsdocid="249556" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.975" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Idaho Statesman</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1116 S Vista Ave, PMB 228, Boise, Idaho 83705</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(208) 377-6200</telephone>
+                                                       <email>newsroom@idahostatesman.com</email>
+                                                       <internet>idahostatesman.com</internet>
+                                                  </address-block>
+                                                  <found-date>1864</found-date>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Chadd</forename>
+                                                                 <surname>Cripe</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 28,048, Sun. 46,897 (2020)</stats>
+                                             </org-entry>
+                                        </org-entryref>

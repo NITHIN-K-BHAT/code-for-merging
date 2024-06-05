@@ -1,0 +1,14 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8097684" sllink="SLSDOCRF" sllinkid="8097683" slsdocid="4291981" slsdocty="dir-entry dir-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <dir-entry id="CA.DIR.1386774168" id-root="ca.dir" iso="ca" section="Federal Legislature" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Senate">
+                                        <dir-entry-name>Senate of Canada (Sénat du Canada)</dir-entry-name>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Ottawa, ON K1A 0A4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 267-7362</telephone>
+                                             <email>sencom@sen.parl.gc.ca</email>
+                                             <internet>sencanada.ca</internet>
+                                        </address-block>
+                                   </dir-entry>
+                              </dir-entryref>

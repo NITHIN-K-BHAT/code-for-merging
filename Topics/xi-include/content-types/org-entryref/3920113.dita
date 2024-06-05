@@ -1,0 +1,27 @@
+<org-entryref id="SL3920196" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3920195" slsdocid="3920113" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1356101815" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies" usage="usac">
+                                                  <data-protection date-added="07.09.2017" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>News USA, Inc</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1104 W Broad St, Suite 1024, Falls Church, VA 22046</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(703) 508-8700</telephone>
+                                                       <email>sales@newsusa.com</email>
+                                                       <internet>newsusa.com</internet>
+                                                  </address-block>
+                                                  <found-date>1987</found-date>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Rick</forename>
+                                                                 <surname>Smith</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

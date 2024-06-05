@@ -1,0 +1,29 @@
+<org-entryref id="SL1741401" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741400" slsdocid="249535" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.997" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Sioux City Journal</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>515 Pavonia St, Sioux City, IA 51102</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(712) 293-4250</telephone>
+                                                       <email>bmiller@siouxcityjournal.com</email>
+                                                       <internet>siouxcityjournal.com</internet>
+                                                  </address-block>
+                                                  <found-date>1864</found-date>
+                                                  <frequency>Mon. to Fri. evening</frequency>
+                                                  <content-note style="NORMAL">subsidiary of Lee Enterprises, Inc</content-note>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Bruce</forename>
+                                                                 <surname>Miller</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 23,499 (2016)</stats>
+                                             </org-entry>
+                                        </org-entryref>

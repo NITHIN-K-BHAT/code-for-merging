@@ -1,0 +1,29 @@
+<org-entryref id="SL4326130" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4326129" slsdocid="4325847" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389952556" id-root="us.dir." iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Coloradoan</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1300 Riverside Ave, Suite 200, Fort Collins, CO 80524</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(970) 493-6397</telephone>
+                                                       <email> ericlarsen@coloradoan.com</email>
+                                                       <internet>coloradoan.com</internet>
+                                                  </address-block>
+                                                  <found-date>1873</found-date>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Eric</forename>
+                                                                 <surname>Larsen</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 40,000 (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

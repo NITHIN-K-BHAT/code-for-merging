@@ -1,0 +1,26 @@
+<org-entryref id="SL233162" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="233161" slsdocid="216748" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="PK.DIR.224" id-root="pk.dir" iso="pk" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES AND HIGH COMMISSIONS IN PAKISTAN">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Diplomatic Enclave, Ramna 5, POB 1048, Islamabad</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(51) 2014000</telephone>
+                                             <fax>(51) 2338071</fax>
+                                             <email>infoisb@state.gov</email>
+                                             <internet>pk.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Donald Armin</forename>
+                                                       <surname>Blome</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,35 @@
+<org-entryref id="SL1741073" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741072" slsdocid="1252233" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1114506752" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="National Newspaper Groups">
+                                             <org-entry-head>
+                                                  <org-entry-name>McClatchy</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1601 Alhambra Blvd, Suite 100, Sacramento, CA 95816-6899</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(916) 321-1855</telephone>
+                                                  <email>customerservice@mcclatchy.com</email>
+                                                  <internet>mcclatchy.com</internet>
+                                             </address-block>
+                                             <found-date>1857</found-date>
+                                             <content-note style="NORMAL">acquired Knight Ridder Inc in 2006</content-note>
+                                             <content-note style="NORMAL">acquired by Chatham Asset Management in 2020</content-note>
+                                             <role-group>
+                                                  <role>Chair. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Tony W.</forename>
+                                                            <surname>Hunter</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <content-note style="NORMAL">
+                    30 newspapers, incl. 
+                    <i>Miami Herald</i>
+                    , 
+                    <i>The Sacramento Bee</i>
+                     (2020)
+                  </content-note>
+                                        </org-entry>
+                                   </org-entryref>

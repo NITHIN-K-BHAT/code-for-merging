@@ -1,0 +1,28 @@
+<org-entryref id="SL262486" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262485" slsdocid="250254" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1863" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Ready Mixed Concrete Association</org-entry-name>
+                                                       <abbr>NRMCA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>66 Canal Center Plaza, Suite 250, Alexandria, VA 22314</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(703) 706-4800</telephone>
+                                                       <fax>(703) 706-4809</fax>
+                                                       <email>customerservice@nrmca.org</email>
+                                                       <internet>nrmca.org</internet>
+                                                  </address-block>
+                                                  <found-date>1930</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Adam</forename>
+                                                                 <surname>Manatt</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

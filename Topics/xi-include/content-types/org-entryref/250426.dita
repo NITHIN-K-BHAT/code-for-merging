@@ -1,0 +1,25 @@
+<org-entryref id="SL8923250" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8923249" slsdocid="250426" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1699" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Fifth Third Bank</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>38 Fountain Sq. Plaza, Cincinnati, OH 45202</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(866) 671-5353</telephone>
+                                                       <internet>53.com</internet>
+                                                  </address-block>
+                                                  <found-date>1858</found-date>
+                                                  <role-group>
+                                                       <role>Chair., Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Timothy N.</forename>
+                                                                 <surname>Spence</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

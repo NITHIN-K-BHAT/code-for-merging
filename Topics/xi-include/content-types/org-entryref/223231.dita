@@ -1,0 +1,26 @@
+<org-entryref id="SL240984" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="240983" slsdocid="223231" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="ca" id="SG.DIR.80" id-root="sg.dir" iso="sg" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES AND HIGH COMMISSIONS IN SINGAPORE">
+                                        <org-entry-head>
+                                             <org-entry-name>Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1 George St, #11-01, Singapore 049145</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">68545900</telephone>
+                                             <fax>68545930</fax>
+                                             <email>spore@international.gc.ca</email>
+                                             <internet>www.canadainternational.gc.ca/singapore-singapour</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>High Commissioner</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jean-Dominique</forename>
+                                                       <surname>Ieraci</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

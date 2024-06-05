@@ -1,0 +1,42 @@
+<org-entryref id="SL3180750" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3180751" slsdocid="1451703" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1133885029" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Outside</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>400 Market St, Santa Fe, NM 87501</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(505) 989-7100</telephone>
+                                                  <email>letters@outsidemag.com</email>
+                                                  <internet>outsideonline.com</internet>
+                                             </address-block>
+                                             <found-date>
+                    1976 as 
+                    <i>Mariah</i>
+                                             </found-date>
+                                             <frequency>monthly</frequency>
+                                             <content-note style="NORMAL">publ. by Mariah Media Inc</content-note>
+                                             <content-note style="NORMAL">adventure travel and outdoor recreation</content-note>
+                                             <role-group>
+                                                  <role>Editorial Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Alex</forename>
+                                                            <surname>Heard</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Chair. and Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Lawrence J.</forename>
+                                                            <surname>Burke</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 676,965</stats>
+                                        </org-entry>
+                                   </org-entryref>

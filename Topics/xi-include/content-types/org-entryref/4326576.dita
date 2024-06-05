@@ -1,0 +1,28 @@
+<org-entryref id="SL4326631" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4326630" slsdocid="4326576" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389958923" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Tallahassee Democrat</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>277 N Magnolia Dr., POB 990, Tallahassee, FL 32302-0990</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(850) 599-2170</telephone>
+                                                       <internet>tallahassee.com</internet>
+                                                  </address-block>
+                                                  <found-date>1905</found-date>
+                                                  <content-note style="NORMAL">owned by Gannett</content-note>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>William</forename>
+                                                                 <surname>Hatfield</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 18,825 (2018)</stats>
+                                             </org-entry>
+                                        </org-entryref>

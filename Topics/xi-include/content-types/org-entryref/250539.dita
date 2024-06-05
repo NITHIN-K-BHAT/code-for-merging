@@ -1,0 +1,30 @@
+<org-entryref id="SL8961374" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8961373" slsdocid="250539" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1568" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="RADIO" usage="ewyb usac">
+                                                       <data-protection date-added="23.06.2009" ticked-box="Y" />
+                                                       <org-entry-head>
+                                                            <org-entry-name>American Forces Network Broadcast Center</org-entry-name>
+                                                            <abbr>AFN-BC</abbr>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>AFN Broadcast Center, 23755 Z St, Riverside, CA 92518</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(951) 413-2339</telephone>
+                                                            <email>dma.march.afn.list.affrel@mail.mil</email>
+                                                            <internet>myafn.dodmedia.osd.mil</internet>
+                                                       </address-block>
+                                                       <found-date>1942</found-date>
+                                                       <content-note style="NORMAL">operated by Defense Media Activity, US Dept of Defense</content-note>
+                                                       <content-note style="NORMAL">provides encrypted US radio and TV programming in English exclusively to US military and Dept of Defense civilian personnel in 175 countries and aboard US Navy ships</content-note>
+                                                       <role-group>
+                                                            <role>Dir</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Mike</forename>
+                                                                      <surname>Drumheller</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

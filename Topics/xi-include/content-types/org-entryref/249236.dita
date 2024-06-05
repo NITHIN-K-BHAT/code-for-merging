@@ -1,0 +1,30 @@
+<org-entryref id="SL7055429" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7055428" slsdocid="249236" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1313" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>WW Magazine</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>675 Ave of the Americas, 6th Floor, New York, NY 10010</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(800) 651-6000</telephone>
+                                                  <email>customerservice@weightwatchers.com</email>
+                                                  <internet>weightwatchers.com</internet>
+                                             </address-block>
+                                             <found-date>1968</found-date>
+                                             <frequency>every two months</frequency>
+                                             <role-group>
+                                                  <role>Sr Editor</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Katerina</forename>
+                                                            <surname>Savvides</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 1,121,820 (2017)</stats>
+                                        </org-entry>
+                                   </org-entryref>

@@ -1,0 +1,43 @@
+<org-entryref id="SL101432" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101431" slsdocid="78705" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.874" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS">
+                                                  <data-protection date-added="11.09.2007" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Federation of Agriculture/Fédération Canadienne de l’Agriculture</org-entry-name>
+                                                       <abbr>CFA/FCA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>21 Florence St, Ottawa, ON K2P 0W6</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 366-4721</telephone>
+                                                       <fax>(613) 236-5749</fax>
+                                                       <email>info@canadian-farmers.ca</email>
+                                                       <internet>cfa-fca.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1935</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Keith</forename>
+                                                                 <surname>Currie</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Scott</forename>
+                                                                 <surname>Ross</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>
+                      26 mems (2024
+                      
+                      )
+                    </stats>
+                                             </org-entry>
+                                        </org-entryref>

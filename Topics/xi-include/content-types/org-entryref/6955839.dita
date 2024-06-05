@@ -1,0 +1,27 @@
+<org-entryref id="SL6956059" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6956058" slsdocid="6955839" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1580898270" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Chronicle Books</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>680 2nd St, San Francisco, CA 94107</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(415) 537-4200</telephone>
+                                             <email>hello@chroniclebooks.com</email>
+                                             <internet>chroniclebooks.com</internet>
+                                        </address-block>
+                                        <found-date>1967</found-date>
+                                        <content-note style="NORMAL">fiction and non-fiction books for children and adults</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Tyrrell</forename>
+                                                       <surname>Mahoney</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

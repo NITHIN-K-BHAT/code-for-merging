@@ -1,0 +1,27 @@
+<org-entryref id="SL281224" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="281223" slsdocid="272184" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="MD.DIR.140" id-root="md.dir" iso="md" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN MOLDOVA">
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>2009 Chişinău, str. Mateevici 103</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(22) 40-83-00</telephone>
+                                             <fax>(22) 23-30-44</fax>
+                                             <email>Chisinau-Protocol-DL@state.gov</email>
+                                             <internet>md.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kent D.</forename>
+                                                       <surname>Logsdon</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

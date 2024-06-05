@@ -1,0 +1,27 @@
+<org-entryref id="SL2152159" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2152158" slsdocid="1987550" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1178899421" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Organizations and Associations">
+                                        <org-entry-head>
+                                             <org-entry-name>Independent Publishers Group</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>814 N Franklin St, Chicago, IL 60610</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 888-4741</telephone>
+                                             <fax>(312) 337-5985</fax>
+                                             <email>frontdesk@ipgbook.com</email>
+                                             <internet>ipgbook.com</internet>
+                                        </address-block>
+                                        <found-date>1971</found-date>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Joe</forename>
+                                                       <surname>Matthews</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

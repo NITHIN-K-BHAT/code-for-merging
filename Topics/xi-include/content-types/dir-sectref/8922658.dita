@@ -1,0 +1,95 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8922672" sllink="SLSDOCRF" sllinkid="8922671" slsdocid="8922658" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                         
+                         <dir-section id="CA.DIR.1708436301" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                              <heading>Stock Exchanges</heading>
+                              <org-list>
+                                   <org-entryref id="SL8922662" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922661" slsdocid="78751" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.826" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="STOCK EXCHANGES">
+                                             
+                                             <data-protection date-added="17.08.2007" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Bourse de Montréal/Montreal Exchange</org-entry-name>
+                                                  <abbr>MX</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1190 avenue des Canadiens-de-Montréal, bureau 1800, POB 37, Montréal, QC H3B 0G7</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(514) 871-2424</telephone>
+                                                  <email>info@tmx.ca</email>
+                                                  <internet>m-x.ca</internet>
+                                             </address-block>
+                                             <found-date>1874</found-date>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Luc</forename>
+                                                            <surname>Fortin</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>over 64 approved participants</stats>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL8922665" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922664" slsdocid="78749" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.828" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="STOCK EXCHANGES">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Toronto Stock Exchange</org-entry-name>
+                                                  <abbr>TSX</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>The Exchange Tower, 130 King St W, Toronto, ON M5X 1J2</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(888) 873-8392</telephone>
+                                                  <email>info@tsx.com</email>
+                                                  <internet>tsx.com</internet>
+                                             </address-block>
+                                             <found-date>1861</found-date>
+                                             <content-note style="NORMAL">owned by TMX Group</content-note>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Loui</forename>
+                                                            <surname>Anastasopoulos</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL8922669" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922668" slsdocid="78750" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.827" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="STOCK EXCHANGES">
+                                             <org-entry-head>
+                                                  <org-entry-name>TSX Venture Exchange</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>685 Centre St SW, Suite 2110, Calgary, AB T2G 1S5</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(403) 218-2800</telephone>
+                                                  <email>info@tmx.com</email>
+                                                  <internet>tsx.com</internet>
+                                             </address-block>
+                                             <found-date>1999</found-date>
+                                             <content-note style="NORMAL">fmrly Canadian Venture Exchange</content-note>
+                                             <content-note style="NORMAL">owned by Toronto Stock Exchange (TSX)</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Loui</forename>
+                                                            <surname>Anastasopoulos</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-sectref>

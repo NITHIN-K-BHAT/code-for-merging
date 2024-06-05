@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+     <booktitle>
+          <mainbooktitle>Chronology</mainbooktitle>
+     </booktitle>
+     <chapter id="ass.chron.1" navtitle="Political events in africa south of the sahara, 202223">
+          <topicref href="../../../../Topics/Region/ass/content-types/chronology/ass.chron.1.dita" navtitle="Political events in africa south of the sahara, 202223" keyscope="chronology" keys="chronology" format="dita" />
+     </chapter>
+</bookmap>

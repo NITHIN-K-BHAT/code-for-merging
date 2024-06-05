@@ -1,0 +1,28 @@
+<org-entryref id="SL1744617" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1744616" slsdocid="249183" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1363" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>August House Inc, Publishers</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>3904 N Druid Hills Rd, Suite 360, Atlanta, GA 30033</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(404) 442-4420</telephone>
+                                             <fax>(404) 442-4435</fax>
+                                             <email>info@augusthouse.com</email>
+                                             <internet>augusthouse.com</internet>
+                                        </address-block>
+                                        <found-date>1979</found-date>
+                                        <content-note style="NORMAL">South­ern US regional, history, humour and folklore</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Steve</forename>
+                                                       <surname>Floyd</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

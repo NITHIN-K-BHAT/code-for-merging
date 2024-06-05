@@ -1,0 +1,39 @@
+<org-entryref id="SL262598" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262597" slsdocid="250193" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1925" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <data-protection date-added="25.09.2008" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Wooden Pallet and Container Association</org-entry-name>
+                                                       <abbr>NWPCA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1421 Prince St, Suite 340, Alexandria, VA 22314</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(703) 519-6104</telephone>
+                                                       <fax>(703) 519-4720</fax>
+                                                       <email>info@palletcentral.com</email>
+                                                       <internet>palletcentral.com</internet>
+                                                  </address-block>
+                                                  <found-date>1946</found-date>
+                                                  <stats>over 750 mem. cos in 40 countries (2023)</stats>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Nick</forename>
+                                                                 <surname>Wenner</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Brent J.</forename>
+                                                                 <surname>McClendon</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,26 @@
+<org-entryref id="SL3920334" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3920333" slsdocid="3920318" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1356104648" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Agencia EFE</org-entry-name>
+                                                            <content-note style="NORMAL">Washington, DC</content-note>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>National Press Bldg, Suite 1220, 529 14th St, Washington, DC 20045</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(202) 745-7692</telephone>
+                                                            <email>efewsh@efe.com</email>
+                                                            <internet>efe.com</internet>
+                                                       </address-block>
+                                                       <role-group>
+                                                            <role>Gen. Delegate</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Patricia de</forename>
+                                                                      <surname>Arce</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

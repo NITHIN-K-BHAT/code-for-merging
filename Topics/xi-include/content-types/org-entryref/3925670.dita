@@ -1,0 +1,28 @@
+<org-entryref id="SL3999581" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3999580" slsdocid="3925670" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.USAC.13.23" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Energy" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Major Producers and Distributors">
+                                                  <org-entry-head>
+                                                       <org-entry-name>ATCO Ltd</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>5302 Forand St SW, Calgary, AB T3E 8B4</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(403) 292-7500</telephone>
+                                                       <email>atcocommunications@atco.com</email>
+                                                       <internet>atco.com</internet>
+                                                  </address-block>
+                                                  <found-date>1947</found-date>
+                                                  <content-note style="NORMAL">conventional thermal and hydro power, and gas</content-note>
+                                                  <content-note style="NORMAL">operates ATCO Electric and Gas cos</content-note>
+                                                  <role-group>
+                                                       <role>Chair. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Nancy C.</forename>
+                                                                 <surname>Southern</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

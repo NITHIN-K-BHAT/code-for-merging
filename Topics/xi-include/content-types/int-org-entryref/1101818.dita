@@ -1,0 +1,38 @@
+<int-org-entryref id="SL1115910" int-org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1115909" slsdocid="1101818" slsdocty="int-org-entry int-org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <int-org-entry id="WB02048.IO.TXT.200305091605" id-root="int-org_eu" iso="" print-style="COLUMN" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio">
+                    <int-org-entry-head>
+                         <int-org-name-group type="MAIN">
+                              <org-entry-name>European Ombudsman</org-entry-name>
+                         </int-org-name-group>
+                    </int-org-entry-head>
+                    <int-org-block>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>1 ave du Président Robert Schuman, BP 30403, 67001 Strasbourg Cedex, France</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">3-88-17-23-13</telephone>
+                              <internet>www.ombudsman.europa.eu</internet>
+                         </address-block>
+                         <p id="WB02047.IO.TXT.124">
+            The position was created by the Treaty on European Union (the Maastricht Treaty), and the first Ombudsman took office in July 1995. The Ombudsman is appointed by the European Parliame
+            
+            nt (EP)—from among its own members—for a renewable five-year term (to run concurrently with that of the EP). The Ombudsman is authorized to receive complaints (from EU citizens, businesses and institutions, and from anyone residing or having their legal domicile in an EU member state) regarding maladministration in Union institutions and bodies (except in the Court of Justice and the General Court), to make recommendations, and to refer any matters to the Parliament. The Ombudsman submits an annual report on their activities to the EP.
+          </p>
+                         <dir-list>
+                              <dir-entry id="WB02047.IO.TXT.125" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                   <dir-entry-name>European Ombudsman</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Emily</forename>
+                                                  <surname>O’Reilly</surname>
+                                             </person-name>
+                                             <person-note>Ireland</person-note>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                         </dir-list>
+                    </int-org-block>
+               </int-org-entry>
+          </int-org-entryref>

@@ -1,0 +1,29 @@
+<org-entryref id="SL1759852" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759851" slsdocid="78857" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.704" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <data-protection date-added="20.03.2006" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>McClelland and Stewart Ltd</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>320 Front St W, Suite 1400, Toronto, M5V 3B6</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(416) 364-4449</telephone>
+                                             <email>customerservicescanada@penguinrandomhouse.com</email>
+                                             <internet>bit.ly/2TtPDXx</internet>
+                                        </address-block>
+                                        <found-date>1906</found-date>
+                                        <content-note style="NORMAL">owned by Penguin Random House Canada</content-note>
+                                        <content-note style="NORMAL">trade</content-note>
+                                        <role-group>
+                                             <role>Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Stephanie</forename>
+                                                       <surname>Sinclair</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

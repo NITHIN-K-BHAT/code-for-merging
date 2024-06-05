@@ -1,0 +1,33 @@
+<org-entryref id="SL1743711" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1743710" slsdocid="249199" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1348" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NATIONAL ASSOCIATIONS" usage="ewyb usac">
+                                             <data-protection date-added="11.08.2009" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Community of Literary Magazines and Presses</org-entry-name>
+                                                  <abbr>CLMP</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        154 Christopher St, Suite 3
+                        <sc>c</sc>
+                        , New York, NY 10014
+                      </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 741-9110</telephone>
+                                                  <email>info@clmp.org</email>
+                                                  <internet>clmp.org</internet>
+                                             </address-block>
+                                             <found-date>1967</found-date>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Mary</forename>
+                                                            <surname>Gannon</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>over 1,000 mems (2023)</stats>
+                                        </org-entry>
+                                   </org-entryref>

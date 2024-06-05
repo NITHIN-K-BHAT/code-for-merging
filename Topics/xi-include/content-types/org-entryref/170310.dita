@@ -1,0 +1,26 @@
+<org-entryref id="SL188558" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="188557" slsdocid="170310" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="EG.DIR.264" id-root="eg.dir" iso="eg" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN EGYPT">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>5 Sharia Tawfik Diab, Cairo (Garden City)</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 27973300</telephone>
+                                             <fax>(2) 27973200</fax>
+                                             <email>pressinfoegypt@state.gov</email>
+                                             <internet>eg.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Herro Mustafa</forename>
+                                                       <surname>Garg</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

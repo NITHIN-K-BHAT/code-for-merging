@@ -1,0 +1,28 @@
+<org-entryref id="SL117738" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="117737" slsdocid="88520" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="ES.DIR.317" id-root="es.dir" iso="es" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN SPAIN">
+                                        
+                                        <data-protection date-added="09.08.2005" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Serrano 75, 28006 Madrid</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">915872200</telephone>
+                                             <fax>915872303</fax>
+                                             <email>amemb@embusa.es</email>
+                                             <internet>es.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Julissa</forename>
+                                                       <surname>Reynoso</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

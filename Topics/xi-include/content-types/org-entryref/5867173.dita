@@ -1,0 +1,28 @@
+<org-entryref id="SL8822670" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8822669" slsdocid="5867173" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="AM.DIR.1502194645" id-root="am.dir" iso="am" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agency">
+                                        <org-entry-head>
+                                             <org-entry-name>ArtsakhPress</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Yerevan</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(374) 96-04-06</telephone>
+                                             <email>info@artsakhpress.am</email>
+                                             <internet>artsakhpress.am</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">in Armenian, Russian and English</content-note>
+                                        <content-note style="NORMAL">previously based in Stepanakert, `Republic of Nagornyi Karabakh (Artsakh)’</content-note>
+                                        <content-note style="NORMAL">relocated to Yerevan 2023</content-note>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Vahram</forename>
+                                                       <surname>Poghosyan</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

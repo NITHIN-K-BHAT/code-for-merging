@@ -1,0 +1,38 @@
+<org-entryref id="SL1741132" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741131" slsdocid="249609" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.919" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <data-protection date-added="12.09.2007" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Daily Breeze</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2615 Pacific Coast Hwy, Suite 329, Hermosa Beach, CA 90254</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(310) 540-5511</telephone>
+                                                       <email>newsroom@dailybreeze.com</email>
+                                                       <internet>dailybreeze.com</internet>
+                                                  </address-block>
+                                                  <found-date>1894</found-date>
+                                                  <content-note style="NORMAL">owned by Digital First Media</content-note>
+                                                  <frequency>Mon. to Sat. evening, Sun. morning</frequency>
+                                                  <role-group>
+                                                       <role>Pres. and Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ronald C.</forename>
+                                                                 <surname>Hasse</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Frank</forename>
+                                                                 <surname>Pine</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

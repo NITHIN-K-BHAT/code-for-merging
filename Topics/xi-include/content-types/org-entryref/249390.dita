@@ -1,0 +1,30 @@
+<org-entryref id="SL1742215" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1742214" slsdocid="249390" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1172" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Post-Crescent</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>
+                          222 W College Ave, Suite 10
+                          <sc>a</sc>
+                          , Appleton, WI 54911
+                        </verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(920) 993-1000</telephone>
+                                                       <email>pcnews@postcrescent.com</email>
+                                                       <internet>postcrescent.com</internet>
+                                                  </address-block>
+                                                  <found-date>1920</found-date>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Larry</forename>
+                                                                 <surname>Gallup</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

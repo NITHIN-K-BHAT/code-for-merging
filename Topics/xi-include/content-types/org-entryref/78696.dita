@@ -1,0 +1,36 @@
+<org-entryref id="SL101448" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101447" slsdocid="78696" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.883" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Institute of Steel Construction</org-entry-name>
+                                                       <abbr>CISC-ICCA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>445 Apple Creek Blvd, Suite 102, Markham, ON L3R 9X7</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(905) 604-3231</telephone>
+                                                       <email>info@cisc-icca.ca</email>
+                                                       <internet>cisc-icca.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1930</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tim</forename>
+                                                                 <surname>Houtsma</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres.and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ed</forename>
+                                                                 <surname>Whalen</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

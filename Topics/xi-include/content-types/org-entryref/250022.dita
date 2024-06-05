@@ -1,0 +1,29 @@
+<org-entryref id="SL6891334" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891333" slsdocid="250022" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.2104A" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                             <data-protection date-added="08.10.2008" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Federal Railroad Administration</org-entry-name>
+                                                  <abbr>FRA</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Dept of Transportation, 1200 New Jersey Ave, SE, Washington, DC 20590</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 493-6014</telephone>
+                                                  <fax>(202) 493-6481</fax>
+                                                  <email>frapa@dot.gov</email>
+                                                  <internet>railroads.dot.gov</internet>
+                                             </address-block>
+                                             <found-date>1966</found-date>
+                                             <role-group>
+                                                  <role>Admin.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Amit</forename>
+                                                            <surname>Bose</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

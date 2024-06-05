@@ -1,0 +1,27 @@
+<org-entryref id="SL3920252" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3920251" slsdocid="3920127" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1356102729" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Agence France-Presse</org-entry-name>
+                                                            <abbr>AFP</abbr>
+                                                            <content-note style="NORMAL">Washington, DC</content-note>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>Southern Railway Bldg, 1500 K St, NW, Suite 600, Washington, DC 20005</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(202) 414-0600</telephone>
+                                                            <internet>www.afp.com</internet>
+                                                       </address-block>
+                                                       <content-note style="NORMAL">brs in Chicago, Los Angeles, Miami and New York</content-note>
+                                                       <role-group>
+                                                            <role>Dir, N America</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Marc</forename>
+                                                                      <surname>Lavine</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

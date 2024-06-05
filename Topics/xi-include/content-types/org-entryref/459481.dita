@@ -1,0 +1,28 @@
+<org-entryref id="SL316308" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="316307" slsdocid="459481" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="MH.DIR.49" id-root="mh.dir" iso="mh" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN THE MARSHALL ISLANDS">
+                                        <data-protection date-added="04.09.2007" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Mejen Weto, Ocean Side, POB 1379, Majuro, MH 96960</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(247) 4011</telephone>
+                                             <fax>(247) 4012</fax>
+                                             <email>MAJConsular@state.gov</email>
+                                             <internet>mh.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chargé d’affaires a.i.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Lance</forename>
+                                                       <surname>Posey</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        
+                                   </org-entry>
+                              </org-entryref>

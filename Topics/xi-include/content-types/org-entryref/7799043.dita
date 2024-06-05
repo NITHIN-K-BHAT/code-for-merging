@@ -1,0 +1,28 @@
+<org-entryref id="SL7799168" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799167" slsdocid="7799043" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637847859" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        <data-protection date-added="04.10.2006" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Kensington Publishing Corpn</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>119 W 40th St, New York, NY 10018</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 221-2647</telephone>
+                                             <internet>www.kensingtonbooks.com</internet>
+                                        </address-block>
+                                        <found-date>1975</found-date>
+                                        <content-note style="NORMAL">mass-market, fiction and non-fiction</content-note>
+                                        <content-note style="NORMAL">imprints include Zebra (romance, westerns, horror and humour), Pinnacle (thrillers, etc.), Citadel (non-fiction), Aphrodisia (f. 2006, erotica), Dafina (African American writing) and Holloway House Classics (African American fiction and non-fiction)</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Steven</forename>
+                                                       <surname>Zacharius</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL89958" sllink="SLSDOCRF" sllinkid="89957" slsdocid="73702" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="AO.DIR.244" id-root="ao.dir" iso="ao" sect-type="publishers" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                    <heading>Publishers</heading>
+                    <org-list>
+                         <org-entryref id="SL1561855" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1561854" slsdocid="1561734" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="AO.DIR.1143797839" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <data-protection date-added="12.08.2008" ticked-box="N" />
+                                   <org-entry-head>
+                                        <org-entry-name>Plural Editores Angola</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Centro Logístico de Talatona, Loja C-3, Município de Belas, Luanda</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">959103459</telephone>
+                                        <email>plural@pluraleditores.co.ao</email>
+                                        <internet>www.pluraleditores.co.ao</internet>
+                                   </address-block>
+                                   <found-date>2005</found-date>
+                                   <content-note style="NORMAL">100% owned by Porto Editora (Portugal)</content-note>
+                                   <content-note style="NORMAL">technical and educational</content-note>
+                                   <role-group>
+                                        <role>Dir-Gen.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Paulo Machado</forename>
+                                                  <surname>Ribeiro</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL1463711" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1463710" slsdocid="1463678" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="AO.DIR.1136823669" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--VD 02.02.2023 domain expired; replaced with FB page-->
+                                   <!--SS contacto@ueangola.com does not work, could not find an alternative email.-->
+                                   <!--Union of Angolan Writers-->
+                                   <org-entry-head>
+                                        <org-entry-name>União dos Escritores Angolanos</org-entry-name>
+                                        <abbr>UEA</abbr>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Largo das Escolas, Luanda</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">222322421</telephone>
+                                        <internet>fb.com/LivrosAngolanos</internet>
+                                   </address-block>
+                                   <found-date>1975</found-date>
+                                   <role-group>
+                                        <role>Sec.-Gen</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>David</forename>
+                                                  <surname>Capelenguela</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+                    <dir-section id="AO.DIR.249" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>Government Publishing House</heading>
+                         <org-list>
+                              <org-entryref id="SL94122" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94121" slsdocid="73897" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.250" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Government Publishing House">
+                                        <!--VD 02.02.2023 URL exists but unable to reach; confirmed from secondary sources-->
+                                        <org-entry-head>
+                                             <org-entry-name>Imprensa Nacional, UEE</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Henrique de Carvalho 2, Cidade Alta, Ingombota, CP 1306, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222336139</telephone>
+                                             <email>geral.comercial@imprensanacional.gov.ao</email>
+                                             <internet>www.imprensanacional.gov.ao</internet>
+                                        </address-block>
+                                        <found-date>1845</found-date>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Lando Sebastião</forename>
+                                                       <surname>Teta</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

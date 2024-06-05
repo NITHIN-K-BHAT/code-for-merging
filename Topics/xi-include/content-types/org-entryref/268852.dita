@@ -1,0 +1,26 @@
+<org-entryref id="SL276168" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="276167" slsdocid="268852" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="AM.DIR.145" id-root="am.dir" iso="am" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ARMENIA">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>0082 Yerevan, Amerikan poghots 1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(10) 46-47-00</telephone>
+                                             <fax>(10) 46-47-42</fax>
+                                             <email>webmasteryerevan@state.gov</email>
+                                             <internet>am.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kristina A.</forename>
+                                                       <surname>Kvien</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

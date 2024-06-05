@@ -1,0 +1,26 @@
+<org-entryref id="SL52830" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="52829" slsdocid="51529" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="ca" id="HU.DIR.140" id-root="hu.dir" iso="hu" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN HUNGARY">
+                                        <org-entry-head>
+                                             <org-entry-name>Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1027 Budapest, Ganz u. 12–14</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 392-3360</telephone>
+                                             <fax>(1) 392-3390</fax>
+                                             <email>bpest@international.gc.ca</email>
+                                             <internet>www.international.gc.ca/country-pays/hungary-hongrie/budapest.aspx</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>François</forename>
+                                                       <surname>Lafrenière</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

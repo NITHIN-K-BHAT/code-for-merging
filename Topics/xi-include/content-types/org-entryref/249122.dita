@@ -1,0 +1,28 @@
+<org-entryref id="SL1745034" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745033" slsdocid="249122" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1418" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="12.09.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Hoover Institution Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>434 Galvez Mall, Stanford University, Stanford, CA 94305-6003</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(650) 723-3373</telephone>
+                                             <email>hooverpress@stanford.edu</email>
+                                             <internet>www.hoover.org/publications/hooverpress</internet>
+                                        </address-block>
+                                        <found-date>1962</found-date>
+                                        <content-note style="NORMAL">scholarly</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Condoleezza</forename>
+                                                       <surname>Rice</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

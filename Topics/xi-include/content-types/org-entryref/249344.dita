@@ -1,0 +1,32 @@
+<org-entryref id="SL260698" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260697" slsdocid="249344" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1214" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Entertainment Weekly</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>11766 Wilshire Blvd, 18th Floor, Los Angeles, CA 90025</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 522-5600</telephone>
+                                                  <fax>(212) 522-4482</fax>
+                                                  <email>editorial@ew.com</email>
+                                                  <internet>ew.com</internet>
+                                             </address-block>
+                                             <found-date>1990</found-date>
+                                             <frequency>monthly</frequency>
+                                             <content-note style="NORMAL">publ. by Meredith Corpn</content-note>
+                                             <role-group>
+                                                  <role>Exec. Editor</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Patrick</forename>
+                                                            <surname>Gomez</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 1,506,794 (Dec. 2021)</stats>
+                                        </org-entry>
+                                   </org-entryref>

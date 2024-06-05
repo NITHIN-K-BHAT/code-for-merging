@@ -1,0 +1,34 @@
+<org-entryref id="SL1770132" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1770131" slsdocid="1769922" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <org-entry id="US.DIR.1161186298" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                   <org-entry-head>
+                                        <org-entry-name>Democratic Socialists of America</org-entry-name>
+                                        <abbr>DSA</abbr>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>POB 1038, New York, NY 10272</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(212) 727-8610</telephone>
+                                        <email>media@dsausa.org</email>
+                                        <internet>dsausa.org</internet>
+                                   </address-block>
+                                   <found-date>1983 by merger of the Democratic Socialist Organizing Cttee (f. 1972) and New American Movt (f. 1972)</found-date>
+                                   <content-note style="NORMAL">mem. of Socialist International</content-note>
+                                   <role-group>
+                                        <role>Co-Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Ashik</forename>
+                                                  <surname>Siddique</surname>
+                                             </person-name>
+                                        </person>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Megan</forename>
+                                                  <surname>Romer</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>

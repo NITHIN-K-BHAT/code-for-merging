@@ -1,0 +1,27 @@
+<org-entryref id="SL1741243" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741242" slsdocid="249573" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.957" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Miami Herald</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>11410 NW 20th St, Suite 222, Sweetwater Fl, 33172</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(305) 350-2111</telephone>
+                                                       <email>customerservice@mcclatchy.com</email>
+                                                       <internet>miamiherald.com</internet>
+                                                  </address-block>
+                                                  <found-date>1910</found-date>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Monica</forename>
+                                                                 <surname>Richardson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 73,181, Sun. 100,598 (2020)</stats>
+                                             </org-entry>
+                                        </org-entryref>

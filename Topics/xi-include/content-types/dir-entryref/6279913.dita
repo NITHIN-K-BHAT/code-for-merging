@@ -1,0 +1,15 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6580529" sllink="SLSDOCRF" sllinkid="6580528" slsdocid="6279913" slsdocty="dir-entry dir-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <dir-entry id="RU-BU.2" id-root="ru.dir" iso="ru" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                             <dir-entry-name>Head of the Republic</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Aleksei S.</forename>
+                                                            <surname>Tsydenov</surname>
+                                                       </person-name>
+                                                  </person>
+                                                  
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>

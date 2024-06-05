@@ -1,0 +1,27 @@
+<org-entryref id="SL3919563" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3919562" slsdocid="3919510" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.USAC.39.23" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="National Associations" usage="usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>National Press Club</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>13th Floor, 529 14th St, NW, Washington, DC 20045</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 662-7500</telephone>
+                                                  <email>bookings@press.org</email>
+                                                  <internet>press.org</internet>
+                                             </address-block>
+                                             <found-date>1908</found-date>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Eileen</forename>
+                                                            <surname>O’Reilly</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>c. 3,100 mems (2018)</stats>
+                                        </org-entry>
+                                   </org-entryref>

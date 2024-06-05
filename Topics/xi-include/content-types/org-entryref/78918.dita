@@ -1,0 +1,19 @@
+<org-entryref id="SL1759624" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759623" slsdocid="78918" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.639" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Sélection du Reader’s Digest</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address> Stn Main, POB 963, Markham, ON L3P 0J4</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(866) 659-2887</telephone>
+                                                       <email>customer.service@readersdigest.com</email>
+                                                       <internet>selection.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1947</found-date>
+                                                  <frequency>monthly</frequency>
+                                                  <content-note style="NORMAL">French language edn</content-note>
+                                             </org-entry>
+                                        </org-entryref>

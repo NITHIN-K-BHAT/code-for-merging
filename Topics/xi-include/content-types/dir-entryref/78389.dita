@@ -1,0 +1,14 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL102132" sllink="SLSDOCRF" sllinkid="102131" slsdocid="78389" slsdocty="dir-entry dir-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <dir-entry id="CA.DIR.95" id-root="ca.dir" iso="ca" section="Provincial Legislatures" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="BRITISH COLUMBIA">
+                                        <dir-entry-name>Lieutenant Governor</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Janet</forename>
+                                                       <surname>Austin</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>

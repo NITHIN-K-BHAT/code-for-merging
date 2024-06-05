@@ -1,0 +1,38 @@
+<org-entryref id="SL1741385" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741384" slsdocid="249539" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.992" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>The Times</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>601 W 45th Ave, Munster, IN 46321</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(219) 933-3200</telephone>
+                                                       <fax>(219) 933-3325</fax>
+                                                       <email>circadmin@nwi.com</email>
+                                                       <internet>nwitimes.com</internet>
+                                                  </address-block>
+                                                  <found-date>1906</found-date>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Christopher T.</forename>
+                                                                 <surname>White</surname>
+                                                                 <gen-name>Jr</gen-name>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Joseph</forename>
+                                                                 <surname>Hosey</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 36,224, Sun. 42,793 (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

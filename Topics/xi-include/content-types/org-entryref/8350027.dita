@@ -1,0 +1,35 @@
+<org-entryref id="SL8362699" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8362698" slsdocid="8350027" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.1670314176" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Political Organisations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PROVINCIAL AND TERRITORIAL PARTIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Liberal Party of Newfoundland and Labrador</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>510 Topsail Rd, Suite 115–116, St John's, NL A1E 2C2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(709) 754-1813</telephone>
+                                             <email>info@nlliberals.ca</email>
+                                             <internet>nlliberals.ca</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">affiliated to Liberal Party of Canada</content-note>
+                                        <role-group>
+                                             <role>Leader</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Andrew</forename>
+                                                       <surname>Furey</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ashley</forename>
+                                                       <surname>Power-Stack</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

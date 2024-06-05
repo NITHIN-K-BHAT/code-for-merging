@@ -1,0 +1,38 @@
+<org-entryref id="SL262462" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262461" slsdocid="250267" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1850" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Community Pharmacists Association</org-entry-name>
+                                                       <abbr>NCPA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>100 Daingerfield Rd, Alexandria, VA 22314</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(703) 683-8200</telephone>
+                                                       <fax>(703) 683-3619</fax>
+                                                       <email>webteam@ncpa.org</email>
+                                                       <internet>ncpa.org</internet>
+                                                  </address-block>
+                                                  <found-date>1898</found-date>
+                                                  <stats>represents over 19,400 pharmacies (2023)</stats>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Hugh M.</forename>
+                                                                 <surname>Chancy</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>B. Douglas</forename>
+                                                                 <surname>Hoey</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

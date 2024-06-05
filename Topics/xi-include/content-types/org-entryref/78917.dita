@@ -1,0 +1,30 @@
+<org-entryref id="SL1759631" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759630" slsdocid="78917" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.640" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="usac">
+                                                  <data-protection date-added="10.08.2015" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>La Terre de Chez Nous</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>555 blvd Roland-Therrien, bureau 100, Longueuil, QC J4H 3Y9</verbatim-address>
+                                                       </address>
+                                                       <fax>(450) 670-4788</fax>
+                                                       <email>redaction@laterre.ca</email>
+                                                       <internet>laterre.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1929</found-date>
+                                                  <frequency>weekly</frequency>
+                                                  <content-note style="NORMAL">agriculture and forestry</content-note>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ariane</forename>
+                                                                 <surname>Desrochers</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 15,993 (June 2022)</stats>
+                                             </org-entry>
+                                        </org-entryref>

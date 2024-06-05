@@ -1,0 +1,29 @@
+<org-entryref id="SL3930902" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3930901" slsdocid="3930843" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="CA.DIR.USAC.32.117" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Publishers’ Organizations and Associations" usage="usac">
+                                             <data-protection date-added="05.08.2005" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Association of Book Publishers of British Columbia</org-entry-name>
+                                                  <abbr>ABPBC</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>402 W Pender St, Suite 600, Vancouver, BC V6B 1T6</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(604) 684-0228</telephone>
+                                                  <email>admin@books.bc.ca</email>
+                                                  <internet>books.bc.ca</internet>
+                                             </address-block>
+                                             <found-date>1974</found-date>
+                                             <content-note style="NORMAL">affiliated to ACP</content-note>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Leslie</forename>
+                                                            <surname>Bootle</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

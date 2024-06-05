@@ -1,0 +1,411 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL89956" sllink="SLSDOCRF" sllinkid="89955" slsdocid="73703" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="AO.DIR.212" id-root="ao.dir" iso="ao" sect-type="press" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                    <heading>The Press</heading>
+                    <dir-section id="AO.DIR.110320211723" sllink="SLSDOC" slsdocrf="DIR-SECTREF">
+                         <heading>State-owned Newspaper Group</heading>
+                         <org-list>
+                              <org-entryref id="SL7455180" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7455179" slsdocid="7455140" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1615462628" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Edições Novembro</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Rainha Ginga 12-26, CP 1312, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">261224215</telephone>
+                                             <email>ednovembro.dg@nexus.ao</email>
+                                             <internet>fb.com/edicoesnovembro</internet>
+                                        </address-block>
+                                        <found-date>1923</found-date>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Drumond Alcides</forename>
+                                                       <surname>Jaime Mafuta</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="AO.DIR.214" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>Daily Newspapers (Print and Online)</heading>
+                         <org-list>
+                              <org-entryref id="SL94126" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="487801" slsdocid="73933" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.216" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="DAILIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Jornal de Angola</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Rainha Ginga 12–26, CP 1312, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222036578</telephone>
+                                             <email>redaccao@jornaldeangola.ao</email>
+                                             <internet>www.jornaldeangola.ao</internet>
+                                        </address-block>
+                                        <found-date>1975</found-date>
+                                        <content-note style="NORMAL">publ. by Edições Novembro</content-note>
+                                        <content-note style="NORMAL">state-owned</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Drumond Alcides</forename>
+                                                       <surname>Jaime Mafuta</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL5480617" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5480616" slsdocid="3206475" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1290581410" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals">
+                                        <org-entry-head>
+                                             <org-entry-name>O País</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua do MAT, Condomínio Alfa, Edif. 6, Talatona, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">943023747</telephone>
+                                             <email>comercial@medianova.co.ao</email>
+                                             <internet>opais.co.ao</internet>
+                                        </address-block>
+                                        <found-date>2008</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Daniel</forename>
+                                                       <surname>Costa</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="AO.DIR.218" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>Periodicals</heading>
+                         <org-list>
+                              <org-entryref id="SL1096115" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1096114" slsdocid="1096102" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1100275582" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERIODICALS">
+                                        <!--VD 13.09.2022 www.apostoladoangola.org leading elsewhere; not confirmed; fb page not up to date https://www.facebook.com/JornalOApostolado/-->
+                                        <data-protection date-added="08.08.2008" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>O Apostolado</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Comandante Bula 118, São Paulo, CP 3579, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222443093</telephone>
+                                             <email>jornalapostolado@gmail.com</email>
+                                        </address-block>
+                                        <found-date>1935</found-date>
+                                        <content-note style="NORMAL">current and religious affairs</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Maurício Agostinho</forename>
+                                                       <surname>Camuto</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3206502" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3206501" slsdocid="3206407" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1290576897" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals">
+                                        <data-protection date-added="15.06.2021" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Chocolate</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Condomínio Alpha Escritórios, Edif. 5, Talatona, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222398565</telephone>
+                                             <email>gerson.iven@chocolate.co.ao</email>
+                                             <internet>www.chocolate.co.ao</internet>
+                                        </address-block>
+                                        <found-date>2005</found-date>
+                                        <frequency>monthly</frequency>
+                                        <content-note style="NORMAL">publ. by Media Nova</content-note>
+                                        <content-note style="NORMAL">lifestyle</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gerson</forename>
+                                                       <surname>Iven</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4754031" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4754030" slsdocid="73917" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.231" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Cultura</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222337690</telephone>
+                                             <internet>www.jornaldeangola.ao</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir and Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>José Luís</forename>
+                                                       <surname>Mendonça</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL6749210" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6749209" slsdocid="73934" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.215" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERIODICALS">
+                                        <!--VD 13.09.2022: https://gazettes.africa/archive/ao/2020/ao-government-gazette-dated-2020-11-11-no-179.pdf-->
+                                        <!--www.imprensanacional.gov.ao/index.php?id=81-->
+                                        <org-entry-head>
+                                             <org-entry-name>Diário da República</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Henrique de Carvalho 2, Cidade Alta, CP 1306, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">217810870</telephone>
+                                        </address-block>
+                                        <content-note style="NORMAL">official govt bulletin</content-note>
+                                        <content-note style="NORMAL">joint initiative by Imprensa Nacional EP and Edições Jurídicas Lda</content-note>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4754005" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4754004" slsdocid="73922" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.227" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERIODICALS">
+                                        <!--PC 07.12.2018 could not confirm address-->
+                                        <org-entry-head>
+                                             <org-entry-name>Economia and Finanças</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      Rua Rei Katyavala 126
+                      <sc>b</sc>
+                      , Ingombota, Luanda
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222447354</telephone>
+                                             <email>redaccaoeconomia@gmail.com</email>
+                                             <internet>www.jornaldeangola.ao</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Agostinho</forename>
+                                                       <surname>Chitata</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3206508" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3206507" slsdocid="3206449" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1290580647" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals">
+                                        <!--VD 26.05.2020 details for angola not found-->
+                                        <!--PC 07.12.2018 no recent updates about the role group-->
+                                        <org-entry-head>
+                                             <org-entry-name>EXAME Angola</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Zona Residencial ZR6-B, Lote 32, Sector de Talatona, Luanda Sul</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222003275</telephone>
+                                             <email>exameangola@gmail.com</email>
+                                             <internet>exame.com</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jaime</forename>
+                                                       <surname>Fidalgo</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL94136" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94135" slsdocid="73926" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.223" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERIODICALS">
+                                        <!--VD 13.09.2022 not sure about editor-->
+                                        <!--VD 26.05.2020 failed email: folha8@ebonet.net removed-->
+                                        <org-entry-head>
+                                             <org-entry-name>Folha 8</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Apt 19, 5° andar, Rua Conselheiro Júlio de Vilhena 21, CP 6527, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222391943</telephone>
+                                             <email>kuibao@hotmail.com</email>
+                                             <internet>jornalf8.net</internet>
+                                        </address-block>
+                                        <found-date>1994</found-date>
+                                        <frequency>bi-weekly</frequency>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>William</forename>
+                                                       <surname>Tonet</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Pedro</forename>
+                                                       <surname>Teca</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL289279" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="289278" slsdocid="289232" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1009" id-root="ao" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERIODICALS" usage="ewyb ass">
+                                        <data-protection date-added="25.05.2004" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Jornal dos Desportos</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Rainha Ginga 18–24, CP 1312, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222335531</telephone>
+                                             <email>jornaldosdesportos@hotmail.com</email>
+                                             <internet>www.jornaldeangola.ao</internet>
+                                        </address-block>
+                                        <found-date>1994</found-date>
+                                        <frequency>bi-weekly</frequency>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Matias</forename>
+                                                       <surname>Adriano</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4754069" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4754068" slsdocid="73916" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.232" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERIODICALS">
+                                        <org-entry-head>
+                                             <org-entry-name>Novo Jornal</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Edif. Condomínio Bengo, Bloco B, Escritórios 01, Vila Alice, Rua Fernão Sousa, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">921358582</telephone>
+                                             <email>geral@novojornal.co.ao</email>
+                                             <internet>novojornal.co.ao</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Carlos</forename>
+                                                       <surname>Ferreira</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-section id="AO.DIR.233" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                         <heading>News Agencies</heading>
+                         <org-list>
+                              <org-entryref id="SL94156" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94155" slsdocid="73914" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.234" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NEWS AGENCIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Agência Angola Press</org-entry-name>
+                                             <abbr>ANGOP</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Rei Katyavala 120/122, CP 2181, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">222446901</telephone>
+                                             <email>comercial@angop.ao</email>
+                                             <internet>www.angop.ao</internet>
+                                        </address-block>
+                                        <found-date>1975 as Agência Nacional Angola Press (ANAP)</found-date>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Josué Salusuva</forename>
+                                                       <surname>Isaías</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL961496" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="961495" slsdocid="961493" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="AO.DIR.1088683021" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies">
+                                        <org-entry-head>
+                                             <org-entry-name>Centro de Imprensa Anibal de Melo</org-entry-name>
+                                             <abbr>CIAM</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rua Cerqueira Lukoki 124, CP 2805, Luanda</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">922259272</telephone>
+                                             <email>geral@ciam.gov.ao</email>
+                                             <internet>www.ciam.gov.ao</internet>
+                                        </address-block>
+                                        <found-date>1976</found-date>
+                                        <content-note style="NORMAL">govt press centre</content-note>
+                                        <role-group>
+                                             <role>Dir-Gen.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>António Rodrigues</forename>
+                                                       <surname>Mascarenhas</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+               </dir-section>
+          </dir-sectref>
+          

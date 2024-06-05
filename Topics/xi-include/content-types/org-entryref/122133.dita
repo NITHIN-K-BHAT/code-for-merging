@@ -1,0 +1,27 @@
+<org-entryref id="SL142193" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="142192" slsdocid="122133" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry country-id="ca" id="GB-GBN.DIR.197" id-root="gb-gbn.dir" iso="gb-gbn" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES AND HIGH COMMISSIONS IN THE UNITED KINGDOM">
+                                             <data-protection date-added="17.07.2012" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Canada</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Canada House, Trafalgar Sq., London, SW1Y 5BJ</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(20) 7004-6000</telephone>
+                                                  <fax>(20) 7004-6050</fax>
+                                                  <email>ldn@international.gc.ca</email>
+                                                  <internet>www.canadainternational.gc.ca/united_kingdom-royaume_uni/index.aspx</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>High Commissioner</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Ralph</forename>
+                                                            <surname>Goodale</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

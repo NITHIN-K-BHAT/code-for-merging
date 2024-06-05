@@ -1,0 +1,37 @@
+<org-entryref id="SL3919757" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3919756" slsdocid="3919718" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.USAC.39.29" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="National Associations" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Overseas Press Club of America</org-entry-name>
+                                                  <abbr>OPC</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>40 W 45th St, New York, NY 10036</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 626-9220</telephone>
+                                                  <email>info@opcofamerica.org</email>
+                                                  <internet>opcofamerica.org</internet>
+                                             </address-block>
+                                             <found-date>1939</found-date>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Scott</forename>
+                                                            <surname>Kraft</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Patricia</forename>
+                                                            <surname>Kranz</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>c. 400 mems (2023)</stats>
+                                        </org-entry>
+                                   </org-entryref>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+    <booktitle>
+        <mainbooktitle>Europa World Country</mainbooktitle>
+    </booktitle>
+
+    <chapter href="./Region/ass/ass.ditamap" navtitle="Ass" format="ditamap"/>
+    <chapter href="./Region/casee/casee.ditamap" navtitle="Casee" format="ditamap"/>
+    <chapter href="./Region/eerca/eerca.ditamap" navtitle="Eerca" format="ditamap"/>
+    <chapter href="./Region/fea/fea.ditamap" navtitle="Fea" format="ditamap"/>
+    <chapter href="./Region/mena/mena.ditamap" navtitle="Mena" format="ditamap"/>
+    <chapter href="./Region/sacac/sacac.ditamap" navtitle="Sacac" format="ditamap"/>
+    <chapter href="./Region/sasia/sasia.ditamap" navtitle="Sasia" format="ditamap"/>
+    <chapter href="./Region/usac/usac.ditamap" navtitle="Usac" format="ditamap"/>
+    <chapter href="./Region/we/we.ditamap" navtitle="We" format="ditamap"/>
+    <chapter href="./international-organization/international-organization.ditamap"
+        navtitle="Int Org" format="ditamap"/>
+    <chapter href="./xi-include/xi-include.ditamap"
+        navtitle="XI include" format="ditamap"/>
+</bookmap>

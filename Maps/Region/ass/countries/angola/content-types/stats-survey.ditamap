@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+     <booktitle>
+          <mainbooktitle>Stats survey</mainbooktitle>
+     </booktitle>
+     <chapter id="ao.ss" navtitle="Statistical survey">
+          <topicref href="../../../../../../Topics/Region/ass/countries/angola/content-types/stats-survey/ao.ss.dita" navtitle="Statistical survey" keyscope="stats-survey" keys="stats-survey" format="dita" />
+     </chapter>
+</bookmap>

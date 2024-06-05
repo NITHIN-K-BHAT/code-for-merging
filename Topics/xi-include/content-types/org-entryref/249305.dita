@@ -1,0 +1,39 @@
+<org-entryref id="SL260770" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260769" slsdocid="249305" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1250" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Marie Claire</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>300 W 57th St, 34th Floor, New York, NY 10019</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 841-8403</telephone>
+                                                  <email>marieclairepr@futurenet.com</email>
+                                                  <internet>marieclaire.com</internet>
+                                             </address-block>
+                                             <found-date>1994</found-date>
+                                             <frequency>monthly</frequency>
+                                             <content-note style="NORMAL">online only since 2022</content-note>
+                                             <role-group>
+                                                  <role>Publr</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Blair</forename>
+                                                            <surname>Hecht</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Nikki</forename>
+                                                            <surname>Ogunnaike</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 900,486 (June 2021)</stats>
+                                        </org-entry>
+                                   </org-entryref>

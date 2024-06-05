@@ -1,0 +1,29 @@
+<org-entryref id="SL4254120" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4254119" slsdocid="4254068" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.1382509124" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Harbour Publishing</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>POB 219, Madeira Park, BC V0N 2H0</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(604) 883-2730</telephone>
+                                             <fax>(604) 883-9451</fax>
+                                             <email>info@harbourpublishing.com</email>
+                                             <internet>harbourpublishing.com</internet>
+                                        </address-block>
+                                        <found-date>1974</found-date>
+                                        <content-note style="NORMAL">general interest</content-note>
+                                        <content-note style="NORMAL">subsidiaries incl. Douglas &amp; McIntyre</content-note>
+                                        <role-group>
+                                             <role>Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Howard</forename>
+                                                       <surname>White</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

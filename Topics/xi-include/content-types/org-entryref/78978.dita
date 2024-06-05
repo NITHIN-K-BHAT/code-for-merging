@@ -1,0 +1,33 @@
+<org-entryref id="SL8795634" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8795633" slsdocid="78978" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.579" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Pivot Magazine</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>277 Wellington St W, Toronto, ON M5V 3H2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 977-3222</telephone>
+                                                       <fax>(416) 977-8585</fax>
+                                                       <email>customerservice@cpacanada.ca</email>
+                                                       <internet>bit.ly/49mqjs0</internet>
+                                                  </address-block>
+                                                  <found-date>2014</found-date>
+                                                  <content-note style="NORMAL">publ. by Chartered Professional Accountants of Canada</content-note>
+                                                  <content-note style="NORMAL">
+                      also 
+                      <i>CPA Magazine</i>
+                                                  </content-note>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Paul</forename>
+                                                                 <surname>Ferriss</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 254,536 (2017)</stats>
+                                             </org-entry>
+                                        </org-entryref>

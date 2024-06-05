@@ -1,0 +1,29 @@
+<org-entryref id="SL8961334" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8961333" slsdocid="1405384" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1127383751" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Radio" usage="ewyb usac">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Audacy, Inc</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>2400 Market St, 4th Floor, Philadelphia, PA 19103</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(610) 660-5610</telephone>
+                                                            <email>corpcomms@audacy.com</email>
+                                                            <internet>audacyinc.com</internet>
+                                                       </address-block>
+                                                       <found-date>1968</found-date>
+                                                       <content-note style="NORMAL">fmrly CBS Radio, subsequently Entercom Communications Corpn</content-note>
+                                                       <content-note style="NORMAL">present name adopted 2021</content-note>
+                                                       <stats>operates 235 radio stations</stats>
+                                                       <role-group>
+                                                            <role>Chair., Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename> David</forename>
+                                                                      <surname>Field</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

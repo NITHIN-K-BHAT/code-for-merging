@@ -1,0 +1,28 @@
+<org-entryref id="SL7799346" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799345" slsdocid="7799077" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637852201" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Organizations and Associations" usage="usac">
+                                        <data-protection date-added="03.10.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Publishers' Advertising and Marketing Association</org-entry-name>
+                                             <abbr>PAMA</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>195 Bdwy, New York, NY 10007</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 207-7000</telephone>
+                                             <email>pamapresident@gmail.com</email>
+                                             <internet>pama-ny.org</internet>
+                                        </address-block>
+                                        <found-date>1921</found-date>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Hillary</forename>
+                                                       <surname>Tisman</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

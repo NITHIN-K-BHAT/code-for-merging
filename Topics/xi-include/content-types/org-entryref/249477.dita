@@ -1,0 +1,26 @@
+<org-entryref id="SL1741600" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741599" slsdocid="249477" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1072" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Press &amp; Sun-Bulletin</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>33 Lewis Rd, Suite 9, Binghamton, NY 13905</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 253-5343</telephone>
+                                                       <internet>pressconnects.com</internet>
+                                                  </address-block>
+                                                  <found-date>1985</found-date>
+                                                  <content-note style="NORMAL">owned by Gannett Co, Inc.</content-note>
+                                                  <role-group>
+                                                       <role>Group Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Kevin</forename>
+                                                                 <surname>Hogan</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,29 @@
+<org-entryref id="SL4325962" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4325961" slsdocid="4325832" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389950450" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Napa Valley Register</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1615 Soscol Ave, Napa, CA 94559</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(707) 226-3711</telephone>
+                                                       <email>devans@napanews.com</email>
+                                                       <internet>napavalleyregister.com</internet>
+                                                  </address-block>
+                                                  <found-date>1863</found-date>
+                                                  <frequency>Mon. to Fri. evening, Sat. and Sun. morning</frequency>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Dan</forename>
+                                                                 <surname>Evans</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 10,934 (2018)</stats>
+                                             </org-entry>
+                                        </org-entryref>

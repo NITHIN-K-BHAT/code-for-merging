@@ -1,0 +1,27 @@
+<org-entryref id="SL6891353" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891352" slsdocid="3150458" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1285142994A" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Federal Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Selected Federal Agencies">
+                                             <org-entry-head>
+                                                  <org-entry-name>National Highway Traffic Safety Administration</org-entry-name>
+                                                  <abbr>NHTSA</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1200 New Jersey Ave, SE, W Bldg, Washington, DC 20590</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 366-4000</telephone>
+                                                  <email>nhtsamedia@dot.gov</email>
+                                                  <internet>nhtsa.gov</internet>
+                                             </address-block>
+                                             <found-date>1970</found-date>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jack</forename>
+                                                            <surname>Danielson</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

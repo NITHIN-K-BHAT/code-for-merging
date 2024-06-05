@@ -1,0 +1,29 @@
+<org-entryref id="SL3874596" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3874595" slsdocid="78895" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.666" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                        
+                                        <data-protection date-added="11.03.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Black Rose Books</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>CP 35788, Succursale Leo Pariseau, Montréal, QC H2X 0A4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(514) 844-4076</telephone>
+                                             <email>info@blackrosebooks.net</email>
+                                             <internet>blackrosebooks.net</internet>
+                                        </address-block>
+                                        <found-date>1969</found-date>
+                                        <content-note style="NORMAL">politics, social studies, humanities</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Lawrence</forename>
+                                                       <surname>Barbub</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

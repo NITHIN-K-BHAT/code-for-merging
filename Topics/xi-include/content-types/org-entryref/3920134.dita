@@ -1,0 +1,30 @@
+<org-entryref id="SL3920283" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3920282" slsdocid="3920134" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1356103794" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies">
+                                                       
+                                                       <data-protection date-added="13.09.2007" ticked-box="N" />
+                                                       <org-entry-head>
+                                                            <org-entry-name>Jiji Tsushin</org-entry-name>
+                                                            <alt-name>Jiji Press Ltd</alt-name>
+                                                            <content-note style="NORMAL">Washington, DC</content-note>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>National Press Bldg, Suite 550, 529 14th St, Washington, DC 20045</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(202) 783-4330</telephone>
+                                                            <fax>(202) 783-6093</fax>
+                                                            <email>jijipressdc@nationalpress.com</email>
+                                                            <internet>jiji.com</internet>
+                                                       </address-block>
+                                                       <role-group>
+                                                            <role>Bureau Chief</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Yoshiki</forename>
+                                                                      <surname>Kishida</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

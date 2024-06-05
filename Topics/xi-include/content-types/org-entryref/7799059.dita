@@ -1,0 +1,29 @@
+<org-entryref id="SL7799263" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799262" slsdocid="7799059" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637850315" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Slavica Publishers</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Indiana University, 1430 N Willis Dr., Bloomington, IN 47404-2146</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(877) 752-8422</telephone>
+                                             <fax>(812) 856-4187</fax>
+                                             <email>slavica@indiana.edu</email>
+                                             <internet>slavica.indiana.edu</internet>
+                                        </address-block>
+                                        <found-date>1966</found-date>
+                                        <content-note style="NORMAL">division of Indiana University</content-note>
+                                        <content-note style="NORMAL">textbooks, scholarly, Russian and Eastern European languages and culture</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>George H.</forename>
+                                                       <surname>Fowler</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

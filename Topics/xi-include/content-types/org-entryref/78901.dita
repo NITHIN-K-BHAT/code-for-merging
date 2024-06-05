@@ -1,0 +1,37 @@
+<org-entryref id="SL5951817" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5951816" slsdocid="78901" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="CA.DIR.660" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRESS ASSOCIATIONS">
+                                             <data-protection date-added="05.08.2008" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>News Media Canada</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>365 Bloor St E, 3rd Floor, Toronto, ON M4W 3L4</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(416) 923-3567</telephone>
+                                                  <email>info@newsmediacanada.ca</email>
+                                                  <internet>nmc-mic.ca</internet>
+                                             </address-block>
+                                             <found-date>2016 by merger of Canadian Newspaper Asscn and Canadian Community Newspapers Asscn</found-date>
+                                             <content-note style="NORMAL">represents over 800 daily, weekly and community newspapers</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>David</forename>
+                                                            <surname>Adsett</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Paul</forename>
+                                                            <surname>Deegan</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

@@ -1,0 +1,40 @@
+<org-entryref id="SL8924613" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8924612" slsdocid="78540" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.1054" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="RAILWAYS">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Canadian Pacific Kansas City Ltd</org-entry-name>
+                                                            <abbr>CPKC</abbr>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>7550 Ogden Dale Rd, SE, Calgary, AB T2C 4X9</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(888) 333-6370</telephone>
+                                                            <internet>www.cpkcr.com</internet>
+                                                       </address-block>
+                                                       <found-date>
+                        2023 by merger of Canadian Pacific (CP, 
+                        
+                        f. 1881) and Kansas City Southern (KCS)
+                      </found-date>
+                                                       <content-note style="NORMAL">almost 33,000 km (20,000 miles) of track in Canada and USA, with connections to Mexico</content-note>
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Isabelle</forename>
+                                                                      <surname>Courville</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Keith</forename>
+                                                                      <surname>Creel</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

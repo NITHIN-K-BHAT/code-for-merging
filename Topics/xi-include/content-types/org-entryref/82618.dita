@@ -1,0 +1,26 @@
+<org-entryref id="SL8979244" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8979243" slsdocid="82618" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="CR.DIR.124" id-root="cr.dir" iso="cr" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN COSTA RICA">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Calle 98, Vía 104, Pavas, San José</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">2519-2000</telephone>
+                                             <fax>2220-2305</fax>
+                                             <email>info@usembassy.or.cr</email>
+                                             <internet>cr.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Cynthia Ann</forename>
+                                                       <surname>Telles</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

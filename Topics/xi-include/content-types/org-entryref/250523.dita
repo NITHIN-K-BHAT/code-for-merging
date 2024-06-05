@@ -1,0 +1,29 @@
+<org-entryref id="SL8961537" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8961536" slsdocid="250523" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1587" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELEVISION" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>NCTA—The Internet and Television Association</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>25 Massachusetts Ave, NW, Suite 100, Washington, DC 20001</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 222-2300</telephone>
+                                                       <email>info@ncta.com</email>
+                                                       <internet>ncta.com</internet>
+                                                  </address-block>
+                                                  <found-date>1952</found-date>
+                                                  <content-note style="NORMAL">fmrly Nat. Cable and Telecommunications Asscn</content-note>
+                                                  <content-note style="NORMAL">present name since 2016</content-note>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Michael</forename>
+                                                                 <surname>Powell</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>more than 200 mems</stats>
+                                             </org-entry>
+                                        </org-entryref>

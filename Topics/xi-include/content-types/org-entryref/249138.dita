@@ -1,0 +1,29 @@
+<org-entryref id="SL1744829" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1744828" slsdocid="249138" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1404" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="12.09.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Genealogical Publishing Co</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>3600 Clipper Mill Rd, Suite 229, Baltimore, MD 21211</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(410) 837-8271</telephone>
+                                             <fax>(410) 752-8492</fax>
+                                             <email>website@genealogical.com</email>
+                                             <internet>genealogical.com</internet>
+                                        </address-block>
+                                        <found-date>1959</found-date>
+                                        <content-note style="NORMAL">gen­ealogy, immigration studies, heraldry and local history</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Barry</forename>
+                                                       <surname>Chodak</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

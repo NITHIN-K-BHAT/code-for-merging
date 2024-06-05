@@ -1,0 +1,45 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8926877" sllink="SLSDOCRF" sllinkid="8926876" slsdocid="7117557" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <dir-section id="US.DIR.1590166361" id-root="us.dir" iso="us" section="Religion" sllink="SLSDOC" slsdocrf="DIR-SECTREF" subsection="Baha'i Faith" usage="usac">
+                                   <heading>Bahá’í Faith </heading>
+                                   <p>In 2020 there were an estimated 179,000 adherents of the Bahá’í faith in the USA.</p>
+                                   <org-list>
+                                        <org-entryref id="SL7117563" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7117562" slsdocid="249653" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="US.DIR.861" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BAHÁ’Í FAITH">
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Spiritual Assembly of Bahá’ís of the United States</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1233 Central St, Evanston, IL 60201-1611</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(847) 733-3400</telephone>
+                                                       <email>publicaffairs.bahai.us</email>
+                                                       <internet>bahai.us</internet>
+                                                  </address-block>
+                                                  <found-date>1844 in Persia (Iran)</found-date>
+                                                  <stats>983 congregations with 178,727 adherents (2020)</stats>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>David F.</forename>
+                                                                 <surname>Young</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Sec.-Gen.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Kenneth E.</forename>
+                                                                 <surname>Bowers</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                         </dir-sectref>

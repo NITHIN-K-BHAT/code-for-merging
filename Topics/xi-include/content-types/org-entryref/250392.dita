@@ -1,0 +1,27 @@
+<org-entryref id="SL8922820" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922819" slsdocid="250392" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1732A" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <data-protection date-added="15.04.2003" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Export-Import Bank of the United States</org-entry-name>
+                                                       <abbr>Ex-Im Bank</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>811 Vermont Ave, NW, Washington, DC 20571</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 565-3946</telephone>
+                                                       <email>info@exim.gov</email>
+                                                       <internet>exim.gov</internet>
+                                                  </address-block>
+                                                  <role-group>
+                                                       <role>Chair. and Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Reta Jo</forename>
+                                                                 <surname>Lewis</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

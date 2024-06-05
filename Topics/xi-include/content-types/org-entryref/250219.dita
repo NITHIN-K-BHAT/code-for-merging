@@ -1,0 +1,39 @@
+<org-entryref id="SL6961782" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6961781" slsdocid="250219" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1898" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Consumer Brands Association</org-entry-name>
+                                                       <abbr>CBA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1001 9th St N, Arlington, VA 22209</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(571) 378-6760</telephone>
+                                                       <fax>(571) 378-6759</fax>
+                                                       <email>info@consumerbrandsassociation.org</email>
+                                                       <internet>consumerbrandsassociation.org</internet>
+                                                  </address-block>
+                                                  <found-date>1908</found-date>
+                                                  <content-note style="NORMAL">fmrly Grocery Mfrs Asscn</content-note>
+                                                  <content-note style="NORMAL">present name since 2020</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jeff</forename>
+                                                                 <surname>Harmening</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>David</forename>
+                                                                 <surname>Chavern</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

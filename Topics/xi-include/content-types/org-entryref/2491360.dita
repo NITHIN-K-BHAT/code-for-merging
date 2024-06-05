@@ -1,0 +1,37 @@
+<org-entryref id="SL8923441" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8923440" slsdocid="2491360" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1223986619" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Washington Trust Bank</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>717 W Sprague Ave, POB 2127, Spokane, WA 99210-2127</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 788-4578</telephone>
+                                                       <fax>(509) 358-3590</fax>
+                                                       <email>washingtontrustbank@watrust.com</email>
+                                                       <internet>watrust.com</internet>
+                                                  </address-block>
+                                                  <found-date>1902</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Peter F.</forename>
+                                                                 <surname>Stanton</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>John E.</forename>
+                                                                 <surname>Heath</surname>
+                                                                 <gen-name>III</gen-name>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

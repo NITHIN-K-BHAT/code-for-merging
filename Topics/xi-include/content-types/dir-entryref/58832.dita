@@ -1,0 +1,18 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL3934922"
+     sllink="SLSDOCRF" sllinkid="3934921" slsdocid="58832" slsdocty="dir-entry dir-entrydtd"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <dir-entry id="JM.DIR.114.2" id-root="jm.dir" iso="jm" section="Judicial System"
+          sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Entries">
+          <dir-entry-name>Attorney-General </dir-entry-name>
+          <person-group>
+               <person>
+                    <person-name>
+                         <title>Dr</title>
+                         <forename>Derrick</forename>
+                         <surname>McKoy</surname>
+                    </person-name>
+               </person>
+          </person-group>
+     </dir-entry>
+</dir-entryref>

@@ -1,0 +1,69 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8926900" sllink="SLSDOCRF" sllinkid="8926899" slsdocid="7115874" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <dir-section id="US.DIR.1590057781" id-root="us.dir" iso="us" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                                   <heading>Sikhism</heading>
+                                   <p>In 2020 there were over 500,000 Sikhs in the USA.</p>
+                                   
+                                   <org-list>
+                                        <org-entryref id="SL7115877" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7115876" slsdocid="4305682" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="US.DIR.1388665250" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Sikhism">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>American Sikh Council</org-entry-name>
+                                                       <abbr>ASC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>POB 3635, Columbus, OH 43210</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(888) 340-1702</telephone>
+                                                       <fax>(888) 398-1875</fax>
+                                                       <email>contact@americansikhcouncil.org</email>
+                                                       <internet>americansikhcouncil.org</internet>
+                                                  </address-block>
+                                                  <found-date>1997 as World Sikh Council America Region</found-date>
+                                                  <content-note style="NORMAL">representative institution</content-note>
+                                                  <content-note style="NORMAL">57 affiliate orgs</content-note>
+                                                  <stats>307 congregations (2020)</stats>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jasbir</forename>
+                                                                 <surname>Kaur</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL7115880" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7115879" slsdocid="249632" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="US.DIR.885" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SIKHISM" usage="usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Sikh Information Centre</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>POB 392, Lathrop, CA 95330</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(888) 551-7454</telephone>
+                                                       <email>info@sikhinformationcentre.org</email>
+                                                       <internet>fb.com/sikhinformationcentre</internet>
+                                                  </address-block>
+                                                  <found-date>1988</found-date>
+                                                  <role-group>
+                                                       <role>Exec. Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Pieter</forename>
+                                                                 <surname>Friedrich</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                         </dir-sectref>

@@ -1,0 +1,27 @@
+<org-entryref id="SL7799485" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799484" slsdocid="7799381" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1637856490" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Hello! Canada</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>SJC Media, 15 Benton Rd, Toronto, ON M6M 3G2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(833) 632-0833</telephone>
+                                                       <email>service@hellomagazine.ca</email>
+                                                       <internet>hellomagazine.com/ca</internet>
+                                                  </address-block>
+                                                  <found-date>1988</found-date>
+                                                  <frequency>weekly</frequency>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Alison</forename>
+                                                                 <surname>Eastwood</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

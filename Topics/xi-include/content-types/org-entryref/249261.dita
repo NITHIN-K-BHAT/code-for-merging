@@ -1,0 +1,31 @@
+<org-entryref id="SL260850" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260849" slsdocid="249261" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1290" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Seventeen</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>300 W 57th St, 35th Floor, New York, NY 10019</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 649-3100</telephone>
+                                                  <email>mail@seventeen.com</email>
+                                                  <internet>seventeen.com</internet>
+                                             </address-block>
+                                             <found-date>1944</found-date>
+                                             <frequency>monthly</frequency>
+                                             <content-note style="NORMAL">publ. by Hearst Corpn</content-note>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Kristin</forename>
+                                                            <surname>Koch</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 1,901,924 (2018)</stats>
+                                        </org-entry>
+                                   </org-entryref>

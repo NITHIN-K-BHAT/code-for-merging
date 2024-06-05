@@ -1,0 +1,27 @@
+<org-entryref id="SL1745574" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745573" slsdocid="250620" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1488" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>University of Arizona Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Main Library Bldg, 5th Floor, 1510 E University Blvd, POB 210055, Tucson, AZ 85721</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(520) 621-1441</telephone>
+                                             <fax>(520) 621-8899</fax>
+                                             <email>publicity@uapress.arizona.edu</email>
+                                             <internet>uapress.arizona.edu</internet>
+                                        </address-block>
+                                        <found-date>1959</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kathryn</forename>
+                                                       <surname>Conrad</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

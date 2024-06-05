@@ -1,0 +1,29 @@
+<org-entryref id="SL6891328" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891327" slsdocid="3150421" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.20190393" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="UTILITIES">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Federal Energy Regulatory Commission</org-entry-name>
+                                                  <abbr>FERC</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>888 1st St, NE, Washington, DC 20426</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 502-8004</telephone>
+                                                  <email>customer@ferc.gov</email>
+                                                  <internet>ferc.gov</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">independent regulatory commission</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Willie L.</forename>
+                                                            <surname>Phillips</surname>
+                                                       </person-name>
+                                                       <person-note>acting</person-note>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

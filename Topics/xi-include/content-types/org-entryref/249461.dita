@@ -1,0 +1,37 @@
+<org-entryref id="SL1741669" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741668" slsdocid="249461" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1092" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <data-protection date-added="29.03.2006" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Akron Beacon Journal</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>388 S Main St, Suite 720, Akron, OH 44309</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 777-2442</telephone>
+                                                       <email>circservice@thebeaconjournal.com</email>
+                                                       <internet>beaconjournal.com</internet>
+                                                  </address-block>
+                                                  <found-date>1839</found-date>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Cheryl</forename>
+                                                                 <surname>Powell</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Michael</forename>
+                                                                 <surname>Shearer</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 50,442, Sun. 69,997 (2019)</stats>
+                                             </org-entry>
+                                        </org-entryref>

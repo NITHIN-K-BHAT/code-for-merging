@@ -1,0 +1,28 @@
+<org-entryref id="SL5113579" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5113578" slsdocid="249376" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1185" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>American Educator</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>555 New Jersey Ave, NW, Washington, DC 20001-2079</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 879-4420</telephone>
+                                                  <email>ae@aft.org</email>
+                                                  <internet>aft.org/ae</internet>
+                                             </address-block>
+                                             <found-date>1977</found-date>
+                                             <frequency>quarterly</frequency>
+                                             <content-note style="NORMAL">publ. by American Federation of Teachers</content-note>
+                                             <role-group>
+                                                  <role>Editor</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Lisa</forename>
+                                                            <surname>Hansel</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

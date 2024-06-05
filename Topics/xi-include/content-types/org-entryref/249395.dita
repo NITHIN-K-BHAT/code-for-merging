@@ -1,0 +1,28 @@
+<org-entryref id="SL1742191" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1742190" slsdocid="249395" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1165" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <data-protection date-added="04.01.2008" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Spokesman-Review</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>999 W Riverside Ave, POB 2160, Spokane, WA 99210-2160</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(509) 459-5000</telephone>
+                                                       <email>news@spokesman.com</email>
+                                                       <internet>spokesman.com</internet>
+                                                  </address-block>
+                                                  <found-date>1883</found-date>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Rob</forename>
+                                                                 <surname>Curley</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 82,000 (2017)</stats>
+                                             </org-entry>
+                                        </org-entryref>

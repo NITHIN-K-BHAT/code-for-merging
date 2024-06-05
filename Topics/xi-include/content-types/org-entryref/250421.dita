@@ -1,0 +1,36 @@
+<org-entryref id="SL8922932" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922931" slsdocid="250421" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1704" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <data-protection date-added="05.05.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Bank of Oklahoma</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>101 E 2nd St, One Williams Center, Tulsa, OK 74103</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(918) 588-6621</telephone>
+                                                       <email>socialmedia@bokf.com</email>
+                                                       <internet>bankofoklahoma.com</internet>
+                                                  </address-block>
+                                                  <found-date>1933</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>George B.</forename>
+                                                                 <surname>Kaiser</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Stacy C.</forename>
+                                                                 <surname>Kymes</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

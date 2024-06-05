@@ -1,0 +1,32 @@
+<org-entryref id="SL8362868" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8362867" slsdocid="8362628" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.1538652475" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL FEDERAL PARTIES">
+                                        <org-entry-head>
+                                             <org-entry-name>People’s Party of Canada</org-entry-name>
+                                             <abbr>PPC</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      1 Nicholas St, Suite 700, Ottawa, ON
+                      
+                       K1N 7B7
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(819) 205-2648</telephone>
+                                             <email>info@peoplespartyofcanada.ca</email>
+                                             <internet>peoplespartyofcanada.ca</internet>
+                                        </address-block>
+                                        <found-date>2018</found-date>
+                                        <content-note style="NORMAL">conservative</content-note>
+                                        <role-group>
+                                             <role>Leader</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Maxime</forename>
+                                                       <surname>Bernier</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

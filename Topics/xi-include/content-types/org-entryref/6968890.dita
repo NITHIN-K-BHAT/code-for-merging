@@ -1,0 +1,36 @@
+<org-entryref id="SL6969260" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6969259" slsdocid="6968890" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1581498218" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Metal Construction Association</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>8735 W Higgins Rd, Suite 300, Chicago, IL 60631</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(847) 375-4718</telephone>
+                                                       <fax>(847) 375-6488</fax>
+                                                       <email>info@metalconstruction.org</email>
+                                                       <internet>metalconstruction.org</internet>
+                                                  </address-block>
+                                                  <found-date>1983</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Brian</forename>
+                                                                 <surname>Partyka</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jeff</forename>
+                                                                 <surname>Henry</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

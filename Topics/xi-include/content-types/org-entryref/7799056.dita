@@ -1,0 +1,38 @@
+<org-entryref id="SL7799249" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799248" slsdocid="7799056" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637849967" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Sage Publications, Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>2455 Teller Rd, Thousand Oaks, CA 91320</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 818-7243</telephone>
+                                             <fax>(800) 583-2665</fax>
+                                             <email>orders@sagepub.com</email>
+                                             <internet>us.sagepub.com</internet>
+                                        </address-block>
+                                        <found-date>1965</found-date>
+                                        <content-note style="NORMAL">professional, reference, social and behavioural sciences</content-note>
+                                        <content-note style="NORMAL">imprints incl. CQ Press (f. 1945, US govt and political directories), Corwin, Adam Matthew and Learning Matters</content-note>
+                                        <role-group>
+                                             <role>Publr and Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Sara</forename>
+                                                       <surname>Miller McCune</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Blaise R.</forename>
+                                                       <surname>Simqu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

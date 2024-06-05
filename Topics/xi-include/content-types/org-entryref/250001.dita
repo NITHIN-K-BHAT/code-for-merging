@@ -1,0 +1,27 @@
+<org-entryref id="SL6891331" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891330" slsdocid="250001" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.2125" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ROADS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Federal Highway Administration</org-entry-name>
+                                                  <abbr>FHWA</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1200 New Jersey Ave, SE, Washington, DC 20590</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 366-4000</telephone>
+                                                  <email>execsecretariat.fhwa@dot.gov</email>
+                                                  <internet>highways.dot.gov</internet>
+                                             </address-block>
+                                             <found-date>1966</found-date>
+                                             <role-group>
+                                                  <role>Admin.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Shailen</forename>
+                                                            <surname>Bhatt</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

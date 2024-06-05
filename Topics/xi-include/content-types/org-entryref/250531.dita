@@ -1,0 +1,40 @@
+<org-entryref id="SL8961430" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8961429" slsdocid="250531" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1578" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELEVISION" usage="ewyb usac">
+                                                       
+                                                       
+                                                       <org-entry-head>
+                                                            <org-entry-name>C-SPAN</org-entry-name>
+                                                            <alt-name>Cable-Satellite Public Affairs Network</alt-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>400 N Capitol St, NW, Suite 650, Washington, DC 20001</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(202) 737-3220</telephone>
+                                                            <email>online@c-span.org</email>
+                                                            <internet>c-span.org</internet>
+                                                       </address-block>
+                                                       <found-date>1979</found-date>
+                                                       <content-note style="NORMAL">private, non-profit public service</content-note>
+                                                       <content-note style="NORMAL">earns operating revenues through licence fees paid by cable and satellite systems offering the network to their customers</content-note>
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Allan</forename>
+                                                                      <surname>Block</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Pat</forename>
+                                                                      <surname>Esser</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

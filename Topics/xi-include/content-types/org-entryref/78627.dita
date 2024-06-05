@@ -1,0 +1,38 @@
+<org-entryref id="SL101380" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101379" slsdocid="78627" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.964" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="UTILITIES">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>BC Hydro</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>333 Dunsmuir St, Vancouver, BC V6B 5R3</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 224-9376</telephone>
+                                                       <email>connectwithus@bchydro.com</email>
+                                                       <internet>bchydro.com</internet>
+                                                  </address-block>
+                                                  <found-date>1961</found-date>
+                                                  <content-note style="NORMAL">operates hydroelectric, thermal generation and diesel generation plants, with total generating capacity of 12,041 MW (March 2023)</content-note>
+                                                  <content-note style="NORMAL">c. 5m. customers in British Columbia</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Lori</forename>
+                                                                 <surname>Wanamaker</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Chris</forename>
+                                                                 <surname>O'Riley</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

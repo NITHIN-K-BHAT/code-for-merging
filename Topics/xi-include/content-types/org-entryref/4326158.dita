@@ -1,0 +1,39 @@
+<org-entryref id="SL4326263" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4326262" slsdocid="4326158" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389954352" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Daily Camera</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>POB 19199, Boulder, CO 80308</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(303) 442-1202</telephone>
+                                                       <fax>(303) 449-9358</fax>
+                                                       <email>manzia@dailycamera.com</email>
+                                                       <internet>dailycamera.com</internet>
+                                                  </address-block>
+                                                  <found-date>1891</found-date>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jill</forename>
+                                                                 <surname>Stravolemos</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Sr Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>John</forename>
+                                                                 <surname>Vahlenkamp</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 30,000 (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

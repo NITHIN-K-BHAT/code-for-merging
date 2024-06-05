@@ -1,0 +1,36 @@
+<org-entryref id="SL4327778" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4327777" slsdocid="4327683" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390200170" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Messenger-Inquirer</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1401 Frederica St, POB 1480, Owensboro, KY 42301</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(270) 926-0123</telephone>
+                                                       <email>csr@messenger-inquirer.com</email>
+                                                       <internet>messenger-inquirer.com</internet>
+                                                  </address-block>
+                                                  <found-date>1875</found-date>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mike</forename>
+                                                                 <surname>Weafer</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Matt</forename>
+                                                                 <surname>Francis</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,66 @@
+<org-entryref id="SL1756502" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1756501" slsdocid="78796" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.766" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS" usage="ewyb usac">
+                                                  <data-protection date-added="20.10.2006" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Rogers Communications Inc</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>333 Bloor St E, 10th Floor, Toronto, ON M4W 1G9</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(514) 734-7699</telephone>
+                                                       <internet>rogers.com</internet>
+                                                  </address-block>
+                                                  <found-date>1960</found-date>
+                                                  <content-note style="NORMAL">subsidiary cos: Rogers Cable and Telecom provides fixed-line telephony, cable and internet services; Rogers Wireless Inc provides wireless and mobile services; Fido provides wireless and mobile services</content-note>
+                                                  <content-note style="NORMAL">acquired Shaw Communications Inc (incl. Freedom Mobile) 2023</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Edward S.</forename>
+                                                                 <surname>Rogers</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tony</forename>
+                                                                 <surname>Staffieri</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <org-list>
+                                                       <org-entryref id="SL8955375" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8955374" slsdocid="3193002" slsdocty="org-entry org-entrydtd">
+                                                            
+                                                            <org-entry id="CA.DIR.201711051324" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS" usage="usac">
+                                                                 <org-entry-head>
+                                                                      <org-entry-name>Freedom Mobile</org-entry-name>
+                                                                 </org-entry-head>
+                                                                 <address-block>
+                                                                      <address type="POSTAL">
+                                                                           <verbatim-address>207 Queen’s Quay W, Suite 710, POB 114, Toronto, ON M5J 1A7</verbatim-address>
+                                                                      </address>
+                                                                      <telephone alsofax="N">(647) 700-2435</telephone>
+                                                                      <email>accessibility.feedback@freedommobile.ca</email>
+                                                                      <internet>freedommobile.ca</internet>
+                                                                 </address-block>
+                                                                 <content-note style="NORMAL">fmrly Wind Mobile</content-note>
+                                                                 <content-note style="NORMAL">present name since 2016</content-note>
+                                                                 <role-group>
+                                                                      <role>Pres.</role>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Tony</forename>
+                                                                                <surname>Staffieri</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </role-group>
+                                                            </org-entry>
+                                                       </org-entryref>
+                                                  </org-list>
+                                             </org-entry>
+                                        </org-entryref>

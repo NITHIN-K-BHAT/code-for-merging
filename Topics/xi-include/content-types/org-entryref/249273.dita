@@ -1,0 +1,38 @@
+<org-entryref id="SL260828" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260827" slsdocid="249273" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1279" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <data-protection date-added="21.07.2009" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Reader’s Digest</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Trusted Media Brands, 44 S Bdwy, White Plain, NY 10601</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(914) 244-5400</telephone>
+                                                  <email>customercare@rd.com</email>
+                                                  <internet>rd.com</internet>
+                                             </address-block>
+                                             <found-date>1922</found-date>
+                                             <frequency>10 a year</frequency>
+                                             <role-group>
+                                                  <role>Chief Content Officer</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jason</forename>
+                                                            <surname>Buhrmester</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Editor</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Aviva</forename>
+                                                            <surname>Patz</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 2,709,208</stats>
+                                        </org-entry>
+                                   </org-entryref>

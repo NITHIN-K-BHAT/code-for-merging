@@ -1,0 +1,915 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7110923" sllink="SLSDOCRF" sllinkid="7110922" slsdocid="7110482" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                         
+                         <dir-section id="CA.DIR.1589800211" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                              <heading>The Federal Judicial System</heading>
+                              
+                              <p>The Supreme Court is the ultimate court of appeal in both civil and criminal cases throughout Canada. The Court is also required to advise on questions referred to it by the Governor-General in Council. Questions concerning the interpretation of the Constitution Act, the constitutionality or interpretation of any federal or provincial law, the powers of Parliament or of the provincial legislatures, among other matters, may be referred by the Government to the Supreme Court for consideration. There are nine Supreme Court judges, including the Chief Justice of Canada, and at least five judges are required to be present for a case to be heard (although it is normal for the full Court to sit in most instances). The judges are appointed by the Governor in Council and hold office until reaching the age of 75 years. Judges may only be removed from office by the Governor-General on address of the federal Senate and House of Commons.</p>
+                              <org-list>
+                                   <org-entryref id="SL7110492" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7110491" slsdocid="79157" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.283" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="FEDERAL COURTS" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Supreme Court of Canada</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Supreme Court Bldg, 301 Wellington St, Ottawa, ON K1A 0J1</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(613) 995-4330</telephone>
+                                                  <fax>(613) 996-9138</fax>
+                                                  <email>reception@scc-csc.ca</email>
+                                                  <internet>scc-csc.ca</internet>
+                                             </address-block>
+                                             <dir-list>
+                                                  <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL5989837" sllink="SLSDOCRF" sllinkid="5989836" slsdocid="78467" slsdocty="dir-entry dir-entrydtd">
+                                                       
+                                                       <dir-entry id="CA.DIR.285" id-root="ca.dir" iso="ca" section="Judicial System" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="FEDERAL COURTS" usage="ewyb usac">
+                                                            <dir-entry-name>Chief Justice of Canada</dir-entry-name>
+                                                            <person-group>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Richard</forename>
+                                                                           <surname>Wagner</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </person-group>
+                                                       </dir-entry>
+                                                  </dir-entryref>
+                                                  <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL3915618" sllink="SLSDOCRF" sllinkid="3915617" slsdocid="78466" slsdocty="dir-entry dir-entrydtd">
+                                                       
+                                                       <dir-entry id="CA.DIR.286" id-root="ca.dir" iso="ca" section="Judicial System" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="FEDERAL COURTS" usage="ewyb usac">
+                                                            <dir-entry-name>Puisne Judges</dir-entry-name>
+                                                            <person-group>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Andromache</forename>
+                                                                           <surname>Karakatsanis</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Suzanne</forename>
+                                                                           <surname>Côté</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Malcolm</forename>
+                                                                           <surname>Rowe</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Sheilah L.</forename>
+                                                                           <surname>Martin</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Nicholas</forename>
+                                                                           <surname>Kasirer</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Mahmud</forename>
+                                                                           <surname>Jamal</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Michelle</forename>
+                                                                           <surname>O'Bonsawin</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Mary T.</forename>
+                                                                           <surname>Moreau</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </person-group>
+                                                       </dir-entry>
+                                                  </dir-entryref>
+                                             </dir-list>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                              <p>The Federal Court has jurisdiction in claims against the Crown, claims by the Crown, miscellaneous cases involving the Crown and its officers and servants, relief (including judicial review) against federal boards, commissions and other tribunals, jurisdiction over interprovincial and federal–provincial disputes, income tax and estate tax appeals, industrial or intellectual property matters, maritime and admiralty matters, citizenship appeals, aeronautics and interprovincial works and undertakings. The Court has residuary jurisdiction for relief if there is no other court that has such jurisdiction, and jurisdiction in specific matters conferred by federal statutes. It is composed of 35 full-time judges, a number of supernumerary judges (semi-retired, part-time judges) and a chief justice who are appointed by the Governor in Council.</p>
+                              
+                              <org-list>
+                                   <org-entryref id="SL7110500" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7110499" slsdocid="79155" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.287" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="FEDERAL COURTS" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Federal Court</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Supreme Court Bldg, Kent and Wellington Sts, Ottawa, ON K1A 0H9</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(613) 947-3100</telephone>
+                                                  <fax>(613) 952-3653</fax>
+                                                  <email>media-fct@fct-cf.gc.ca</email>
+                                                  <internet>www.fct-cf.gc.ca</internet>
+                                             </address-block>
+                                             <dir-list>
+                                                  <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7110508" sllink="SLSDOCRF" sllinkid="7110507" slsdocid="78464" slsdocty="dir-entry dir-entrydtd">
+                                                       
+                                                       <dir-entry id="CA.DIR.290" id-root="ca.dir" iso="ca" section="Judicial System" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="FEDERAL COURTS" usage="ewyb usac">
+                                                            <dir-entry-name>Chief Justice, Federal Court</dir-entry-name>
+                                                            <person-group>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Paul S.</forename>
+                                                                           <surname>Crampton</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </person-group>
+                                                       </dir-entry>
+                                                  </dir-entryref>
+                                                  <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7110702" sllink="SLSDOCRF" sllinkid="7110701" slsdocid="78463" slsdocty="dir-entry dir-entrydtd">
+                                                       
+                                                       <dir-entry id="CA.DIR.292" id-root="ca.dir" iso="ca" section="Judicial System" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="FEDERAL COURTS" usage="usac">
+                                                            
+                                                            <dir-entry-name>Trial Division Judges</dir-entry-name>
+                                                            <person-group>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Elizabeth</forename>
+                                                                           <surname>Heneghan</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>James</forename>
+                                                                           <surname>O’Reilly</surname>
+                                                                      </person-name>
+                                                                      <person-note>supernumerary</person-note>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Richard</forename>
+                                                                           <surname>Mosley</surname>
+                                                                      </person-name>
+                                                                      <person-note>supernumerary</person-note>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Russel W.</forename>
+                                                                           <surname>Zinn</surname>
+                                                                      </person-name>
+                                                                      <person-note>supernumerary</person-note>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Catherine M.</forename>
+                                                                           <surname>Kane</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Michael D.</forename>
+                                                                           <surname>Manson</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Yvan</forename>
+                                                                           <surname>Roy</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Cecily Y.</forename>
+                                                                           <surname>Strickland</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Glennys L.</forename>
+                                                                           <surname>McVeigh</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Martine</forename>
+                                                                           <surname>St-Louis</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Henry S.</forename>
+                                                                           <surname>Brown</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Alan S.</forename>
+                                                                           <surname>Diner</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Simon</forename>
+                                                                           <surname>Fothergill</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>B. Richard</forename>
+                                                                           <surname>Bell</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Denis</forename>
+                                                                           <surname>Gascon</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Richard F.</forename>
+                                                                           <surname>Southcott</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Patrick K.</forename>
+                                                                           <surname>Gleeson</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>E. Susan</forename>
+                                                                           <surname>Elliott</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Anne Marie</forename>
+                                                                           <surname>McDonald</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Roger R.</forename>
+                                                                           <surname>Lafrenière</surname>
+                                                                      </person-name>
+                                                                      <person-note>supernumerary</person-note>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>William F.</forename>
+                                                                           <surname>Pentney</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Shirzad S.</forename>
+                                                                           <surname>Ahmed</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Sébastien</forename>
+                                                                           <surname>Grammond</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Paul</forename>
+                                                                           <surname>Favel</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename> John</forename>
+                                                                           <surname>Norris</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Peter George</forename>
+                                                                           <surname>Pamel</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Nicholas</forename>
+                                                                           <surname>McHaffie</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Janet M.</forename>
+                                                                           <surname>Fuhrer</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Christine</forename>
+                                                                           <surname>Pallotta</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Andrew D.</forename>
+                                                                           <surname>Little</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Angela</forename>
+                                                                           <surname>Furlanetto</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Lobat</forename>
+                                                                           <surname>Sadrehashemi</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Avvy</forename>
+                                                                           <surname>Yao-Yao Go</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Mandy</forename>
+                                                                           <surname>Aylen</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <title>Dr</title>
+                                                                           <forename>Vanessa</forename>
+                                                                           <surname>Rochester</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Guy</forename>
+                                                                           <surname>Régimbald</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Ekaterina</forename>
+                                                                           <surname>Tsimberis</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Anne M.</forename>
+                                                                           <surname>Turley</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Negar</forename>
+                                                                           <surname>Azmudeh</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Phuong T. V.</forename>
+                                                                           <surname>Ngo</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Allyson</forename>
+                                                                           <surname>Whyte Nowak</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Michael</forename>
+                                                                           <surname>Battista</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </person-group>
+                                                       </dir-entry>
+                                                  </dir-entryref>
+                                             </dir-list>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                              <p>The Federal Court of Appeal has jurisdiction on appeals from the Trial Division, appeals from Federal Tribunals, review of decisions of Federal Boards and Commissions, appeals from Tribunals and Reviews under Section 28 of the Federal Court Act, and references by Federal Boards and Commissions. The Court comprises a chief justice and 12 judges (appointed by the Governor in Council).</p>
+                              <org-list>
+                                   <org-entryref id="SL7110721" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7110720" slsdocid="3351618" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1304612997" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="FEDERAL COURTS" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Federal Court of Appeal</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        Thomas D’Arcy McGee Bldg, 90 Sparks St, Main Floor, Ottawa, ON
+                        
+                         K1A 0H9
+                      </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(613) 996-6795</telephone>
+                                                  <email>information@fca-caf.gc.ca</email>
+                                                  <internet>www.fca-caf.ca</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">the Court has one central registry and consists of principal office in Ottawa and local offices in major centres throughout Canada</content-note>
+                                             <dir-list>
+                                                  <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7110726" sllink="SLSDOCRF" sllinkid="7110725" slsdocid="78465" slsdocty="dir-entry dir-entrydtd">
+                                                       
+                                                       <dir-entry id="CA.DIR.289" id-root="ca.dir" iso="ca" section="Judicial System" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="FEDERAL COURTS" usage="ewyb usac">
+                                                            <dir-entry-name>Chief Justice, Federal Court of Appeal</dir-entry-name>
+                                                            <person-group>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Yves</forename>
+                                                                           <surname>de Montigny</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </person-group>
+                                                       </dir-entry>
+                                                  </dir-entryref>
+                                                  <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7110735" sllink="SLSDOCRF" sllinkid="7110734" slsdocid="1754114" slsdocty="dir-entry dir-entrydtd">
+                                                       
+                                                       <dir-entry id="CA.DIR.1160128359" id-root="ca.dir" iso="ca" section="Judicial System" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="FEDERAL COURTS" usage="usac">
+                                                            
+                                                            
+                                                            <dir-entry-name>Court of Appeal Judges</dir-entry-name>
+                                                            <person-group>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Wyman W.</forename>
+                                                                           <surname>Webb</surname>
+                                                                      </person-name>
+                                                                      <person-note>supernumerary</person-note>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>David W.</forename>
+                                                                           <surname>Stratas</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Richard</forename>
+                                                                           <surname>Boivin</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Donald J.</forename>
+                                                                           <surname>Rennie</surname>
+                                                                      </person-name>
+                                                                      <person-note>supernumerary</person-note>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Yves</forename>
+                                                                           <surname>de Montigny</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Mary J. L.</forename>
+                                                                           <surname>Gleason</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Judith M.</forename>
+                                                                           <surname>Woods</surname>
+                                                                      </person-name>
+                                                                      <person-note>supernumerary</person-note>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>John B.</forename>
+                                                                           <surname>Laskin</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>George R.</forename>
+                                                                           <surname>Locke</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Anne L.</forename>
+                                                                           <surname>Mactavish</surname>
+                                                                      </person-name>
+                                                                      <person-note>supernumerary</person-note>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>René</forename>
+                                                                           <surname>LeBlanc</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>K. A. Siobhan</forename>
+                                                                           <surname>Monaghan</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Sylvie E.</forename>
+                                                                           <surname>Roussel</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Nathalie</forename>
+                                                                           <surname>Goyette</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Gerald</forename>
+                                                                           <surname>Heckman</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Monica</forename>
+                                                                           <surname>Biringer</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Elizabeth</forename>
+                                                                           <surname>Walker</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Vanessa</forename>
+                                                                           <surname>Rochester</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </person-group>
+                                                       </dir-entry>
+                                                  </dir-entryref>
+                                             </dir-list>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                              <dir-section id="CA.DIR-SECTION.15898082501" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="usac">
+                                   <heading>Federal Judicial Bodies with Specific Purposes</heading>
+                                   <p>The Court Martial Appeal Court of Canada was established in 1959. The Court has jurisdiction over appeals from the Courts Martial. Established under the National Defence Act, the Courts Martial are military courts that have jurisdiction over military personnel and civilians accompanying them abroad, for crimes and offences against the Code of Service Discipline.</p>
+                                   <org-list>
+                                        <org-entryref id="SL7110783" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7110782" slsdocid="7110762" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1589808015" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Court Martial Appeal Court of Canada</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Thomas D'Arcy McGee Bldg, 90 Sparks St, Ottawa, ON K1A 0H9</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 996-6795</telephone>
+                                                       <email>media@cmac-cacm.ca</email>
+                                                       <internet>www.cmac-cacm.ca</internet>
+                                                  </address-block>
+                                                  <dir-list>
+                                                       <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7110776" sllink="SLSDOCRF" sllinkid="7110775" slsdocid="7110770" slsdocty="dir-entry dir-entrydtd">
+                                                            
+                                                            <dir-entry id="CA.DIR.1589808098" id-root="ca.dir" iso="ca" section="Judicial System" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Entries" usage="usac">
+                                                                 <dir-entry-name>Chief Justice</dir-entry-name>
+                                                                 <person-group>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Elizabeth A.</forename>
+                                                                                <surname>Bennett</surname>
+                                                                           </person-name>
+                                                                           <person-note>acting</person-note>
+                                                                      </person>
+                                                                 </person-group>
+                                                            </dir-entry>
+                                                       </dir-entryref>
+                                                  </dir-list>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                                   <p id="CA.DIR.USAC.6.58">The Tax Court of Canada has jurisdiction over appeals concerning the Income Tax Act, the Canada Pension Plan, the Old Age Security Act, the Petroleum and Gas Revenue Tax Act, the Employment Insurance Act and Part IX of the Excise Tax Act for the Goods and Services Tax. The Court also has jurisdiction to hear and determine appeals on matters arising under the War Veterans Allowance Act and the Merchant Navy and Civilian War-related Benefits Act. Hearings may be held in major centres throughout the country for income tax appeals and in smaller communities for appeals relating to unemployment insurance. The Federal Court of Canada may hear appeals of Tax Court decisions.</p>
+                                   <org-list>
+                                        <org-entryref id="SL7110809" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7110808" slsdocid="7110791" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1589808445" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Tax Court of Canada</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>200 Kent St, Ottawa, ON K1A 0M1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 992-0901</telephone>
+                                                       <fax>(613) 957-9034</fax>
+                                                       <email>web@tcc-cci.gc.ca</email>
+                                                       <internet>www.tcc-cci.gc.ca</internet>
+                                                  </address-block>
+                                                  <dir-list>
+                                                       <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7110799" sllink="SLSDOCRF" sllinkid="7110798" slsdocid="7110796" slsdocty="dir-entry dir-entrydtd">
+                                                            
+                                                            <dir-entry id="CA.DIR.1589808538" id-root="ca.dir" iso="ca" section="Judicial System" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Entries" usage="usac">
+                                                                 <dir-entry-name>Chief Justice</dir-entry-name>
+                                                                 <person-group>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Eugene P.</forename>
+                                                                                <surname>Rossiter</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </person-group>
+                                                            </dir-entry>
+                                                       </dir-entryref>
+                                                       <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7110805" sllink="SLSDOCRF" sllinkid="7110804" slsdocid="7110802" slsdocty="dir-entry dir-entrydtd">
+                                                            
+                                                            <dir-entry id="CA.DIR.1589808665" id-root="ca.dir" iso="ca" section="Judicial System" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Entries" usage="usac">
+                                                                 <dir-entry-name>Associate Chief Justice</dir-entry-name>
+                                                                 <person-group>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Anick</forename>
+                                                                                <surname>Pelletier</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </person-group>
+                                                            </dir-entry>
+                                                       </dir-entryref>
+                                                       <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7110831" sllink="SLSDOCRF" sllinkid="7110830" slsdocid="7110825" slsdocty="dir-entry dir-entrydtd">
+                                                            
+                                                            <dir-entry id="CA.DIR.1589808897" id-root="ca.dir" iso="ca" section="Judicial System" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Entries" usage="usac">
+                                                                 
+                                                                 
+                                                                 
+                                                                 <dir-entry-name>Judges</dir-entry-name>
+                                                                 <person-group>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Patrick J.</forename>
+                                                                                <surname>Boyle</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Steven Kenneth</forename>
+                                                                                <surname>D’Arcy</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Frank J.</forename>
+                                                                                <surname>Pizzitelli</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Randall S.</forename>
+                                                                                <surname>Bocock</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>David E.</forename>
+                                                                                <surname>Graham</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>John R.</forename>
+                                                                                <surname>Owen</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Dominique</forename>
+                                                                                <surname>Lafleur</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Sylvain</forename>
+                                                                                <surname>Ouimet</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Don R.</forename>
+                                                                                <surname>Sommerfeldt</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Henry A.</forename>
+                                                                                <surname>Visser</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Guy R.</forename>
+                                                                                <surname>Smith</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Bruce</forename>
+                                                                                <surname>Russell</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Susan</forename>
+                                                                                <surname>Wong</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Ronald</forename>
+                                                                                <surname>MacPhee</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Gabrielle</forename>
+                                                                                <surname>St-Hilaire</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>David E.</forename>
+                                                                                <surname>Spiro</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Jean Marc</forename>
+                                                                                <surname>Gagnon</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Joanna</forename>
+                                                                                <surname>Hill</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Anick</forename>
+                                                                                <surname>Pelletier</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>John C.</forename>
+                                                                                <surname>Yuan</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>J. Scott</forename>
+                                                                                <surname>Bodie</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Edward M.</forename>
+                                                                                <surname>Cook</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Michael U.</forename>
+                                                                                <surname>Ezri</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </person-group>
+                                                            </dir-entry>
+                                                       </dir-entryref>
+                                                  </dir-list>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                                   <p>The Courts Administration Service (CAS) was established in 2003 as a result of the consolidation of the former registries of the Federal Court of Canada and of the Tax Court of Canada under the 2002 Courts Administration Service Act. The CAS provides administrative services to the Federal Court of Appeal, the Federal Court, the Court Martial Appeal Court of Canada and the Tax Court of Canada. The service aims to increase financial transparency and to ensure judicial independence. The CAS is represented by 17 registry offices across the provinces and territories.</p>
+                                   <org-list>
+                                        <org-entryref id="SL7110853" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7110852" slsdocid="7110841" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1589809105" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Courts Administration Service</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Supreme Court Bldg, Kent and Wellington Sts, Ottawa, ON K1A 0H9</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 943-4355</telephone>
+                                                       <email>media@cas-satj.gc.ca</email>
+                                                       <internet>www.cas-satj.gc.ca</internet>
+                                                  </address-block>
+                                                  <dir-list>
+                                                       <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7110846" sllink="SLSDOCRF" sllinkid="7110845" slsdocid="7110843" slsdocty="dir-entry dir-entrydtd">
+                                                            
+                                                            <dir-entry id="CA.DIR.1589809171" id-root="ca.dir" iso="ca" section="Judicial System" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Entries" usage="usac">
+                                                                 <dir-entry-name>Chief Administrator</dir-entry-name>
+                                                                 <person-group>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Darlene</forename>
+                                                                                <surname>Carreau</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </person-group>
+                                                            </dir-entry>
+                                                       </dir-entryref>
+                                                  </dir-list>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                                   <p>The Social Security Tribunal is responsible for hearing appeals arising from the decisions of the review tribunals under the Employment Insurance, Canada Pension Plan, and Old Age Security decisions since April 2013, which were formerly handled by the Pension Appeals Board. Appeals are heard in all provinces and territories and the findings of the board are sent to all parties connected with the appeal.</p>
+                                   <org-list>
+                                        <org-entryref id="SL7110864" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7110863" slsdocid="7110859" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1589809417" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Social Security Tribunal</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>
+                          POB 9812, Station T CSC, Otta
+                          
+                          wa, ON K1G 6S3
+                        </verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 437-1640</telephone>
+                                                       <fax>(613) 941-5121</fax>
+                                                       <email>info.sst-tss@canada.gc.ca</email>
+                                                       <internet>sst-tss.gc.ca</internet>
+                                                  </address-block>
+                                                  <dir-list>
+                                                       <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7110880" sllink="SLSDOCRF" sllinkid="7110879" slsdocid="7110870" slsdocty="dir-entry dir-entrydtd">
+                                                            
+                                                            <dir-entry id="CA.DIR.1589809537" id-root="ca.dir" iso="ca" section="Judicial System" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Entries" usage="usac">
+                                                                 
+                                                                 <dir-entry-name>Chairperson</dir-entry-name>
+                                                                 <person-group>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Shirley</forename>
+                                                                                <surname>Netten</surname>
+                                                                           </person-name>
+                                                                           <person-note>acting</person-note>
+                                                                      </person>
+                                                                 </person-group>
+                                                            </dir-entry>
+                                                       </dir-entryref>
+                                                  </dir-list>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                                   <p>The Office of the Commissioner for Federal Judicial Affairs is responsible for administrative matters relating to the Federal Court of Canada, the Tax Court of Canada, the Canadian Judicial Council and all federally appointed judges, with the exception of those of the Supreme Court of Canada.</p>
+                                   <org-list>
+                                        <org-entryref id="SL7110896" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7110895" slsdocid="7110892" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1589809885" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Office of the Commissioner for Federal Judicial Affairs</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>99 Metcalfe St, 8th Floor, Ottawa, ON K1A 1E3</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 995-5140</telephone>
+                                                       <fax>(613) 995-5615</fax>
+                                                       <email>info@cmf-fja.gc.ca</email>
+                                                       <internet>fja.gc.ca</internet>
+                                                  </address-block>
+                                                  <dir-list>
+                                                       <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7110902" sllink="SLSDOCRF" sllinkid="7110901" slsdocid="7110899" slsdocty="dir-entry dir-entrydtd">
+                                                            
+                                                            <dir-entry id="CA.DIR.1589809987" id-root="ca.dir" iso="ca" section="Judicial System" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Entries" usage="usac">
+                                                                 <dir-entry-name>Commissioner</dir-entry-name>
+                                                                 <person-group>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Marc A.</forename>
+                                                                                <surname>Giroux</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </person-group>
+                                                            </dir-entry>
+                                                       </dir-entryref>
+                                                  </dir-list>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                         </dir-section>
+                    </dir-sectref>

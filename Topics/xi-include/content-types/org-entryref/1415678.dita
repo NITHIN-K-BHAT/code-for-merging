@@ -1,0 +1,38 @@
+<org-entryref id="SL1415683" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1415682" slsdocid="1415678" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1128442412" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Employers Organizations">
+                                                  <data-protection date-added="01.08.2005" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>American Bakers Association</org-entry-name>
+                                                       <abbr>ABA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>601 Pennsylvania Ave, NW, Suite 230, Washington, DC 20004</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 789-0300</telephone>
+                                                       <fax>(202) 898-1164</fax>
+                                                       <email>info@americanbakers.org</email>
+                                                       <internet>americanbakers.org</internet>
+                                                  </address-block>
+                                                  <found-date>1897</found-date>
+                                                  <role-group>
+                                                       <role>Chair</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Cordia</forename>
+                                                                 <surname>Harrington</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Eric</forename>
+                                                                 <surname>Dell</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

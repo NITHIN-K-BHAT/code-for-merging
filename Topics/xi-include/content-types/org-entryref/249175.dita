@@ -1,0 +1,27 @@
+<org-entryref id="SL8817161" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8817160" slsdocid="249175" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1370" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>R. R. Bowker LLC</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>26 Main St, Suite 102, Chatham, NJ 07928</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(856) 761-4700</telephone>
+                                             <internet>bowker.com</internet>
+                                        </address-block>
+                                        <found-date>1872</found-date>
+                                        <content-note style="NORMAL">part of ProQuest</content-note>
+                                        <content-note style="NORMAL">reference and bibliography</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Andy</forename>
+                                                       <surname>Snyder</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

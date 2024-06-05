@@ -1,0 +1,27 @@
+<org-entryref id="SL97706" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="97705" slsdocid="76232" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="BI.DIR.181" id-root="bi.dir" iso="bi" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                             <org-entry-head>
+                                                  <org-entry-name>Banque Nationale pour le Développement Economique SARL</org-entry-name>
+                                                  <abbr>BNDE</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>3 ave du Marché, BP 1620, Bujumbura</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">22222888</telephone>
+                                                  <internet>bnde.bi</internet>
+                                             </address-block>
+                                             <found-date>1966</found-date>
+                                             <content-note style="NORMAL">40% state-owned</content-note>
+                                             <role-group>
+                                                  <role>Dir-Gen.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Edouard Normand</forename>
+                                                            <surname>Bigendako</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

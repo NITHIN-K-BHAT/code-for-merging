@@ -1,0 +1,24 @@
+<org-entryref id="SL107166" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="107165" slsdocid="82556" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="CO.DIR.155" id-root="co.dir" iso="co" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN COLOMBIA">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Carrera 22 bis, No 47-51, Bogotá, DC</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(601) 275-2000</telephone>
+                                             <internet>co.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chargé d’affaires a.i.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Francisco</forename>
+                                                       <surname>Palmieri</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

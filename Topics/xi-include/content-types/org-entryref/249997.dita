@@ -1,0 +1,37 @@
+<org-entryref id="SL1739043" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1739042" slsdocid="249997" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2130" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INLAND WATERWAYS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Great Lakes Dredge &amp; Dock Co</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>9811 Katy Freeway, Suite 1200, Houston, TX 77024</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(346) 359-1010</telephone>
+                                                       <email>info@gldd.com</email>
+                                                       <internet>gldd.com</internet>
+                                                  </address-block>
+                                                  <found-date>1890</found-date>
+                                                  <content-note style="NORMAL">dredging, marine construction, reclamation</content-note>
+                                                  <stats>over 200 vessels</stats>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Lawrence R.</forename>
+                                                                 <surname>Dickerson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Lasse</forename>
+                                                                 <surname>Petterson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

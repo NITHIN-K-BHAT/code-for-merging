@@ -1,0 +1,36 @@
+<org-entryref id="SL101502" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101501" slsdocid="78666" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.916" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Ontario Forest Industries Association</org-entry-name>
+                                                       <abbr>OFIA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>8 King St E, Suite 1704, Toronto, ON M5C 1B5</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 368-6188</telephone>
+                                                       <internet>ofia.com</internet>
+                                                  </address-block>
+                                                  <found-date>1943</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Dan</forename>
+                                                                 <surname>Bowes</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ian</forename>
+                                                                 <surname>Dunn</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>50 mem. cos (2024)</stats>
+                                             </org-entry>
+                                        </org-entryref>

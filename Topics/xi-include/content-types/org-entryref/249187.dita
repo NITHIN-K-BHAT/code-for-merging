@@ -1,0 +1,35 @@
+<org-entryref id="SL2482827" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2482826" slsdocid="249187" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1359" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Pearson Education</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>330 Hudson St, 9th Floor, New York, NY 10013</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 641-2400</telephone>
+                                             <internet>pearson.com</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">imprints incl. Addison-Wesley, Allyn &amp; Bacon, FT Prentice Hall, Scotts Foreman, Benjamin Cummings and Longman</content-note>
+                                        <content-note style="NORMAL">educational</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Omid</forename>
+                                                       <surname>Kordestani</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Andy</forename>
+                                                       <surname>Bird</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

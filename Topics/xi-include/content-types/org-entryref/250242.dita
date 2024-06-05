@@ -1,0 +1,38 @@
+<org-entryref id="SL262508" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262507" slsdocid="250242" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1876" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS' ORGANIZATIONS">
+                                                  <data-protection date-added="01.08.2007" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>American Institute of Mining, Metallurgical and Petroleum Engineers, Inc</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>12999 E Adam Aircraft Circle, Englewood, CO 80112</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(303) 948-4255</telephone>
+                                                       <fax>(888) 702–0049</fax>
+                                                       <email>aime@aimehq.org</email>
+                                                       <internet>aimehq.org</internet>
+                                                  </address-block>
+                                                  <found-date>1871</found-date>
+                                                  <stats>4 mem. socs representing c. 200,000 mems worldwide (2022)</stats>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Elizabeth</forename>
+                                                                 <surname>Holm</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>John</forename>
+                                                                 <surname>Ehrig</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

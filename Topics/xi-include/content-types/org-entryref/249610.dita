@@ -1,0 +1,36 @@
+<org-entryref id="SL1741129" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741128" slsdocid="249610" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.918" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Bakersfield Californian</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>3700 Pegasus Dr., Bakersfield, CA 93308</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(805) 395-7500</telephone>
+                                                       <email>local@bakersfield.com</email>
+                                                       <internet>bakersfield.com</internet>
+                                                  </address-block>
+                                                  <found-date>1866</found-date>
+                                                  <content-note style="NORMAL">owned by Sound California News Media Inc</content-note>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Cliff</forename>
+                                                                 <surname>Chandler</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Christine L.</forename>
+                                                                 <surname>Peterson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

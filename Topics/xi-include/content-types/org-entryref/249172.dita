@@ -1,0 +1,20 @@
+<org-entryref id="SL1757599" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1757598" slsdocid="249172" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1373" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>B&amp;H Publishing Group</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1 LifeWay Plaza, Nashville, TN 37234</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 448-8032</telephone>
+                                             <email>customerservice@lifeway.com</email>
+                                             <internet>bhpublishinggroup.com</internet>
+                                        </address-block>
+                                        <found-date>1891</found-date>
+                                        <content-note style="NORMAL">imprint of LifeWay Christian Resources</content-note>
+                                        <content-note style="NORMAL">religious fiction, non-fiction, reference and juvenile</content-note>
+                                   </org-entry>
+                              </org-entryref>

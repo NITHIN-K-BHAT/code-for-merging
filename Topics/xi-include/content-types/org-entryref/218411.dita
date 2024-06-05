@@ -1,0 +1,26 @@
+<org-entryref id="SL236980" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="236979" slsdocid="218411" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="PY.DIR.83" id-root="py.dir" iso="py" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN PARAGUAY">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Avda Mariscal López 1776, Casilla 402, Asunción</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 248-3000</telephone>
+                                             <fax>(21) 248-3054</fax>
+                                             <email>paraguayusembassy@state.gov</email>
+                                             <internet>py.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marc</forename>
+                                                       <surname>Ostfield</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

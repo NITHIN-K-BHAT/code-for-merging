@@ -1,0 +1,38 @@
+<org-entryref id="SL262708" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262707" slsdocid="250132" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1997" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>American Association of Exporters and Importers</org-entry-name>
+                                                       <abbr>AAEI</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1717 K St, NW, Suite 1120, Washington, DC 20036</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 857-8009</telephone>
+                                                       <fax>(202) 857-7843</fax>
+                                                       <email>hq@aaei.org</email>
+                                                       <internet>aaei.org</internet>
+                                                  </address-block>
+                                                  <found-date>1921</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ted</forename>
+                                                                 <surname>Sherman</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Eugene</forename>
+                                                                 <surname>Laney</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

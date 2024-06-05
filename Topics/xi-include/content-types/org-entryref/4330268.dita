@@ -1,0 +1,34 @@
+<org-entryref id="SL4330338" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4330337" slsdocid="4330268" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390306572" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Scranton Times-Tribune</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>149 Penn Ave, Scranton, PA 18503</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 228-4637</telephone>
+                                                       <email>contactus_tt@timesshamrock.com</email>
+                                                       <internet>thetimes-tribune.com</internet>
+                                                  </address-block>
+                                                  <found-date>
+                      2005 following merger of 
+                      <i>Scranton Times</i>
+                       (f. 1870) with 
+                      <i>Scranton Tribune</i>
+                       (f. 1891)
+                    </found-date>
+                                                  <content-note style="NORMAL">owned by Times-Shamrock Communications Group</content-note>
+                                                  <frequency>daily</frequency>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Larry</forename>
+                                                                 <surname>Holeva</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

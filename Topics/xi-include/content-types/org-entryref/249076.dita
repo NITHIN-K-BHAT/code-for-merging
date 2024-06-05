@@ -1,0 +1,37 @@
+<org-entryref id="SL1745323" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745322" slsdocid="249076" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1460" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="21.07.2009" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Reader’s Digest Association</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>44 S Bdwy, White Plains, NY 10601</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(914) 238-1000</telephone>
+                                             <email>customercare@rd.com</email>
+                                             <internet>rd.com</internet>
+                                        </address-block>
+                                        <found-date>1922</found-date>
+                                        <content-note style="NORMAL">reference and non-fiction</content-note>
+                                        <role-group>
+                                             <role>Pres. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Bonnie</forename>
+                                                       <surname>Kintzer</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Exec. Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Aviva</forename>
+                                                       <surname>Patz</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

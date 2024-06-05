@@ -1,0 +1,28 @@
+<org-entryref id="SL92600" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="92599" slsdocid="72825" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="SK.DIR.222" id-root="sk.dir" iso="sk" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN SLOVAKIA">
+                                        
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Hviezdoslavovo nám. 4, POB 309, 814 99 Bratislava</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 5443-3338</telephone>
+                                             <fax>(2) 5441-5148</fax>
+                                             <email>ProtocolBratislava@state.gov</email>
+                                             <internet>sk.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gautam A.</forename>
+                                                       <surname>Rana</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

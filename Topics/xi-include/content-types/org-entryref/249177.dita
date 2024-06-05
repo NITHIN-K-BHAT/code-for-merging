@@ -1,0 +1,31 @@
+<org-entryref id="SL1744653" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1744652" slsdocid="249177" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1368" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Beacon Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>24 Farnsworth St, Boston, MA 02210</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(617) 742-2110</telephone>
+                                             <email>publicity@beacon.org</email>
+                                             <internet>beacon.org</internet>
+                                        </address-block>
+                                        <found-date>1854</found-date>
+                                        <content-note style="NORMAL">
+                  dept of 
+                  <xr pageref="N" ref="US.DIR.USAC.44.1">Unitarian Universalist Asscn</xr>
+                                        </content-note>
+                                        <content-note style="NORMAL">world affairs, religion and general non-fiction</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gayatri</forename>
+                                                       <surname>Patnaik</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

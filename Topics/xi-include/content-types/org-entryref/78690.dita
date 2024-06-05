@@ -1,0 +1,29 @@
+<org-entryref id="SL2227445" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2227444" slsdocid="78690" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.890" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS" usage="usac">
+                                                  
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Apparel Quebec/Vêtement Québec</org-entry-name>
+                                                       <alt-name>Institut des Manufacturiers des Vêtements du Québec—IMVQ</alt-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Saint-Laurent, QC</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(514) 382-3846</telephone>
+                                                       <email>info@vetementquebec.com</email>
+                                                       <internet>vetementquebec.com</internet>
+                                                  </address-block>
+                                                  <found-date>1974</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Eric</forename>
+                                                                 <surname>Wazana</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

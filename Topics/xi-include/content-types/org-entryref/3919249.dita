@@ -1,0 +1,26 @@
+<org-entryref id="SL3919421" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3919420" slsdocid="3919249" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.USAC.31.301" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="News Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Agence France-Presse</org-entry-name>
+                                                            <content-note style="NORMAL">Montréal</content-note>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>555 blvd René-Lévesque est, suite 1210, Montréal, QC H2Z 1B1</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(514) 288-2777</telephone>
+                                                            <fax>(514) 288-2897</fax>
+                                                            <email>afpcanada@afp.com</email>
+                                                       </address-block>
+                                                       <role-group>
+                                                            <role>Bureau Chief</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Eric</forename>
+                                                                      <surname>Thomas</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

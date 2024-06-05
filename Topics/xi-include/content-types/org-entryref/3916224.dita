@@ -1,0 +1,39 @@
+<org-entryref id="SL4259479" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4259478" slsdocid="3916224" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="CA.DIR.1355759120" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Industrial and Trade Associations" usage="usac">
+                                             <data-protection date-added="16.10.2006" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Livres Canada Books</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1 Nicholas St, Suite 504, Ottawa, ON K1N 7B7</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(613) 562-2324</telephone>
+                                                  <fax>(613) 562-2329</fax>
+                                                  <email>info@livrescanadabooks.com</email>
+                                                  <internet>livrescanadabooks.com</internet>
+                                             </address-block>
+                                             <found-date>1972</found-date>
+                                             <content-note style="NORMAL">promotes Canadian books in int. markets</content-note>
+                                             <content-note style="NORMAL">fmrly Asscn for Export of Canadian Books (AECB)</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Semareh</forename>
+                                                            <surname>al-Hillal</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>François</forename>
+                                                            <surname>Charette</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

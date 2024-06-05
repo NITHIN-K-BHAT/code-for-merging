@@ -1,0 +1,29 @@
+<org-entryref id="SL1745118" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745117" slsdocid="249120" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1420" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="12.09.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Indiana University Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Herman B. Wells Library E350, 1320 E 10th St, Bloomington, IN 47405-3907</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(812) 855-8817</telephone>
+                                             <fax>(812) 855-7931</fax>
+                                             <email>iuporder@indiana.edu</email>
+                                             <internet>iupress.org</internet>
+                                        </address-block>
+                                        <found-date>1950</found-date>
+                                        <content-note style="NORMAL">trade and scholarly non-fiction</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gary</forename>
+                                                       <surname>Dunham</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

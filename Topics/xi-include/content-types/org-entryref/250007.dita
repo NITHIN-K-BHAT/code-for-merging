@@ -1,0 +1,27 @@
+<org-entryref id="SL8924986" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8924985" slsdocid="250007" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.2118" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL RAILWAYS">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Norfolk Southern Corpn</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>650 W Peachtree St NW, Atlanta, GA 30308</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(404) 529-1527</telephone>
+                                                            <email>media.relations@nscorp.com</email>
+                                                            <internet>nscorp.com</internet>
+                                                       </address-block>
+                                                       <found-date>1988</found-date>
+                                                       <stats>operates 31,060 km of track (2022) in 22 states and DC, with 488 km (303 miles) of track in Canada</stats>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Alan H.</forename>
+                                                                      <surname>Shaw</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

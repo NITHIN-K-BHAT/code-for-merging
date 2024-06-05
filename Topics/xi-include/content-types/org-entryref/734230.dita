@@ -1,0 +1,30 @@
+<org-entryref id="SL734235" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="734234" slsdocid="734230" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="ca" id="AF.DIR.1071678795" id-root="af.dir" iso="af" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Embassies in Afghanistan">
+                                        
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>House 256, St 15, Wazir Akbar Khan, POB 2052, Kabul</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">701108800</telephone>
+                                             <fax>701108805</fax>
+                                             <email>kabul@international.gc.ca</email>
+                                             <internet>www.international.gc.ca/afghanistan</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">operations suspended with effect from 15 Aug. 2021</content-note>
+                                        <content-note style="NORMAL">currently based in Doha, Qatar</content-note>
+                                        <role-group>
+                                             <role>Special Rep.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>David</forename>
+                                                       <surname>Sproule</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

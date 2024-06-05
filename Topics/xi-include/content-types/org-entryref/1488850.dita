@@ -1,0 +1,29 @@
+<org-entryref id="SL5670581" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5670580" slsdocid="1488850" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1139915277" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>G3 Canada Ltd</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>200 Portage Ave, 3rd Floor, Winnipeg, MB R3C 3X2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(204) 983-0239</telephone>
+                                                       <fax>(204) 983-3841</fax>
+                                                       <email>farmerservice@g3.ca</email>
+                                                       <internet>g3.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1935 as Canadian Wheat Board</found-date>
+                                                  <content-note style="NORMAL">present name since 2015</content-note>
+                                                  <content-note style="NORMAL">sole marketing agency for western Canadian wheat and barley exports and for domestic sales of grains for human consumption</content-note>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Don</forename>
+                                                                 <surname>Chapman</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

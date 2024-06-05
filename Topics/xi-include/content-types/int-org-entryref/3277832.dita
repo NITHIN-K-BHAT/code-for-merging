@@ -1,0 +1,52 @@
+<int-org-entryref id="SL3298622" int-org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3298621" slsdocid="3277832" slsdocty="int-org-entry int-org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <int-org-entry id="EU.IO.1298905234" id-root="int-org_eu" iso="" print-style="COLUMN" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio casee">
+                    <int-org-entry-head>
+                         <int-org-name-group type="MAIN">
+                              <org-entry-name>European External Action Service</org-entry-name>
+                              <abbr>EEAS</abbr>
+                         </int-org-name-group>
+                    </int-org-entry-head>
+                    <int-org-block>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>
+                9
+                <sc>a</sc>
+                 rond point Schuman, 1046 Brussels, Belgium
+              </verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 584-11-11</telephone>
+                              <internet>www.eeas.europa.eu</internet>
+                         </address-block>
+                         <p id="IO-EU.EEAS.5">The Treaty of Lisbon, which entered into force in December 2009, created the new position of High Representative of the Union for Foreign Affairs and Security Policy. The EEAS was formally established at the beginning of December 2010, as the EU’s foreign policy and diplomatic service. The High Representative of the Union for Foreign Affairs and Security Policy, who is also a Vice-President of the Commission, is responsible for the co-ordination of the EEAS, and chairs monthly meetings of the Foreign Affairs Council, which comprises EU ministers responsible for foreign affairs, for defence and for development. EU Special Representatives are active in countries and regions worldwide in an effort to support the work of the High Representative in promoting peace, stability and the rule of law. The EEAS, an independent body, incorporated functions of the Commission and the Council that had hitherto been responsible for foreign affairs, and has its own budget.</p>
+                         <p>The EEAS comprises six regional departments, each headed by a managing director: Africa; the Americas; Asia and the Pacific; Europe; Eastern Europe and Central Asia; and the Middle East and North Africa. Another department focuses on the Global Agenda and Multilateral Relations. In June 2016 the High Representative, Federica Mogherini, presented the EU’s new Global Strategy on Foreign and Security Policy, entitled `Shared Vision, Common Action: A Stronger Europe’. The Global Strategy identified five principal objectives, namely increasing security and defence capabilities; bolstering the resilience of regions to the east and south of the EU; adopting an integrated response to conflict and crises; regional co-operation; and supporting global governance on the basis of international law. Josep Borrell Fontelles succeeded Mogherini as High Representative on 1 December 2019.</p>
+                         <dir-list>
+                              <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                   <dir-entry-name>High Representative of the Union for Foreign Affairs and Security Policy</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Josep</forename>
+                                                  <surname>Borrell Fontelles</surname>
+                                             </person-name>
+                                             <person-note>Spain</person-note>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                              <dir-entry id="WB02047.IO.TXT.2057878" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb edio">
+                                   <dir-entry-name>Secretary-General</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Stefano</forename>
+                                                  <surname>Sannino</surname>
+                                             </person-name>
+                                             <person-note>Italy</person-note>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                         </dir-list>
+                    </int-org-block>
+               </int-org-entry>
+          </int-org-entryref>

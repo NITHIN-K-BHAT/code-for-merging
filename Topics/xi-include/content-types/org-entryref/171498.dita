@@ -1,0 +1,27 @@
+<org-entryref id="SL190116" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="190115" slsdocid="171498" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="ID.DIR.217" id-root="id.dir" iso="id" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN INDONESIA">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Jalan Medan Merdeka Selatan 3–5, Jakarta 10110</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 50831000</telephone>
+                                             <fax>(21) 3862259</fax>
+                                             <email>jakartasocnetwork@state.gov</email>
+                                             <internet>id.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chargé d’affaires a.i.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Michael F.</forename>
+                                                       <surname>Kleine</surname>
+                                                  </person-name>
+                                             </person>
+                                             
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

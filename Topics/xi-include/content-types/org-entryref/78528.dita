@@ -1,0 +1,28 @@
+<org-entryref id="SL8927939" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8927938" slsdocid="78528" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.1071" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SHIPPING" usage="ewyb usac">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Fednav Ltd</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>1000 rue de la Gauchetière ouest, suite 3400, Montréal, QC H3B 4W5</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(514) 878-6500</telephone>
+                                                            <email>agency@fednav.com</email>
+                                                            <internet>fednav.com</internet>
+                                                       </address-block>
+                                                       <found-date>1944</found-date>
+                                                       <content-note style="NORMAL">ship­owners, operators, contractors, terminal operators</content-note>
+                                                       <stats>owned and chartered fleet of 120 vessels</stats>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Paul</forename>
+                                                                      <surname>Pathy</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

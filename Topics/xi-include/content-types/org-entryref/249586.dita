@@ -1,0 +1,37 @@
+<org-entryref id="SL1741199" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741198" slsdocid="249586" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.942" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Connecticut Post</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>301 Merritt 7, Suite 1, Norwalk, CT 06851-1075</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(203) 842-2500</telephone>
+                                                       <email>circulation@ctpost.com</email>
+                                                       <internet>ctpost.com</internet>
+                                                  </address-block>
+                                                  <found-date>1883</found-date>
+                                                  <role-group>
+                                                       <role>Group Pres. and Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mike</forename>
+                                                                 <surname>DeLuca</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Donald</forename>
+                                                                 <surname>Eng</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Fri. 53,866, Sun. 80,840 (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

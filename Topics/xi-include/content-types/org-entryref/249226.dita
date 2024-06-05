@@ -1,0 +1,37 @@
+<org-entryref id="SL1743666" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1743665" slsdocid="249226" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1322" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NEWS AGENCIES" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Jewish Telegraphic Agency, Inc</org-entry-name>
+                                                       <abbr>JTA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>24 W 30th St, 4th Floor, New York, NY 10001</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(212) 643-1890</telephone>
+                                                       <email>info@jta.org</email>
+                                                       <internet>jta.org</internet>
+                                                  </address-block>
+                                                  <found-date>1917</found-date>
+                                                  <content-note style="NORMAL">worldwide Jewish news</content-note>
+                                                  <role-group>
+                                                       <role>CEO and Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ami</forename>
+                                                                 <surname>Eden</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor-in-chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Philissa</forename>
+                                                                 <surname>Cramer</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

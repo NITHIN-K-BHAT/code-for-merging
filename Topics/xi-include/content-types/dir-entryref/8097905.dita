@@ -1,0 +1,15 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8097908" sllink="SLSDOCRF" sllinkid="8097907" slsdocid="8097905" slsdocty="dir-entry dir-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <dir-entry id="CA.DIR.1653385949" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="usac">
+                                        <dir-entry-name>Official Opposition House Leader</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Andrew</forename>
+                                                       <surname>Scheer</surname>
+                                                  </person-name>
+                                                  <person-note>Con.</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>

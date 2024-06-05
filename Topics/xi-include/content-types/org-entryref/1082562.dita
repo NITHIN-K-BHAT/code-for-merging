@@ -1,0 +1,28 @@
+<org-entryref id="SL1733034" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1733033" slsdocid="1082562" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <org-entry id="US.DIR.1098266287" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   
+                                   <data-protection date-added="12.09.2007" ticked-box="N" />
+                                   <org-entry-head>
+                                        <org-entry-name>Green Party of the United States</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>7059 Blair Rd, NW, Suite 104, POB 75075, Washington, DC 20013</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(202) 319-7191</telephone>
+                                        <email>office@gp.org</email>
+                                        <internet>www.gp.org</internet>
+                                   </address-block>
+                                   <found-date>1984; present name adopted 2001</found-date>
+                                   <role-group>
+                                        <role>Sec.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Holly</forename>
+                                                  <surname>Hart</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>

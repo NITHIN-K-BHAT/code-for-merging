@@ -1,0 +1,36 @@
+<org-entryref id="SL8922957" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922956" slsdocid="250508" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1624" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>City National Bank</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>525 S Flower St, 12th Floor, Los Angeles, CA 90071</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(213) 673-9900</telephone>
+                                                       <email>contact@cnb.com</email>
+                                                       <internet>cnb.com</internet>
+                                                  </address-block>
+                                                  <found-date>1954</found-date>
+                                                  <content-note style="NORMAL">subsidiary of Royal Bank of Canada</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Greg</forename>
+                                                                 <surname>Carmichael</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Howard</forename>
+                                                                 <surname>Hammond</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

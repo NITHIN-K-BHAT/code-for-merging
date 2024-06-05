@@ -1,0 +1,23 @@
+<org-entryref id="SL1759876" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759875" slsdocid="78853" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.708" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>Oberon Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>145 Spruce St, Suite 205, Ottawa, ON K1R 6P1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(613) 238-3275</telephone>
+                                             <email>oberon@sympatico.ca</email>
+                                             <internet>oberonpress.ca</internet>
+                                        </address-block>
+                                        <found-date>1966</found-date>
+                                        <content-note style="NORMAL">
+                  poetry, fiction and 
+                  
+                  non-fiction
+                </content-note>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,26 @@
+<org-entryref id="SL4539697" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4539696" slsdocid="4539644" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="ca" id="QA.DIR.1402053238" id-root="qa.dir" iso="qa" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN QATAR">
+                                        <org-entry-head>
+                                             <org-entry-name>Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>POB 24876, Tornado Tower, West Bay, Doha</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">44199000</telephone>
+                                             <fax>44199035</fax>
+                                             <email>dohag@international.gc.ca</email>
+                                             <internet>www.canadainternational.gc.ca/qatar</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Isabelle</forename>
+                                                       <surname>Martin</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

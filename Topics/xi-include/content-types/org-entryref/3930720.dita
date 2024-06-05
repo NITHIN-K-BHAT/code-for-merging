@@ -1,0 +1,29 @@
+<org-entryref id="SL8830027" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8830026" slsdocid="3930720" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.USAC.32.74" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Publishers" usage="usac">
+                                        <data-protection date-added="14.08.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Novalis</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1 Eglinton Ave E, Suite 800, Toronto, ON M4P 3A1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(416) 363-3303</telephone>
+                                             <fax>(416) 363-9409</fax>
+                                             <email>books@novalis.ca</email>
+                                             <internet>novalis.ca</internet>
+                                        </address-block>
+                                        <found-date>1936</found-date>
+                                        <content-note style="NORMAL">religion and theology</content-note>
+                                        <role-group>
+                                             <role>Publishing Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jonathan</forename>
+                                                       <surname>Guilbault</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

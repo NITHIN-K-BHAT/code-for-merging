@@ -1,0 +1,36 @@
+<org-entryref id="SL7799434" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799433" slsdocid="7799370" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1637853921" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>The Dalhousie Review</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Dalhousie University, Halifax, NS B3H 4R2</verbatim-address>
+                                                       </address>
+                                                       <email>dalhousie.review@dal.ca</email>
+                                                       <internet>ojs.library.dal.ca/dalhousiereview</internet>
+                                                  </address-block>
+                                                  <found-date>1921</found-date>
+                                                  <frequency>3 a year</frequency>
+                                                  <content-note style="NORMAL">literary and general</content-note>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Lynne</forename>
+                                                                 <surname>Evans</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Anthony</forename>
+                                                                 <surname>Enns</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

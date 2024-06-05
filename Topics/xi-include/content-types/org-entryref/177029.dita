@@ -1,0 +1,29 @@
+<org-entryref id="SL200474" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="200473" slsdocid="177029" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="MG.DIR.114" id-root="mg.dir" iso="mg" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN MADAGASCAR">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>
+                      Lot 207
+                      <sc>a</sc>
+                      , Point Liberty, Andranoro-Antehiroka, BP 5253, 105 Antananarivo
+                    </verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(20) 2348000</telephone>
+                                             <email>paoantananarivo@state.gov</email>
+                                             <internet>mg.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Claire A.</forename>
+                                                       <surname>Pierangelo</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

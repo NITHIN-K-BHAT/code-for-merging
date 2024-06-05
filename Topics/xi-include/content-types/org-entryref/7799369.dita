@@ -1,0 +1,39 @@
+<org-entryref id="SL7799429" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799428" slsdocid="7799369" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1637853869" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Inuvik Drum</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>POB 2820, Yellowknife, NT X1A 2R1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(867) 777-4545</telephone>
+                                                       <fax>(867) 777-4412</fax>
+                                                       <email>inuvikdrum@nnsl.com</email>
+                                                       <internet>nnsl.com/inuvikdrum</internet>
+                                                  </address-block>
+                                                  <found-date>1965</found-date>
+                                                  <frequency>weekly</frequency>
+                                                  <content-note style="NORMAL">English</content-note>
+                                                  <content-note style="NORMAL">distributed in Inuvik, Aklavik, Fort McPherson, Tuktoyaktuk and Arctic Red River</content-note>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mike W.</forename>
+                                                                 <surname>Bryant</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>James</forename>
+                                                                 <surname>McCarthy</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,153 @@
+<org-entryref id="SL3919347" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3919346" slsdocid="3919234" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="CA.DIR.USAC.31.287" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="News Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb usac">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Canadian Press Enterprises Inc</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>60 Adelaide St E, Suite 1200, Toronto, ON M5C 3E4</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(416) 364-0321</telephone>
+                                                  <email>info@thecanadianpressnews.ca</email>
+                                                  <internet>thecanadianpress.com</internet>
+                                             </address-block>
+                                             <found-date>1917 as The Canadian Press, a national news co-operative</found-date>
+                                             <content-note style="NORMAL">
+                    bought by 
+                    <i>The Globe and Mail</i>
+                    , Square Victoria Communications Group and Torstar in 2010
+                  </content-note>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Andrea</forename>
+                                                            <surname>Baillie</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <org-list>
+                                                  <org-entryref id="SL3919311" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3919310" slsdocid="3919240" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.USAC.31.289" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="News Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>Canadian Press Enterprises Inc—Atlantic</org-entry-name>
+                                                                 <content-note style="NORMAL">Halifax</content-note>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>1809 Brunswick St, Suite 810, Halifax, NS B3J 3A3</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(902) 422-8496</telephone>
+                                                            </address-block>
+                                                            <role-group>
+                                                                 <role>Bureau Chief</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Graeme</forename>
+                                                                           <surname>Hamilton</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL3919322" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3919321" slsdocid="3919243" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.USAC.31.999293" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="News Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>Canadian Press Enterprises Inc—Ontario</org-entry-name>
+                                                                 <content-note style="NORMAL">Toronto</content-note>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>60 Adelaide St E, Toronto, ON M5C 3E4</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(416) 364-0321</telephone>
+                                                            </address-block>
+                                                            <role-group>
+                                                                 <role>Bureau Chief</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Ben</forename>
+                                                                           <surname>Simon</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL3919328" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3919327" slsdocid="3919244" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.USAC.31.291" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="News Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>Canadian Press Enterprises Inc—Ottawa</org-entry-name>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>56 Sparks St, Suite 705, Ottawa, ON K1P 5A9</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(613) 236-4122</telephone>
+                                                            </address-block>
+                                                            <role-group>
+                                                                 <role>Bureau Chief</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Joanna</forename>
+                                                                           <surname>Smith</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL3919332" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3919331" slsdocid="3919245" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.USAC.31.999288" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="News Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>Canadian Press Enterprises Inc—Prairies and Western Canada</org-entry-name>
+                                                                 <content-note style="NORMAL">Edmonton</content-note>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>10055 106 St, Suite 800, Edmonton, AB T5J 2Y2</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(780) 428-6107</telephone>
+                                                            </address-block>
+                                                            <role-group>
+                                                                 <role>Bureau Chief</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Chris</forename>
+                                                                           <surname>Purdy</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL3919339" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3919338" slsdocid="3919247" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.USAC.31.200410251159" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="News Agencies" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>Canadian Press Enterprises Inc—Québec</org-entry-name>
+                                                                 <content-note style="NORMAL">Montréal</content-note>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>750 Blvd St-Laurent, Suite 200, Montréal, QC H2Y 2Z4</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(514) 849-3212</telephone>
+                                                            </address-block>
+                                                            <role-group>
+                                                                 <role>Bureau Chief</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Graeme</forename>
+                                                                           <surname>Hamilton</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                             </org-list>
+                                        </org-entry>
+                                   </org-entryref>

@@ -1,0 +1,36 @@
+<org-entryref id="SL3919297" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3919296" slsdocid="3919267" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.USAC.39.6" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="National Associations" usage="usac">
+                                             <data-protection date-added="13.09.2007" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>American Society of Media Photographers Inc</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1629 K St, NW, Suite 300, Washington, DC 20006</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(844) 762-3386</telephone>
+                                                  <email>asmp@vpconnections.com</email>
+                                                  <internet>asmp.org</internet>
+                                             </address-block>
+                                             <found-date>1944</found-date>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Michael</forename>
+                                                            <surname>Shay</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>James Edmund</forename>
+                                                            <surname>Datri</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

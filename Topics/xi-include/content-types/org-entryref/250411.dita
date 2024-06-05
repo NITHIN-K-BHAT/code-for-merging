@@ -1,0 +1,28 @@
+<org-entryref id="SL8923262" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8923261" slsdocid="250411" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1713" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <org-entry-head>
+                                                       <org-entry-name>First Horizon Bank </org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>165 Madison Ave, 9th Floor, POB 84, Memphis, TN 38101</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(901) 523-4883</telephone>
+                                                       <email>customerservice@firsthorizon.com</email>
+                                                       <internet>firsthorizon.com</internet>
+                                                  </address-block>
+                                                  <found-date>1864</found-date>
+                                                  <content-note style="NORMAL">fmrly First Tennessee Bank NA</content-note>
+                                                  <content-note style="NORMAL">present name since 2019</content-note>
+                                                  <role-group>
+                                                       <role>Chair, Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Bryan</forename>
+                                                                 <surname>Jordan</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,37 @@
+<org-entryref id="SL260830" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260829" slsdocid="249272" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1280" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Redbook</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>300 W 57th St, New York, NY 10019-5899</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 649-3323</telephone>
+                                                  <email>redbook@hearst.com</email>
+                                                  <internet>redbookmag.com</internet>
+                                             </address-block>
+                                             <found-date>1903</found-date>
+                                             <frequency>monthly</frequency>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Meredith</forename>
+                                                            <surname>Rollins</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Editor</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Sarah</forename>
+                                                            <surname>Smith</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 2,153,307 (2017)</stats>
+                                        </org-entry>
+                                   </org-entryref>

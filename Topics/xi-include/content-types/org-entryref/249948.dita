@@ -1,0 +1,38 @@
+<org-entryref id="SL3885257" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3885256" slsdocid="249948" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2183A" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CIVIL AVIATION" usage="ewyb usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Airlines for America</org-entry-name>
+                                                       <abbr>A4A</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1275 Pennsylvania Ave, NW, Suite 1300, Washington, DC 20004</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 626-4000</telephone>
+                                                       <email>mediarelations@airlines.org</email>
+                                                       <internet>airlines.org</internet>
+                                                  </address-block>
+                                                  <found-date>1936</found-date>
+                                                  <stats>10 mem. airlines mems, 1 assoc. mem. (2023)</stats>
+                                                  <role-group>
+                                                       <role>Exec. Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Gary C.</forename>
+                                                                 <surname>Kelly</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Nicholas E.</forename>
+                                                                 <surname>Calio</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

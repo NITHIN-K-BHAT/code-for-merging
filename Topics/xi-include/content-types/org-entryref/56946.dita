@@ -1,0 +1,28 @@
+<org-entryref id="SL3027895" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3027893" slsdocid="56946" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="CZ.DIR.540" id-root="cz.dir" iso="cz" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MAJOR COMPANIES">
+                                             <org-entry-head>
+                                                  <org-entry-name>ŠKODA Praha, a.s.</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Duhová 2/1444, 140 00 Prague 4</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">211045242</telephone>
+                                                  <fax>211045032</fax>
+                                                  <email>info@skodapraha.cz</email>
+                                                  <internet>skodapraha.cz/en</internet>
+                                             </address-block>
+                                             <found-date>2005 after takeover by ČEZ, a.s.</found-date>
+                                             <content-note style="NORMAL">construction, civil engineering and manufacture of industrial machinery</content-note>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jan</forename>
+                                                            <surname>Štancl</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

@@ -1,0 +1,13 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8097190" sllink="SLSDOCRF" sllinkid="8097189" slsdocid="8097180" slsdocty="dir-entry dir-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <dir-entry id="US.DIR.1653321127" id-root="us.dir" iso="us" section="Legislature" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Senate">
+                                        <dir-entry-name>Senate</dir-entry-name>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Washington, DC 20510</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(202) 224–3121</telephone>
+                                             <internet>www.senate.gov</internet>
+                                        </address-block>
+                                   </dir-entry>
+                              </dir-entryref>

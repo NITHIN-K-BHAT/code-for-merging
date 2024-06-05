@@ -1,0 +1,29 @@
+<org-entryref id="SL262472" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262471" slsdocid="250262" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1856" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Associated General Contractors (AGC) of America</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2300 Wilson Blvd, Suite 300, Arlington, VA 22201</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(703) 548-3118</telephone>
+                                                       <fax>(703) 548-8117</fax>
+                                                       <email>info@agc.org</email>
+                                                       <internet>agc.org</internet>
+                                                  </address-block>
+                                                  <found-date>1918</found-date>
+                                                  <stats>over 27,000 mem. cos (2023)</stats>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Lester C.</forename>
+                                                                 <surname>Synder</surname>
+                                                                 <gen-name>III</gen-name>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

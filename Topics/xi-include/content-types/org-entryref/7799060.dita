@@ -1,0 +1,28 @@
+<org-entryref id="SL7799267" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799266" slsdocid="7799060" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637850404" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Springer Publishing Co</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>11 W 42nd St, 15th Floor, New York, NY 10036</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 431-4370</telephone>
+                                             <email>cs@springerpub.com</email>
+                                             <internet>www.springerpub.com</internet>
+                                        </address-block>
+                                        <found-date>1950</found-date>
+                                        <content-note style="NORMAL">owned by Mannheim Holdings</content-note>
+                                        <content-note style="NORMAL">social sciences, nursing, medical</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mary E.</forename>
+                                                       <surname>Gatsch</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

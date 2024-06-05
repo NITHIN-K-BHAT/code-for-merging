@@ -1,0 +1,38 @@
+<org-entryref id="SL1415464" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1415463" slsdocid="1415461" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1128434396" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Employers Organizations">
+                                                  <data-protection date-added="12.09.2007" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Tile Contractors Association</org-entry-name>
+                                                       <abbr>NTCA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>626 Lakeland E Dr., POB 13629, Jackson, MS 39236</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(601) 939-2071</telephone>
+                                                       <fax>(601) 932-6117</fax>
+                                                       <email>webmaster@tile-assn.com</email>
+                                                       <internet>tile-assn.com</internet>
+                                                  </address-block>
+                                                  <found-date>1947</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Sam</forename>
+                                                                 <surname>Bruce</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Bart</forename>
+                                                                 <surname>Bettiga</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

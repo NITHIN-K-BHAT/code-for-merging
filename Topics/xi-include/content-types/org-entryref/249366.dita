@@ -1,0 +1,32 @@
+<org-entryref id="SL7805737" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7805736" slsdocid="249366" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1194" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <data-protection date-added="12.04.2011" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Scout Life</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1325 W Walnut Hill Lane, POB 152079, Irving, TX 75015</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(972) 580-2366</telephone>
+                                                  <email>advertising@scouting.org</email>
+                                                  <internet>scoutlife.org</internet>
+                                             </address-block>
+                                             <found-date>1911</found-date>
+                                             <content-note style="NORMAL">fmrly’ Boys’ Life</content-note>
+                                             <content-note style="NORMAL">present name since 2021</content-note>
+                                             <frequency>monthly</frequency>
+                                             <content-note style="NORMAL">publ. by Boy Scouts of America</content-note>
+                                             <role-group>
+                                                  <role>Editorial Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Michael</forename>
+                                                            <surname>Goldman</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 764,667 (June 2019)</stats>
+                                        </org-entry>
+                                   </org-entryref>

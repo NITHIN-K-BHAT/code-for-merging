@@ -1,0 +1,38 @@
+<org-entryref id="SL8955442" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8955441" slsdocid="78782" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.785" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ASSOCIATIONS">
+                                                       <data-protection date-added="23.07.2009" ticked-box="Y" />
+                                                       <org-entry-head>
+                                                            <org-entry-name>Canadian Association of Broadcasters/L’Association Canadienne des Radiodiffuseurs</org-entry-name>
+                                                            <abbr>CAB</abbr>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>45 O’Connor St, Suite 770, Ottawa, ON K1P 1A4</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(613) 233-4035</telephone>
+                                                            <email>sbissonnette@cab-acr.ca</email>
+                                                            <internet>cab-acr.ca</internet>
+                                                       </address-block>
+                                                       <found-date>1926</found-date>
+                                                       <content-note style="NORMAL">over 600 mem. broadcasting stations</content-note>
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Carmela</forename>
+                                                                      <surname>Laurignano</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Sec.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Jonathan</forename>
+                                                                      <surname>Daniels</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

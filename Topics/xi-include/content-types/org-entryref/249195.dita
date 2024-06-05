@@ -1,0 +1,38 @@
+<org-entryref id="SL6908344" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6908343" slsdocid="249195" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1352" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NATIONAL ASSOCIATIONS" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>The NewsGuild</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>501 3rd St, NW, Washington, DC 20001</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 434-7177</telephone>
+                                                  <email>guild@cwa-union.org</email>
+                                                  <internet>newsguild.org</internet>
+                                             </address-block>
+                                             <found-date>1933</found-date>
+                                             <content-note style="NORMAL">present name adopted 2015</content-note>
+                                             <content-note style="NORMAL">journalists’ org., organ of Communications Workers of America</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Diane</forename>
+                                                            <surname>Mastrull</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jon</forename>
+                                                            <surname>Schleuss</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>25,000 mems in USA, Puerto Rico and Canada (2021)</stats>
+                                        </org-entry>
+                                   </org-entryref>

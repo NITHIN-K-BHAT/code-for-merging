@@ -1,0 +1,37 @@
+<org-entryref id="SL8829969" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8829968" slsdocid="78856" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.705" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <data-protection date-added="28.01.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>McGill-Queen's University Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1010 rue Sherbrooke ouest, suite 1720, Montréal, QC H3A 2R7</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(514) 398-3750</telephone>
+                                             <email>mqup@mcgill.ca</email>
+                                             <internet>mqup.ca</internet>
+                                        </address-block>
+                                        <found-date>1960</found-date>
+                                        <content-note style="NORMAL">scholarly and general interest</content-note>
+                                        <role-group>
+                                             <role>Exec. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Lisa</forename>
+                                                       <surname>Quinn</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jonathan</forename>
+                                                       <surname>Crago</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

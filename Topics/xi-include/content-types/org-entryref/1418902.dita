@@ -1,0 +1,28 @@
+<org-entryref id="SL1418907" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1418906" slsdocid="1418902" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1128698745" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Employers Organizations">
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Ocean Industries Association</org-entry-name>
+                                                       <abbr>NOIA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1120 G St, NW, Suite 900, Washington, DC 20005</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 347-6900</telephone>
+                                                       <email>media@noia.org</email>
+                                                       <internet>noia.org</internet>
+                                                  </address-block>
+                                                  <found-date>1972</found-date>
+                                                  <content-note style="NORMAL">offshore energy industries</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Paul</forename>
+                                                                 <surname>Danos</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,28 @@
+<org-entryref id="SL3930818" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3930817" slsdocid="3930718" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.USAC.32.62" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Publishers" usage="usac">
+                                        <data-protection date-added="10.09.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>LexisNexis Canada Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>111 Gordon Baker Rd, Suite 900, Toronto, ON M2H 3R1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(905) 479-2665</telephone>
+                                             <email>customerservice@lexisnexis.ca</email>
+                                             <internet>lexisnexis.ca</internet>
+                                        </address-block>
+                                        <found-date>1912</found-date>
+                                        <content-note style="NORMAL">legal, professional</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Eric</forename>
+                                                       <surname>Wright</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

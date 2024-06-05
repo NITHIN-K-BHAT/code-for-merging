@@ -1,0 +1,30 @@
+<org-entryref id="SL7319082" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7319081" slsdocid="249117" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1423" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                        
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name> Qur’an, Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>80-08 51st Ave, Elmhurst, NY 11373-0115</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(718) 446-6472</telephone>
+                                             <fax>(718) 446-4370</fax>
+                                             <email>read@koranusa.org</email>
+                                             <internet>koranusa.org</internet>
+                                        </address-block>
+                                        <found-date>1978</found-date>
+                                        <content-note style="NORMAL">Islamic religious texts</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Aun Ali</forename>
+                                                       <surname>Khalfan</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

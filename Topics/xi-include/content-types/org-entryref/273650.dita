@@ -1,0 +1,26 @@
+<org-entryref id="SL282710" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="282709" slsdocid="273650" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="RU.DIR.271" id-root="ru.dir" iso="ru" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN RUSSIA">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>121099 Moscow, B. Devyatinskii per. 8</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(495) 728-50-00</telephone>
+                                             <fax>(495) 728-50-90</fax>
+                                             <email>support-russia@ustraveldocs.com</email>
+                                             <internet>ru.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Lynne M.</forename>
+                                                       <surname>Tracy</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

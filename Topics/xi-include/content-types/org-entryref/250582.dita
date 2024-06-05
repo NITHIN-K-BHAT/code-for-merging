@@ -1,0 +1,34 @@
+<org-entryref id="SL1762766" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1762765" slsdocid="250582" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1523" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>Presbyterian Publishing Corpn</org-entry-name>
+                                             <abbr>PPC</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>100 Witherspoon St, Louisville, KY 40202</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 533-4371</telephone>
+                                             <email>customer_service@presbypub.com</email>
+                                             <internet>ppcbooks.com</internet>
+                                        </address-block>
+                                        <found-date>1938</found-date>
+                                        <content-note style="NORMAL">
+                  publ. of 
+                  <xr pageref="N" ref="US.DIR.809">Presbyterian Church (USA)</xr>
+                                        </content-note>
+                                        <content-note style="NORMAL">imprints incl. Geneva Press, Westminster John Knox Press</content-note>
+                                        <role-group>
+                                             <role>Pres. and Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>David M.</forename>
+                                                       <surname>Dobson</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

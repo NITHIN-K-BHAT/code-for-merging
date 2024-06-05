@@ -1,0 +1,59 @@
+<org-entryref id="SL4928902" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4928901" slsdocid="1171792" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <org-entry id="CA.DIR.1109775102" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Telecommunications">
+                    
+                    <org-entry-head>
+                         <org-entry-name>Shaw Communications Inc</org-entry-name>
+                    </org-entry-head>
+                    <address-block>
+                         <address type="POSTAL">
+                              <verbatim-address>630 3rd Ave, SW, Suite 900, Calgary, AB T2P 4L4</verbatim-address>
+                         </address>
+                         <telephone alsofax="N">(403) 750-4500</telephone>
+                         <internet>www.shaw.ca</internet>
+                    </address-block>
+                    <found-date>1966</found-date>
+                    <content-note style="NORMAL">present name adopted 1993</content-note>
+                    <content-note style="NORMAL">broadband internet and fixed-line telephone services, cable and satellite television and mobile telephony services and through its subsidiary cos, incl. Freedom Mobile, Shaw Broadcast Services and Shaw Media</content-note>
+                    <content-note style="NORMAL">acquired by Rogers Communications Inc 2023</content-note>
+                    <role-group>
+                         <role>Chair. and CEO</role>
+                         <person>
+                              <person-name>
+                                   <forename>Edward S.</forename>
+                                   <surname>Rogers</surname>
+                              </person-name>
+                         </person>
+                    </role-group>
+                    <org-list>
+                         <org-entryref id="SL6995490" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6995489" slsdocid="3193002" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="CA.DIR.201711051324" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS" usage="usac">
+                                   <org-entry-head>
+                                        <org-entry-name>Freedom Mobile</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>207 Queen’s Quay W, Suite 710, POB 114, Toronto, ON M5J 1A7</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(647) 700-2435</telephone>
+                                        <email>accessibility.feedback@freedommobile.ca</email>
+                                        <internet>freedommobile.ca</internet>
+                                   </address-block>
+                                   <content-note style="NORMAL">fmrly Wind Mobile</content-note>
+                                   <content-note style="NORMAL">present name adopted 2016</content-note>
+                                   <content-note style="NORMAL">part of Shaw Communications</content-note>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Tony</forename>
+                                                  <surname>Staffieri</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </org-entry>
+          </org-entryref>

@@ -1,0 +1,27 @@
+<org-entryref id="SL1745588" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745587" slsdocid="250616" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1492" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>University of Georgia Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Main Library, 3rd Floor, 320 S Jackson St, Athens, GA 30602</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(706) 542-0027</telephone>
+                                             <email>books@uga.edu</email>
+                                             <internet>ugapress.org</internet>
+                                        </address-block>
+                                        <found-date>1938</found-date>
+                                        <content-note style="NORMAL">academic, scholarly, poetry, fiction, non-fiction, literary</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Lisa</forename>
+                                                       <surname>Bayer</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

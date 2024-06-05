@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+     <booktitle>
+          <mainbooktitle>Bibliography</mainbooktitle>
+     </booktitle>
+     <chapter id="ass.books" navtitle="Select bibliography (books)">
+          <topicref href="../../../../Topics/Region/ass/content-types/bibliography/ass.books.dita" navtitle="Select bibliography (books)" keyscope="bibl-section" keys="bibl-section" format="dita" />
+     </chapter>
+</bookmap>

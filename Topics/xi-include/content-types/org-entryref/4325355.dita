@@ -1,0 +1,28 @@
+<org-entryref id="SL4325544" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4325543" slsdocid="4325355" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389938671" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Tuscaloosa News</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>315 28th Ave, POB 20587, Tuscaloosa, AL 35401</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(205) 345-0505</telephone>
+                                                       <email>ken.roberts@tuscaloosanews.com</email>
+                                                       <internet>tuscaloosanews.com</internet>
+                                                  </address-block>
+                                                  <found-date>1818</found-date>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ken</forename>
+                                                                 <surname>Roberts</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 26,000, Sun. 29,700 (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

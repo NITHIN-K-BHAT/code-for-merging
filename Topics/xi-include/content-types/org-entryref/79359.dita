@@ -1,0 +1,25 @@
+<org-entryref id="SL102766" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="102765" slsdocid="79359" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="CD.DIR.142" id-root="cd.dir" iso="cd" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN THE DEMOCRATIC REPUBLIC OF THE CONGO">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>310 ave des Aviateurs, BP 697, Kinshasa</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">815560151</telephone>
+                                             <email>USEmbassyKinshasa@state.gov</email>
+                                             <internet>cd.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Lucy</forename>
+                                                       <surname>Tamlyn</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

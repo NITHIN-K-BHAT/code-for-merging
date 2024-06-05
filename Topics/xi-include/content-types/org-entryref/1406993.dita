@@ -1,0 +1,31 @@
+<org-entryref id="SL8961417" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8961416" slsdocid="1406993" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1127482671" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Television" usage="ewyb usac">
+                                                       
+                                                       
+                                                       <org-entry-head>
+                                                            <org-entry-name>ABC, Inc</org-entry-name>
+                                                            <alt-name>American Broadcasting Co, Inc</alt-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>77 W 66th St, 3rd Floor, Suite 100, New York, NY 10023</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(212) 456-7777</telephone>
+                                                            <internet>abc.com</internet>
+                                                       </address-block>
+                                                       <found-date>1943</found-date>
+                                                       <content-note style="NORMAL">subsidiary of Walt Disney Co; 10 owned and 226 affiliated stations</content-note>
+                                                       <content-note style="NORMAL">production through Touchstone Television, and Disney television content distribution through Buena Vista Television</content-note>
+                                                       <role-group>
+                                                            <role>Pres. (ABC News)</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Debra</forename>
+                                                                      <surname>O’Connell</surname>
+                                                                 </person-name>
+                                                                 <person-note>acting</person-note>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

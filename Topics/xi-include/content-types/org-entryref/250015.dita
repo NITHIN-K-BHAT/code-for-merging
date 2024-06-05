@@ -1,0 +1,29 @@
+<org-entryref id="SL8924973" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8924972" slsdocid="250015" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.2111" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL RAILWAYS">
+                                                       <org-entry-head>
+                                                            <org-entry-name>BNSF Railway</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>2560 Lou Menk Dr., Fort Worth, TX 76131-2830</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(817) 352-1000</telephone>
+                                                            <internet>bnsf.com</internet>
+                                                       </address-block>
+                                                       <found-date>1995</found-date>
+                                                       <content-note style="NORMAL">freight</content-note>
+                                                       <content-note style="NORMAL">present name since 2005</content-note>
+                                                       <content-note style="NORMAL">owned by Berkshire Hathaway, Inc</content-note>
+                                                       <stats>52,304 track-km in 28 US states and 3 Canadian provinces</stats>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Kathryn M.</forename>
+                                                                      <surname>Farmer</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

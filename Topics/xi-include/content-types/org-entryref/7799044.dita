@@ -1,0 +1,29 @@
+<org-entryref id="SL7799172" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799171" slsdocid="7799044" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637847941" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Knopf Doubleday Publishing Group</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1745 Bdwy, New York, NY 10019</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 782-9000</telephone>
+                                             <fax>(212) 940-7390</fax>
+                                             <email>knopfpublicity@randomhouse.com</email>
+                                             <internet>knopfdoubleday.com</internet>
+                                        </address-block>
+                                        <found-date>1915</found-date>
+                                        <content-note style="NORMAL">division of Penguin Random House group</content-note>
+                                        <content-note style="NORMAL">imprints incl. Alfred A. Knopf, Inc (f. 1915, fiction, non-fiction, textbooks, general literature, poetry and cookery), Anchor Books, Doubleday, Everyman’s Library, Nan A. Talese, Pantheon Books, Inc (fiction, non-fiction, history, philosophy, art and illustrated edns), Schocken Books (f. 1945, Judaica, biography, cookery and fiction), and Vintage Books (f. 1954, paperbacks)</content-note>
+                                        <role-group>
+                                             <role>Pres. and Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Maya</forename>
+                                                       <surname>Mavjee</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

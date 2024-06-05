@@ -1,0 +1,39 @@
+<org-entryref id="SL3930881" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3930880" slsdocid="3930841" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="CA.DIR.USAC.32.129" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Publishers’ Organizations and Associations" usage="usac">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>The Canadian Copyright Licensing Agency</org-entry-name>
+                                                  <abbr>Access Copyright</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>56 Wellesley St W, 3rd Floor, Toronto, ON M5S 2S3</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(416) 868-1620</telephone>
+                                                  <fax>(416) 868-1621</fax>
+                                                  <email>info@accesscopyright.ca</email>
+                                                  <internet>accesscopyright.ca</internet>
+                                             </address-block>
+                                             <found-date>1988</found-date>
+                                             <stats>33 mems (2023)</stats>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Mark</forename>
+                                                            <surname>Lovewell</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Roanie</forename>
+                                                            <surname>Levy</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

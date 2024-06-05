@@ -1,0 +1,25 @@
+<org-entryref id="SL3920279" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3920278" slsdocid="3920133" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1356103715" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Inter Press Service</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>Rm S407, United Nations, New York, NY 10017</verbatim-address>
+                                                            </address>
+                                                            <email>noram@ips.org</email>
+                                                            <internet>ipsnews.net</internet>
+                                                       </address-block>
+                                                       <found-date>1962</found-date>
+                                                       <role-group>
+                                                            <role>Vice-Pres. and Exec. Dir (IPS N America)</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Farhana</forename>
+                                                                      <surname>Haque-Rahman</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

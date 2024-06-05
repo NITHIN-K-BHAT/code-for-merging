@@ -1,0 +1,37 @@
+<org-entryref id="SL4326362" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4326361" slsdocid="4326165" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389955465" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>The Day</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>47 Eugene O'Neill Dr., POB 1231, New London, CT 06320-1231</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(860) 442-2200</telephone>
+                                                       <email>t.dwyer@theday.com</email>
+                                                       <internet>www.theday.com</internet>
+                                                  </address-block>
+                                                  <found-date>1881</found-date>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>Pres. and Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Timothy</forename>
+                                                                 <surname>Dwyer</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Izaskun E.</forename>
+                                                                 <surname>Larrañeta</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Fri. 24,573, Sat. 24,319, Sun. 26,926</stats>
+                                             </org-entry>
+                                        </org-entryref>

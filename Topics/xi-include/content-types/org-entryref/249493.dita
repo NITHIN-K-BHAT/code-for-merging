@@ -1,0 +1,37 @@
+<org-entryref id="SL1741546" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741545" slsdocid="249493" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1054" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Courier-Post</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>301 Cuthbert Blvd, Cherry Hill, NJ 08002</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 677-6289</telephone>
+                                                       <email>courierpost@gannett.com</email>
+                                                       <internet>courierpostonline.com</internet>
+                                                  </address-block>
+                                                  <found-date>1875</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Joseph</forename>
+                                                                 <surname>Calchi</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Regional News Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>J. Staas</forename>
+                                                                 <surname>Haught</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 30,313, Sun. 41,078 (2016)</stats>
+                                             </org-entry>
+                                        </org-entryref>

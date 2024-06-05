@@ -1,0 +1,29 @@
+<org-entryref id="SL262612" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262611" slsdocid="250185" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1933" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Copper Development Association, Inc</org-entry-name>
+                                                       <abbr>CDA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1660 International Dr., Suite 600, McLean, VA 22102</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(212) 251-7200</telephone>
+                                                       <fax>(703) 506-3266</fax>
+                                                       <email>webmaster@copperalliance.us</email>
+                                                       <internet>copper.org</internet>
+                                                  </address-block>
+                                                  <found-date>1962</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Andrew G.</forename>
+                                                                 <surname>Kireta</surname>
+                                                                 <gen-name>Jr</gen-name>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

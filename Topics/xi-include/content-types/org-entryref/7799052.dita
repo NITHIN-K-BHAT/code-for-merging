@@ -1,0 +1,30 @@
+<org-entryref id="SL7799226" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799225" slsdocid="7799052" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637849575" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Paulist Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>997 Macarthur Blvd, Mahwah, NJ 07430-9990</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(201) 825-7300</telephone>
+                                             <fax>(201) 825-6921</fax>
+                                             <email>info@paulistpress.com</email>
+                                             <internet>www.paulistpress.com</internet>
+                                        </address-block>
+                                        <found-date>1881 as The Columbus Press</found-date>
+                                        <content-note style="NORMAL">press of the Missionary Society of St Paul the Apostle</content-note>
+                                        <content-note style="NORMAL">religious (Roman Catholic, Paulist), philosophical and social</content-note>
+                                        <role-group>
+                                             <role>Pres. and Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <title>Rev.</title>
+                                                       <forename>Mark-David</forename>
+                                                       <surname>Janus</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,38 @@
+<org-entryref id="SL8961487" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8961486" slsdocid="250527" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1582" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELEVISION" usage="ewyb usac">
+                                                       <org-entry-head>
+                                                            <org-entry-name>PBS—Public Broadcasting Service</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>1225 S Clark St, Arlington, VA 22202</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(703) 739-5000</telephone>
+                                                            <email>viewer@pbs.org</email>
+                                                            <internet>pbs.org</internet>
+                                                       </address-block>
+                                                       <found-date>1969</found-date>
+                                                       <content-note style="NORMAL">non-profit</content-note>
+                                                       <content-note style="NORMAL">financed by private subscriptions and fed. govt funds</content-note>
+                                                       <content-note style="NORMAL">operates over 330 PBS member stations under 158 educational non-commercial licensees</content-note>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Paula</forename>
+                                                                      <surname>Kerger</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>COO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Jonathan</forename>
+                                                                      <surname>Barzilay</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

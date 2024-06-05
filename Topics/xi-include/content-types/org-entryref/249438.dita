@@ -1,0 +1,42 @@
+<org-entryref id="SL1742079" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1742078" slsdocid="249438" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1117" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <data-protection date-added="10.03.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Philadelphia Inquirer</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>100 S Independence Mall W, Suite 600, Philadelphia, PA 19106</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(215) 854-2000</telephone>
+                                                       <email>letters@inquirer.com</email>
+                                                       <internet>inquirer.com</internet>
+                                                  </address-block>
+                                                  <found-date>1829</found-date>
+                                                  <content-note style="NORMAL">owned by Philadelphia Media Network</content-note>
+                                                  <content-note style="NORMAL">
+                      also tabloid edn, 
+                      <i>Philadelphia Daily News</i>
+                                                  </content-note>
+                                                  <role-group>
+                                                       <role>Publr and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Elizabeth H.</forename>
+                                                                 <surname>Hughes</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor and Vice-Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Gabriel</forename>
+                                                                 <surname>Escobar</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 61,180 (2023)</stats>
+                                             </org-entry>
+                                        </org-entryref>

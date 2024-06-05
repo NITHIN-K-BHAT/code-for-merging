@@ -1,0 +1,15 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6289127" sllink="SLSDOCRF" sllinkid="6289126" slsdocid="6289114" slsdocty="dir-entry dir-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <dir-entry id="RU-AD.3" id-root="ru.dir" iso="ru" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                             <dir-entry-name>Prime Minister</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Gennadii A.</forename>
+                                                            <surname>Mitrofanov</surname>
+                                                       </person-name>
+                                                  </person>
+                                                  
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>

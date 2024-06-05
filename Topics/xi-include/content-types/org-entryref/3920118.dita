@@ -1,0 +1,27 @@
+<org-entryref id="SL4735783" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4735782" slsdocid="3920118" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1356102199" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Tribune News Service</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>160 N Stetson Ave, Chicago, IL 60601</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(312) 222-4131</telephone>
+                                                       <email>tcasales@tribpub.com</email>
+                                                       <internet>tribunecontentagency.com/tribune-news-service</internet>
+                                                  </address-block>
+                                                  <found-date>1918</found-date>
+                                                  <content-note style="NORMAL">fmrly MCT</content-note>
+                                                  <role-group>
+                                                       <role>Vice Pres. (Operations)</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jack</forename>
+                                                                 <surname>Barry</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

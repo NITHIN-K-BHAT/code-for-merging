@@ -1,0 +1,31 @@
+<org-entryref id="SL1759448" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759447" slsdocid="78949" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.608" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  <data-protection date-added="24.08.2007" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Legion Magazine</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>86 Aird Pl., Kanata, ON K2L 0A1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 591-0116</telephone>
+                                                       <fax>(613) 591-0146</fax>
+                                                       <email>magazine@legion.ca</email>
+                                                       <internet>legionmagazine.com</internet>
+                                                  </address-block>
+                                                  <found-date>1926</found-date>
+                                                  <frequency>6 a year</frequency>
+                                                  <content-note style="NORMAL">publ. for military veterans</content-note>
+                                                  <role-group>
+                                                       <role>Gen. Man.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jennifer</forename>
+                                                                 <surname>Morse</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 175,516 (September 2020)</stats>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,27 @@
+<org-entryref id="SL8961147" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8961146" slsdocid="250565" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1539A" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Federal Communications Commission</org-entry-name>
+                                                  <abbr>FCC</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>45 L St, NE, Washington, DC 20554</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 418-1122</telephone>
+                                                  <email>pra@fcc.gov</email>
+                                                  <internet>fcc.gov</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">regulates interstate and foreign communications by radio, TV, satellite and cable</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jessica</forename>
+                                                            <surname>Rosenworcel</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

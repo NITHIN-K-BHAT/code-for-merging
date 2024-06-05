@@ -1,0 +1,30 @@
+<org-entryref id="SL262460" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262459" slsdocid="250269" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1849" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS ORGANIZATIONS">
+                                                  <data-protection date-added="26.07.2005" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>The Fertilizer Institute</org-entry-name>
+                                                       <abbr>TFI</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>4201 Wilson Blvd, Suite 700, Arlington, VA 22203</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 962-0490</telephone>
+                                                       <fax>(202) 962-0577</fax>
+                                                       <internet>tfi.org</internet>
+                                                  </address-block>
+                                                  <found-date>1883</found-date>
+                                                  <content-note style="NORMAL">present name adopted 1969</content-note>
+                                                  <stats>169 mem. cos (2022)</stats>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Corey</forename>
+                                                                 <surname>Rosenbusch</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

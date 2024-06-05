@@ -1,0 +1,26 @@
+<org-entryref id="SL67194" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="67193" slsdocid="58923" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="ca" id="JM.DIR.88" id-root="jm.dir" iso="jm" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES AND HIGH COMMISSIONS IN JAMAICA">
+                                        <org-entry-head>
+                                             <org-entry-name>Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>3 West Kings House Rd, POB 1500, Kingston 10</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">926-1500</telephone>
+                                             <fax>511-3493</fax>
+                                             <email>kngtn@international.gc.ca</email>
+                                             <internet>www.canadainternational.gc.ca/jamaica-jamaique</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>High Commissioner</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Emina</forename>
+                                                       <surname>Tudakovic</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

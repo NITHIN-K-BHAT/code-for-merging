@@ -1,0 +1,34 @@
+<org-entryref id="SL3999868" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3999867" slsdocid="3913999" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.USAC.201115" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Utilities">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Nunavut Water Board</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>POB 119, Gjoa Haven, NU X0B 1J0</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(867) 360-6338</telephone>
+                                                       <email>info@nwb-oen.ca</email>
+                                                       <internet>nwb-oen.ca</internet>
+                                                  </address-block>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Lootie</forename>
+                                                                 <surname>Toomasie</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Stephanie</forename>
+                                                                 <surname>Autut</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

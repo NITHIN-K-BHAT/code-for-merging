@@ -1,0 +1,39 @@
+<org-entryref id="SL8961327" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8961326" slsdocid="250543" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1563" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="RADIO" usage="ewyb usac">
+                                                       
+                                                       <org-entry-head>
+                                                            <org-entry-name>National Public Radio</org-entry-name>
+                                                            <abbr>NPR</abbr>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>1111 N Capitol St, NE, Washington, DC 20002</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(202) 513-2040</telephone>
+                                                            <fax>(202) 513-3021</fax>
+                                                            <internet>npr.org</internet>
+                                                       </address-block>
+                                                       <found-date>1970</found-date>
+                                                       <content-note style="NORMAL">private, non-profit corpn providing programmes and support facilities to over 1,000 mem. stations nationwide</content-note>
+                                                       <content-note style="NORMAL">also operates global programme distribution service by radio, cable and satellite</content-note>
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>John</forename>
+                                                                      <surname>McGinn</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>John</forename>
+                                                                      <surname>Lansing</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

@@ -1,0 +1,28 @@
+<org-entryref id="SL260844" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260843" slsdocid="249264" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1287" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Scientific American</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1 New York Plaza, 46th Floor, New York, NY 10004</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(800) 333–1199</telephone>
+                                                  <email>scacustserv@cdsfulfillment.com</email>
+                                                  <internet>scientificamerican.com</internet>
+                                             </address-block>
+                                             <found-date>1845</found-date>
+                                             <frequency>monthly</frequency>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Laura</forename>
+                                                            <surname>Helmuth</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 281,480 (2022)</stats>
+                                        </org-entry>
+                                   </org-entryref>

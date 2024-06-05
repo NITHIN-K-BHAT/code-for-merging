@@ -1,0 +1,38 @@
+<org-entryref id="SL262512" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262511" slsdocid="250240" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1878" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>American Society of Civil Engineers</org-entry-name>
+                                                       <abbr>ASCE</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1801 Alexander Bell Dr., Reston, VA 20191</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(703) 295-6300</telephone>
+                                                       <email>customercare@asce.org</email>
+                                                       <internet>asce.org</internet>
+                                                  </address-block>
+                                                  <found-date>1852</found-date>
+                                                  <stats>over 150,000 mems worldwide (2023)</stats>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Maria C.</forename>
+                                                                 <surname>Lehman</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Thomas W.</forename>
+                                                                 <surname>Smith</surname>
+                                                                 <gen-name>III</gen-name>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

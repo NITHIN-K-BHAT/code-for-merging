@@ -1,0 +1,29 @@
+<org-entryref id="SL260692" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260691" slsdocid="249348" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1211" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Ebony</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>POB 56124, Houston, TX 77256</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(312) 322-9200</telephone>
+                                                  <email>social@ebony.com</email>
+                                                  <internet>ebony.com</internet>
+                                             </address-block>
+                                             <found-date>1945</found-date>
+                                             <content-note style="NORMAL">online only since 2019</content-note>
+                                             <content-note style="NORMAL">African American interest</content-note>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Marielle</forename>
+                                                            <surname>Bobo</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

@@ -1,0 +1,68 @@
+<int-org-entryref id="SL4007216" int-org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4007215" slsdocid="3953624" slsdocty="int-org-entry int-org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <int-org-entry id="EU.IO.1360072783" id-root="int-org_eu" iso="" print-style="COLUMN" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio">
+                    <int-org-entry-head>
+                         <int-org-name-group type="MAIN">
+                              <org-entry-name>European Stability Mechanism</org-entry-name>
+                              <abbr>ESM</abbr>
+                         </int-org-name-group>
+                    </int-org-entry-head>
+                    <int-org-block>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <addressline>
+                6
+                <sc>a</sc>
+                 circuit de la Foire Internationale, 1347 Luxembourg
+              </addressline>
+                              </address>
+                              <telephone alsofax="N">(352) 2609620</telephone>
+                              <email>info@esm.europa.eu</email>
+                              <internet>www.esm.europa.eu</internet>
+                         </address-block>
+                         <p>
+            The ESM was conceived as an international financial institution, the purpose of which is to make available financial assistance to member countries, where necessary, in order to ensure financial stability. The ESM was inaugurated on 8 October 2012, when the Board of Governors, comprising eurozone ministers responsible for finance, held its first meeting. The ESM effectively superseded a temporary funding programme, the European Financial Stability Facility (EFSF—which came under the management of the ESM and remained responsible only for lending approved prior to its establishment), and the associated emergency funding mechanism, the European Financial Stabilization Mechanism. The ESM has total subscribed, authorized capital of €704,800m. Eurozone member states may apply for funding from the ESM if they are experiencing serious financial difficulties or if their financial sector is considered to threaten stability and require recapitalization. Applications are subject to two conditions: the member state must have signed a memorandum of understanding outlining the reforms to be undertaken; and it must have ratified the Treaty on Stability, Co-ordination and Governance in the Economic and Monetary Union. The ESM has provided financial assistance to Greece, Cyprus, Portugal, Ireland and Spain. It also established Pandemic Crisis Support, a credit line available to ESM members until the end of 2022 in order to support financing by individual member states of health care, treatment- and prevention-related costs resulting from the COVID-19 crisis. The ESM’s Managing Director serves a five-year term. The Chairperson
+            
+             of the Board of Governors is also President of the Eurogroup, an informal council of ministers of finance and of the economy of the 20 member states participating in economic and monetary union.
+          </p>
+                         <dir-list>
+                              <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                   <dir-entry-name>Managing Director of the ESM</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Pierre</forename>
+                                                  <surname>Gramegna</surname>
+                                             </person-name>
+                                             <person-note>Luxembourg</person-note>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                              <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                   <dir-entry-name>Secretary-General</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Nicola</forename>
+                                                  <surname>Giammarioli</surname>
+                                             </person-name>
+                                             <person-note>Italy</person-note>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                              <dir-entry sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                   <dir-entry-name>Chairperson of the Board of Governors and President of the Eurogroup</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Paschal</forename>
+                                                  <surname>Donohoe</surname>
+                                             </person-name>
+                                             <person-note>Ireland</person-note>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                         </dir-list>
+                    </int-org-block>
+               </int-org-entry>
+          </int-org-entryref>

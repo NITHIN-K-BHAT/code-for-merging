@@ -1,0 +1,26 @@
+<org-entryref id="SL186660" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="186659" slsdocid="168927" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="ca" id="BD.DIR.125" id-root="bd.dir" iso="bd" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES AND HIGH COMMISSIONS IN BANGLADESH">
+                                        <org-entry-head>
+                                             <org-entry-name>Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>United Nations Rd, Baridhara, POB 569, Dhaka 1212</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 55668444</telephone>
+                                             <fax>(2) 55668423</fax>
+                                             <email>dhakag@international.gc.ca</email>
+                                             <internet>international.gc.ca/world-monde/bangladesh/dhaka-dacca.aspx</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>High Commissioner</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Lilly</forename>
+                                                       <surname>Nicholls</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

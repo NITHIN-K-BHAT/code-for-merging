@@ -1,0 +1,28 @@
+<org-entryref id="SL8401676" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8401675" slsdocid="4403086" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="CA.DIR.1395816942.15" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="GOVERNMENT AGENCIES">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Federal Economic Development Agency For Northern Ontario</org-entry-name>
+                                                  <abbr>FedNor</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>19 Lisgar St, Suite 307, Sudbury, ON P3E 3L4</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(877) 333-6673</telephone>
+                                                  <email>fednor@ic.gc.ca</email>
+                                                  <internet>fednor.ic.gc.ca</internet>
+                                             </address-block>
+                                             <found-date>1987</found-date>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Valerie</forename>
+                                                            <surname>Gideon</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

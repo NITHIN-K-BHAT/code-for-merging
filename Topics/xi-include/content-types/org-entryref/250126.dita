@@ -1,0 +1,37 @@
+<org-entryref id="SL262720" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262719" slsdocid="250126" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2003" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Association of Realtors</org-entry-name>
+                                                       <abbr>NAR</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>430 N Michigan Ave, Suite 500, Chicago, IL 60611-4087</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 383-1000</telephone>
+                                                       <email>contactnar@realtors.org</email>
+                                                       <internet>nar.realtor</internet>
+                                                  </address-block>
+                                                  <found-date>1908</found-date>
+                                                  <stats>1.5m. mems (2023)</stats>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tracy</forename>
+                                                                 <surname>Kasper</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Bob</forename>
+                                                                 <surname>Goldberg</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

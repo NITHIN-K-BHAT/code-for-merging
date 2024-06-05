@@ -1,0 +1,28 @@
+<org-entryref id="SL3930837" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3930836" slsdocid="3930724" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.USAC.32.109" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Publishers" usage="ewyb usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Whitecap Books Ltd</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>314 W Cordova St, Suite 209, Vancouver, BC V6B 1E8</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(604) 681-6181</telephone>
+                                             <email>bookinfo@whitecap.ca</email>
+                                             <internet>whitecap.ca</internet>
+                                        </address-block>
+                                        <found-date>1977</found-date>
+                                        <content-note style="NORMAL">owned by Fitzhenry &amp; Whiteside Ltd</content-note>
+                                        <content-note style="NORMAL">culinary, outdoor guides, children’s</content-note>
+                                        <role-group>
+                                             <role>Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nick</forename>
+                                                       <surname>Rundall</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,37 @@
+<org-entryref id="SL1741364" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741363" slsdocid="249543" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.988" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Journal Gazette</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>600 W Main St, Fort Wayne, IN 46802</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(260) 466-6397</telephone>
+                                                       <email>jgnews@jg.net</email>
+                                                       <internet>journalgazette.net</internet>
+                                                  </address-block>
+                                                  <found-date>1863</found-date>
+                                                  <content-note style="NORMAL">publ. by Fort Wayne Newspapers</content-note>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Sherry</forename>
+                                                                 <surname>Skufca</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jim</forename>
+                                                                 <surname>Touvell</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 45,149 (2018)</stats>
+                                             </org-entry>
+                                        </org-entryref>

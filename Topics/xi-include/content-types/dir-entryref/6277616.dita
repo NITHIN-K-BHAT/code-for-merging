@@ -1,0 +1,22 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6281072" sllink="SLSDOCRF" sllinkid="6281071" slsdocid="6277616" slsdocty="dir-entry dir-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <dir-entry id="RU-FED.SKFO" id-root="ru.dir" iso="ru" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Presidential Representative to the North Caucasus Federal Okrug</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Yurii Ya.</forename>
+                                                       <surname>Chaika</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                        
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>357501 Stavropol Krai, Pyatigorsk, pr. Kirova 26</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(8793) 39-44-75</telephone>
+                                             <internet>skfo.gov.ru</internet>
+                                        </address-block>
+                                   </dir-entry>
+                              </dir-entryref>

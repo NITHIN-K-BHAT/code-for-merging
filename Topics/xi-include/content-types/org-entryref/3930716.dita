@@ -1,0 +1,28 @@
+<org-entryref id="SL8830104" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8830103" slsdocid="3930716" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.USAC.32.200410211625" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Publishers" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Les Editions de l'Homme</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>4545, rue Frontenac, 3e étage, Montréal, QC H2H 2R7</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(514) 523-1182</telephone>
+                                             <email>communicationweb@groupehomme.com</email>
+                                             <internet>editionshomme.groupelivre.com</internet>
+                                        </address-block>
+                                        <found-date>1958</found-date>
+                                        <content-note style="NORMAL">subsidiary of Groupe Livre Québecor Média</content-note>
+                                        <content-note style="NORMAL">practical skills, leisure, culture and fiction</content-note>
+                                        <role-group>
+                                             <role>Exec. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Judith</forename>
+                                                       <surname>Landry</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

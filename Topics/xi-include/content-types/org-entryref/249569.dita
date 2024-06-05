@@ -1,0 +1,27 @@
+<org-entryref id="SL1741286" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741285" slsdocid="249569" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.961" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Pensacola News Journal</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2 N Palafox St, Pensacola, FL 32502</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(850) 435-8500</telephone>
+                                                       <internet>pnj.com</internet>
+                                                  </address-block>
+                                                  <found-date>1889</found-date>
+                                                  <content-note style="NORMAL">owned by Garnett Co, Inc.</content-note>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Lisa</forename>
+                                                                 <surname>Nellessen-Lara</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 19,475 (2018)</stats>
+                                             </org-entry>
+                                        </org-entryref>

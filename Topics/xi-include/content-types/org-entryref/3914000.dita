@@ -1,0 +1,36 @@
+<org-entryref id="SL3999865" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3999864" slsdocid="3914000" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.USAC.14.21" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Utilities">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Ontario Clean Water Agency/Agence Ontarienne des Eaux</org-entry-name>
+                                                       <abbr>OCWA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2085 Hurontario St, Suite 500, Mississauga, ON L5A 4G1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(905) 491-4000</telephone>
+                                                       <email>ocwa@ocwa.com</email>
+                                                       <internet>ocwa.com</internet>
+                                                  </address-block>
+                                                  <found-date>1993</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Joseph</forename>
+                                                                 <surname>Pennachetti</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Iman</forename>
+                                                                 <surname>Hashemi</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

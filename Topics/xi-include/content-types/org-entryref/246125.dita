@@ -1,0 +1,26 @@
+<org-entryref id="SL255624" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="255623" slsdocid="246125" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="ca" id="TH.DIR.129" id-root="th.dir" iso="th" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN THAILAND">
+                                        <org-entry-head>
+                                             <org-entry-name>Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Abdulrahim Pl., 15th Floor, 990 Thanon Rama IV, Bang­rak, Bangkok 10500</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 646-4300</telephone>
+                                             <fax>(2) 646-4336</fax>
+                                             <email>bngkk@international.gc.ca</email>
+                                             <internet>www.canadainternational.gc.ca/thailand-thailande</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ping</forename>
+                                                       <surname>Kitnikone</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

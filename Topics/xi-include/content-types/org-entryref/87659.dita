@@ -1,0 +1,25 @@
+<org-entryref id="SL116040" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="116039" slsdocid="87659" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="ER.DIR.86" id-root="er.dir" iso="er" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN ERITREA">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>179 Ala St, POB 211, Asmara</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 120004</telephone>
+                                             <email>usembassyasmara@state.gov</email>
+                                             <internet>er.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chargé d'affaires</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Leslie</forename>
+                                                       <surname>Freriksen</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

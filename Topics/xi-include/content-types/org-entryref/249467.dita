@@ -1,0 +1,28 @@
+<org-entryref id="SL1741641" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741640" slsdocid="249467" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1084" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <data-protection date-added="17.10.2006" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Citizen-Times</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>14 Ohenry Ave, POB 2090, Asheville, NC 28802</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 672-2472</telephone>
+                                                       <email>news@citizen-times.com</email>
+                                                       <internet>citizen-times.com</internet>
+                                                  </address-block>
+                                                  <found-date>1870</found-date>
+                                                  <content-note style="NORMAL">owned by Gannett Co, Inc.</content-note>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Karen</forename>
+                                                                 <surname>Chávez</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

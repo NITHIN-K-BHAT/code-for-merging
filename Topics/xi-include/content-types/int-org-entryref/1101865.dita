@@ -1,0 +1,50 @@
+<int-org-entryref id="SL1115934" int-org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1115933" slsdocid="1101865" slsdocty="int-org-entry int-org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <int-org-entry id="WB02047.IO.TXT.200305091613" id-root="int-org_eu" iso="" print-style="COLUMN" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio casee">
+                    <int-org-entry-head>
+                         <int-org-name-group type="MAIN">
+                              <org-entry-name>European Court of Auditors</org-entry-name>
+                              <abbr>ECA</abbr>
+                         </int-org-name-group>
+                    </int-org-entry-head>
+                    <int-org-block>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>12 rue Alcide de Gasperi, 1615 Luxembourg</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">4398-1</telephone>
+                              <email>eca-info@eca.europa.eu</email>
+                              <internet>www.eca.europa.eu</internet>
+                         </address-block>
+                         <p id="WB02047.IO.TXT.179" usage="ewyb edio casee">The ECA was created by the Treaty of Brussels, which was signed on 22 July 1975, and it commenced its duties in late 1977. It was given the status of an institution on a par with the Commission, the Council, the Court of Justice and the Parliament by the Treaty on European Union. It is the institution responsible for the external audit of the resources managed by the EU. The entry into effect of the Treaty of Lisbon in 2009 confirmed the Court’s mandate and status as an institution of the EU; in addition, the treaty introduced changes to the way that funds are managed. It consists of one member from each member state, appointed for a renewable six-year term (under a qualified majority voting system) by the Council, after consultation with the European Parliament (EP). The members elect the President of the Court from among their number for a renewable term of three years.</p>
+                         <p id="WB02047.IO.TXT.180" usage="ewyb edio casee">The Court is organized and acts as a collegiate body. It adopts its decisions by a majority of its members. Each member, however, has a direct responsibility for the audit of certain sectors of Union activity.</p>
+                         <p id="WB02047.IO.TXT.181" usage="ewyb edio casee">The Court examines the accounts of all expenditure and revenue of the EU and of any body created by them in so far as the relevant constituent instrument does not preclude such examination. It examines whether all revenue has been received and all expenditure incurred in a lawful and regular manner and whether the financial management has been sound. The audit is based on records, and if necessary is performed directly in the institutions of the Union, in the member states and in other countries. In the member states the audit is carried out in co-operation with the national audit bodies. The Court of Auditors draws up an annual report after the close of each financial year. The Court provides the EP and the Council with a statement of assurance as to the reliability of the accounts, and the legality and regularity of the underlying transactions. It may also, at any time, submit observations on specific questions (usually in the form of special reports) and deliver opinions at the request of one of the institutions of the Union. It assists the EP and the Council in exercising their powers of control over the implementation of the budget, in particular within the framework of the annual discharge procedure, and gives its prior opinion on financial regulations, on the methods and procedure whereby budgetary revenue is made available to the Commission, and on the formulation of rules concerning the responsibility of authorizing officers and accounting officers and concerning appropriate arrangements for inspection.</p>
+                         <dir-list>
+                              <dir-entry id="WB02047.IO.TXT.182" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb edio casee">
+                                   <dir-entry-name>President</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Tony</forename>
+                                                  <surname>Murphy</surname>
+                                             </person-name>
+                                             <person-note>Ireland</person-note>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                              <dir-entry id="WB02047.IO.TXT.188" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb edio casee">
+                                   <dir-entry-name>Secretary-General</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Zacharias</forename>
+                                                  <surname>Kolias</surname>
+                                             </person-name>
+                                             <person-note>Greece</person-note>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                         </dir-list>
+                    </int-org-block>
+               </int-org-entry>
+          </int-org-entryref>

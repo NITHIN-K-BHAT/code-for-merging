@@ -1,0 +1,27 @@
+<org-entryref id="SL8925016" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8925015" slsdocid="6942843" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1580294457" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL RAILWAYS">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Watco Companies, LLC</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>315 W 3rd St, Pittsburg, KS 66762</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(620) 231-2230</telephone>
+                                                            <email>helpdesk@watco.com</email>
+                                                            <internet>watco.com</internet>
+                                                       </address-block>
+                                                       <found-date>1983</found-date>
+                                                       <content-note style="NORMAL">operates around 8,000 km in 45 short line railroads in N America and W Australia</content-note>
+                                                       <role-group>
+                                                            <role>CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Dan</forename>
+                                                                      <surname>Smith</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

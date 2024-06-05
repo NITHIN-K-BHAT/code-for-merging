@@ -1,0 +1,27 @@
+<org-entryref id="SL98770" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="98769" slsdocid="76960" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="BO.DIR.109" id-root="bo.dir" iso="bo" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN BOLIVIA">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Avda Arce 2780, Casilla 425, La Paz</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 2168000</telephone>
+                                             <fax>(2) 2168111</fax>
+                                             <email>consularlapaz@state.com</email>
+                                             <internet>bo.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chargé d’affaires a.i.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Debra</forename>
+                                                       <surname>Hevia</surname>
+                                                  </person-name>
+                                             </person>
+                                             
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

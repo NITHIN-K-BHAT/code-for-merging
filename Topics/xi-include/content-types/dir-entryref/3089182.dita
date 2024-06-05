@@ -1,0 +1,19 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL3089188" sllink="SLSDOCRF" sllinkid="3089187" slsdocid="3089182" slsdocty="dir-entry dir-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <dir-entry id="GF.DIR.1279286904" id-root="gf.dir" iso="gf" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>President</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Emmanuel</forename>
+                                                       <surname>Macron</surname>
+                                                  </person-name>
+                                                  <person-note>
+                      elected 7 May 2017; took office 14 May; re-elected 
+                      
+                      on 24 April 2022
+                    </person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>

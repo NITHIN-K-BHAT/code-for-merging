@@ -1,0 +1,27 @@
+<org-entryref id="SL3920256" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3920255" slsdocid="3920128" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1356102828" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Deutsche Presse-Agentur</org-entry-name>
+                                                            <abbr>dpa</abbr>
+                                                            <content-note style="NORMAL">Washington, DC</content-note>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>National Press Bldg, Suite 1112, 529 14th St, Washington, DC 20045</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(202) 662-1220</telephone>
+                                                            <email>washington@dpa.com</email>
+                                                            <internet>dpa.com</internet>
+                                                       </address-block>
+                                                       <role-group>
+                                                            <role>Correspondent</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Julia</forename>
+                                                                      <surname>Naue</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

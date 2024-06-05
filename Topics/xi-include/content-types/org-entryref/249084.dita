@@ -1,0 +1,36 @@
+<org-entryref id="SL1745242" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745241" slsdocid="249084" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1453" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Penguin Random House</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1745 Bdwy, New York, NY 10019</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 782-9000</telephone>
+                                             <email>penguinrandomhouse@penguinrandomhouse.com</email>
+                                             <internet>penguinrandomhouse.com</internet>
+                                        </address-block>
+                                        <found-date>2013 by merger of Penguin Group and Random House</found-date>
+                                        <content-note style="NORMAL">imprints incl. Ace Books (science fiction), Alpha (general reference), Avery (health, self-help, diet, fitness), Ballantine Bantam Dell (hardcover, trade and mass-market paperback), Berkley (mass-market and trade paperback), Clarkson Potter (cookery and lifestyle), Crown (general fiction and non-fiction), DAW Books (science fiction and fantasy), Dutton (fiction and non-fiction), Gotham (non-fiction), HP Books (automotive, photography, gardening, health and child care), Hudson Street Press (hardcover non-fiction), Jeremy P. Tarcher (non-fiction), Knopf Doubleday (fiction and non-fiction), NAL (paperback fiction), Penguin (paperback), Plume (paperback), Portfolio (business), Putnam (fiction and non-fiction), Random House Publishing Group (originals, reprints, paperbacks, juvenile, series, textbooks), Random House Audio Publishing, Random House Children’s Books, and Random House Information (reference and non-fiction), Riverhead (fiction), Sentinel (conservative), and Viking (fiction and non-fiction)</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Philip</forename>
+                                                       <surname>Hoffman</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Global CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nihar</forename>
+                                                       <surname>Malaviya</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,26 @@
+<org-entryref id="SL8927953" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8927952" slsdocid="4392881" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.1395227701" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Shipping" usage="ewyb usac">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Northumberland Ferries Ltd</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>23 Service Rd, Wood Islands, PE C0A 1B0</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(902) 962-2016</telephone>
+                                                            <email>infodesk@nfl-bay.com</email>
+                                                            <internet>ferries.ca</internet>
+                                                       </address-block>
+                                                       <found-date>1939</found-date>
+                                                       <role-group>
+                                                            <role>Chair. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Mark</forename>
+                                                                      <surname>MacDonald</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

@@ -1,0 +1,106 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8926904" sllink="SLSDOCRF" sllinkid="8926903" slsdocid="7117606" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <dir-section id="US.DIR.1590167352" id-root="us.dir" iso="us" section="Religion" sllink="SLSDOC" slsdocrf="DIR-SECTREF" subsection="Other Groups" usage="ewyb usac">
+                                   <heading>Other Groups</heading>
+                                   <org-list>
+                                        <org-entryref id="SL7117620" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7117619" slsdocid="4305706" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="US.DIR.1388665334" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Other Groups">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Church of Scientology International</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>6331 Hollywood Blvd, Suite 1200, Los Angeles, CA 90028</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(213) 960-3500</telephone>
+                                                       <email>mediarelations@churchofscientology.net</email>
+                                                       <internet>scientology.org</internet>
+                                                  </address-block>
+                                                  <found-date>1954</found-date>
+                                                  <stats>10m. mems worldwide</stats>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>David</forename>
+                                                                 <surname>Miscavige</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL7117624" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7117623" slsdocid="4305705" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="US.DIR.1388665397" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Other Groups" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Self-Realization Fellowship</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>3880 San Rafael Ave, Los Angeles, CA 90065-3219</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(323) 225-2471</telephone>
+                                                       <internet>yogananda.org</internet>
+                                                  </address-block>
+                                                  <found-date>1920</found-date>
+                                                  
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Brother</title>
+                                                                 <verbatim-name>Chidananda</verbatim-name>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL7117631" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7117630" slsdocid="4305704" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="US.DIR.1388665567" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Other Groups">
+                                                  <data-protection date-added="06.10.2004" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Unitarian Universalist Association of Congregations</org-entry-name>
+                                                       <abbr>UUA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>24 Farnsworth St, Boston, MA 02210-1409</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(617) 742-2100</telephone>
+                                                       <email>info@uua.org</email>
+                                                       <internet>uua.org</internet>
+                                                  </address-block>
+                                                  <found-date>1961</found-date>
+                                                  <stats>1,004 congregations with 201,541 adherents (2020)</stats>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Rev.</title>
+                                                                 <forename>Sofía</forename>
+                                                                 <surname>Betancourt</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Co-Moderators</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Meg</forename>
+                                                                 <surname>Riley</surname>
+                                                            </person-name>
+                                                       </person>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Charles</forename>
+                                                                 <surname>Du Mond</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                         </dir-sectref>

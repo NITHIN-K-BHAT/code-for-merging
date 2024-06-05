@@ -1,0 +1,27 @@
+<org-entryref id="SL1740069" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1740068" slsdocid="930004" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1084358004" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Verizon Communications</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1095 Ave of the Americas, New York, NY 10013</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(212) 395-1000</telephone>
+                                                       <email>localmedia@verizon.com</email>
+                                                       <internet>verizon.com</internet>
+                                                  </address-block>
+                                                  <found-date>2000</found-date>
+                                                  <role-group>
+                                                       <role>Chair. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Hans</forename>
+                                                                 <surname>Vestberg</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <content-note style="NORMAL">over 143m. wireless subscribers (2022)</content-note>
+                                             </org-entry>
+                                        </org-entryref>

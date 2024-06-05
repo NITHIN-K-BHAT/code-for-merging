@@ -1,0 +1,27 @@
+<org-entryref id="SL7799159" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799158" slsdocid="7799041" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637847141" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Hippocrene Books, Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>171 Madison Ave, Suite 1605, New York, NY 10016</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 685-4371</telephone>
+                                             <email>info@hippocrenebooks.com</email>
+                                             <internet>hippocrenebooks.com</internet>
+                                        </address-block>
+                                        <found-date>1970</found-date>
+                                        <content-note style="NORMAL">history, food, travel, foreign language dictionaries and reference</content-note>
+                                        <role-group>
+                                             <role>Publr and Editorial Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Priti</forename>
+                                                       <surname>Gress</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

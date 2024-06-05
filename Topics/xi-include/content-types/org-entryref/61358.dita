@@ -1,0 +1,29 @@
+<org-entryref id="SL71428" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="71427" slsdocid="61358" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="SI.DIR.329" id-root="si.dir" iso="si" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN SLOVENIA">
+                                        
+                                        
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 Ljubljana, Prešernova cesta 31</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 2005500</telephone>
+                                             <fax>(1) 2005555</fax>
+                                             <email>usembassyljubljana@state.gov</email>
+                                             <internet>si.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jamie Lindler</forename>
+                                                       <surname>Harpootlian</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

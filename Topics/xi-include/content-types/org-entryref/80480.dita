@@ -1,0 +1,25 @@
+<org-entryref id="SL104386" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="104385" slsdocid="80480" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="ca" id="CI.DIR.130" id-root="ci.dir" iso="ci" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN CÔTE D’IVOIRE">
+                                        <org-entry-head>
+                                             <org-entry-name>Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Immeuble Trade Center, 23 ave Noguès, 01 BP 4104, Abidjan 01</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">27-20-30-07-00</telephone>
+                                             <email>abdjn@international.gc.ca</email>
+                                             <internet>www.international.gc.ca/country-pays/cote_divoire/abidjan.aspx?lang=fra</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Anderson</forename>
+                                                       <surname>Blanc</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

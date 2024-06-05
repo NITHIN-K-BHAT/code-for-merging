@@ -1,0 +1,41 @@
+<org-entryref id="SL3925125" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3925124" slsdocid="250390" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1736" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING ASSOCIATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Conference of State Bank Supervisors</org-entry-name>
+                                                       <abbr>CSBS</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>
+                          1300 1st St, NW, Suite 700 
+                          <sc>e</sc>
+                          , Washington, DC 20005
+                        </verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 296-2840</telephone>
+                                                       <fax>(202) 296-1926</fax>
+                                                       <internet>csbs.org</internet>
+                                                  </address-block>
+                                                  <found-date>1902</found-date>
+                                                  <content-note style="NORMAL">present name adopted 1971</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Lise</forename>
+                                                                 <surname>Kruse</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Brandon</forename>
+                                                                 <surname>Milhorn</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

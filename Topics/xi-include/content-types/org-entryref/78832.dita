@@ -1,0 +1,28 @@
+<org-entryref id="SL1760288" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1760287" slsdocid="78832" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.729" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <data-protection date-added="14.08.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>University of Toronto Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>800 Bay St, Mezzanine, Toronto, ON M5S 3A9</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(416) 978-2239</telephone>
+                                             <email>utpbooks@utpress.utoronto.ca</email>
+                                             <internet>utorontopress.com</internet>
+                                        </address-block>
+                                        <found-date>1901</found-date>
+                                        <content-note style="NORMAL">scholarly books and journals</content-note>
+                                        <role-group>
+                                             <role>Pres., Publr and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jessica</forename>
+                                                       <surname>Mosher</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

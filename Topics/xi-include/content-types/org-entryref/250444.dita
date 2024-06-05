@@ -1,0 +1,27 @@
+<org-entryref id="SL8923247" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8923246" slsdocid="250444" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1683" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Deutsche Bank Trust Company Americas</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>One Columbus Circle, New York, NY 10019</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(212) 250-2500</telephone>
+                                                       <internet>country.db.com/usa</internet>
+                                                  </address-block>
+                                                  <found-date>1903</found-date>
+                                                  <content-note style="NORMAL">present name adopted 2002</content-note>
+                                                  <content-note style="NORMAL">subsidiary of Deutsche Bank AG (Germany)</content-note>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Christian</forename>
+                                                                 <surname>Sewing</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,37 @@
+<org-entryref id="SL4326473" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4326472" slsdocid="4326171" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389956916" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Record Journal</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>500 S Broad St, 2nd Floor, Meriden, CT 06450</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(203) 235-1661</telephone>
+                                                       <fax>(203) 639-0210</fax>
+                                                       <email>newsroom@record-journal.com</email>
+                                                       <internet>myrecordjournal.com</internet>
+                                                  </address-block>
+                                                  <found-date>1867</found-date>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>Exec. Vice-Pres. and Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Liz</forename>
+                                                                 <surname>White Notarangelo</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Eric</forename>
+                                                                 <surname>Cotton</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

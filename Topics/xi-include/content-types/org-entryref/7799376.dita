@@ -1,0 +1,38 @@
+<org-entryref id="SL7799465" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799464" slsdocid="7799376" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1637856077" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals" usage="usac">
+                                                  <data-protection date-added="14.09.2007" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Poultry Magazine</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>105 Donly Dr., POB 530, South Simcoe, ON N3Y 4N5</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(888) 599-2228</telephone>
+                                                       <fax>(519) 429-3094</fax>
+                                                       <email>bruffell@annexbusinessmedia.com</email>
+                                                       <internet>canadianpoultrymag.com</internet>
+                                                  </address-block>
+                                                  <found-date>1913</found-date>
+                                                  <frequency>monthly</frequency>
+                                                  <role-group>
+                                                       <role>Group Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Michelle</forename>
+                                                                 <surname>Bertholet</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Brett</forename>
+                                                                 <surname>Ruffel</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

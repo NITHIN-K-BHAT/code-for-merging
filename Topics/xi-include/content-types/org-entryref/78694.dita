@@ -1,0 +1,40 @@
+<org-entryref id="SL101452" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101451" slsdocid="78694" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.885" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>
+                        Canadian Precast Prestressed Concrete I
+                        
+                        nstitute
+                      </org-entry-name>
+                                                       <abbr>CPCI</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>POB 24058, Hazeldean, Ottawa, ON K2M 2C3</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 232-2619</telephone>
+                                                       <email>helpdesk@cpci.ca</email>
+                                                       <internet>cpci.ca</internet>
+                                                  </address-block>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Val</forename>
+                                                                 <surname>Sylaj</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Man. Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Brian</forename>
+                                                                 <surname>Hall</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>66 producer and 67 assoc. mems (2024)</stats>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,35 @@
+<org-entryref id="SL1741082" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741081" slsdocid="1252246" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1114507420" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="National Newspaper Groups">
+                                             <org-entry-head>
+                                                  <org-entry-name>The New York Times Co</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>620 8th Ave, New York, NY 10018</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 556-1234</telephone>
+                                                  <email>editorial@nytimes.com</email>
+                                                  <internet>nytco.com</internet>
+                                             </address-block>
+                                             <found-date>1851</found-date>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>A. G.</forename>
+                                                            <surname>Sulzberger</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Meredith Kopit</forename>
+                                                            <surname>Levien</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

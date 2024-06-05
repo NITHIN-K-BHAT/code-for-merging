@@ -1,0 +1,26 @@
+<org-entryref id="SL4254171" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4254170" slsdocid="4254129" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.1382510493" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>New Society Publishers</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>POB 189, Gabriola Island, BC V0R 1X0</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(250) 247-9737</telephone>
+                                             <email>info@newsociety.com</email>
+                                             <internet>newsociety.com</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">books on sustainability, the environment and climate change</content-note>
+                                        <role-group>
+                                             <role>Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Julie</forename>
+                                                       <surname>Raddysh</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

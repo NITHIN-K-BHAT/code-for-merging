@@ -1,0 +1,36 @@
+<org-entryref id="SL1739165" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1739164" slsdocid="249964" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2166A" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="OCEAN SHIPPING" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>American Bureau of Shipping</org-entry-name>
+                                                       <abbr>ABS</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1701 City Plaza Dr., Spring, TX 77389</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(281) 877-6000</telephone>
+                                                       <email>abs-worldhq@eagle.org</email>
+                                                       <internet>eagle.org</internet>
+                                                  </address-block>
+                                                  <found-date>1862</found-date>
+                                                  <role-group>
+                                                       <role>Chair. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Christopher J.</forename>
+                                                                 <surname>Wiernicki</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and COO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>John</forename>
+                                                                 <surname>McDonald</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

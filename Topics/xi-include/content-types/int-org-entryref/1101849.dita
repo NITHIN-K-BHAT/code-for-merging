@@ -1,0 +1,52 @@
+<int-org-entryref id="SL1115927" int-org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1115926" slsdocid="1101849" slsdocty="int-org-entry int-org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <int-org-entry id="SL1101879" id-root="int-org_eu" iso="" print-style="COLUMN" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio casee">
+                    
+                    <int-org-entry-head>
+                         <int-org-name-group type="MAIN">
+                              <org-entry-name>General Court</org-entry-name>
+                         </int-org-name-group>
+                    </int-org-entry-head>
+                    <int-org-block>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Palais de la Cour de Justice, blvd Konrad Adenauer, 2925 Luxembourg</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">4303-1</telephone>
+                              <internet>curia.europa.eu</internet>
+                         </address-block>
+                         <p id="WB02047.IO.TXT.159" usage="ewyb edio casee">The General Court was established, as the Court of First Instance of the European Communities, by the European Council under a decision of October 1988, and began operations in 1989. Its current name was adopted following the entry into force of the Treaty of Lisbon on 1 December 2009. In order to help the Court of Justice to deal with the thousands of cases brought before it and to offer citizens better legal protection, the General Court (which, although independent, forms part of the Court of Justice of the European Union) deals with cases brought by individuals, legal entities and member states against the actions of EU institutions. The decisions of the General Court may be subject to appeal to the Court of Justice, on issues of law, within two months.</p>
+                         <p>
+            In December 2015 the Council adopted a regulation reforming the General Court. In September 2016 the specialized Civil Service Tribunal (constituted in 2005) merged with the General Court, and its judges became part of the merged institution. The General Court is composed of two judges from each member state, appointed for a renewable six-year term by the governments of member st
+            
+            ates, and by common agreement. The President is elected from among the judges, for a three-year term of office. A Registrar is appointed for a term of six years. Unlike the Court of Justice, the General Court has no advocates-general, although that role may (exceptionally) be performed by a judge. Cases are brought before chambers comprising three or five judges or, on occasion, a single judge. Cases may also be heard by a 15-member Grand Chamber should the complexity or significance of a case demand it.
+          </p>
+                         <dir-list>
+                              <dir-entry id="WB02047.IO.TXT.100024" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                   <dir-entry-name>President of the General Court</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Marc</forename>
+                                                  <surname>van der Woude</surname>
+                                             </person-name>
+                                             <person-note>Netherlands</person-note>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                              <dir-entry id="WB02047.IO.TXT.1830" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                   <dir-entry-name>Registrar</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Vittorio</forename>
+                                                  <surname>Di Bucci</surname>
+                                             </person-name>
+                                             <person-note>Italy</person-note>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                         </dir-list>
+                    </int-org-block>
+               </int-org-entry>
+          </int-org-entryref>

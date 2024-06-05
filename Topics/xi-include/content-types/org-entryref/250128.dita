@@ -1,0 +1,31 @@
+<org-entryref id="SL262716" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262715" slsdocid="250128" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2001" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Motion Picture Association</org-entry-name>
+                                                       <abbr>MPA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>
+                          1600 I St, NW, Suite 900
+                          <sc>e</sc>
+                          , Washington, DC 20006
+                        </verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 293-1966</telephone>
+                                                       <fax>(202) 785-3026</fax>
+                                                       <internet>motionpictures.org</internet>
+                                                  </address-block>
+                                                  <found-date>1922</found-date>
+                                                  <role-group>
+                                                       <role>Chair. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Charles H.</forename>
+                                                                 <surname>Rivkin</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

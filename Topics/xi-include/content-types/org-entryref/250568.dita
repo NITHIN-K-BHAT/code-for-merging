@@ -1,0 +1,30 @@
+<org-entryref id="SL1757062" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1757061" slsdocid="250568" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1536" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ORGANIZATIONS AND ASSOCIATIONS" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Florida Authors and Publishers Association, Inc</org-entry-name>
+                                             <abbr>FAPA</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1702 N Woodland Blvd, Suite 116, Deland, FL 32720</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(836) 647-5951</telephone>
+                                             <email>kathryn.hall.knight@myfapa.org</email>
+                                             <internet>myfapa.org</internet>
+                                        </address-block>
+                                        <found-date>1983</found-date>
+                                        <content-note style="NORMAL">fmrly Florida Publishers Group, subsequently Florida Publishers Association</content-note>
+                                        <content-note style="NORMAL">present name adopted 2012</content-note>
+                                        <stats>150 mems</stats>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Robert</forename>
+                                                       <surname>Jacob</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,28 @@
+<org-entryref id="SL7799081" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799080" slsdocid="7799022" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637845993" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Chelsea Green Publishing Co</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>POB 4529, White River Junction, VT 05001</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(802) 295-6300</telephone>
+                                             <fax>(802) 295-6444</fax>
+                                             <email>chelseagreen@presswarehouse.com</email>
+                                             <internet>chelseagreen.com</internet>
+                                        </address-block>
+                                        <found-date>1984</found-date>
+                                        <content-note style="NORMAL">politics and sustainable living</content-note>
+                                        <role-group>
+                                             <role>Pres. and Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Margo</forename>
+                                                       <surname>Baldwin</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

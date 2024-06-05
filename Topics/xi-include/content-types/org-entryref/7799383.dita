@@ -1,0 +1,38 @@
+<org-entryref id="SL7799493" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799492" slsdocid="7799383" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1637856979" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>MoneySense</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>20 Queen St W, Suite 1100, Toronto, ON M5H 3R3</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(647) 427-7375</telephone>
+                                                       <fax>(416) 764-1376</fax>
+                                                       <email>ask@moneysense.ca</email>
+                                                       <internet>moneysense.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1999</found-date>
+                                                  <content-note style="NORMAL">online only since 2017</content-note>
+                                                  <content-note style="NORMAL">personal finance and lifestyle</content-note>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jaclyn</forename>
+                                                                 <surname>Law</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Lisa</forename>
+                                                                 <surname>Hannam</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

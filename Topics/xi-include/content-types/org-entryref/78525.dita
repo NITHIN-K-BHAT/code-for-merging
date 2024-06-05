@@ -1,0 +1,31 @@
+<org-entryref id="SL8928352" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8928351" slsdocid="78525" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.1075" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SHIPPING" usage="ewyb usac">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Chamber of Marine Commerce</org-entry-name>
+                                                            <abbr>CMC</abbr>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>300 Sparks St, Suite 340, Ottawa, ON K1R 7S3</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(613) 233-8779</telephone>
+                                                            <internet>marinedelivers.com</internet>
+                                                       </address-block>
+                                                       <found-date>1959</found-date>
+                                                       <content-note style="NORMAL">
+                        absorbed Canadian Shipowners As
+                        
+                        scn 2016
+                      </content-note>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Bruce R.</forename>
+                                                                      <surname>Burrows</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

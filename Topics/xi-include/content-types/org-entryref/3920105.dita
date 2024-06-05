@@ -1,0 +1,27 @@
+<org-entryref id="SL3920163" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3920162" slsdocid="3920105" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1356099886" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>CQ Roll Call</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1201 Pennsylvania Ave, NW, 6th Floor, Washington, DC 20004</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(866) 633-0789</telephone>
+                                                       <email>advertisedept@cqrollcall.com</email>
+                                                       <internet>info.cq.com</internet>
+                                                  </address-block>
+                                                  <found-date>1945</found-date>
+                                                  <content-note style="NORMAL">part of FiscalNote</content-note>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jason</forename>
+                                                                 <surname>Dick</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

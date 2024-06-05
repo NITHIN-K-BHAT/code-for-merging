@@ -1,0 +1,39 @@
+<org-entryref id="SL101400" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101399" slsdocid="78616" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.975" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="UTILITIES">
+                                                  <data-protection date-added="28.01.2008" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Gas Association</org-entry-name>
+                                                       <abbr>CGA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>350 Albert St, Suite 1220, Ottawa, ON K1R 1A4</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 748-0057</telephone>
+                                                       <email>info@cga.ca</email>
+                                                       <internet>cga.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1907</found-date>
+                                                  <content-note style="NORMAL">represents natural gas delivery industry</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>D. Jason</forename>
+                                                                 <surname>Sharpe</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Timothy M.</forename>
+                                                                 <surname>Egan</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>200 corporate mems</stats>
+                                             </org-entry>
+                                        </org-entryref>

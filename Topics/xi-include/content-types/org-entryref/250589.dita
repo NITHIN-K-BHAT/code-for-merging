@@ -1,0 +1,37 @@
+<org-entryref id="SL1745695" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745694" slsdocid="250589" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1516" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="13.09.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>University Press of Kentucky</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>663 S Limestone St, Lexington, KY 40508</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(859) 257-5200</telephone>
+                                             <fax>(859) 323-1873</fax>
+                                             <email>hfscustserv@jh.edu</email>
+                                             <internet>kentuckypress.com</internet>
+                                        </address-block>
+                                        <found-date>1943</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ashley</forename>
+                                                       <surname>Runyon</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Man. Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>David</forename>
+                                                       <surname>Cobb</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

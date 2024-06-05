@@ -1,0 +1,19 @@
+<org-entryref id="SL1744731" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1744730" slsdocid="249157" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1386" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Dover Publications, Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1325 Franklin Ave, Suite 250, Garden City, NY 11501</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(516) 294-7000</telephone>
+                                             <fax>(516) 742-6953</fax>
+                                             <internet>store.doverpublications.com</internet>
+                                        </address-block>
+                                        <found-date>1941</found-date>
+                                        <content-note style="NORMAL">scientific, classics, language, arts, crafts</content-note>
+                                        <content-note style="NORMAL">imprints incl. Ixia Press</content-note>
+                                   </org-entry>
+                              </org-entryref>

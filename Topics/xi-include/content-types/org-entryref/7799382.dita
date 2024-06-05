@@ -1,0 +1,28 @@
+<org-entryref id="SL7799489" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799488" slsdocid="7799382" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1637856544" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals" usage="usac">
+                                                  <data-protection date-added="28.09.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Hi-Rise</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>95 Leeward Glenway, Unit 121, Toronto, ON M3C 2Z6</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 424-1393</telephone>
+                                                       <email>valerie.dunn@bell.net</email>
+                                                  </address-block>
+                                                  <found-date>1980</found-date>
+                                                  <frequency>monthly</frequency>
+                                                  <content-note style="NORMAL">city lifestyle</content-note>
+                                                  <role-group>
+                                                       <role>Editor and Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Valerie M.</forename>
+                                                                 <surname>Dunn</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

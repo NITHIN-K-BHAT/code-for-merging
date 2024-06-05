@@ -1,0 +1,14 @@
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+    <booktitle>
+        <mainbooktitle>XI Include</mainbooktitle>
+    </booktitle>
+
+    <chapter href="./content-types/dir-entryref.ditamap" navtitle="Dir-entryef" format="ditamap"/>
+    <chapter href="./content-types/dir-sectref.ditamap" navtitle="Dir-sectref" format="ditamap"/>
+    <chapter href="./content-types/org-entryref.ditamap" navtitle="Org-entryef" format="ditamap"/>
+    <chapter href="./content-types/table-blockref.ditamap" navtitle="Table-blockref" format="ditamap"/>
+    <chapter href="./content-types/int-org-entryref.ditamap" navtitle="Int-org-entryref" format="ditamap"/>
+    <chapter href="./content-types/int-org-sectref.ditamap" navtitle="Int-org-sectref.ditamap" format="ditamap"/>
+
+</bookmap>

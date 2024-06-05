@@ -1,0 +1,36 @@
+<org-entryref id="SL1741543" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741542" slsdocid="249494" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1053" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Courier-News</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>92 E Main St, Suite 202, Somerville, NJ 08876-2319</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 675-8645</telephone>
+                                                       <email>newstips@njpressmedia.com</email>
+                                                       <internet>mycentraljersey.com</internet>
+                                                  </address-block>
+                                                  <found-date>1884</found-date>
+                                                  <role-group>
+                                                       <role>Publr and Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Thomas M.</forename>
+                                                                 <surname>Donovan</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>News Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Joseph</forename>
+                                                                 <surname>Martino</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 9,170, Sun. 11,943 (2016)</stats>
+                                             </org-entry>
+                                        </org-entryref>

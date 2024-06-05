@@ -1,0 +1,33 @@
+<org-entryref id="SL3516963" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3516962" slsdocid="3516954" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1319727709" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>Little, Brown and Co</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1290 Ave of the Americas, New York, NY 10104</verbatim-address>
+                                             </address>
+                                             <email>publicity@littlebrown.com</email>
+                                             <internet>bit.ly/2xwkPhm</internet>
+                                        </address-block>
+                                        <found-date>1837</found-date>
+                                        <content-note style="NORMAL">
+                  part of 
+                  <xr pageref="N" ref="US.DIR.40149">Hachette Book Group</xr>
+                   (q.v.)
+                </content-note>
+                                        <content-note style="NORMAL">imprints include Back Bay Books, Jimmy Patterson, Mulholland Books, Voracious</content-note>
+                                        <content-note style="NORMAL">fiction and non-fiction</content-note>
+                                        <role-group>
+                                             <role>Pres. and Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Sally</forename>
+                                                       <surname>Kim</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

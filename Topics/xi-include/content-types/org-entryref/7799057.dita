@@ -1,0 +1,28 @@
+<org-entryref id="SL7799254" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799253" slsdocid="7799057" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637850032" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>SAMS Technical Publishing, LLC</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>9850 E 30th St, Indianapolis, IN 46229</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 428-7267</telephone>
+                                             <email>customercare@samswebsite.com</email>
+                                             <internet>www.samswebsite.com</internet>
+                                        </address-block>
+                                        <found-date>1946</found-date>
+                                        <content-note style="NORMAL">part of AGS Capital, Inc</content-note>
+                                        <content-note style="NORMAL">textbooks, scientific and technical</content-note>
+                                        <role-group>
+                                             <role>Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Alan</forename>
+                                                       <surname>Symons</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

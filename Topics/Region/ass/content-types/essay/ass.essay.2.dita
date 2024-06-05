@@ -1,0 +1,1477 @@
+<?xml version="1.0"?>
+<essay id="ASS.ESSAY.2" id-root="ass.essay.2" iso="" original-filename="assieeco.rtf" region="ASS" sllink="SLSDOC" slsdocrf="ESSAY-REF" usage="ass" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <heading>Economic Trends in Africa South of the Sahara</heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="ass">General Survey</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="ass">Economic Trends in Africa South of the Sahara</alt-heading>
+     <author-group>
+          <primary-authors>
+               <person-name>
+                    <forename>Donald&#160;L.</forename>
+                    <surname>Sparks</surname>
+                    <regnal>Emeritus Professor of International Economics, The Citadel, Charleston, SC, USA, and Visiting Professor of International Business, Management Centre Innsbruck, Austria</regnal>
+               </person-name>
+          </primary-authors>
+     </author-group>
+     <gen-section id="SC.14676453411" print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+          <heading>Introduction and Recent Economic Developments</heading>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P1">
+      Sub-Saharan Africa will continue to face economic challenges in 2023–24, led by the negative impacts of the Russian Federation’s invasion of Ukraine, high worldwide inflation and high interest rates, depreciating currencies (making servicing foreign debt more difficult), escalated conflict in several countries, punishing adverse weather conditions, weakened global commodity demand (especially from the People’s Republic of China) and global geopolitical tensions. The International Monetary Fund (IMF) warned that such developments `have pushed many countries closer to the edge’. The Fund cautioned that many countries would be forced to reduce funding for critical development sectors including health, education and infrastructure, thus weakening growth prospects. It predicted that the region’s gross domestic product (GDP) will increase by only 3.6% in 2023 and by 4.2% in 2024 (see 
+      <i>Table 1</i>
+      ), while GDP per capita remains below pre-pandemic levels, with an increase of only 1.2%. This poor growth in some 30 countries means that more people in the sub-Saharan region will fall into poverty; indeed, the IMF estimated that 39m. people slipped into poverty in 2020 and 2021. Furthermore, nearly 60% of the world’s extreme poor live in sub-Saharan Africa and the World Bank estimated that the number of people experiencing acute food insecurity surpassed 140m. in 2022, up 24m. from 2021.
+    </p>
+          <table-block id="ASS.ESSAY.2552626272820" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER">
+               <table-heading>Table 1. Regional GDP Growth Rates (annual % change, in real terms)</table-heading>
+               <table pgwide="NO" style="WITH-RULES">
+                    <tgroup cols="6">
+                         <colspec colwidth="6.4cm" />
+                         <colspec colwidth="3.4cm" />
+                         <colspec colwidth="2.5cm" />
+                         <colspec colwidth="2.5cm" />
+                         <colspec colwidth="2.5cm" />
+                         <colspec colwidth="2.5cm" />
+                         <thead>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER">2011–19</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2021</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2022</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">
+                2023
+                <endnoteref idref="ASS.ESSAY.2.1434382764" ref-symbol="*" />
+                                   </entry>
+                                   <entry align="right" style="NO-DOT-LEADER">
+                2024
+                <endnoteref idref="ASS.ESSAY.2.1434382665432" ref-symbol="†" />
+                                   </entry>
+                              </row>
+                         </thead>
+                         <tbody>
+                              <row>
+                                   <entry style="DOT-LEADER">Sub-Saharan Africa</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3.7</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">4.8</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3.9</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3.6</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">4.2</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Sub-Saharan Africa, excluding Nigeria and South Africa</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5.0</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5.2</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">4.7</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">4.8</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5.4</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Oil exporting countries</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2.7</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3.0</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3.2</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3.3</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3.1</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">CFA Franc Zone</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">4.4</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">4.5</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">4.8</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5.2</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5.9</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">EAC</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5.5</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">6.6</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5.1</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5.4</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5.8</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">ECOWAS</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">4.0</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">4.4</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3.9</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3.8</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">4.2</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">SACU</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1.8</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5.2</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2.3</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">0.4</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2.0</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">SADC</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2.8</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">4.6</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3.2</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2.3</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3.4</entry>
+                              </row>
+                         </tbody>
+                    </tgroup>
+               </table>
+               <endnote id="ASS.ESSAY.2.1434382764" ref-symbol="*">Estimates</endnote>
+               <endnote id="ASS.ESSAY.2.1434382665432" ref-symbol="†">Projections</endnote>
+               <sources>
+                    <source-head>Source</source-head>
+                    <source-info>
+          IMF, 
+          <i>Regional Economic Outlook: Sub-Saharan Africa (April 2023)</i>
+                    </source-info>
+               </sources>
+          </table-block>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P2">
+      The continued conflict between Russia and Ukraine poses a number of economic threats. While direct trade links between sub-Saharan Africa and Russia and Ukraine are relatively moderate, comprising less than 3% of the region’s trade with the rest of the world, the conflict has had (and will continue to have) dramatic effects on commodities. The region imports some 85% of its wheat, and for several countries Russia and Ukraine are the main suppliers. Besides supply disruptions, prices have increased dramatically. In addition, Russia is a major supplier of fertilizer and natural gas (an important input for fertilizer), and reduced access will constrain agricultural output and is likely to drive food prices even higher. According to the World Bank’s June 2022 
+      <i>Global Economic Prospects</i>
+      , `…&#160;prolonged disruptions to the food supply chain across the region could significantly increase poverty, hunger, and malnutrition, while persistent inflation could ignite stagflation risks and further limit policy space to support recoveries. An elevated cost of living could increase the risk of social unrest, especially in the low-income countries’. The World Bank reported that food prices (which account for more than one-half of overall inflation) pushed up the average regional inflation rate to 13%, about three times above pre-pandemic levels.
+    </p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P3">While the human and economic costs of the COVID-19 pandemic have not been as severe as initially feared, they none the less did have important negative impacts in a number of key areas, most notably tourism. The health effects of COVID-19 were more acute in some countries than in others. According to the World Health Organization (WHO), the region accounted for less than 2% of confirmed cases and less than 1% of deaths reported worldwide. However, because of reporting delays and poor statistical gathering in general in the region, many experts suspect that this figure under-represents the actual number of cases and deaths (for example, most people in the region die at home, not in hospitals, and many deaths are not recorded in official systems). COVID-related deaths declined by about 94% in 2022 from the previous year.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P4">
+      Between 1961 and 1975 the region generally experienced solid economic growth (above 5% in most cases), but this was followed by two decades of stagnation in the 1980s and 1990s. However, from the early 1990s sub-Saharan Africa’s economic output expanded at nearly twice the global rate until 2015. In 2015 and 2016 economic growth slowed to its lowest levels in nearly 20 years, with the region’s GDP in `real’ terms, i.e. taking inflation into account, growing by 3.3% in 2015, barely above the rate of population growth, and down from 5.0% in 2014. The IMF reported that GDP increased by 3.1% in 2019, but declined by 1.7% in 2020, with a recovery in growth of 4.8% in 2021, and 3.9% in 2022 and projected increases of 3.6% in 2023, and 4.2% in 2024 (as will be explained more fully in the 
+      <i>Conclusions</i>
+       section below, and also see 
+      <i> Table 1)</i>
+      .
+    </p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P5">
+      There were significant differences between economic growth in individual countries and subregions in 2022–23. A total of 16 countries were forecast to grow by more than 5% in 2023 (see 
+      <i>Table 2</i>
+      ). For the largest economies the performance was mixed in 2022. South Africa’s growth slowed to 1.9% in 2022 (below the rate of population growth). This poor growth was the result of worsening terms of trade, continued power outages and longer-term structural problems such as stubbornly high unemployment. The rand depreciated by 10% against the US dollar, and annual inflation reached its highest level in over a decade. In Nigeria, the region’s largest economy, economic growth dipped slightly to 3.1% in 2022, due to a decline in oil output of 1%. Furthermore, it faced a number of short-term challenges, including, inflation (at 21%, the highest rate in 17 years) and heightened security risks. After several years of recession, Angola’s economy grew by 3.1%, due to higher oil production and prices.
+    </p>
+          <table-block id="ASS.ESSAY.2.0949280151729072022" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER" usage="ass">
+               <table-heading> Table 2. Sub-Saharan Africa’s Fastest Growing Economies (annual forecast real GDP % change, in market prices)</table-heading>
+               <table pgwide="NO" style="WITH-RULES">
+                    <tgroup cols="2">
+                         <colspec colwidth="14.5cm" />
+                         <colspec colwidth="4.3cm" />
+                         <thead>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER">2023</entry>
+                              </row>
+                         </thead>
+                         <tbody>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Benin</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">6.2</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">DRC</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">6.4</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Côte d’Ivoire</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">6.8</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Ethiopia</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5.3</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Guinea</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5.3</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Kenya</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5.0</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Mauritania</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5.1</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Mauritius</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5.5</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Mozambique</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5.0</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Niger</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">7.1</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Rwanda</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">6.7</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Senegal</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">8.0</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Seychelles</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5.2</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Tanzania</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5.3</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Togo</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5.6</entry>
+                              </row>
+                         </tbody>
+                    </tgroup>
+               </table>
+               <sources>
+                    <source-head>Source</source-head>
+                    <source-info>
+          World Bank, 
+          <i>Global Economic Prospects</i>
+          , June 2022
+        </source-info>
+               </sources>
+          </table-block>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P6">
+      Several countries (such as Seychelles and Mauritius) that rely on tourism performed well in 2022 and were predicted to continue to do in 2023, due to reduced COVID-19 fears. The region’s fragile economies (see 
+      <i>Table 3</i>
+       ) were expected to show slight increases in growth, from an average of 4.6% in 2021 to 4.8% in 2022.
+    </p>
+          <table-block id="ASS.ESSAY.2.119095623062021" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER">
+               <table-heading>Table 3. Sub-Saharan Africa’s Fragile Economies</table-heading>
+               <table pgwide="NO" style="WITH-RULES">
+                    <tgroup cols="3">
+                         <colspec colwidth="5.5cm" />
+                         <colspec colwidth="7cm" />
+                         <colspec colwidth="7cm" />
+                         <tbody>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER">Burundi</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">CAR</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Chad</entry>
+                              </row>
+                              <row>
+                                   <entry style="NO-DOT-LEADER">Comoros</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Republic of the Congo</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">DRC</entry>
+                              </row>
+                              <row>
+                                   <entry style="NO-DOT-LEADER">Côte d’Ivoire</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Eritrea</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">The Gambia</entry>
+                              </row>
+                              <row>
+                                   <entry style="NO-DOT-LEADER">Guinea</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Guinea-Bissau</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Liberia</entry>
+                              </row>
+                              <row>
+                                   <entry style="NO-DOT-LEADER">Madagascar</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Malawi</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Mali</entry>
+                              </row>
+                              <row>
+                                   <entry style="NO-DOT-LEADER">São Tomé and Príncipe</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Sierra Leone</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">South Sudan</entry>
+                              </row>
+                              <row>
+                                   <entry style="NO-DOT-LEADER">Togo</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Zimbabwe</entry>
+                                   <entry align="right" style="NO-DOT-LEADER" />
+                              </row>
+                         </tbody>
+                    </tgroup>
+               </table>
+               <sources>
+                    <source-head>Source</source-head>
+                    <source-info>
+          IMF, 
+          <i>Regional Economic Outlook: Sub-Saharan Africa</i>
+          , April 2022
+        </source-info>
+               </sources>
+          </table-block>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P7">In many non-resource rich countries such as members of the Union Economique et Monétaire Ouest-Africaine (UEMOA), slower growth was caused by higher debt repayments (due to currency depreciation), costlier imports and tight monetary policies. Some agricultural commodity exporters, especially in East Africa (Ethiopia and Kenya) experienced sustained droughts which hampered production. Generally speaking, the oil producers performed better, and their government debt fell by 10% of GDP on average due to stronger exchange rates and fiscal surpluses.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P8">Importantly, sub-Saharan Africa has great diversities and the 49 countries of the region range significantly in terms of population, size and economic scale. Nigeria has the largest population (an estimated 220.6m. at mid-2023), and Seychelles has the smallest population, of just 100,064 (at mid-2023). The region’s total population was estimated by the World Bank at 1,180m. in 2022, and Africa’s population is growing more rapidly than that of any other region worldwide; for many African countries the population is doubling each generation, while some 42% of the region’s population were under 15 years of age in 2020. Climate and topography vary greatly and include Mediterranean, tropical and semi-tropical, desert, rainforest, savannah, mountains and plains. Some sub-Saharan countries, including South Africa, the DRC, Botswana, Namibia and Zimbabwe, are relatively well endowed with natural resources, while others, for example Niger and Somalia, have few such assets.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P9">Most Africans (some 60%) live in rural areas, although some countries are more intensively urbanized than others. Djibouti’s urban population, for example, represents some 78% of the country’s total, while in Burundi it accounts for only 14%. Generally, the region has a very low population density (45 people per sq&#160;km), which increases the cost of providing infrastructure and services. Namibia has the lowest density, with 3 people per sq&#160;km, and Mauritius the highest, with 616 people per sq&#160;km. GDP per head (on an international purchasing-power parity basis) in 2021 ranged from US&#160;$793 in Burundi to $29,838 in Seychelles, while the average for sub-Saharan Africa was $4,121.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P10">Educational levels also vary greatly: nearly 100% of children in the appropriate age-group are enrolled in primary schools, although the completion rate remains at only 69%, while enrolment in secondary schools averaged 44% in 2019. The region’s adult literacy rate was 66% in 2020, while the youth literacy rate was 77%, both representing the lowest levels of any region globally. In Benin, Burkina Faso, Chad, the Central African Republic (CAR), Guinea, Guinea-Bissau, Liberia, Mali, Niger, Sierra Leone, Somalia and South Sudan fewer than one-half of all adult males were able to read and write. Seychelles and Mauritius, with youth literacy rates of 99%, ranked highest, while the rate in Chad was only 31%. Expenditure on education is low, at an annual average of less than US&#160;$50 per pupil.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P11">Life expectancy at birth was 62 years in 2021. For females it varied, from 53 years in Nigeria, 54 in Chad, and 56 in Lesotho and the CAR to 79 years in Cabo Verde, with a regional average of only 64 years, some 12 years less than the world average and more than 20 years lower than in many advanced economies. For males, the data is even worse, with an average life expectancy of 60. In many countries, particularly in those most affected by HIV/AIDS, such as Eswatini and Botswana, average life expectancy has been reduced by more than 20 years since the mid-1980s.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P12">The countries of the region do, however, share many common characteristics: they are, for the most part, poor and fragile. The region has been caught in a `poverty trap’ where low incomes lead to low savings, which lead to low investment and consumer demand; low investment results in lower productivity and lower demand leads to less revenue, both of which lead back to poverty. In 2022 sub-Saharan Africa accounted for just 3% of world trade and perhaps 1% of global GDP. The region is poor: according to the World Bank, its combined GDP at current prices was US&#160;$1,193m. in 2021.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P13">
+      Unlike other parts of the developing world, sub-Saharan Africa had more people living in poverty in 2017 (413m.) than in 1990 (278m.), despite having reduced the percentage of people living on less than $1.90 per day from 54% of the total population in 1990 to 38% in 2019 (see 
+      <i>Tables 4 and 5</i>
+      ). Just over one-half of the world’s population living under the international poverty line resides in sub-Saharan Africa and the region is probably home to more very poor people than in the rest of the world combined. Furthermore, sub-Saharan Africa’s output per head is lower than it was 30 years earlier, having declined by about 50% in some countries. It is also the only region in which child malnutrition has not been declining in recent years.
+    </p>
+          <table-block id="ASS.ESSAY.2.094928076664432" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER" usage="ass">
+               <table-heading> Table 4. Number of People Living in Extreme Poverty by Country or World Region</table-heading>
+               <table pgwide="NO" style="WITH-RULES">
+                    <tgroup cols="5">
+                         <colspec colwidth="9.7cm" />
+                         <colspec colwidth="2.5cm" />
+                         <colspec colname="COLSPEC0" colwidth="2.5cm" />
+                         <colspec colname="COLSPEC1" colwidth="2.5cm" />
+                         <colspec colname="COLSPEC3" colwidth="2.5cm" />
+                         <thead>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER">1990</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2019</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Absolute change</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Relative change (%)</entry>
+                              </row>
+                         </thead>
+                         <tbody>
+                              <row>
+                                   <entry style="DOT-LEADER">China</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">816,905,682</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2,005,031</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">–814,900,651</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">–100</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">East Asia and Pacific</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,055,536,103</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">23,641,492</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">–1,031,894,611</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">–98</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">East Asia and Pacific, excl. China</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">238,630,421</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">21,636,461</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">–216,993,960</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">–91</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Eastern Europe and Central Asia</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">14,964,693</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">11,766,863</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">–3,197,830</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">–21</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">High Income Countries</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">4,807,250</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">6,684,494</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2,597,244</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">64</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Latin America and Caribbean</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">73,159,629</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">27,757,316</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">–45,402,313</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">–62</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Middle East and North Africa</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">13,999,313</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">32,959,255</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">18,959,942</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">135</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">India</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">428,636,126</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">129,454,236</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">–299,181,890</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">–70</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">South Asia</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">562,991,779</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">156,282,205</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">–406,709,574</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">–72</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">South Asia, excl. India</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">134,355,653</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">26,827,969</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">–107,527,684</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">–80</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Sub-Saharan Africa</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">271,488,835</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">389,003,507</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">117,514,672</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">43</entry>
+                              </row>
+                         </tbody>
+                    </tgroup>
+               </table>
+               <sources>
+                    <source-head>Source</source-head>
+                    <source-info>Our World in Data, 2023</source-info>
+               </sources>
+          </table-block>
+          <table-block id="ASS.ESSAY.2.094928070555" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER" usage="ass">
+               <table-heading> Table 5. Population Living on Less Than US&#160;$1.90 per day (2011 purchasing-power parity basis, % of total population)</table-heading>
+               <table pgwide="NO" style="WITH-RULES">
+                    <tgroup cols="5">
+                         <colspec colwidth="9.5cm" />
+                         <colspec colwidth="3cm" />
+                         <colspec colname="COLSPEC0" colwidth="3cm" />
+                         <colspec colname="COLSPEC1" colwidth="3cm" />
+                         <colspec colname="COLSPEC3" colwidth="3.00cm" />
+                         <thead>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER">1990</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2008</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2013</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2018</entry>
+                              </row>
+                         </thead>
+                         <tbody>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">East Asia and Pacific</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">61.4</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">15.2</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3.7</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1.0</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Eastern Europe and Central Asia</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1.7</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3.1</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2.2</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1.0</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Latin America and Caribbean</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">16.0</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">7.1</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">4.9</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3.7</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Middle East and North Africa</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">6.2</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2.7</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2.3</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">7.0</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">South Asia</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">44.6</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">29.4</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">14.7</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">15.2</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Sub-Saharan Africa</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">54.3</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">49.6</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">41.0</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">40.4</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">World</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">34.8</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">13.7</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">10.7</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">9.3</entry>
+                              </row>
+                         </tbody>
+                    </tgroup>
+               </table>
+               <sources>
+                    <source-head>Source</source-head>
+                    <source-info>
+          World Bank, 
+          <i>World Development Indicators 2020</i>
+                    </source-info>
+               </sources>
+          </table-block>
+          <table-block id="ASS.ESSAY.2.0949280701534" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER" usage="ass">
+               <table-heading> Table 6. Population Living on Less Than US&#160;$1.90 per day (2011 purchasing-power parity basis, millions)</table-heading>
+               <table pgwide="NO" style="WITH-RULES">
+                    <tgroup cols="3">
+                         <colspec colwidth="13cm" />
+                         <colspec colwidth="3.22cm" />
+                         <colspec colwidth="3.22cm" />
+                         <thead>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER">1990</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2017</entry>
+                              </row>
+                         </thead>
+                         <tbody>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">East Asia and Pacific</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">984</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">74</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Eastern Europe and Central Asia</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">8</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">10</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Latin America and Caribbean</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">70</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">30</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Middle East and North Africa</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">14</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">8</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">South Asia</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">506</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">249</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Sub-Saharan Africa</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">278</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">413</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">World</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">1,865</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">769</entry>
+                              </row>
+                         </tbody>
+                    </tgroup>
+               </table>
+               <sources>
+                    <source-head>Source</source-head>
+                    <source-info>
+          World Bank, 
+          <i>World Development Indicators 2020</i>
+                    </source-info>
+               </sources>
+          </table-block>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P14">Sub-Saharan Africa has the world’s second most unequal distribution of income, after Latin America. None the less, the region is seeing an emerging middle class and the retail sector shows promising potential as consumer spending is expected to almost double over the next decade. Furthermore, surprising to many, there has been an increase in the number of millionaires and billionaires (measured in current US dollars).</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P15">
+      In 2022 Forbes listed nine billionaires in sub-Saharan Africa. The richest was Aliko Dangote of Nigeria, worth US&#160;$13,900m. followed by the Rupert and Oppenheimer families of South Africa (combined $19,000m.). According to the 
+      <i>Africa Wealth Report</i>
+      , there are nearly 100,000 `net high worth individuals’ (millionaires) in the region, with South Africa heading the list with 37,800, followed by Nigeria with 9,800 and Kenya with 7,700. Ethiopia (with 2,700 millionaires), once thought of by many outsiders as a land of famine, has been creating millionaires at a faster rate than any other country in the region.
+    </p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P16">
+      The World Bank classifies 32 countries as `fragile and conflict-affected’ states, with 19 of these in sub-Saharan Africa. These countries are `characterized by a legacy of severe social and political turmoil, economic instability, and in some cases, violent conflict’, and their economic challenges `are often exacerbated by socio-political, governance and security problems’ (see 
+      <i>Table 7</i>
+      ).
+    </p>
+          <table-block id="ASS.ESSAY.2.11909562306202265" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER">
+               <table-heading>Table 7. Fragile and Conflict-Affected Countries</table-heading>
+               <table pgwide="NO" style="WITH-RULES">
+                    <tgroup cols="3">
+                         <colspec colwidth="5cm" />
+                         <colspec colwidth="7cm" />
+                         <colspec colwidth="7.5cm" />
+                         <thead>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER">High-Intensity Conflict</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Medium Intensity Conflict</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">High Institutional and Social Fragility</entry>
+                              </row>
+                         </thead>
+                         <tbody>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER">Somalia</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Burkina Faso</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Burundi</entry>
+                              </row>
+                              <row>
+                                   <entry style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER">Cameroon</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Republic of the Congo</entry>
+                              </row>
+                              <row>
+                                   <entry style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER">CAR</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Eritrea</entry>
+                              </row>
+                              <row>
+                                   <entry style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER">Chad</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">The Gambia</entry>
+                              </row>
+                              <row>
+                                   <entry style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER">DRC</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Guinea-Bissau</entry>
+                              </row>
+                              <row>
+                                   <entry style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER">Mali</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Liberia</entry>
+                              </row>
+                              <row>
+                                   <entry style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER">Mozambique</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Sudan</entry>
+                              </row>
+                              <row>
+                                   <entry style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER">Niger</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Zimbabwe</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER">Nigeria</entry>
+                                   <entry align="right" style="NO-DOT-LEADER" />
+                              </row>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER">South Sudan</entry>
+                                   <entry align="right" style="NO-DOT-LEADER" />
+                              </row>
+                         </tbody>
+                    </tgroup>
+               </table>
+               <sources>
+                    <source-head>Source</source-head>
+                    <source-info>World Bank</source-info>
+               </sources>
+          </table-block>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P17">
+      Given this vast diversity, it is, accordingly, difficult to draw general conclusions about the region’s economic performance as a whole during any given year. Additionally, the lack of current statistics for several countries makes it difficult to provide accurate assessments of economic conditions. Nevertheless, some broad comparisons can be made: of the world’s developing areas, sub-Saharan Africa has the worst record in virtually all of the most important social and economic indicators (see 
+      <i> Table 8</i>
+      ). The region has the lowest GNI per head, the lowest life expectancy at birth, the lowest youth literacy rate, the highest rate of adult HIV infection and the highest number of children not living past five years of age. Since 1971 the United Nations (UN) has viewed Least Developed Countries (LDCs) as a category of states that are considered to be highly disadvantaged in their development process. Of the 46 LDCs, 33 are in sub-Saharan Africa. Furthermore, of the 31 countries included within the `low human development’ category in the UN Development Programme’s (UNDP) 
+      <i>Human Development Report 2021/2022</i>
+      , 28 were in sub-Saharan Africa (not including Somalia which was not ranked, but would be in that category). Angola, Botswana, Cabo Verde, Cameroon, Congo, Eswatini, Equatorial Guinea, Ghana, Kenya, Namibia, São Tomé and Príncipe, Zambia and Zimbabwe were ranked in the `medium human development’ category, while Gabon, Seychelles and South Africa were included within the `high’ category, and only Mauritius was ranked in the `very high’ category.
+    </p>
+          <table-block id="ASS.ESSAY.2.1A" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER">
+               <table-heading>Table 8. Social and Economic Indicators in the Developing World</table-heading>
+               <table pgwide="YES" style="WITH-RULES">
+                    <tgroup cols="7">
+                         <colspec colwidth="12cm" />
+                         <colspec colname="COLSPEC0" colwidth="4.92cm" />
+                         <colspec colwidth="4.92cm" />
+                         <colspec colwidth="4.92cm" />
+                         <colspec colwidth="4.92cm" />
+                         <colspec colwidth="4.92cm" />
+                         <colspec colwidth="4.92cm" />
+                         <thead>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER">Arab States</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">East Asia/Pacific</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">East Europe/Central Asia</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Latin America/Caribbean</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">South Asia</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">Sub-Saharan Africa</entry>
+                              </row>
+                         </thead>
+                         <tbody>
+                              <row>
+                                   <entry style="DOT-LEADER">Human Development Index value (2021)</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">0.70</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">0.74</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">0.79</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">0.75</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">0.65</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">0.54</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Life expectancy (years at birth, 2021)</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">70.9</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">75.6</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">72.9</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">72.1</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">67.9</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">60.1</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Mean years of schooling (2021)</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">8.0</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">7.8</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">10.6</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">9.0</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">6.7</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">6.0</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">GNI per capita, purchasing-power parity basis (US&#160;$, 2021)</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">13,501</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">15,580</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">19,352</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">14,521</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">6,481</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">3,699</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Prevalence of undernourishment, stunting (% of population under 5 years, 2017)</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">15.0</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">12.2</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">n.a.</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">9.6</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">35.0</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">34.1</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Under-5 mortality rate (per 1,000 live births, 2018)</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">22</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">15</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">5</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">16</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">42</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">78</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Maternal mortality rate (deaths per 1,000 births, 2017)</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">135</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">73</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">20</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">73</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">149</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">535</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Youth literacy rate (% of persons aged ­15–24, 2018)</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">90</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">99</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">100</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">99</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">89</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">77</entry>
+                              </row>
+                         </tbody>
+                    </tgroup>
+               </table>
+               <sources>
+                    <source-head>Sources</source-head>
+                    <source-info>
+          IMF, 
+          <i>Regional Economic Outlook: Sub-Saharan Africa 2022</i>
+          ; UNDP, 
+          <i>Human Development Report 2023</i>
+          ; and World Bank, 
+          <i>World Development Indicators 2022</i>
+                    </source-info>
+               </sources>
+          </table-block>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P18">The factors underlying Africa’s parlous economic and social condition can be broadly categorized either as `external’ or `internal’. The major external factors have included fluctuating movements in the terms of trade (including petroleum and other non-fuel commodities), low levels and low value-added of exports, declines in foreign aid and low levels of foreign investment and external shocks, such as worldwide inflation and the effects of the war in Ukraine. The internal factors include small, fragmented economies, high levels of ethnic diversity, poor soils, widely fluctuating and harsh climates, widespread civil strife which often spills over borders, inadequate human and physical infrastructure, large number of landlocked states, rapid urbanization and population growth, environmental degradation, poor business climates, ineffective (and often corrupt) government and inappropriate public economic policies.</p>
+     </gen-section>
+     <gen-section print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+          <heading>External Trends</heading>
+          <gen-section id="ASS.ESSAY.2.15946547881" print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+               <heading>Trade, Regional Co-operation and South-South Linkages</heading>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P19">
+        Sub-Saharan Africa occupies a minor role in global trade (although it is a major source of several key, strategic minerals, as will be discussed below). The region has generally imported more goods than it has exported, resulting in overall trade deficits. However, in 2014 imports were constrained and the overall trade balance moved into surplus (see 
+        <i>Table 9</i>
+        ). The balance returned to deficits in 2015, 2016 and 2017, before achieving a surplus in 2018 and then returning to widening deficits in 2019 and 2020.
+      </p>
+               <table-block id="ASS.ESSAY.2.1199090909A" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER">
+                    <table-heading>Table 9. Sub-Saharan Africa’s Trade Balance (US&#160;$’000 million at current prices)</table-heading>
+                    <table pgwide="NO" style="WITH-RULES">
+                         <tgroup cols="7">
+                              <colspec colwidth="4.5cm" />
+                              <colspec colname="COLSPEC3" colwidth="2.50cm" />
+                              <colspec colwidth="2.50cm" />
+                              <colspec colname="COLSPEC5" colwidth="2.50cm" />
+                              <colspec colname="COLSPEC1" colwidth="2.50cm" />
+                              <colspec colname="COLSPEC0" colwidth="2.50cm" />
+                              <colspec colname="COLSPEC2" colwidth="2.50cm" />
+                              <thead>
+                                   <row>
+                                        <entry align="left" style="NO-DOT-LEADER" />
+                                        <entry align="right" style="NO-DOT-LEADER">2014</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">2016</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">2017</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">2018</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">2019</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">2020</entry>
+                                   </row>
+                              </thead>
+                              <tbody>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">Exports</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">362.6</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">239.5</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">287.7</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">355.4</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">297.4</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">205.7</entry>
+                                   </row>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">Imports</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">345.2</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">286.2</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">297.3</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">327.8</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">316.6</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">249.7</entry>
+                                   </row>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">Trade balance</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">17.4</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">–46.7</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">–9.6</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">27.6</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">–19.2</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">–44.0</entry>
+                                   </row>
+                              </tbody>
+                         </tgroup>
+                    </table>
+                    <sources>
+                         <source-head>Source</source-head>
+                         <source-info>
+            World Bank, 
+            <i>World Integrated Trade Solution</i>
+            , 2023
+          </source-info>
+                    </sources>
+               </table-block>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P20">
+        One of the most serious of the external factors Africa faces is its inability to diversify its trade. For approximately two-thirds of the countries in the region, 60% of their exports come from only one or two products. In 13 countries, one product constitutes 75% or more of total exports. In addition, the region has generally seen declining traditional exports and increasing imports, both in terms of value and volume, although recent years have been out of step with those trends. Of total exports, raw materials continued as the most valuable export in 2019 (with 43.6% of the total), compared with 32.4% for intermediate goods. Consumer goods contributed 17.1% of the total, and capital goods 6.7% (see 
+        <i>Table 10</i>
+        ).
+      </p>
+               <table-block id="ASS.ESSAY.2.12662271A" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER">
+                    <table-heading>Table 10. Composition of Sub-Saharan Africa’s Exports and Imports (US&#160;$ million, 2019)</table-heading>
+                    <table pgwide="NO" style="WITH-RULES">
+                         <tgroup cols="3">
+                              <colspec colwidth="9.5cm" />
+                              <colspec colwidth="5cm" />
+                              <colspec colwidth="5cm" />
+                              <thead>
+                                   <row>
+                                        <entry align="left" style="NO-DOT-LEADER" />
+                                        <entry align="right" style="NO-DOT-LEADER">Exports</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">Imports</entry>
+                                   </row>
+                              </thead>
+                              <tbody>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">Raw materials</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">105,328</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">28,431</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">Intermediate goods</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">78,308</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">52,026</entry>
+                                   </row>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">Consumer goods</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">41,207</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">94,927</entry>
+                                   </row>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">Capital goods</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">16,134</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">69,684</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">
+                                             <b>Total</b>
+                   (incl. others)
+                </entry>
+                                        <entry align="right" style="NO-DOT-LEADER">241,362</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">253,395</entry>
+                                   </row>
+                              </tbody>
+                         </tgroup>
+                    </table>
+                    <sources>
+                         <source-head>Source</source-head>
+                         <source-info>
+            World Bank, 
+            <i>World Integrated Trade Solution</i>
+            , 2021
+          </source-info>
+                    </sources>
+               </table-block>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P21">Most of the region’s export growth has been driven by natural resources, with petroleum, ores, base metals and gold being the most important. The IMF has identified 20 `resource rich’ countries in sub-Saharan Africa: eight are oil exporters (Angola, Cameroon, Chad, Congo, Equatorial Guinea, Gabon, Nigeria, and South Sudan) and 10 non-fuel mineral exporters (Botswana, the DRC, Guinea, Liberia, Mauritania, Namibia, Niger, Sierra Leone, South Africa and Zambia). Others have resource potential, including Mozambique, São Tomé and Príncipe and Uganda (oil and gas) and Malawi (uranium). It should be noted that there has often been a link between resource wealth and lack of development (the so-called `resource curse’), increased corruption and poverty (Nigeria with vast oil and gas resources is a prime example). The resource rich countries recorded average GDP growth of 3.1% before the pandemic, considerably lower than the average of 5.9% experienced by the non-resource rich countries. Furthermore, as a whole they have generally not benefited; for example, they often have lower life expectancies, extreme poverty is higher and education levels are lower. However, if resources are well managed, they can have positive effects (such as Botswana with its diamond resources). A total of 50 countries (27 from sub-Saharan Africa—although Equatorial Guinea has been delisted) have signed up to the Extractive Industries Transparency Initiative (EITI), which helps to ensure that earnings are shared in a more equitable and transparent manner.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P22">
+        A generation ago, Brazil, Russia, India and China accounted for perhaps 1% of African trade, with the European Union (EU), the USA and Japan commercially dominant. Since 2000 the overall growth of African exports to emerging markets in the Global South (particularly China, India and South Africa) has equalled and surpassed that of shipments to developed markets (this is called `South–South’ trade). Indeed, by 2012 exports to China, India and South Africa had exceeded those to the EU. Furthermore, China is now by far the major purchaser of the region’s petroleum, and total imports from that country reached US&#160;$51,200m. in 2020, some 18% of the total (see 
+        <i>Table 11</i>
+        ). About 70% of the region’s exports to China are commodities (oil, metals and other minerals). A continued slowdown in China’s growth and related reduced demand will have measurable negative effects for sub-Saharan Africa. The United Kingdom’s departure from the EU (Brexit) also has implications for the region. The UK will have to make new trade agreements with sub-Saharan African countries to replace those in place while it was part of the EU. Although trade with the region in the past was important to the UK, in 2018 it fell to $46,000m. (about 2% of the UK’s total trade). None the less, South Africa is an important trading partner for the UK, with that country importing around 10% of South Africa’s wine exports and the UK is the second largest market for Kenya’s fresh cut flowers.
+      </p>
+               <table-block id="ASS.ESSAY.2.12662556271A" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER">
+                    <table-heading>Table 11. Sub-Saharan Africa’s Major Trade Partners (US&#160;$’000 million, 2020)</table-heading>
+                    <table pgwide="NO" style="WITH-RULES">
+                         <tgroup cols="3">
+                              <colspec colwidth="9.5cm" />
+                              <colspec colwidth="5cm" />
+                              <colspec colwidth="5cm" />
+                              <thead>
+                                   <row>
+                                        <entry align="left" style="NO-DOT-LEADER" />
+                                        <entry align="right" style="NO-DOT-LEADER">Exports to</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">Imports from</entry>
+                                   </row>
+                              </thead>
+                              <tbody>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">China</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">26,093</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">51,200</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">India</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">11,621</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">17,432</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">South Africa</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">10,723</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">18,390</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">USA</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">10,486</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">14,396</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">Switzerland</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">10,468</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">1,800</entry>
+                                   </row>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">Germany</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">7,721</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">10,433</entry>
+                                   </row>
+                              </tbody>
+                         </tgroup>
+                    </table>
+                    <sources>
+                         <source-head>Source</source-head>
+                         <source-info>
+            World Bank, 
+            <i>World Integrated Trade Solution</i>
+            , 2023
+          </source-info>
+                    </sources>
+               </table-block>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P23">The import policies of the Western industrialized countries have played a major, and often negative, role in Africa’s export performance. In 2000 the Cotonou Agreement between the EU and the group of African, Caribbean and Pacific (ACP) states engineered more liberalized trade between ACP countries and the EU while a new generalized system of preferences introduced by the European Commission came into effect in 2005. The scheme offers duty-free access to the EU market for 80% of tariff lines from countries that adhere to international conventions on human rights, labour, good governance and the environment. In 2007 trade talks at the EU-Africa Summit in Lisbon, Portugal, promoted a new accord, known as the Economic Partnership Agreements (EPAs), under which bilateral agreements would phase out the remaining preferential trade pacts. In 2016 SADC was the first regional bloc to sign an EPA (Angola has an option to join in the future) and this became fully operational in February 2018. ECOWAS and UEMOA have also signed a partnership agreement. A number of other regions are currently negotiating EPAs, although some countries were resisting agreeing as they feared competition from advanced and well-established European firms and also the loss of tariff revenue. The EU has also concluded the `Everything but Arms’ agreement with many African states. Under the agreement, they are allowed to export all products, other than weapons, into the EU without having to pay tariffs. Meanwhile, in 2004 the USA extended its Africa Growth and Opportunity Act (AGOA) which provides the 38 eligible sub-Saharan African countries with duty-free access to the US market covering some 1,800 products, although it has at various points suspended AGOA with a number of countries, including Burundi, the DRC, Eswatini, The Gambia and Rwanda, because of governance issues. The programme is due to expire in 2025.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P24">Notwithstanding the above and the benefits of these protocols, protectionism and restrictive agricultural practices (including subsidies to farmers), particularly in the EU and (to a lesser extent) the USA, have resulted in an oversupply of some agricultural commodities, and have thus inhibited worldwide demand and weakened world prices. Tariff and non-tariff barriers to trade erected by the Western industrialized countries have discouraged value-added or semi-processed agricultural imports from African states. In addition to the decreased demand owing to protectionism from the developed nations, as their incomes increase, consumer demand for agricultural products does not advance proportionately. Industry is increasingly turning to substitutes, such as fibre optics for copper wires in telecommunications and beet sugar for cane sugar. As agricultural prices decline, Western consumers do not increase their consumption. Furthermore, even in countries that have dynamic export sectors such as Kenya (which exports cut flowers) and Lesotho (apparel), benefits for employment and diversification of their respective economies remain low. Finally, many African nations rely on import taxes as major sources of government revenues and are thus hesitant to reduce such barriers.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P25">
+        Although trade between African states is low, this is growing: the combined intra-trade of the three largest regional economic communities (RECs) grew from US&#160;$30,000m. in 2004 to $102,600m. in 2014 and intra-African exports grew by 50% between 2010 and 2013, with manufacturing goods constituting nearly 40% of intra-African trade. In 2022 members of SADC had the highest proportion of intra-regional trade (around 35% of total trade is between its members and the rest of Africa, see 
+        <i>Table 12</i>
+        ) while total intra-Africa trade amounted to $62,000,000m., according to The Trade Law Centre NPC.
+      </p>
+               <table-block id="ASS.ESSAY.2.1266255627778641A" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER">
+                    <table-heading>Table 12. Share of Total Trade of African RECs (%)</table-heading>
+                    <table pgwide="NO" style="WITH-RULES">
+                         <tgroup cols="2">
+                              <colspec colwidth="14.5cm" />
+                              <colspec colwidth="4.5cm" />
+                              <thead>
+                                   <row>
+                                        <entry align="left" style="NO-DOT-LEADER" />
+                                        <entry align="right" style="NO-DOT-LEADER">2022</entry>
+                                   </row>
+                              </thead>
+                              <tbody>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">SADC</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">34.7</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">EAC</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">5.6</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">ECOWAS</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">11.0</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">COMESA</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">17.5</entry>
+                                   </row>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">CEN-SAD</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">19.5</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">IGAD</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">2.6</entry>
+                                   </row>
+                              </tbody>
+                         </tgroup>
+                    </table>
+                    <sources>
+                         <source-head>Source</source-head>
+                         <source-info>The Trade Law Centre NPC, 2023</source-info>
+                    </sources>
+               </table-block>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P26">Most African states produce similar products for export, generally unprocessed primary agricultural or mineral commodities, and, as most of the value-added is carried out in Western industrialized countries, there is little African demand for these products. African states themselves have often discouraged trade by their strongly inward-oriented, import-substitution development strategies, including overvalued exchange rates and protectionist trade policies. Their transport infrastructure (which is often inadequate in any event) is geared towards export to the EU, Japan and North America (and more recently towards China), rather than to nearby countries. Finally, since the landlocked countries’ trade is principally with Europe, neighbouring countries are often viewed as competitive obstacles rather than potential markets.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P27">African states have tried various methods of improving their trade performance, and of developing overall regional economic co-operation. There have been several attempts to form free trade areas or customs unions, and the New Partnership for Africa’s Development (NEPAD) has adopted regional integration as one of its core objectives. In early 1997 the Organization of African Unity (OAU) inaugurated the African Economic Community, with the eventual goal of uniting the region’s existing economic organizations into a single institution similar to the EU. The OAU was formally replaced by a new African Union (AU) in July 2002. In June 2015 the AU heads of state launched the proposed African Continental Free Trade Area (AfCFTA), which, when implemented, will be the world’s largest free trade area by number of countries (54). By mid-2023 all of the continent’s 55 countries (except for Eritrea) had signed the AfCFTA Agreement, thus fulfilling the requirements for the agreement to come into effect. Once in full operation the AfCFTA will eliminate tariffs on 90% of intra-regional trade flows and establish a market of 1,200m. people with a combined GDP of US&#160;$250,000m. In addition, the pact will also reduce or eliminate many non-tariff barriers, as well as standardize the trade process through digitalization, which may prove to be more important in the long term. The abolition of tariffs on 90% of existing intra-regional trade flows (including North Africa) would increase trade by about 16%, according to the IMF. Yet it should be noted that reducing tariffs alone are not enough to significantly boost intra-regional trade. Other impediments include poor trade logistics and road infrastructure and cumbersome border customs clearance procedures. However, in another positive development, the recent Pan-African Payment and Settlement Scheme should help to reduce currency risks and facilitate regional transactions and payments.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P28">
+        In addition to the AfCFTA, Africa has 14 trading blocs with overlapping members. Most countries belong to at least two blocs, and many belong to three (see 
+        <i>Table 13</i>
+        ). The Southern African Customs Union (SACU), comprising Botswana, Eswatini, Lesotho, Namibia and South Africa, is the world’s oldest existing customs union—it celebrated the 100th anniversary of its foundation in 2010. It is also perhaps the most successful regional organization in sub-Saharan Africa. SACU permits free trade among its members and provides a common external tariff. Customs revenue is generally collected by South Africa and allocated to individual members according to a formula based on members’ share of total trade. Such revenues are often the largest source of funding for the budgets of Eswatini, Lesotho and Namibia.
+      </p>
+               <table-block id="ASS.ESSAY.2.1377262533245" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER">
+                    <table-heading>Table 13. Member Countries of Major Regional Groupings in Sub-Saharan Africa</table-heading>
+                    <table pgwide="NO" style="WITH-RULES">
+                         <tgroup cols="3">
+                              <colspec colwidth="7cm" />
+                              <colspec colwidth="0.05cm" />
+                              <colspec colwidth="12.5cm" />
+                              <thead>
+                                   <row>
+                                        <entry align="left" style="NO-DOT-LEADER">Organization</entry>
+                                        <entry style="NO-DOT-LEADER" />
+                                        <entry align="right" style="NO-DOT-LEADER">Member countries</entry>
+                                   </row>
+                              </thead>
+                              <tbody>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">Union Economique et Monétaire Ouest-Africaine </entry>
+                                        <entry style="DOT-LEADER" />
+                                        <entry align="right" style="NO-DOT-LEADER">Benin, Burkina Faso, Côte d’Ivoire, Guinea-Bissau, Mali, Niger, Senegal and Togo</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">Communauté Economique et Monétaire de l’Afrique Centrale</entry>
+                                        <entry style="DOT-LEADER" />
+                                        <entry align="right" style="NO-DOT-LEADER">Cameroon, CAR, Chad, Congo, Equatorial Guinea and Gabon</entry>
+                                   </row>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">Common Market for East and Southern Africa</entry>
+                                        <entry style="DOT-LEADER" />
+                                        <entry align="right" style="NO-DOT-LEADER">Burundi, Comoros, DRC, Djibouti, Eritrea, Eswatini, Ethiopia, Kenya, Madagascar, Malawi, Mauritius, Rwanda, Seychelles, Somalia, Sudan, Uganda, Zambia and Zimbabwe</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">East African Community</entry>
+                                        <entry style="DOT-LEADER" />
+                                        <entry align="right" style="NO-DOT-LEADER">Burundi, DRC, Kenya, Rwanda, South Sudan, Tanzania and Uganda</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">Southern African Development Community</entry>
+                                        <entry style="DOT-LEADER" />
+                                        <entry align="right" style="NO-DOT-LEADER">Angola, Botswana, Comoros, DRC, Eswatini, Lesotho, Madagascar, Malawi, Mauritius, Mozambique, Namibia, Seychelles, South Africa, Tanzania, Zambia and Zimbabwe </entry>
+                                   </row>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">Southern African Customs Union</entry>
+                                        <entry style="DOT-LEADER" />
+                                        <entry align="right" style="NO-DOT-LEADER">Botswana, Eswatini, Lesotho, Namibia and South Africa</entry>
+                                   </row>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">Common Monetary Area (Rand Zone)</entry>
+                                        <entry style="DOT-LEADER" />
+                                        <entry align="right" style="NO-DOT-LEADER">Eswatini, Lesotho, Namibia and South Africa</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">Intergovernmental Authority on Development</entry>
+                                        <entry style="DOT-LEADER" />
+                                        <entry align="right" style="NO-DOT-LEADER">Djibouti, Ethiopia, Somalia, Eritrea, Sudan, South Sudan, Uganda</entry>
+                                   </row>
+                              </tbody>
+                         </tgroup>
+                    </table>
+                    <sources>
+                         <source-head>Source</source-head>
+                         <source-info>
+            African Union, African Development Bank and UN Economic Commission for Africa 
+            <i>Africa Regional Integration Report 2019</i>
+                         </source-info>
+                    </sources>
+               </table-block>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P29">The two groupings which command good prospects are SADC and ECOWAS. The latter has as its eventual goal the removal of barriers to trade, employment and movement between its 15 member states, as well as the rationalization of currency and financial payments among its members. Owing to the political and economic disparity of its members, it is likely to be many years before the above objectives are fully met. SADC was established initially as the Southern African Development Co-ordination Conference (SADCC) to provide a counter, during the era of apartheid, to South Africa’s economic hegemony over the region. SADCC did not initially seek an economic association or customs union, but rather to function as a subregional planning centre to rationalize development planning. Its reconstitution in 1992 as SADC placed binding obligations on member countries with the aim of promoting economic integration towards a fully developed common market. Despite SADC’s desire to reduce and eventually remove trade barriers, some members have not eliminated tariffs as stipulated by the agreement, and in some cases countries that removed tariffs later reimposed them.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P30">In 2008 three regional economic communities formed the COMESA-EAC-SADC Tripartite Free Trade Area (TFTA), with a total of 26 member states. The three RECs make up nearly one-half of the AU’s membership of 55 countries, contribute more than 58% of the continent’s GDP and account for around 57% of the total population of the AU.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P31">Another important grouping, the CFA Franc Zone, was formed in 1948 and it comprises, together with France, 12 former French colonies, Equatorial Guinea (a former Spanish colony) and Guinea-Bissau (a former Portuguese possession) with a total population of 155m. people. It operates with four general principles: fixed parity exchange rates; convertibility guaranteed by the French Treasury; free movement of capital; and a central foreign exchange reserve. As the CFA franc is pegged to the euro, investors from the euro area and other countries are more likely to invest in the Franc Zone, since they are protected against exchange rate risks. Excluding France, each of the Zone’s members are small states, none with a population exceeding 24m., and most are poor. A few, such as Cameroon, Congo, Equatorial Guinea and Gabon, are heavily reliant on petroleum export revenues. In May 2019 France announced that the UEOMA Franc Zone agreement was being ended (with no changes to CEMAC). Plans were announced to adopt a new regional currency, the eco, which will remain pegged to the value of the euro, although there will be no requirement to keep 50% of the group’s reserve with the Bank of France.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P32">The other currency area is the Common Monetary Area (known as the Rand Zone), comprising Eswatini, Lesotho, Namibia and South Africa. All the members peg their currencies at par value to the South African Rand. Countries in a monetary area receive benefits as well as face costs. For example, a fixed exchange rate can reduce transaction costs and ensure stability (at least in the short term). On the other hand, member countries lose control over their monetary policies, and cannot allow their currencies to devaluate individually, thus at times making their exports relatively more expensive and therefore less competitive.</p>
+          </gen-section>
+          <gen-section id="ASS.ESSAY.2.15937777641" print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+               <heading>Foreign Debt, Aid and Foreign Investment</heading>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P33">Three of the most obvious manifestations of external difficulties are foreign debt, fluctuating levels of international aid and the problem of attracting outside investment. Many countries received debt relief in the 2000s under the Initiative for Heavily Indebted Poor Countries (HIPC) and the Multilateral Debt Relief Initiative (MDRI). Of the 39 HIPC states, 33 are located in sub-Saharan Africa. Although, according to the World Bank, by 2021 over 60% of countries in the region were in or at high risk of debt distress. This was largely due to fiscal imbalances and increased indebtedness due to higher repayment costs resulting from the US dollar’s appreciation caused by higher interest rates on US treasury bonds. Indeed, the US dollar exchange rate rose to a 20-year high in 2022.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P34">In 2018 government debt-to-GDP ratios rose to 60% in one-third of the countries in the region. Largely as a consequence of the COVID-19 pandemic, the region’s public debt increased to almost 58% of GDP by 2020, the highest level in 20 years and a 6% increase over the previous year. Its ratio of debt service to exports increased from 16.1% in 2019 to 21% in 2020. In 2020 external debt as a percentage of exports was 202.9%, compared with 154.5% in 2019, and the region’s long-term external debt stood at US&#160;$702,407.5m. Excluding South Africa, in 2021 the region’s external debt stock increased by an average of 4.3%, to $591,000m.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P35">It should be noted that the composition of public debt has changed over the past few years. Countries have recently been relying on domestic bank and non-bank financing, much of it on commercial terms. As official development assistance (ODA) has declined for many countries, they have turned to non-concessional sources for funding. Non-concessional debt now accounts for more than one-half of the total public debt in many countries (for example, Côte d’Ivoire, Ghana, Congo, Sudan, Zambia and Zimbabwe). In recent years higher-cost private debt has begun to supplement loans from official sources such as the international financial institutions (the World Bank and the IMF). However, almost one-half of public debt is financed in foreign currencies (mostly US dollars), making it sensitive to foreign exchange fluctuations and recently more expensive to finance given the US dollar’s appreciation. In addition, countries adversely affected by commodity price declines have become unable to service their debts.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P37">The Group of 20 (G20) Debt Service Suspension Initiative has provided some relief for countries suffering from the COVID-19 pandemic, by temporarily deferring debt payments (but without reducing the total debt levels). Participating countries have saved an estimated US&#160;$5,500m. None the less, in 2023 some 22 African countries were identified by the IMF as either already in debt distress or at high risk of debt distress. Importantly, if interest rates continue to increase and the US dollar continues to appreciate, debt service costs will continue to rise and 18 countries could cross debt service risk thresholds, up from 10 in 2022.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P38">Furthermore, Chad, Ethiopia and Zambia have applied for debt restructuring under the group’s Common Framework agreement, although all countries have had difficulty producing tangible results. In addition, the IMF in 2021 allocated US&#160;$23,000m. of special drawing rights (SDR) funds to 22 countries in the region. So far, a number of countries (including Chad, Gambia, Niger, Rwanda and Sierra Leone) have used some of their SDR funding for essential pandemic-related needs. The region’s poorest countries received debt service relief through the Catastrophic Containment and Relief Trust which ended in April 2022. The G20 has pledged $100,000m. for vulnerable countries in the region.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P39">The region’s debt service paid to official bilateral creditor nations in 2019 was US&#160;$34,133m. During the past two decades there has been a continuing debate on how best to reduce poor countries’ debt burdens and how to fund such reductions. In 1996 the World Bank and the IMF launched the HIPC to help ensure that 40 of the world’s poorest countries could reduce their debts to `sustainable levels’. The HIPC Initiative was supplemented in 2005 by the MDRI, which allows for 100% relief on eligible debts by the IMF, the World Bank and the African Development Fund. The HIPC guidelines required a candidate country to complete a three-year reform programme, following which the country was then permitted a further three years to carry out additional adjustments to obtain the actual debt reductions.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P40">Sub-Saharan African countries have poor records in domestic tax revenue collection. For example, the median tax ratio of only 13% of GDP in 2022 compares with 18% in other emerging and developing markets and to 27% in advanced economies.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P41">
+        Many countries in the region have been some of the largest recipients of aid, which has, in many cases, been equivalent to 10%–20% of GDP, and sometimes higher. (The largest recipient of bilateral ODA in 2017 was Ethiopia, which received US&#160;$2,172m., although it should be noted that only Ethiopia was in the top 10 recipients worldwide of ODA in 2017 and sub-Saharan Africa accounted for just 22% of worldwide ODA.) Total ODA to the region amounted to $46,763m. in 2017, and this increased to $47,898m. in 2018 to $50,454m. in 2019 and to $63,834m. in 2020, before declining to $58,973m. in 2022 (see 
+        <i>Table 14</i>
+        ).
+      </p>
+               <table-block id="ASS.ESSAY.2552626215281506" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER">
+                    <table-heading>Table 14. Sub-Saharan Africa’s Net ODA Receipts (US&#160;$ million)</table-heading>
+                    <table pgwide="NO" style="WITH-RULES">
+                         <tgroup cols="5">
+                              <colspec colname="COLSPEC0" colwidth="3.00cm" />
+                              <colspec colname="COLSPEC1" colwidth="3.00cm" />
+                              <colspec colname="COLSPEC3" colwidth="3.00cm" />
+                              <colspec colname="COLSPEC4" colwidth="3.00cm" />
+                              <colspec colname="COLSPEC5" colwidth="3.00cm" />
+                              <thead>
+                                   <row>
+                                        <entry align="right" style="NO-DOT-LEADER">2017</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">2018</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">2019</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">2020</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">2021</entry>
+                                   </row>
+                              </thead>
+                              <tbody>
+                                   <row>
+                                        <entry align="right" style="NO-DOT-LEADER">46,763</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">47,898</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">50,454</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">63,834</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">58,973</entry>
+                                   </row>
+                              </tbody>
+                         </tgroup>
+                    </table>
+                    <sources>
+                         <source-head>Source</source-head>
+                         <source-info>
+            OECD, 
+            <i>Statistics on Resource Flows to Developing Countries 2023</i>
+                         </source-info>
+                    </sources>
+               </table-block>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P42">The composition of ODA has also changed in recent years: less is now targeted for long-term economic development and a greater proportion is being devoted to short-term emergency food aid and peacekeeping activities. According to the OECD, in 2021 the sub-Saharan region’s major bilateral donors were the USA (US&#160;$12,881m.), Germany ($3,911m.), the UK ($1,785m.) France ($2,683m.), Japan ($1,660m.) and Sweden ($1,240).</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P43">It is a widely held view among economists that foreign aid is effective in stimulating growth in countries with sound macroeconomic environments, but it can be unproductive and detrimental in countries with weak public policy environments. Also, many states have become `aid dependent’. Sub-Saharan Africa’s per head ODA totalled US&#160;$53 in 2021 (ranging from a high of $330 in São Tomé and Príncipe to $8 in oil-rich Equatorial Guinea). This is the second highest among the developing world after the Middle East and North Africa (at $72 per head). Aid is often given for political reasons and includes construction of physical projects, such as roads and dams, with little provided for recurrent costs. Additionally, these projects are generally carried out in an unco-ordinated way, funded by multiple donor agencies.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P44">Remittances from expatriates are also important for the region, having reached US&#160;$47,959m. in 2019 but declined to $42,428m. in 2020. The decline has been caused by a combination of factors (notably, of course, the COVID-19 pandemic) in key destinations where African migrants reside, including the EU, the USA, the Middle East and China. These large economies host a substantial share of sub-Saharan African migrants and are a source of nearly one-quarter of total remittances sent to the region.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P45">
+        Sub-Saharan Africa accounts for a modest 2% of global foreign direct investment (FDI), attracting US&#160;$72,010m. in 2021, up dramatically from $23,360m. in 2020. Most of this is from private capital, both direct and portfolio investments. FDI can bring many benefits to developing countries, and a lack of capital can be, and has been, a major impediment to development. FDI contributes to capital formation, human capital development, technology transfer, increased managerial skills and market expansion. Generally, there is a strong correlation between higher FDI and economic growth. Since the late 1980s increased levels of FDI to developing countries have generated more intense competition for new FDI. Negotiations between host countries and potential investors generally produce an outcome more favourable to the investor, as the host country does not want to lose the deal, and often provides substantial incentives, including `tax holidays’ or lower taxes, direct subsidies and other arrangements (sometimes referred to as a `race to the bottom’). In any event, until very recently sub-Saharan Africa had a poor record of attracting such investment. According to the 2021 
+        <i>EY Africa Attractiveness Report</i>
+        , in 2020 the largest recipients of FDI were Nigeria ($6,600m.), South Africa ($3,800m.) and Angola ($3,100m.). Other significant (greater than $1,000m.) FDI destinations included Ghana, Angola and Congo.
+      </p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P46">
+        Traditionally over one-half of FDI to the region has come from the UK (the largest single investor), France, the Netherlands, South Africa and the USA. However, in recent years China had become the region’s major investor: China’s FDI surged from US&#160;$75m. in 2003 to $5,400m. in 2018 and most of that investment has been in the oil producing states of Nigeria and Sudan, or in South Africa and Zambia. None the less, according to the 2021 
+        <i>EY Africa Attractiveness Report</i>
+        , France and the USA were the largest investors (measured by FDI projects) in 2019–20, overtaking China.
+      </p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P47">While foreign investors are attracted by the region’s vast raw materials, potential high returns and low-wage economies, they are fearful of internal political volatility and the uncertainty of securing the enforcement of commercial contracts. These considerations, combined with the deteriorating human and physical infrastructure, significantly diminished investor confidence. Investor perception is of major importance. Investors appeared more confident about improvements in tariffs, the rule of law and access to financing. Increased investment in recent years has arisen partly because governments have worked hard to make life easier for investors.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P48">A further major problem is that African capital flight is huge. An estimated US&#160;$1,200,000m. of illicit financial flows fled the region between 1980 and 2009, roughly equal to the region’s current economic output. Such flows are generated from tax evasion, bribes, money laundering and transactions from cross-border smuggling. Added to this capital flight is a large `brain drain’ of skilled human resources due to the lack of suitable jobs at home (or to a variety of other reasons, including personal security). Significantly, the attraction of the industrial countries is likely to grow, and health care is but one illustration of the severe problems caused when the very skilled people trained and needed to develop a country leave for better opportunities. On the positive side, however, there are signs of increasing numbers of professional Africans returning home (a `reverse brain drain’). Finally, a recent UN report estimated that Africans hold as much as 40% of their financial portfolios outside Africa. If these funds returned, the region would increase its capital stock by about two-thirds.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P49">South Africa was in 1995 the first country of the region to issue sovereign bonds, also known as Eurobonds (although a few countries are denominating these bonds in local currencies). In 2006 Seychelles became the second sub-Saharan African country to join the Eurobond market. By 2021 some 21 countries in the region had issued bonds with a total value of over US&#160;$136,000m. These bonds are attractive because their yields are much higher (because of the high risk) than those found in safer, more traditional markets of the advanced economies. However, the potential negative to this trend is that should the economies stall, the countries will be hard pressed to service the bonds, and this is likely to be the case in the coming years, especially given the budgetary constraints posed by the COVID-19 pandemic. In 2021 the credit rating agency Fitch Ratings estimated that such wealth funds contracted by 2.1% in 2020, although it forecast growth to resume in 2021 to 4%. It has downgraded seven of the 19 rated sovereign wealth funds.</p>
+          </gen-section>
+     </gen-section>
+     <gen-section print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+          <heading>Internal Trends</heading>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P50">Africa also faces a number of `internal’ economic problems, which, in the view of many analysts, outweigh the `external’ factors discussed above. Many countries in sub-Saharan Africa are still suffering from a crisis of statehood and a crisis of capability. An urgent priority is to rebuild state effectiveness through an overhaul of public institutions, the resurrection of the rule of law, and credible checks on abuse of state power. Indeed, as far back as 1989 a World Bank study on sub-Saharan Africa’s quest for sustainable growth suggested that `underlying the litany of Africa’s problems is `a crisis of governance’. This, unfortunately, is still the case in all too many countries.</p>
+          <gen-section id="ASS.ESSAY.2.14065378321" print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+               <heading>Governance, Parastatal Organizations, the Business Environment and the Informal Sector</heading>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P51">In sub-Saharan Africa most of the post-independence parastatal organizations operated in natural monopoly areas: large infrastructure projects (highways, railways and dams) and social service facilities (schools, hospitals and medical clinics). Government soon moved into areas that had previously been dominated by the private sector (or, at least, traditionally dominated by the colonial sector in most `mixed’ economies), and parastatal bodies accounted for more than one-third of employment in many countries. However, most analysts generally considered parastatal organizations to have failed, at least in terms of economic efficiency criteria. After independence most African countries expanded the size of their civil service more rapidly than their economic growth justified. This expansion was designed to provide employment, but civil servants received lower and lower real wages, and many governments became bloated and corrupt. For most states the need for better governance became critical and many governments have scaled back the role of parastatals in recent years. Related to better governance is fiscal discipline: putting government debt on a sustainable track. In many cases government revenue projections are overly optimistic and spending levels unrealistic. The result has too often been large and unstainable budget deficits. Reforms have helped but the African Development Bank lists several remaining challenges: weak tax and customs administrations; lack of transparency; low taxpayer morale; and hard to tax sectors (e.g. the informal sector, see below).</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P52">
+        The general perception is that the region has not developed an appropriate enabling environment for the private sector to grow and flourish. Indeed, it lags behind other regions in providing a quality business environment, although that is changing. The World Bank’s 2020 
+        <i> Doing Business</i>
+         report cited a record number of reforms (107), making it easier to do business. (The Bank has subsequently suspended publication of this report, due to charges of impropriety in research methodology). However, compared to the previous year, sub-Saharan African economies raised their average ease of doing business score by just one percentage point. Mauritius was ranked 13th on the Bank’s list of the easiest places to do business, just ahead of Australia, while Rwanda (at 38th place) was the next highest African country. Indeed, Rwanda, which 25 years ago experienced a brutal genocide, was considered friendlier to investors than the Netherlands. None the less, of the 40 countries (out of a total of 190) that ranked as the hardest in which to conduct business, 22 were in sub-Saharan Africa.
+      </p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P53">
+        The World Economic Forum’s 
+        <i>2019 Global Competitiveness Report</i>
+         ranked sub-Saharan Africa as the world’s least competitive region. Mauritius was ranked as the most competitive country in the region (52nd out of 141 countries worldwide). Of the 30 countries ranked at the bottom of the list, 28 were from sub-Saharan Africa. South Africa, the second most competitive in the region, moved to 60th position, while Namibia (94th), Rwanda (100th), Uganda (115th) and Guinea (122nd) made significant improvements. Kenya (95th) and Nigeria (116th) also improved their performances. The 
+        <i>Global Competitiveness Report Special Edition 2020</i>
+         changed its ranking methodology and provided eleven major policy areas of `transformation readiness’. The only category where a country from sub-Saharan Africa ranked highly was `shift to more progressive taxation. rethinking how corporations. wealth and labour are taxed. nationally and in an international cooperative framework’. In that category South Africa was the highest ranked.
+      </p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P54">
+        The Economist Intelligence Unit’s 
+        <i>Africa Business Outlook 2023</i>
+         surveyed a range of firms in the region and found the leading risks affecting their business were, in order from most important: deterioration of domestic market demand; supply of electricity; government effectiveness; political stability; inflation; security; strength of the US dollar; and standard of local infrastructure.
+      </p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P55">
+        Registering property is difficult and costly (although it is becoming faster), and in addition to the delays owing to excessive bureaucracy, there are often further delays caused by poor infrastructure, as discussed below. Many countries in the region also ranked poorly in Transparency International’s 
+        <i>Corruption Perceptions Index</i>
+        ; in 2022 only three countries—Seychelles (23rd), Cabo Verde and Botswana (both 35th)—ranked in the top 50 least corrupt countries worldwide. Of the 20 countries listed as most corrupt, 12 were from sub-Saharan Africa.
+      </p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P56">The informal sector accounts for nearly 90% of non-agricultural employment and accounts for 40% of official GDP. Many small firms see no advantage in joining the formal sector. For example, formal employment usually entails taxation and rigid employment contracts making the recruitment and dismissal of employees difficult. The majority of workers in the informal sector lack income security and employment benefits while life expectancy is lower and poverty higher than for those working in the formal sector. Most informal sector workers (and their families) did not have adequate access to health care during the COVID-19 pandemic.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P57">Many business owners have poor proof of title, and without adequate property rights and contract enforcement, lenders are hesitant to extend credit. While the types of activities carried out in the informal sector existed prior to colonialism, independence brought in the distinction between informal and formal activities, as countries around the region sought to formalize or `modernize’ their economies. The focus then (and indeed to some degree today) was rapid industrialization. Although the informal sector has declined in a few countries (e.g., Botswana, Ethiopia, Malawi, Rwanda and Tanzania), for much of the region it is the informal sector, not the formal sector that is the growth engine. Thus, how governments treat the informal sector has profound impacts on employment, growth, equity and sustainability.</p>
+          </gen-section>
+          <gen-section print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+               <heading>Agriculture and the Urban Bias</heading>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P58">
+        Sub-Saharan Africa possesses perhaps one-half of the world’s uncultivated land surface and the growth potential in the sector is enormous. According to the World Bank, `in sub-Saharan Africa, growth in agriculture and services is more effective at reducing poverty than growth in industry’. Agriculture’s share of GDP is higher in sub-Saharan Africa than in any other region (see 
+        <i>Table 15</i>
+        ). However, agriculture’s importance varies among countries. For example, in the early 2000s agriculture (including forestry and fishing), contributed 59.5% of Sierra Leone’s GDP, followed by Chad (53.9%), while agriculture only contributed 1.6% in Djibouti. 
+      </p>
+               <table-block id="ASS.ESSAY.2.0949280151723062023" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER" usage="ass">
+                    <table-heading> Table 15. Contribution of Agriculture to GDP in 2022 (% of total)</table-heading>
+                    <table pgwide="NO" style="WITH-RULES">
+                         <tgroup cols="2">
+                              <colspec colwidth="15cm" />
+                              <colspec colwidth="3.72cm" />
+                              <tbody>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">Sub-Saharan Africa</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">19</entry>
+                                   </row>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">South Asia</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">14</entry>
+                                   </row>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">East Asia/Pacific</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">6</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">Middle East/North Africa</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">5</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">Latin America/Caribbean</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">5</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">Europe/Central Asia</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">North America</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">1</entry>
+                                   </row>
+                              </tbody>
+                         </tgroup>
+                    </table>
+                    <sources>
+                         <source-head>Source</source-head>
+                         <source-info>Visual Capitalist 2023</source-info>
+                    </sources>
+               </table-block>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P59">Unfortunately, a leading factor behind the declines in African economies and the high levels of malnutrition has been the poor performance of agriculture. This sector basically comprises two components: food production for local consumption (often at the subsistence level), and export commodities. Indeed, some 90% of the region’s agricultural output is produced by smallholders on farms averaging 2.5&#160;ha in size. As discussed above, while agriculture (including forestry and fishing) accounted for only 19% of GDP for the region as a whole in 2022, it provided 53% of total employment. Agricultural labour productivity is quite low, and failure to transform agriculture has resulted in millions of rural Africans being trapped in a cycle of underemployment, underproduction, low incomes and chronic poverty. Access to land (particularly by women, who produce up to 80% of all basic food products) remains a large problem, and insecure land tenure rights prevent farmers from investing in new technology which would increase output. Agricultural productivity is the lowest in the world: value-added per worker in 2020 was US&#160;$1,525 compared with the world average of $4,035 and $100,061 in the USA. Nevertheless, agriculture was projected to become an industry worth $1,000,000m. by 2030, up from $313,000m. in 2010.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P60">
+        For virtually all African economies the major agricultural exports consist of one, or perhaps two or three, primary products (cash crops such as coffee, cocoa, tea, sugar and sisal), the prices of which fluctuate widely from year to year on the world market. The region also produces large amounts of domestic food crops, which are generally not as important for export (see 
+        <i>Table 16</i>
+        )
+      </p>
+               <table-block id="ASS.ESSAY.2.1266255163129072022" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER">
+                    <table-heading>Table 16. Major Cash Crops (% of world production, 2019)</table-heading>
+                    <table pgwide="NO" style="WITH-RULES">
+                         <tgroup cols="2">
+                              <colspec colwidth="14.5cm" />
+                              <colspec colwidth="4.5cm" />
+                              <tbody>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">Yams</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">97</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">Cassava</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">63</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">Plantains</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">64</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">Sorghum</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">49</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">Sweet potatoes</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">30</entry>
+                                   </row>
+                                   <row>
+                                        <entry align="left" style="DOT-LEADER">Maize</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">7</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">Sugar cane</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">5</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">Rice</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">5</entry>
+                                   </row>
+                                   <row>
+                                        <entry style="DOT-LEADER">Wheat</entry>
+                                        <entry align="right" style="NO-DOT-LEADER">5</entry>
+                                   </row>
+                              </tbody>
+                         </tgroup>
+                    </table>
+                    <sources>
+                         <source-head>Source</source-head>
+                         <source-info>
+            USDA, 
+            <i>Foreign Agriculture Service</i>
+            , 2021
+          </source-info>
+                    </sources>
+               </table-block>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P61">Unfortunately, Africa’s share of world agricultural exports has declined since the 1970s. Food import costs have increased dramatically, from US&#160;$5,433m. in 1980 to $8,352m. in 2000, and averaged some $40,000m. per year by the late 2000s. Commodity prices enjoyed considerable increases prior to the 2008 crash, and indeed for some years after. However, that boom has now ended. The value of many exports (including oil, gold and coffee) declined between 2014 and 2016. While prices of oil and metals recovered in 2016 and 2017, they fell dramatically in 2019. Indeed, as noted earlier, oil prices were at historic lows in mid-2020 although they had recovered to pre-2019 price levels by mid-2021.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P62">Food security remains a serious issue for much of the region. Sub-Saharan Africa is the world’s most vulnerable area to food insecurity, and acute famine still persists in the region. On average, food imports account for some 20% of total imports in the region, almost twice as high as in other developing markets. Sub-Saharan Africa has the largest number of food insecure people, and the highest share of any region. According to the IMF, climate change (as will be discussed below) is intensifying food insecurity across the region with lasting adverse macroeconomic effects, especially on economic growth and poverty. The major causes have been higher energy prices, shocks from the war in Ukraine (including rapid price increases and shortages of fertilizers), the COVID-19 pandemic, unfavourable weather conditions (eg, continued drought in East Africa), and elevated levels of violence and political instability. The result has been increased food prices and depressed incomes, and the number of people suffering from high malnutrition and unable to meet basic food consumption needs has risen by around 30%, to 123m. in 2022, equivalent to 12% of the region’s population.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P63">While grain production is projected to grow at a little over 2% per year over the next 10 years (through increased productivity and area expansion), this is slower than the increase in demand for grains, which usually increases with rising population and higher incomes. One-half of the calories consumed come from grains that are generally rain-fed and thus highly vulnerable to climatic change, which is likely to intensify. Smallholders, who typically grow only one or two crops, are subject to various shocks, including weather and declining commodity prices, and even a modest decline in harvests can be devastating for household food security. Since a large share of family income is spent on food, poor households are vulnerable to food price increases and recent rises due to supply interruption, especially of wheat from Russia and Ukraine, have already had a serious impact, as noted above.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P64">Famine can result from several factors, although production failures are perhaps the most common cause. Since 2000 there have been four severe famines—in Ethiopia (in 2000), Malawi (2002), Niger (2005), and in Somalia and Ethiopia (in 2011–12), affecting some 10m. people. In 2015–16 the El Niño drought severely affected large areas in East and Southern Africa. The 2020 locust infestation in East Africa exacerbated the problem. Another factor can be classified as a response failure by governments and the international community, and can include indifference by governments that, in any event, have a limited capacity to deliver basic services. In addition, many governments have reduced agricultural extension and research services as part of structural adjustments. Further, poor roads make it difficult for farmers to get their crops to market, and, during times of famine, present obstacles to the effective distribution of emergency food aid. Finally, few governments have robust early warning systems, or food buffer stocks.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P65">Until quite recently, many governments implemented economic policies that were designed to keep urban wages and living conditions high and farm prices low by maintaining the value of currencies at high, unrealistic rates of exchange. This is understandable and obvious: political power in Africa rests in the city, not in the village or countryside. This `urban bias’ was sometimes a deliberate strategy, at other times more a result of planned rural neglect, and on many occasions was endorsed by the international development community.</p>
+               <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P66">In addition to this `urban bias’, producers were often bound by prices fixed by their governments, and at times these `producer’ prices failed to cover input costs. This resulted in farmers reducing their production for sale and reverting to subsistence agriculture. It should be noted that investment in agriculture has traditionally been low. For example, agriculture typically receives less than 10% of public spending. Also, as much as three-quarters of the region’s farmland has become degraded owing to erosion and other results of population pressures, resulting, for example, in grain yields stagnating at one metric ton per ha, compared with the world average of about three tons per ha. Productivity growth will require a number of changes, and improvements in soil fertility, improved seeds and water and pest management have been long overdue.</p>
+          </gen-section>
+     </gen-section>
+     <gen-section id="AO.DIR.14345398681" print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+          <heading>Civil Strife</heading>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P67">Social and political stability are generally associated with higher economic growth rates. Since independence, more than one-half of sub-Saharan African countries have been caught up in civil wars, uprisings, mass migrations and famine. It has been suggested that the typical civil war in the region has lasted about seven years and caused GDP to decline by more than 2% for each year of strife. Furthermore, it typically takes a country about 14 years after the end of the conflict to recover to its pre-war growth levels, resulting in long lasting social damage. Many post-conflict governments continue to spend heavily on their military, thus reducing the potential peace dividend. Conflicts can be both a cause and consequence of poverty and some observers have termed this the `conflict trap’. The IMF suggested that these conflicts can arise from weak political systems, inter-community tensions, poor governance and country-specific triggers such as election tensions. In 2023 the Office of the United Nations High Commissioner for Refugees estimated that there were approximately 44m. displaced persons in the region in 2023, up from 38m. in 2021.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P68">Although the intensity of conflict is now lower than during the 1990s, strife continues to plague many areas of the region, with conflicts sometimes involving neighbouring countries and thus inhibiting economic growth for the entire subregion. Conflict tends to reduce the tax base while at the same time increasing government expenditure, to the detriment of much-needed social services. Between 2020 and mid-2023 the military took control in Burkina Faso, Chad, Gabon, Guinea, Mali, Niger and Sudan. Moreover, `traditional’ wars have been replaced by non-state based conflicts. For example, the militant Islamist group Boko Haram has continued its activities in Nigeria and neighbouring countries, although at a lower level than a few years ago. Other countries with elevated security concerns include Cameroon, the CAR, the DRC, Ethiopia and Mozambique.</p>
+     </gen-section>
+     <gen-section id="ASS.ESSAY.2.14065568271" print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+          <heading>Health, Population and Education </heading>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P69">Life expectancy in the region was 61 years in 2020, falling well below the 80 years in the advanced economies and the world average of 72 years. Perhaps the leading factor causing this is inadequate heath care: virtually all African states face significant problems in providing health services (especially during the COVID-19 pandemic), and the region’s total health expenditure was 5.0% of its GDP in 2019 (the latest year for which data is available), compared with a world average of 9.8%. This expenditure has been unevenly distributed among countries: for example, in 2018, according to the World Bank, Congo spent the least on health care as a percentage of its GDP (2.1%), while Sierra Leone spent the greatest proportion (16.6%). Moreover, care was unevenly distributed throughout many countries, with most health facilities concentrated in urban areas. In 2016 Seychelles led the region with 1 physician per 1,000 people, contrasted with the region’s average of 0.3.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P70">Only 20% of the region’s population has access to adequate sanitation, and in some nations this is as low as 8%–10%. Proper hygiene is one of the most effective ways to prevent the spread of disease, and this became even more evident during the COVID-19 pandemic. Significantly, some 80% of illness in Africa’s LDCs can be associated with inadequate water supplies or poor sanitation. Indeed, every day, about 500 children in sub-Saharan Africa die due to diarrhoeal diseases. Urban sanitation access ranges from a high of 89% of the population in Angola’s cities, to 20% in Ghana with the region’s average at 30% (up from 24% in 1990).</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P71">The UN University notes that no country in the region has achieved what it classifies as the highest level of national water security. That study suggests the 10 indicators of water security are access to drinking water, sanitation and hygiene facilities, per capita water availability, water use efficiency, water infrastructure and governance, wastewater treatment, disaster risk and water dependency on neighbouring countries. Niger, Chad and Somalia are the least water secure in the region.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P72">
+      HIV/AIDS remains a major public health and economic development concern and cause of death in many parts of sub-Saharan Africa. Although the continent is home to only about 15% of the world’s population, sub-Saharan Africans alone accounted for an estimated 70% of all people living with HIV and 70% of all AIDS deaths in 2011, and by 2012 some 70% of new infections. Indeed, by 2013 of the 1.5m. AIDS-related deaths worldwide, 1.2m. were in sub-Saharan Africa. The effects of gender inequalities are evident in sub- Saharan Africa, where women accounted for 63% of new HIV infections in 2021. Furthermore, 91% of the world’s HIV-positive children live in Africa. The region has some 27m. people (children and adults) living with HIV/AIDS, and the majority is concentrated in eastern and southern Africa, (see 
+      <i>Table 17</i>
+      ).
+    </p>
+          <table-block id="ASS.ESSAY.2.11A" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER">
+               <table-heading>Table 17. Regional HIV/AIDS Treatment Coverage (2020)</table-heading>
+               <table pgwide="NO" style="WITH-RULES">
+                    <tgroup cols="3">
+                         <colspec colwidth="9cm" />
+                         <colspec colwidth="5.2cm" />
+                         <colspec colname="COLSPEC5" colwidth="5.2cm" />
+                         <thead>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER">East and Southern Africa</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">West and Central Africa</entry>
+                              </row>
+                         </thead>
+                         <tbody>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Pregnant women accessing ARVs (%)</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">95</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">56</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Adults (aged 15 and over) living with HIV accessing ARVs (%)</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">78</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">77</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">Children (aged 0–14) living with HIV accessing ARVs (%)</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">57</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">35</entry>
+                              </row>
+                              <row>
+                                   <entry style="DOT-LEADER">People living with HIV accessing ARVs (%)</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">77</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">73</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Number of people living with HIV (million)</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">20.6</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">4.7</entry>
+                              </row>
+                         </tbody>
+                    </tgroup>
+               </table>
+               <sources>
+                    <source-head>Source</source-head>
+                    <source-info>
+          UNAIDS, 
+          <i>Fact Sheet 2020</i>
+                    </source-info>
+               </sources>
+          </table-block>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P73">HIV/AIDS, malaria and deaths from conflicts have contributed to a decline in life expectancy in several states, particularly those hardest hit in southern Africa. The region saw a dramatic drop in life expectancy around 1990, which coincided with the rise of HIV/AIDS. In Botswana life expectancy fell by a decade and in Eswatini it fell by two decades. However, since the early 2000s, as progress has been made on tackling HIV, life expectancy has been rising again, although it is only now approaching the levels reached prior to the HIV pandemic. While this has slowed dramatically in the region (the death rate fell by 39% between 2005 and 2013), HIV/AIDS remains a threatening health problem in many countries, and more than 20m. Africans have died from the disease, with some 420,000 dying in 2021.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P74">
+      AIDS in Africa generally affects young adults (aged 20–45 years) in their most economically productive years, and in Africa the educated, urban elite have been hardest hit. The number of HIV positive people in Africa receiving anti-retroviral therapy rose from 1m. to 7.1m. between 2005 and 2012. By the end of 2017 15.3m. people living with HIV/AIDS in the region had access to life-saving anti-retroviral drugs (ARVs), representing 70% of the 21.7m. people accessing ARVs globally, according to WHO. In eastern and southern Africa, 95% of pregnant women had access to ARVs in 2020, while in central and western Africa only 56% did (see 
+      <i>Table 17</i>
+      ).
+    </p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P75">The International Partnership Against AIDS in Africa was launched in 1999, with the participation of African governments, the UN, international donors, and the private and community sectors. The Partnership has campaigned for, and 10 states have received, access to lower-cost generic drugs to fight HIV/AIDS and South Africa has successfully negotiated agreements with pharmaceutical companies to produce drugs domestically. In 2000 the USA agreed to allow African states to develop generic AIDS vaccines without regard to US patent protections and the drastic fall in prices mentioned above has subsequently enabled treatment expansion.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P76">
+      Although HIV/AIDS and COVID-19 attract most of the attention, approximately 11% of disease-induced deaths in Africa are caused by malaria. The region accounts for 93% of malaria cases and 94% of the 405,000 malaria deaths annually (mostly children) worldwide. A child dies every minute from malaria in sub-Saharan Africa. Some researchers believe that had malaria been eradicated 30 years ago, the region’s GDP would now be one-third higher than it is, and the World Bank estimates that malaria takes US&#160;$12,000m. of Africa’s GDP every year. However, there are promising signs with a new anti-malarial drug being developed in Kenya. None the less, WHO’s 
+      <i>World Malaria Report 2020</i>
+       stated that the success in controlling the disease over the past 20 years had been delayed, with the COVID-19 pandemic diverting resources such as insecticide-treated mosquito nets, diagnostics and medicines. In addition, a warmer climate will likely make malaria more deadly.
+    </p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P77">African trypanosomiasis (sleeping sickness), which had been virtually eradicated in the early 1960s, reappeared in 1970 and is now widespread, occurring in 36 sub-Saharan African countries. Owing to a lack of screening and treatment, and regional conflict, this disease has become the greatest cause of mortality in areas of South Sudan, Angola and the DRC. None the less, there have been some successful attempts to combat disease in the region. For example, onchocerciasis (river blindness) has been virtually eliminated in West Africa; WHO estimated that its programme for the control of the disease (concluded in 2002) prevented 600,000 new cases and only 977 cases were recorded in 2018.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P78">African countries have some of the highest annual average population growth rates in the world, with a regional average of 2.6% in 2021. Most of sub-Saharan Africa is undergoing a demographic transition, owing to declining infant mortality and fertility rates. Sub-Saharan Africa’s population, numbering 1,165.6m. in 2021 (according to the World Bank), had been projected to rise to 2,000m. by 2050 and to 3,700m. by 2100. Due to falling fertility rates, more recent projections show the region’s population peaking in 2060, some 40 years earlier than previous projections. By 2035 the number of sub-Saharan Africans reaching working age (15–64), currently at about 14% of the world total, will exceed that of the rest of the world combined. Sub-Saharan Africa’s share of the global labour force is thus projected to increase from 10% in 2010 to 37% by 2100. Indeed, the region will need to create jobs at an extraordinary rate, about 20m. per year until 2035, in order to absorb the growing labour force. While the demographic transition may ensure the labour supply side of growth, a more diversified and robust economy means that labour demand is needed to turn the transition into a `demographic dividend’. Many parts of Africa could enjoy the benefits of the `youth bulge’ (as happened in many countries in East and South Asia). However, failure to seize the opportunity is likely to result in even greater numbers of unemployed people along with increasingly negative social and economic consequences.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P79">The demographic changes are projected to vary across sub-Saharan Africa. The biggest increase in population will occur in the eastern and western areas, while population growth will remain largely flat in the southern subregion, reflecting the demographic transitions of its largest economy, South Africa. Nigeria is expected to have the largest increase in population. As the African population grows in size, it will also alter in shape: the median age now is 20 years, compared with 30 in Asia and 40 in Europe. Africa’s dependency ratio (the ratio of working-age population to dependants) is close to 1:1, compared with East Asia’s ratio of 2:1.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P80">Most African countries have family planning programmes, and some have set targets for population growth. Stemming rapid population growth in Africa is difficult because of social as well as economic factors. Most Africans live in rural areas on farms and require large numbers of helpers. The cheapest way of obtaining such assistance is for a farmer to have more children. Owing to the high infant mortality rate (resulting from poor health and nutrition), rural couples tend to want, and have, more babies. Additionally, most African countries do not have organized old-age support schemes, and children are often viewed as potential providers of support for the elderly. However, Africa now seems to be on the path toward smaller families that has occurred in much of the world, although at a very slow rate. One important success is the recent huge decline in child mortality (the number of deaths of children under five per 1,000 live births). Indeed, the rates of decline in African child mortality are the highest in the world in the past 30 years. None the less, while the under five years old mortality rate of 180 per 1,000 live births in 1990 declined to 73 in 2020, this is still the world’s highest and remains almost double the world average.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P81">There has been a direct link between education and growth—between 1960 and 1980 the African countries that had higher percentages of children enrolled in primary school also had higher economic growth rates. Low primary school enrolment hampers economic development. The percentage of malnourished children rose from 31% in 1992 to 35% in 2015, the only region in the world to witness such an increase: children who do not have enough to eat perform poorly in school. A further key factor is that of increased education for women, which is clearly associated with lower fertility rates. A study by the World Bank found that the three countries with declining fertility—Botswana, Kenya and Zimbabwe—had the highest levels of female schooling and the lowest rates of child mortality. The study also indicated that in the Sahel, where female schooling rates are lowest, both fertility rates and child mortality have remained high.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P82">Shortly after independence most countries of the sub-Saharan region initiated programmes aimed at establishing universal primary education. Nearly 100% of children in the appropriate age-group are enrolled in primary schools (compared with 79% in 1999), with 71% completing primary school. Only 44% were enrolled in secondary schools in 2020. Access to tertiary education, while increasing in recent years, still remains the lowest in the world, with only 9% of the relevant aged population enrolled in 2019. And while the gender gap in education has narrowed (especially in primary schools) in many countries, there are areas where fewer than three girls are enrolled in secondary education for every four boys. The COVID-19 lockdowns prevented many children from attending school. Indeed, the World Bank estimated that perhaps 90% of all students were negatively impacted by the pandemic. And, unlike most countries in the developed world, there is scant opportunity for online learning in much of sub-Saharan Africa.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P83">Rapid urbanization has also imposed stresses on many African economies. Africa is still very largely rural and agricultural. In 1980 about 75% of the region’s population lived in rural areas, but that figure has declined to around 60%. However, approximately 70% of Africa’s poorest live in rural areas. Urbanization has increased at an alarming pace, and it has been forecast that by 2025 Africa’s urban population will be three times larger than in 2000, with more than one-half of the population living in cities. More than 45% of all urban-dwelling sub-Saharan Africans reside in cities with more than 500,000 inhabitants, compared with only 8% in 1960, when there were only two cities in the region with populations exceeding 500,000. Unemployment and underemployment are rampant in every major city of Africa and living conditions in virtually every city have worsened over the last two decades. In addition, the cost of living is relatively more expensive in Africa than in many other developing regions.</p>
+     </gen-section>
+     <gen-section print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+          <heading>The Natural Environment, Climate Change and the Blue Economy</heading>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P84">Until relatively recently most African governments did not regard rapid population growth or environmental degradation as matters for concern. Indeed, until fairly recently most areas of the region practised what is known as `slash and burn’ agriculture, a technique that can only succeed where land is abundant. However, a succession of countries, realizing that their resources cannot service their population growth, have begun to recognize the necessity for environmental protection.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P85">Africa’s environment has been under intense pressure, particularly since the beginning of the 21st century. With the increases in population discussed above, overcultivation and overgrazing have turned vast areas into virtual wastelands. Also, wood is collected for heating and cooking, supplying 70% of domestic energy needs. During 1990–2005 sub-Saharan Africa had the highest annual average rate of deforestation in the world. During 1990–2007 forest area as a percentage of total land area declined from 29.4% to 26.2%, with old growth forests in the region being cut down at more than 4m. ha per year, twice the world’s deforestation average. According to the World Bank, African forests are believed to contain 45% of the world’s biodiversity, while forest-related activities account for at least 10% of GDP for 17 nations in the region. In addition, the region contains about 15% of the world’s remaining forests, second to South America in the amount of tropical forests that are the most effective in removing carbon from the air. Across the Sahel population increases and changes in settlement patterns are putting pressure on fragile ecosystems. Fertile land is turning into dust, as people living in the transitional zone between the Sahel and the Sahara cut down trees for charcoal and send their animals further out in search of pasture.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P86">
+      It is predicted that climate change will affect sub-Saharan Africa more seriously than any other area in the world, although the region produces only about 7% of the world’s greenhouse gases. Greater rainfall variability will contribute to both more flooding and droughts, and exacerbate the malaria problem. In 2007 the UN’s Intergovernmental Panel on Climate Change predicted a minimum increase in temperature of 2.5°C by 2030, suggesting that food security will be severely compromised. The 
+      <i>Africa Adaptation Gap</i>
+       report published by the UN Environment Programme in 2015 warned that climate change could reduce crop output by as much as 20% by 2070, while sea level rises would have dire economic consequences. For example, the projected 70&#160;cm rise by 2070 could devastate the city of Dar es Salaam (Tanzania), East Africa’s major port. It should be noted, however, that climate change could bring benefits; for example, eastern Africa could see increased rainfall in its parched highland areas, although extreme rainfall also causes problems Furthermore, climate change offers opportunities for the region to diversify and create green jobs. In 2022 below average rainfall and above average temperatures have intensified droughts in several areas, such as southern Ethiopia, Kenya and Uganda, while planting delays are likely to reduce harvests in Burundi, Madagascar, Malawi and Mozambique. Drought is threatening cocoa harvests in Côte d’Ivoire and Ghana.
+    </p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P87">Dealing with climate change will be expensive. Most countries have limited means for adaptation, and the costs could approach US&#160;$50,000m. annually by 2050 in a 2.0°C rise in global temperatures scenario. However, climate funding remains low, with combined public and private resources estimated at $22,000m. in 2020. In addition, the developed economies have not come close to meeting their 2009 pledge to mobilize $100,000m. annually for climate programmes in developing countries.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P88">Many government leaders in the past suggested that the achievement of economic growth was inconsistent with environmental protection, and that African development could only advance at the expense of its environment. It has only been in recent years that the two goals have been recognized as not mutually exclusive. Indeed, it is now generally accepted that sustained economic growth is impossible without adequate environmental protection. Specifically, many countries, such as Kenya, Tanzania and South Africa, increasingly depend on tourism based on wildlife and undisturbed natural habitats. However, no country in the region ranked highly on the 2019 Travel and Tourism Competitiveness Index: Mauritius was the highest ranking country, with a global rank of 54th, followed by South Africa at 61st and Seychelles at 62nd. Of the 140 countries ranked, 19 of the bottom 20 are from sub-Saharan Africa. While attracting only 6% of the world’s tourists, the region has the potential for significant growth. </p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P89">
+      With the exception of 2020 (when the COVID-19 pandemic struck), the number of visitors and their related expenditures has increased considerably since 2009 (see 
+      <i>Table 18</i>
+      ). In 2019 sub-Saharan Africa attracted 55m. visitors, compared with 6.7m. visitors in 1990, and its receipts from tourism for the same year amounted to more than US&#160;$38,000m., or 2.8% of the region’s GDP. According to the World Tourism and Travel Council, the direct contribution of travel and tourism to regional GDP was $40,100m. (2.6% of total GDP) in 2016, and was forecast to increase to $66,900m. (2.7% of total GDP) by 2027. However, as a result of the COVID-19 pandemic, international arrivals to sub-Saharan Africa declined by 63% in 2020. By mid-2023 the sector had begun to recover and in 2022 the number of arrivals more than doubled compared with the previous year, but still remained below pre-pandemic levels, according to the UN World Tourism Organization.
+    </p>
+          <table-block id="ASS.ESSAY.2.1678A" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER">
+               <table-heading>Table 18. International Tourism in Sub-Saharan Africa</table-heading>
+               <table pgwide="NO" style="WITH-RULES">
+                    <tgroup cols="3">
+                         <colspec colwidth="12cm" />
+                         <colspec colwidth="3.5cm" />
+                         <colspec colname="COLSPEC5" colwidth="3.5cm" />
+                         <thead>
+                              <row>
+                                   <entry align="left" style="NO-DOT-LEADER" />
+                                   <entry align="right" style="NO-DOT-LEADER">2009</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">2019</entry>
+                              </row>
+                         </thead>
+                         <tbody>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Inbound tourists (’000)</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">28,335</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">55,251</entry>
+                              </row>
+                              <row>
+                                   <entry align="left" style="DOT-LEADER">Inbound tourism expenditures (US&#160;$ million)</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">24,022</entry>
+                                   <entry align="right" style="NO-DOT-LEADER">38,739</entry>
+                              </row>
+                         </tbody>
+                    </tgroup>
+               </table>
+               <sources>
+                    <source-head>Source</source-head>
+                    <source-info>
+          World Bank, 
+          <i>World Development Indicators 2021</i>
+                    </source-info>
+               </sources>
+          </table-block>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P90">The blue economy, comprising coastal and marine resources, offers vast benefits for sub-Saharan Africa: of the 53 countries and territories in the region, 32 are coastal states; there are 13m.&#160;sq&#160;km of maritime zones; more than 90% of the region’s exports and imports come via sea; and the African Union hails the blue economy as the `new frontier of African renaissance’.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P91">Despite their importance, the region’s coastal and marine resources have not been fully appreciated nor utilized. They are only now being recognized as being key to Africa’s potential prosperity. As the region grows, it has, in general, not taken adequate safeguards to protect these valuable resources. Partly that is because some of the problems (for example, pollution) are regional and know no borders. All too often, short term gains are made at the expense of the long term (overfishing, for example). None the less, several coastal states are taking actions that will contribute to that sector’s sustainability.</p>
+     </gen-section>
+     <gen-section print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+          <heading>Physical Infrastructure, the Structure of the Economies and Employment </heading>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P92">For most countries in the region physical infrastructure—including transportation, electricity and communications—has generally deteriorated since the achievement of independence in the early and mid-1960s. With 16 landlocked countries, high transportation costs have hampered growth. Additionally, essential services such as electric power, water, roads, railways, ports and communications have been neglected, particularly in rural areas. Indeed, the region’s energy infrastructure is tiny and fragile, and service is unpredictable. The region has what the World Bank has branded an `infrastructure deficit’. There have been some recent positive developments: the region is now spending considerable sums on road paving and the 4,500-km Trans-Sahara Highway (linking Lagos north to Algiers) is currently 85% paved (the rest is sand). Major rail projects (generally financed by China) are being completed, including a recent link between Angola, Zambia and the DRC, and a new electric rail line between Addis Ababa (Ethiopia) and Djibouti was opened, while a light rail system was brought into operation in the Ethiopian capital in 2015.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P93">An integrated and well-maintained road system is vital for a country’s economic growth and development. The region has approximately 1m.&#160;km of classified road network, another 492,000&#160;km of unclassified roads and about 193,000&#160;km of urban roads, according to the World Bank, making them some of the most valuable state assets. However, in spite of their importance, roads have been badly managed and over one-half of the roads in sub-Saharan Africa are in very poor condition; in many countries the road network is woefully inadequate. Even in countries where the road network is good, for example in South Africa, recent budgetary constraints have delayed much-needed maintenance and expansion. Poor transportation affects all facets of African life, from commerce to health care to schooling. Some 70% of Africa’s rural population lives more than a mile from an all-season road. Poor roads add to the costs of production in a region with the world’s highest poverty rates, and the costs of transporting goods in Africa are the highest in the world. Poor road conditions can increase fuel consumption and the need for vehicle maintenance due to damage, and reduce the life of tyres and of vehicles. Owing to lower speeds, vehicles are not as efficient as they could be.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P94">Higher transportation expenses raise the costs of doing business, impede private investment and add another barrier to Africa’s ability to take advantage of the rapid growth in world trade. Trade is highly sensitive to transport costs: a 10% decrease in such costs could increase Africa’s trade by 25%. Of all the world’s regions, intra-regional trade is lowest in sub-Saharan Africa, as previously discussed. While there are many reasons for this (e.g. tariff and non-tariff barriers, cumbersome customs procedures, lack of product diversification, the similarity in production among neighbouring countries), poor roads play a major role. For many areas it is a lack of sufficient maintenance rather than a lack of infrastructure itself that hinders business growth and, even where the infrastructure exists, it is often of poor quality.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P95">Sub-Saharan Africa has been confronted by a number of serious energy challenges, mainly related to insufficient generation capacity and an over-reliance on fossil fuels. Due to the region’s small, fragmented energy markets, electrical supply systems cannot take advantage of economies of scale, and electricity is thus expensive (although often heavily subsidized). The region’s entire electric generation capacity (63&#160;GW) is comparable to that of Spain. The region (excluding South Africa) has the world’s lowest per capita consumption of electricity at 150&#160;kWh), compared with a world average of 3,133&#160;kWh. Indeed, some 500m. people are without electricity and less than one in five Africans are connected to a national energy grid (compared with 40% in low-income economies elsewhere). Furthermore, the price of energy is quite high in sub-Saharan Africa (especially when using average salaries as a measure). Unfortunately, the region has low access to diversified, sustainable energy. While the region has vast potential to develop alternative energy sources such as hydro, wind, solar, thermal and tidal, most countries have yet to successfully adopt them. Senegal, which has an estimated 1,200&#160;MW capacity for hydroelectric power is currently only producing 260&#160;MW at its Manantali plant. There are some exceptions: for example, in South Africa renewable energy is becoming more widely used as costs have come down.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P96">The region uses only 3% of its renewable water for electricity generation, compared with 52% in South Asia. In addition, climate change will render hydrology more difficult as water levels will probably vary more greatly than in the past. Currently there are several dam projects being completed for electricity generation: the Grand Ethiopian Renaissance Dam will be the largest in the continent when completed. The Grand Inga Dam in the DRC will generate even more capacity, but it is still in the conceptual stages. The EU budgeted some €2,000m. for 2015–20 towards renewable energy projects, while additional assistance valued at €5,000m. is provided by individual EU member states.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P97">Structural transformation involves large-scale changes in the actual make up of a country’s or region’s production. Such transformation can take decades. The underlying structure of sub-Saharan Africa’s economies has not changed dramatically since independence. In 1965 agriculture accounted for 24% of GDP, industry 30% (of which manufacturing comprised 17%) and services 46%, according to the World Bank. Today agriculture contributes about 17% of GDP, while services is the largest sector, accounting for 41% of GDP, followed by industry at 27%. Most countries tended to use vertical diversification to take advantage of their comparative advantage, for example, Ethiopia’s recent moves into textiles. However, many countries have not diversified and have remained unable to take advantage of global value chains. In 2019 manufacturing as a percentage of GDP remained at 11% for the region and only about one-fifth of the total manufactured goods are exported to countries in the region. Within the region the distribution of manufacturing activity is highly skewed with just one country, South Africa, accounting for 27.3% of total manufacturing value-added (MVA) in sub-Saharan Africa and registering significant growth over the past two decades. There are some other examples; for instance, Ghana has attracted automobile manufacturing plants from Nissan and Volkswagen. However, for most countries there has been a loss in their share of global manufacturing output as production costs in the region are generally higher than other regions. Another problem for the region is the poor level of productivity in general, and of investment productivity in particular, as measured by a capital input-output ratio. Thus, even if Africa can attract more FDI, it must make that investment more productive.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P98">Furthermore, the region lags behind other developing regions in almost all its industry-related indices. World Bank data indicates that with a few exceptions (Botswana, Cabo Verde, Eswatini, Madagascar, Namibia, Seychelles and South Africa) industrial output per capita as measured by the dollar MVA per population has been stagnant over the past three decades or has even declined. Further analysis by the UN Industrial Development Organization of trends in industrial output suggests that MVA in Africa has grown at a rate exceeding the world average (although falling well short of the phenomenal growth rates achieved in East and South Asia). However, in per head terms, growth in Africa’s MVA remains below the global average.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P99">The region annually supplies 10%–15% of the world’s petroleum. It should be noted that, with the exception of Congo, Nigeria, Angola, Gabon and Equatorial Guinea, none of the other states are members of the Organization of Petroleum Exporting Countries (OPEC), and thus are not subject to output limits. Recent discoveries of petroleum, natural gas and minerals in Ghana, Uganda, Kenya, Tanzania and Mozambique have again raised the question of how better to manage the earnings from those resources. A total of 19 African countries are members of the EITI, as discussed above, which promotes voluntary standards for showing payments made by companies and revenues collected by governments related to gains from extractive resources. None the less, the oil-rich countries in the region have a poor record of directing such revenues towards social development. For example, the oil producing states of Equatorial Guinea and Gabon, with per head incomes of some US&#160;$7,506 and $8,635, respectively, in 2021, have some of the lowest child immunization rates in the region. The World Bank cited four paradoxes relative to the region’s energy crisis: abundant energy but little power; higher prices but high production costs; inefficient reform in the energy sector; and inadequate financing.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P100">While the region lacks some of the information and communication technology available in many other parts of the world (for example, only one African per 100 people had a fixed-line telephone in 2021), between 1999 and 2004 the region’s mobile phone market grew faster than in any other region worldwide, and between 2012 and 2013 mobile data use doubled. The region by 2021 had 93 mobile phone subscriptions per 100 people (compared with the world average of 110 per 100 people). While lower than the world average, it should be noted that the World Bank estimates that every day more than 90,000 new users connect to the internet for the first time. This has important potential for economic growth and inclusion. In 2021 Seychelles had the largest number of mobile phone subscribers per 100 people (at 173), with South Africa next (at 169). South Sudan had the lowest number of mobile phones, with 13 per 100 people. Mobile users in the region prefer using their devices for a variety of activities that are normally performed on laptops or desktops in industrial countries: mobile phones allow access to banking to people who otherwise would be without it, and provide other important services, such as information on the weather and crop prices. However, internet use is relatively low, with just 30% of the region’s population being internet users in 2020 (the world average is 60%). Seychelles had the highest proportion of internet users (79% of the population), followed by South Africa (70%).</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P101">The region’s total labour force in 2021 was 451.2m. Given the size of the informal sector, as discussed above, estimates for formal sector unemployment vary so greatly that it is impossible to provide precise data, although the World Bank estimated that unemployment in the region for 2019 was 6.1%. It is worth noting, however, that estimates of official unemployment in the formal sector are as high as 30% in some countries, while unofficial estimates are higher still. And, as noted earlier, the informal sector is the main source of employment for most of the region.</p>
+     </gen-section>
+     <gen-section print-style="COLUMN" sllink="SLSDOC" slsdocrf="GEN-SECTREF">
+          <heading>Conclusion</heading>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P102">During the 1970s and 1980s when their economic growth was stagnant, African governments responded to increasing pressure from a variety of sources to `liberalize’ their economic policies. The World Bank, the IMF, the USA and other donors began to insist on `conditionality’ for their support. The IMF, in particular, required specific macroeconomic policy changes, usually in the area of exchange rates (i.e. devaluation), and reductions in government spending before a new loan agreement could be granted. Other required measures included the privatization of state-owned enterprises, public sector reform, reduction in the civil service and liberalization of agricultural marketing boards. In 1998 a total of 35 African countries launched structural adjustment programmes or borrowed from the IMF to support reform policies. Although these programmes (subsequently termed Poverty Reduction and Growth Facility and Extended Credit Facility arrangements) have many common points, they are actually varied. Additional pressures, known as the `Washington Consensus’ came from the World Bank and the United States Agency for International Development. Specifically, a landmark 1981 World Bank study proposed four critical policy changes: namely (i) the correction of overvalued exchange rates; (ii) the improvement of price incentives for exports and agriculture; (iii) the protection of industry in a more uniform and less direct way; and (iv) the reduction of direct governmental controls. Other pressures originated and grew internally, as more people became increasingly dissatisfied with their low standard of living and the poor economic performance in their own countries.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P103">Many economists believe that these economic and political reforms did, in general, led to improved economic performance. Indeed, for nearly 20&#160;years starting in the mid-1990s when most of the reforms were robust, most African countries saw stronger economic growth and development performance. However, the gains were not equally shared nor was poverty reduced as much as projected or hoped. Furthermore, structural adjustment is very controversial, and some studies have failed to demonstrate a definite linkage between reform and growth. Economic assistance to the region has been made increasingly dependent upon economic reform, and the major donor countries of the Organisation for Economic Co-operation and Development have generally reallocated most of their economic assistance to countries implementing reform programmes. Additionally, the major multilateral donors were also reallocating their resources on this basis.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P104">As sub-Saharan Africa moves forward, its governments have begun to realize that, while many economic problems were inherited, responsibility must be taken for problems that are soluble. Rather than being hostile to foreign investment and entrepreneurs, most African governments are now actively seeking foreign commercial involvement.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P105">However, an important question remains: how sustainable are the region’s political and economic improvements? In the past, periods of economic growth were often (in some cases usually) followed by periods of significant decline. Yet, the region in 2023 is much different from that of 1990 when it emerged from two oil price shocks, a plunge of commodity prices and a decade of economic stagnation. For example, during the 1970s growth was based on a commodity boom, which had come to an end by the 1980s with little to show for it. During the recent growth period previously discussed, the region has witnessed perhaps a more sustainable path forward: economic growth is starting to come from other sources (almost one-half of the growth came from the services sector, with a fast-growing middle class). Manufacturing output is expanding as quickly as the rest of the economy. Growth is even faster in services, and many countries, including Ethiopia, Ghana, Kenya, Mozambique and Nigeria, have recently revised their estimates of GDP to account for their growing non-resource sectors.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P106">The short-term economic outlook for the region is positive but mixed; while the IMF projected GDP growth to reach 4.2% in 2024, up from 3.6% in 2023, growth across the region will be varied. The highest growth rates were projected for many non-resource intensive countries, with growth at some 6.2% in 2024, following 5.3% in 2023. Niger, the DRC and Senegal are also at the higher end of the growth projections (with oil and gas production coming online). However, Equatorial Guinea’s economy was projected to contract due to decreases in oil production as was Nigeria’s. Furthermore, South Africa’s growth was projected to decline to 0.1% in 2023 due to the continued power outages and weakened commodity demand, but the economy should recover by 2024 as the energy crisis abates.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P107">In the longer term, there are a number of indicators that suggest the region is poised to effect economic transformation. The African Union (AU) Commission has identified five `mega trends’ that will offer tremendous opportunities (and challenges) for the region:</p>
+          <gen-list>
+               <item>1 Demographic changes (with a growing young workforce and middle class, greater potential for savings and investment);</item>
+               <item>2 Rapid urbanization (opportunities for more efficient use of resources and social innovation, with an increasing middle class leading to greater demand);</item>
+               <item>3 Climate change (potential for new employment in green industries and green technologies);</item>
+               <item>4 The new `industrial revolution’ (increased efficiencies at the corporate level with lower costs, new innovations in manufacturing, and the growth of niche markets);</item>
+               <item>5 Shifting terms of trade (increased FDI into the region, transfers of technology and skills, along with diversification of the export market). </item>
+          </gen-list>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P108">In addition to these trends, the region is taking important steps towards greater co-operation and integration. Since most of the region’s economies are small, such co-operation is vital to the achievement of enlarged markets, to increase economies of scale and to attract FDI. The most important of these—and another `game changer’—is the AfCFTA, as discussed earlier. Most small firms will benefit from reduced tariffs, the harmonization of customs clearance procedures and a lowering of other trade barriers. Furthermore, several regional economic communities are working to strengthen regional value chains and to identify potential regional `clusters’. For example, SADC’s Industrialization Strategy and Roadmap&#160;2015–2063 has prioritized six key clusters. These clusters are selected areas that governments can utilize as a means to focus resources (e.g. infrastructure and financing) and thereby encourage knowledge transfers and other associated spill-overs that should enhance countries’ specialization and comparative advantages. While such examples of economic clusters are common in the industrial economies (such as high technology in California’s Silicon Valley or garment manufacturing in northern Italy), they are less common in sub-Saharan Africa. None the less, there are increasing numbers of examples, including Ethiopia’s eastern industrial zone and flagship Hawassa Industrial Park, Mauritius’ export processing zone and Rwanda’s Kigali special economic zone, which have attracted world-class multinational corporations whose operations include textiles, garment manufacturing and shoe production.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P109">Furthermore, the AU Commission lists nine important ongoing pan-African initiatives which could help to usher in economic transformation:</p>
+          <gen-list>
+               <item>1 Agenda 2063;</item>
+               <item>2 The AU’s Action Plan for the Accelerated Industrial Development of Africa;</item>
+               <item>3 The UN’s Third Industrial Development Decade for Africa;</item>
+               <item>4 The Programme for Infrastructure Development in Africa;</item>
+               <item>5 The Science, Technology and Innovation Strategy for Africa 2024;</item>
+               <item>6 The African Agrobusiness and Agro-industries Development Initiative; </item>
+               <item>7 The Comprehensive Africa Agriculture Development Programme;</item>
+               <item>8 The African Mining Vision;</item>
+               <item>9 The African Productive Capacity Initiative.</item>
+          </gen-list>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P110">However, given the all of the economic uncertainties discussed above, it is difficult to say when these initiatives will bear fruit. </p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P111">The Sustainable Development Goals (SDGs) replaced the Millennium Development Goals (MDGs) when they expired at the end of 2015. In 2014 the UN General Assembly’s Open Working Group on SDGs forwarded a proposal for the SDGs to the Assembly that contained 17 goals with 169 targets (and 304 indicators) covering a broad range of sustainable development issues. These included ending poverty and hunger, improving health and education, making cities more sustainable, combating climate change, and protecting oceans and forests. As the region did not fully meet the MDGs, it is hoped that they will be able to achieve more of these SDGs.</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P112">For sub-Saharan Africa’s future a number of serious questions remain. Will real peace and stability finally come to the many strife-ridden areas? Will sub-Saharan Africa continue to be marginalized, or can it find ways to integrate more successfully into the global economy? How can the negative effects of globalization be minimized? As China’s economy and those of other nations slow, how will that affect those countries for which mineral exports are so important to their continued growth? Can richly endowed countries avoid the `resource curse’? How can the negative impacts of climate change be mitigated? Will the industrialized countries open their agricultural markets to competition from the region and provide more necessary economic assistance? Will the region find more ways to improve co-operation and integrate its economies, including improving its transportation infrastructure? Will more employment opportunities in the formal and informal sectors emerge? Will the countries begin to invest in an often overlooked resource: their own people, particularly their women? Will the `youth bulge’ turn out to be an engine for growth or a time bomb for disaster?</p>
+          <p id="SPARKS.ASS.ESSAY.2.SGM.624621.P113">This is a resilient region, one with great potential and enormous untapped resources. While there have been setbacks in recent years, there have also been a significant number of positive developments, as discussed above. It is safe to say that this region is on the verge of effecting economic and social transformation. While it may be difficult to reach this goal, it is attainable.</p>
+     </gen-section>
+</essay>

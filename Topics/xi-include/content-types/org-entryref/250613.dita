@@ -1,0 +1,28 @@
+<org-entryref id="SL1745604" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745603" slsdocid="250613" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1495" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="12.09.2007" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>University of Illinois Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1325 S Oak St, Champaign, IL 61820-6903</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(217) 333-0950</telephone>
+                                             <fax>(217) 244-8082</fax>
+                                             <email>uipress@uillinois.edu</email>
+                                             <internet>press.uillinois.edu</internet>
+                                        </address-block>
+                                        <found-date>1918</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Laurie</forename>
+                                                       <surname>Matheson</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

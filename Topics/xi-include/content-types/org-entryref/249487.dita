@@ -1,0 +1,27 @@
+<org-entryref id="SL1741566" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741565" slsdocid="249487" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1060" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>The Times of Trenton</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>413 River View Plaza, POB 847, Trenton, NJ 08611</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(609) 989-5454</telephone>
+                                                       <email>letters@njtimes.com</email>
+                                                       <internet>nj.com/times</internet>
+                                                  </address-block>
+                                                  <found-date>1882</found-date>
+                                                  <role-group>
+                                                       <role>Community Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Kevin</forename>
+                                                                 <surname>Shea</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 81,787 (2017)</stats>
+                                             </org-entry>
+                                        </org-entryref>

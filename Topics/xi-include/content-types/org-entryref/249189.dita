@@ -1,0 +1,27 @@
+<org-entryref id="SL1744595" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1744594" slsdocid="249189" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1357" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Abingdon Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>12th Ave S, Suite 810, Nashville, TN 37203</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 251-3320</telephone>
+                                             <email>orders@abingdonpress.com</email>
+                                             <internet>abingdonpress.com</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">imprint of United Methodist Publishing House</content-note>
+                                        <content-note style="NORMAL">religious</content-note>
+                                        <role-group>
+                                             <role>Pres. and Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Brian</forename>
+                                                       <surname>Milford</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

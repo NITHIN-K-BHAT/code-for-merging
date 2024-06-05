@@ -1,0 +1,39 @@
+<org-entryref id="SL262558" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262557" slsdocid="250215" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1902" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Confectioners Association of the US</org-entry-name>
+                                                       <abbr>NCA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1101 30th St, Suite 200, Washington, DC 20007</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 534-1440</telephone>
+                                                       <email>info@candyusa.com</email>
+                                                       <internet>candyusa.com</internet>
+                                                  </address-block>
+                                                  <found-date>1884</found-date>
+                                                  <content-note style="NORMAL">includes Chocolate Mfrs Asscn</content-note>
+                                                  <stats>194 mems (2023)</stats>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tony</forename>
+                                                                 <surname>Jacobs</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>John H.</forename>
+                                                                 <surname>Downs</surname>
+                                                                 <gen-name>Jr</gen-name>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

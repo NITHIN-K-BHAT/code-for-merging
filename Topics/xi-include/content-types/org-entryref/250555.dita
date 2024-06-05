@@ -1,0 +1,31 @@
+<org-entryref id="SL3492882" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3492881" slsdocid="250555" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1549" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS" usage="ewyb usac">
+                                                  
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>CenturyLink</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>100 CenturyLink Dr., Monroe, LA 71201</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(318) 388-9000</telephone>
+                                                       <email>care.inquiry@lumen.com</email>
+                                                       <internet>centurylink.com</internet>
+                                                  </address-block>
+                                                  <found-date>1930</found-date>
+                                                  <content-note style="NORMAL">present name adopted 2009</content-note>
+                                                  <content-note style="NORMAL">part of Lumen Technologies, Inc.</content-note>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Kate</forename>
+                                                                 <surname>Johnson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <content-note style="NORMAL">serves 107.6m. fixed line subscribers and 4.5m. broadband customers (2020)</content-note>
+                                             </org-entry>
+                                        </org-entryref>

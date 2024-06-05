@@ -1,0 +1,27 @@
+<org-entryref id="SL1741413" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741412" slsdocid="249531" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1003" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <data-protection date-added="27.03.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Lexington Herald-Leader</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>838 E High St, Suite 305, Lexington, KY 40502</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(859) 231-3100</telephone>
+                                                       <email>customerservice@herald-leader.com</email>
+                                                       <internet>kentucky.com</internet>
+                                                  </address-block>
+                                                  <found-date>1860</found-date>
+                                                  <role-group>
+                                                       <role>Gen. Man. and Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Peter</forename>
+                                                                 <surname>Baniak</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

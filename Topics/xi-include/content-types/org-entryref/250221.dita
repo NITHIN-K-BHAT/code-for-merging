@@ -1,0 +1,37 @@
+<org-entryref id="SL1415864" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1415863" slsdocid="250221" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1896" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>International Foodservice Distributors Association</org-entry-name>
+                                                       <abbr>IFDA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1660 International Dr., Suite 550, McLean, VA 22102</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(703) 532-9400</telephone>
+                                                       <fax>(703) 880-7117</fax>
+                                                       <internet>ifdaonline.org</internet>
+                                                  </address-block>
+                                                  <found-date>1906</found-date>
+                                                  <stats>151 distributor mems (2023)</stats>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Rich</forename>
+                                                                 <surname>Wolowski</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mark S.</forename>
+                                                                 <surname>Allen</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

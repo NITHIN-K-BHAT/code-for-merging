@@ -1,0 +1,43 @@
+<org-entryref id="SL1760314" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1760313" slsdocid="78827" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="CA.DIR.734" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ORGANIZATIONS AND ASSOCIATIONS" usage="ewyb usac">
+                                             <data-protection date-added="03.03.2006" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Association of Canadian Publishers</org-entry-name>
+                                                  <abbr>ACP</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        401 Richmond St W, Studio 257
+                        <sc>a</sc>
+                        , Toronto, ON M5V 3A8
+                      </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(416) 487-6116</telephone>
+                                                  <email>admin@canbook.org</email>
+                                                  <internet>publishers.ca</internet>
+                                             </address-block>
+                                             <found-date>1976</found-date>
+                                             <content-note style="NORMAL">trade asscn of Canadian-owned English-language book publrs</content-note>
+                                             <stats>c. 115 mems (2023)</stats>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Ruth</forename>
+                                                            <surname>Linka</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jack</forename>
+                                                            <surname>Illingworth</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

@@ -1,0 +1,36 @@
+<org-entryref id="SL1744755" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1744754" slsdocid="249152" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1391" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Elsevier</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>3251 Riverport Lane, Maryland Heights, MO 63043</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(314) 447-8000</telephone>
+                                             <email>newsroom@elsevier.com</email>
+                                             <internet>elsevier.com</internet>
+                                        </address-block>
+                                        <found-date>1880</found-date>
+                                        <content-note style="NORMAL">division of RELX Group</content-note>
+                                        <content-note style="NORMAL">imprints incl. Butterworth-Heinemann (technology, medicine, management), Churchill Livingstone (medicine), Hanley &amp; Belfus (medical), Mosby (medicine, nursing, health, veterinary medicine), Saunders (medicine), Academic Press (science, technology, business) and Morgan Kaufmann (computing)</content-note>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <verbatim-name>Youngsuk Chi</verbatim-name>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kumsal</forename>
+                                                       <surname>Bayazit</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

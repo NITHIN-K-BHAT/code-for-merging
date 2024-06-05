@@ -1,0 +1,27 @@
+<org-entryref id="SL277396" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="277395" slsdocid="270063" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="BY.DIR.179" id-root="by.dir" iso="by" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN BELARUS">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>220002 Minsk, vul. Starovilenskaya 46</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(17) 210-12-83</telephone>
+                                             <fax>(17) 234-78-53</fax>
+                                             <email>usembassyminsk@state.gov</email>
+                                             <internet>by.usembassy.gov</internet>
+                                        </address-block>
+                                        <content-note style="NORMAL">operations suspended Feb. 2022</content-note>
+                                        <role-group>
+                                             <role>Chargé d'affaires a.i.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Peter</forename>
+                                                       <surname>Kaufman</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

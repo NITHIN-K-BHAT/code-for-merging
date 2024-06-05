@@ -1,0 +1,37 @@
+<org-entryref id="SL6933979" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6933978" slsdocid="6933938" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.1579597206" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Second Story Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>20 Maud St, Suite 401, Toronto, ON M5V 2M5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(416) 537-7850</telephone>
+                                             <fax>(416) 537-0588</fax>
+                                             <email>info@secondstorypress.ca</email>
+                                             <internet>secondstorypress.ca</internet>
+                                        </address-block>
+                                        <found-date>1988</found-date>
+                                        <content-note style="NORMAL">feminist-inspired books for adults and young readers</content-note>
+                                        <role-group>
+                                             <role>Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Margie</forename>
+                                                       <surname>Wolfe</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Man. Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jordan</forename>
+                                                       <surname>Ryder</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,28 @@
+<org-entryref id="SL260712" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260711" slsdocid="249337" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1221" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Field &amp; Stream</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>601 W 26th St, Suite 1350, New York, NY 10001</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 779-5000</telephone>
+                                                  <email>editorial@fieldandstream.com</email>
+                                                  <internet>fieldandstream.com</internet>
+                                             </address-block>
+                                             <found-date>1895</found-date>
+                                             <frequency>9 a year</frequency>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Colin</forename>
+                                                            <surname>Kearns</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 572,879 (2020)</stats>
+                                        </org-entry>
+                                   </org-entryref>

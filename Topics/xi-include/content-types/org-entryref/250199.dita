@@ -1,0 +1,39 @@
+<org-entryref id="SL7061094" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7061093" slsdocid="250199" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1918" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <data-protection date-added="17.08.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Leather and Hide Council of America</org-entry-name>
+                                                       <abbr>LHCA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1150 Connecticut Ave, NW, 12th Floor, Washington, DC 20036</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 587-4250</telephone>
+                                                       <email>info@usleather.org</email>
+                                                       <internet>usleather.org</internet>
+                                                  </address-block>
+                                                  <found-date>2020 by merger of Leather Industries of America and US Hide, Skin and Leather Asscn</found-date>
+                                                  <stats>approx. 75 mem cos (2023)</stats>
+                                                  
+                                                  <role-group>
+                                                       <role>Co-Chair</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Chad</forename>
+                                                                 <surname>Robertson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Stephen</forename>
+                                                                 <surname>Sothmann</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

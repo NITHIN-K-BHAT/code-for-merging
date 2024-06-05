@@ -1,0 +1,29 @@
+<org-entryref id="SL8819549" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8819548" slsdocid="249072" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1464" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="27.06.2009" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>William H. Sadlier Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>25 Bdwy, New York, NY 10004</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 221-5175</telephone>
+                                             <fax>(212) 312-6080</fax>
+                                             <email>customerservice@sadlier.com</email>
+                                             <internet>sadlier.com</internet>
+                                        </address-block>
+                                        <found-date>1832</found-date>
+                                        <content-note style="NORMAL">textbooks</content-note>
+                                        <role-group>
+                                             <role>Pres. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Theresa</forename>
+                                                       <surname>Thompson</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,38 @@
+<org-entryref id="SL1759460" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759459" slsdocid="78947" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.610" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="usac">
+                                                  <data-protection date-added="16.04.2007" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>The Northern Miner</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>225 Duncan Mill Rd, Suite 320, Toronto, ON M3B 3K9</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 510-6789</telephone>
+                                                       <email>northernminer2@northernminer.com</email>
+                                                       <internet>northernminer.com</internet>
+                                                  </address-block>
+                                                  <found-date>1915</found-date>
+                                                  <content-note style="NORMAL">owned by Business Information Group</content-note>
+                                                  <frequency>2 a week</frequency>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Anthony</forename>
+                                                                 <surname>Vaccaro</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Alisha</forename>
+                                                                 <surname>Hiyate</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

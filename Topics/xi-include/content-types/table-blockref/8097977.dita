@@ -1,0 +1,191 @@
+<table-blockref id="SL8097991" sllink="SLSDOCRF" sllinkid="8097990" slsdocid="8097977" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <table-block id="CA.DIR.USAC.3.13" id-root="ca.dir" iso="ca" section="Legislature" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" subsection="House of Commons" type="OTHER" usage="usac">
+                                   <table-heading>Party Standings at May 2024</table-heading>
+                                   
+                                   <table pgwide="YES" style="WITH-RULES">
+                                        <tgroup cols="9">
+                                             <colspec colwidth="9.6cm" />
+                                             <colspec colname="COLSPEC4" colwidth="3.8cm" />
+                                             <colspec colname="COLSPEC2" colwidth="3.8cm" />
+                                             <colspec colwidth="3.8cm" />
+                                             <colspec colname="COLSPEC0" colwidth="3.8cm" />
+                                             <colspec colname="COLSPEC8" colwidth="3.8cm" />
+                                             <colspec colname="COLSPEC3" colwidth="3.8cm" />
+                                             <colspec colname="COLSPEC5" colwidth="3.80cm" />
+                                             <colspec colwidth="3.8cm" />
+                                             <thead>
+                                                  <row>
+                                                       <entry align="left" style="NO-DOT-LEADER" />
+                                                       <entry align="right" style="NO-DOT-LEADER">Liberal</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">Conservative</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">Bloc Québécois</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">New Democratic Party</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">Green</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">Independent</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">Vacant</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">Total</entry>
+                                                  </row>
+                                             </thead>
+                                             <tbody>
+                                                  <row>
+                                                       <entry align="left" style="DOT-LEADER">Alberta</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">30</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER" />
+                                                       <entry align="right" style="NO-DOT-LEADER">34</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry align="left" style="DOT-LEADER">British Columbia</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">15</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">13</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">13</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">1</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER" />
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">42</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry align="left" style="DOT-LEADER">Manitoba</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">4</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">7</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">1</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">14</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry align="left" style="DOT-LEADER">New Brunswick</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">6</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">4</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">10</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry align="left" style="DOT-LEADER">Newfoundland and Labrador</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">6</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">1</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">7</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry align="left" style="DOT-LEADER">Northwest Territories</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">1</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">1</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry align="left" style="DOT-LEADER">Nova Scotia</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">8</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">3</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">11</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry align="left" style="DOT-LEADER">Nunavut</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">1</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">1</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry align="left" style="DOT-LEADER">Ontario</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">75</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">37</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">5</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">1</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">1</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">121</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry align="left" style="DOT-LEADER">Prince Edward Island</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">4</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">4</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry align="left" style="DOT-LEADER">Québec</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">34</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">9</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">32</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">1</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">1</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">1</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">79</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry align="left" style="DOT-LEADER">Saskatchewan</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">14</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">14</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry align="left" style="DOT-LEADER">Yukon</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">1</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">1</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry align="left" style="DOT-LEADER">
+                                                            <b>Total</b>
+                                                       </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">156</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">118</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">32</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">24</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">3</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">3</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">338</entry>
+                                                  </row>
+                                             </tbody>
+                                        </tgroup>
+                                   </table>
+                              </table-block>
+                         </table-blockref>

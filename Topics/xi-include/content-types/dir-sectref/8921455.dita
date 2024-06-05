@@ -1,0 +1,929 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8921561" sllink="SLSDOCRF" sllinkid="8921560" slsdocid="8921455" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                         
+                         <dir-section id="CA.DIR.1708366812" id-root="ca.dir" iso="ca" section="Finance" sllink="SLSDOC" slsdocrf="DIR-SECTREF" subsection="Insurance" usage="ewyb usac">
+                              <heading>Insurance</heading>
+                              <p id="CA.DIR.USAC.23.1000">
+              Jurisdiction over life and health insurers is divided between federal and provincial governments. Federal supervision encompasses federally incorporated insurers and branches of foreign companies, which hold more than 90% of industry assets. The provinces generally regulate licensing and marketing, while the Office of the Superintendent of Financial Institutions conducts prudential reviews of the companies. Th
+              
+              e Canadian Life and Health Insurance Compensation Corpn ensures that member companies’ policies are continued in the event of insolvency.
+            </p>
+                              <p>In February 2024 a total of 148 property and casualty insurance companies, 8 fraternal benefit societies and 57 life insurance companies) were authorized to operate in Canada under the Insurance Companies Act.</p>
+                              
+                              <dir-section id="CA.DIR.17083668911" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                                   <heading>Principal Companies</heading>
+                                   <org-list>
+                                        <org-entryref id="SL8921458" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921457" slsdocid="2226608" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1203076999" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Assumption Life</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>770 Main St, POB 160, Moncton, NB E1C 8L1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(506) 853-6040</telephone>
+                                                       <fax>(855) 430-0587</fax>
+                                                       <email>communications@assomption.ca</email>
+                                                       <internet>www.assumption.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1903</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ivan</forename>
+                                                                 <surname>Toner</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Sébastien</forename>
+                                                                 <surname>Dupuis</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921463" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921462" slsdocid="2226641" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1203077578" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Aviva Canada Inc</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>10 Aviva Way, Suite 100, Markham, ON L6G 0G1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 387-4518</telephone>
+                                                       <internet>aviva.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1906</found-date>
+                                                  <content-note style="NORMAL">present name since 2003</content-note>
+                                                  <content-note style="NORMAL">commercial and personal insurance</content-note>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tracy</forename>
+                                                                 <surname>Garrad</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921466" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921465" slsdocid="2226785" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1203079213" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Beneva Inc</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>625 rue Jacques Parizeau , Québec, QC G1R 2G5</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(418) 747-7600</telephone>
+                                                       <email>social@beneva.ca</email>
+                                                       <internet>beneva.ca</internet>
+                                                  </address-block>
+                                                  <found-date>2020 by merger of La Capitale and SSQ Insurance</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jean-François</forename>
+                                                                 <surname>Chalifoux</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921469" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921468" slsdocid="78746" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.832" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Blue Cross Life Insurance Co of Canada</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>644 Main St, POB 220, Moncton, NB E1C 8L3</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 667-4511</telephone>
+                                                       <email>inquiry@medavie.bluecross.ca</email>
+                                                       <internet>bluecross.ca</internet>
+                                                  </address-block>
+                                                  <content-note style="NORMAL">life and non-life</content-note>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tim</forename>
+                                                                 <surname>Mawhinney</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921473" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921472" slsdocid="78745" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.833" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canada Life Assurance Co</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>100 Osborne St N, POB 6000, Winnipeg, MB R3C 1V3</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(204) 946-1190</telephone>
+                                                       <email>info@canadalife.com</email>
+                                                       <internet>canadalife.com</internet>
+                                                  </address-block>
+                                                  <found-date>1847</found-date>
+                                                  <content-note style="NORMAL">subsidiary of Great-West Lifeco</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>R. Jeffrey</forename>
+                                                                 <surname>Orr</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Paul A.</forename>
+                                                                 <surname>Mahon</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921477" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921476" slsdocid="78731" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.847" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE" usage="usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Heartland Farm Mutual Inc</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>100 Erb St E, Waterloo, ON N2J 1L9</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(519) 886-4530</telephone>
+                                                       <fax>(519) 746-0222</fax>
+                                                       <internet>heartlandfarmmutual.com</internet>
+                                                  </address-block>
+                                                  <found-date>1904</found-date>
+                                                  <content-note style="NORMAL">restructured in 2021 following merger with The Kings Mutual Insurance Co</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Larry</forename>
+                                                                 <surname>Binning</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Louis</forename>
+                                                                 <surname>Durocher</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921481" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921480" slsdocid="78733" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.845" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Industrial Alliance Insurance and Financial Services Inc</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1080 Grande Allée ouest, POB 1907, Station Terminus, Québec, QC G1K 7M3</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 463-6236</telephone>
+                                                       <email>social@ia.ca</email>
+                                                       <internet>ia.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1892</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jacques</forename>
+                                                                 <surname>Martin</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Denis</forename>
+                                                                 <surname>Ricard</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921484" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921483" slsdocid="4393984" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1395298985" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Intact Financial Corpn</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>700 University Ave, Toronto, ON M5G 0A1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 341-1464</telephone>
+                                                       <email>media@intact.net</email>
+                                                       <internet>intactfc.com</internet>
+                                                  </address-block>
+                                                  <found-date>1809</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>William L.</forename>
+                                                                 <surname>Young</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Charles</forename>
+                                                                 <surname>Brindamour</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921487" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921486" slsdocid="2227113" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1203086651" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance">
+                                                  <data-protection date-added="17.08.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>ivari</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>5000 Yonge St, Suite 500, Toronto, ON M2N 7E9</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 883-5000</telephone>
+                                                       <email>conversation@ivari.ca</email>
+                                                       <internet>ivari.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1928 as Transamerica Life Canada</found-date>
+                                                  <content-note style="NORMAL">present name since 2015</content-note>
+                                                  <content-note style="NORMAL">owned by Wilton Re (USA)</content-note>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Todd</forename>
+                                                                 <surname>Lawrence</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921491" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921490" slsdocid="78730" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.848" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Manulife Financial</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>200 Bloor St E, Toronto, ON M4W 1E5</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 926-3000</telephone>
+                                                       <email>manulife_insurance@manulife.ca</email>
+                                                       <internet>manulife.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1887</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Don</forename>
+                                                                 <surname>Lindsay</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Roy</forename>
+                                                                 <surname>Gori</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921494" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921493" slsdocid="2226840" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1203080009" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Optimum General Inc</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>425 blvd De Maisonneuve ouest, bureau 1500, Montréal, QC H3A 3G5</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(514) 288-8711</telephone>
+                                                       <internet>www.optimum-general.com</internet>
+                                                  </address-block>
+                                                  <found-date>1969</found-date>
+                                                  <content-note style="NORMAL">fmrly Société National d’Assurance Inc</content-note>
+                                                  <content-note style="NORMAL">operates Optimum West Insurance Co, Optimum Insurance Co Inc and Optimum Farm Insurance Inc</content-note>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Anabelle</forename>
+                                                                 <surname>Blondeau</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921498" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921497" slsdocid="78727" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.851" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Portage Mutual Insurance Co</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>749 Saskatchewan Ave E, POB 340, Portage la Prairie, MB R1N 3B8</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(204) 857-3415</telephone>
+                                                       <fax>(204) 239-6655</fax>
+                                                       <internet>portagemutual.com</internet>
+                                                  </address-block>
+                                                  <found-date>1884</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Brent</forename>
+                                                                 <surname>Gilbert</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>John G.</forename>
+                                                                 <surname>Mitchell</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921502" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921501" slsdocid="2226873" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1203080449" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>RBC Insurance Co of Canada</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>6880 Financial Dr., Mississauga, ON L5N 7Y5</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 769-2511</telephone>
+                                                       <email>socialmedia.insurance@rbc.com</email>
+                                                       <internet>rbcinsurance.com</internet>
+                                                  </address-block>
+                                                  <content-note style="NORMAL">fmrly Westbury Life</content-note>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>David</forename>
+                                                                 <surname>McKay</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921506" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921505" slsdocid="78726" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.852" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Royal &amp; Sun Alliance Insurance Co of Canada</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>700 University Ave, Toronto, ON M5J 2T8</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 366-7511</telephone>
+                                                       <email>media@intact.net</email>
+                                                       <internet>rsagroup.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1833</found-date>
+                                                  <content-note style="NORMAL">present name since 1976</content-note>
+                                                  <content-note style="NORMAL">
+                      acquired by 
+                      <xr pageref="N" ref="CA.DIR.1395298985">Intact Financial Corpn (q.v.)</xr>
+                       2021
+                    </content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mark</forename>
+                                                                 <surname>Hodges</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ken</forename>
+                                                                 <surname>Norgrove</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921509" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921508" slsdocid="2227103" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1203086472" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Sovereign General Insurance Co</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>140–6700 Macleod Trail, SE, Calgary, AB T2H 0L3</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(403) 298-4200</telephone>
+                                                       <fax>(403) 781-1274</fax>
+                                                       <internet>sovereigninsurance.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1953 as Merit Insurance Co</found-date>
+                                                  <content-note style="NORMAL">part of Co-operators group of cos</content-note>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Rob</forename>
+                                                                 <surname>Wesseling</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921513" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921512" slsdocid="78724" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.854" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Sun Life Financial Canada</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>227 King St S, Waterloo, POB 1601 STN, ON N2J 4C5</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(877) 786-5433</telephone>
+                                                       <email>service@sunlife.ca</email>
+                                                       <internet>sunlife.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1871</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jacques</forename>
+                                                                 <surname>Goulet</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921516" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921515" slsdocid="4394801" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1395316820" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                                  <org-entry-head>
+                                                       <org-entry-name>TD Insurance</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2990 ave Pierre-Péladeau, Suite 200, Laval, QC H7T 0B1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(866) 361-2311</telephone>
+                                                       <email>
+                        custo
+                        
+                        mer.service@td.com
+                      </email>
+                                                       <internet>tdinsurance.com</internet>
+                                                  </address-block>
+                                                  <found-date>1949</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>James</forename>
+                                                                 <surname>Russell</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921519" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921518" slsdocid="78722" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.856" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Wawanesa Mutual Insurance Co</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>191 Bdwy, Winnipeg, MB R3C 3P1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(204) 985-3923</telephone>
+                                                       <email>media@wawanesa.com</email>
+                                                       <internet>wawanesa.com</internet>
+                                                  </address-block>
+                                                  <found-date>
+                      189
+                      
+                      6
+                    </found-date>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jeff</forename>
+                                                                 <surname>Goy</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921522" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921521" slsdocid="78720" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.858" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Zurich Canada</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>First Canadian Pl., Suite 5500, 100 King St W, POB 290, Toronto, ON M5X 1C9</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 586-3000</telephone>
+                                                       <internet>zurichcanada.com</internet>
+                                                  </address-block>
+                                                  <found-date>1872</found-date>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Saad</forename>
+                                                                 <surname>Mered</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                              <dir-section id="CA.DIR.170836859" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                                   <heading>Insurance Organizations</heading>
+                                   <org-list>
+                                        <org-entryref id="SL8921528" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921527" slsdocid="78719" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.860" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Advocis (Financial Advisors Association of Canada)</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>10 Lower Spadina Ave, Toronto, ON M5V 2Z2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 444-5251</telephone>
+                                                       <email>info@advocis.ca</email>
+                                                       <internet>advocis.ca</internet>
+                                                  </address-block>
+                                                  <found-date>2002</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Eric</forename>
+                                                                 <surname>Lidemark</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Interim CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Harris</forename>
+                                                                 <surname>Jones</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>c. 17,000 mems (2024)</stats>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921531" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921530" slsdocid="2227198" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1203087588" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Assuris</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>250 Yonge St, Suite 3110, POB 23, Toronto, ON M5B 2L7</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(866) 878-1225</telephone>
+                                                       <email>info@assuris.ca</email>
+                                                       <internet>assuris.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1990</found-date>
+                                                  <content-note style="NORMAL">present name since 2005</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Frank</forename>
+                                                                 <surname>Swedlove</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Paul</forename>
+                                                                 <surname>Petrelli</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>60 mems (2024)</stats>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921534" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921533" slsdocid="78718" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.861" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Association of Mutual Insurance Companies</org-entry-name>
+                                                       <abbr>CAMIC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1000 McGarry Terrace, Unit M010, Ottawa, ON K2J 7A8</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 789-6851</telephone>
+                                                       <email>info@camic.ca</email>
+                                                       <internet>camic.ca</internet>
+                                                  </address-block>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Wayne</forename>
+                                                                 <surname>Wyborn</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Sangita</forename>
+                                                                 <surname>Kamblé</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>72 mems (2023)</stats>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921537" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921536" slsdocid="78717" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.862" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                                  <data-protection date-added="27.04.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Life and Health Insurance Association Inc</org-entry-name>
+                                                       <abbr>CLHIA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>79 Wellington St W, Suite 2300, TD S Tower, POB 99, Toronto, ON M5K 1G8</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 777-2221</telephone>
+                                                       <email>info@clhia.ca</email>
+                                                       <internet>clhia.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1894</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Denis</forename>
+                                                                 <surname>Ricard</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Stephen</forename>
+                                                                 <surname>Frank</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>66 mems (2024)</stats>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921541" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921540" slsdocid="2227177" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1203087418" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Insurance" usage="usac">
+                                                  <data-protection date-added="11.09.2007" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Chartered Insurance Professionals' Society</org-entry-name>
+                                                       <abbr>CIP Society</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>18 King St E, 6th Floor, Toronto, ON M5C 1C4</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 362-8586</telephone>
+                                                       <fax>(416) 362-1126</fax>
+                                                       <internet>insuranceinstitute.ca/en/cipsociety</internet>
+                                                  </address-block>
+                                                  <found-date>1998</found-date>
+                                                  <content-note style="NORMAL">
+                      division of 
+                      <xr pageref="N" ref="CA.DIR.865">Insurance Institute of Canada (q.v.)</xr>
+                                                  </content-note>
+                                                  <content-note style="NORMAL">represents c. 18,000 insurance professionals</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Rosalind</forename>
+                                                                 <surname>Staples-Simpson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921547" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921546" slsdocid="78716" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.863" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                                  <data-protection date-added="17.10.2006" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Insurance Brokers Association of Canada</org-entry-name>
+                                                       <abbr>IBAC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>130 King St W, Suite 2125, Toronto, ON M5X 1E4</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 367-1831</telephone>
+                                                       <email>ibac@ibac.ca</email>
+                                                       <internet>ibac.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1921</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Linda</forename>
+                                                                 <surname>Dolan</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Peter</forename>
+                                                                 <surname>Braid</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>11 mem. asscns (2024)</stats>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921550" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921549" slsdocid="78715" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.864" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Insurance Bureau of Canada</org-entry-name>
+                                                       <abbr>IBC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>777 Bay St, Suite 2400, POB 121, Toronto, ON M5G 2C8</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 362-2031</telephone>
+                                                       <email>oncic@ibc.ca</email>
+                                                       <internet>ibc.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1964</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Celyeste</forename>
+                                                                 <surname>Power</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>114 mems (2023)</stats>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921554" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921553" slsdocid="78714" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.865" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                                  <data-protection date-added="24.08.2007" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Insurance Institute of Canada</org-entry-name>
+                                                       <abbr>IIC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>18 King St E, 6th Floor, Toronto, ON M5C 1C4</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 362-8586</telephone>
+                                                       <email>iicmail@insuranceinstitute.ca</email>
+                                                       <internet>insuranceinstitute.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1899</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Valérie</forename>
+                                                                 <surname>Lavoie</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>over 41,000 mems (2024)</stats>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL8921558" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8921557" slsdocid="78713" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.866" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INSURANCE">
+                                                  
+                                                  
+                                                  <data-protection date-added="14.09.2007" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>LOMA Canada</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>675 Cochrane Dr., E Tower, 6th Floor, Markham, ON L3R 0B8</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(905) 530-2309</telephone>
+                                                       <email>lomacanada@loma.org</email>
+                                                       <internet>www.loma.org</internet>
+                                                  </address-block>
+                                                  <found-date>1924</found-date>
+                                                  <content-note style="NORMAL">present name since 2006</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Adrian S.</forename>
+                                                                 <surname>Griggs</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>David</forename>
+                                                                 <surname>Levenson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>over 700 mem. cos in 80 countries (2024)</stats>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                         </dir-section>
+                    </dir-sectref>

@@ -1,0 +1,19 @@
+<org-entryref id="SL3920275" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3920274" slsdocid="3920132" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1356103147" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Agenzia Nationale Stampa Associata</org-entry-name>
+                                                            <abbr>ANSA</abbr>
+                                                            <content-note style="NORMAL">Washington, DC</content-note>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>National Press Bldg, Suite 1220, 529 14th St, NW, Washington, DC 20045</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(202) 662-7195</telephone>
+                                                            <email>ansa.washington@ansa.it</email>
+                                                            <internet>ansa.it</internet>
+                                                       </address-block>
+                                                       <content-note style="NORMAL">br. in Miami</content-note>
+                                                  </org-entry>
+                                             </org-entryref>

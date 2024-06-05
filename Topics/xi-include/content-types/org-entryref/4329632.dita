@@ -1,0 +1,27 @@
+<org-entryref id="SL4330225" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4330224" slsdocid="4329632" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390304828" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Erie Times-News</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>205 W 12th St, Erie, PA 16534</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 352-0043</telephone>
+                                                       <email>mmartin@gannett.com</email>
+                                                       <internet>goerie.com</internet>
+                                                  </address-block>
+                                                  <found-date>1888</found-date>
+                                                  <frequency>Mon. to Fri. evening</frequency>
+                                                  <role-group>
+                                                       <role>Group Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Matt</forename>
+                                                                 <surname>Martin</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

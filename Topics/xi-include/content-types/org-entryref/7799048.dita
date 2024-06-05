@@ -1,0 +1,29 @@
+<org-entryref id="SL7799189" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799188" slsdocid="7799048" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637848428" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>McGraw-Hill Education</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1325 Ave of the Americas, NY 10019</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 338-3987</telephone>
+                                             <fax>(800) 953-8691</fax>
+                                             <email>mhhe_create@mheducation.com</email>
+                                             <internet>www.mheducation.com</internet>
+                                        </address-block>
+                                        <found-date>1971</found-date>
+                                        <content-note style="NORMAL">textbooks and educational materials from Pre-K through 12th grade, assessment, higher education and professional markets</content-note>
+                                        <content-note style="NORMAL">divisions include Glencoe, SRA, McGraw-Hill Education, CTA and Wright Group among others</content-note>
+                                        <role-group>
+                                             <role>Pres. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Simon</forename>
+                                                       <surname>Allen</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

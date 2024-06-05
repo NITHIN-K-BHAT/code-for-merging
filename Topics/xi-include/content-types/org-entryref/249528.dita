@@ -1,0 +1,40 @@
+<org-entryref id="SL1741424" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741423" slsdocid="249528" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1007" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>The Times-Picayune|The New Orleans Advocate</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>840 St Charles Ave, New Orleans, LA 70130</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(504) 529-0522</telephone>
+                                                       <email>nolanewstips@theadvocate.com</email>
+                                                       <internet>nola.com</internet>
+                                                  </address-block>
+                                                  <found-date>
+                      2019 by merger of 
+                      <i>The Times-Picayune</i>
+                       (f. 1880) and New Orleans edn of 
+                      <i>The Advocate</i>
+                                                  </found-date>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Judi</forename>
+                                                                 <surname>Terzotis</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Martha</forename>
+                                                                 <surname>Carr</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

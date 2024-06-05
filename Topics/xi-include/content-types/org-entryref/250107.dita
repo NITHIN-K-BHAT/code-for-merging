@@ -1,0 +1,28 @@
+<org-entryref id="SL262448" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262447" slsdocid="250107" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2023" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="UTILITIES">
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Association of Water Companies</org-entry-name>
+                                                       <abbr>NAWC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>50 S 16th St, Suite 2725, Philadelphia, PA 19102</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(267) 691-7765</telephone>
+                                                       <email>info@nawc.com</email>
+                                                       <internet>nawc.org</internet>
+                                                  </address-block>
+                                                  <found-date>1895</found-date>
+                                                  <stats>40 active mems (2022)</stats>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Donald J.</forename>
+                                                                 <surname>Morrissey</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

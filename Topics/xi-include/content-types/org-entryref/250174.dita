@@ -1,0 +1,29 @@
+<org-entryref id="SL262632" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262631" slsdocid="250174" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1945" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>American Association of Professional Landmen</org-entry-name>
+                                                       <abbr>AAPL</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>800 Fournier St, Fort Worth, TX 76102</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(817) 847-7700</telephone>
+                                                       <fax>(817) 847-7704</fax>
+                                                       <email>aapl@landman.org</email>
+                                                       <internet>landman.org</internet>
+                                                  </address-block>
+                                                  <found-date>1956</found-date>
+                                                  <stats>approx. 12,000 mems and 38 affiliated local asscns (2023)</stats>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Brooks</forename>
+                                                                 <surname>Yates</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

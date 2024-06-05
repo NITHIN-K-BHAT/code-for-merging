@@ -1,0 +1,28 @@
+<org-entryref id="SL1760240" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1760239" slsdocid="1171132" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.1109763914" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Turnstone Press Ltd</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>100 Arthur St, Suite 206, Winnipeg, MB R3B 1H3</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(204) 947-1555</telephone>
+                                             <email>info@turnstonepress.com</email>
+                                             <internet>turnstonepress.com</internet>
+                                        </address-block>
+                                        <found-date>1976</found-date>
+                                        <content-note style="NORMAL">literary fiction, non-fiction and criticism, poetry</content-note>
+                                        <content-note style="NORMAL">also publ. mysteries, thrillers, speculative fiction, noir and urban fantasy under Raventone imprint</content-note>
+                                        <role-group>
+                                             <role>Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jamis</forename>
+                                                       <surname>Paulson</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

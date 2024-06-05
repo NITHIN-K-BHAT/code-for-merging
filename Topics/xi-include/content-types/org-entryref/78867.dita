@@ -1,0 +1,33 @@
+<org-entryref id="SL1759798" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759797" slsdocid="78867" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.694" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Harlequin Enterprises ULC</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Bay Adelaide Centre, E Tower, 22 Adelaide St W, 41st Floor, Toronto, ON M5H 4E3</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(888) 432-4879</telephone>
+                                             <email>customerservice@harlequin.com</email>
+                                             <internet>harlequin.com</internet>
+                                        </address-block>
+                                        <found-date>1949</found-date>
+                                        <content-note style="NORMAL">division of HarperCollins</content-note>
+                                        <content-note style="NORMAL">mystery and romance novels</content-note>
+                                        <content-note style="NORMAL">
+                  imprints incl. Carina Press, Canary Street Press, 
+                  
+                  Hanover Square Press, HQN, Inkyard Press, MIRA, Park Row Books, Worldwide Mystery, Love Inspired Novels
+                </content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Craig</forename>
+                                                       <surname>Swinwood</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

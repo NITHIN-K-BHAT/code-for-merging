@@ -1,0 +1,27 @@
+<org-entryref id="SL1741126" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741125" slsdocid="249611" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.916" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Arkansas Democrat-Gazette</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>121 E Capitol Ave, POB 2221, Little Rock, AR 72203</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(501) 378-3400</telephone>
+                                                       <fax>(501) 372-4765</fax>
+                                                       <email>news@arkansasonline.com</email>
+                                                       <internet>arkansasonline.com</internet>
+                                                  </address-block>
+                                                  <found-date>1819</found-date>
+                                                  <role-group>
+                                                       <role>Publr and Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Eliza Hussman</forename>
+                                                                 <surname>Gaines</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

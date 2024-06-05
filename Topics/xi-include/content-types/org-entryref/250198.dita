@@ -1,0 +1,37 @@
+<org-entryref id="SL7061131" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7061130" slsdocid="250198" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1919" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <data-protection date-added="21.09.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Travel Goods Association</org-entry-name>
+                                                       <abbr>TGA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>259 Nassau St, Suite 119, Princeton, NJ 08542</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="Y">(877) 842-1938</telephone>
+                                                       <email>tga@travel-goods.org</email>
+                                                       <internet>travelgoods.show</internet>
+                                                  </address-block>
+                                                  <found-date>1938</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Josh</forename>
+                                                                 <surname>Cross</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Michele M.</forename>
+                                                                 <surname>Pittenger</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

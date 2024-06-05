@@ -1,0 +1,40 @@
+<org-entryref id="SL8925059" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8925058" slsdocid="250005" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.2121A" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL RAILWAYS">
+                                                       <data-protection date-added="14.09.2009" ticked-box="Y" />
+                                                       
+                                                       <org-entry-head>
+                                                            <org-entry-name>American Short Line and Regional Railroad Association</org-entry-name>
+                                                            <abbr>ASLRRA</abbr>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>50 F St, NW, Suite 500, Washington, DC 20001</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(202) 628-4500</telephone>
+                                                            <email>aslrra@aslra.org</email>
+                                                            <internet>aslrra.org</internet>
+                                                       </address-block>
+                                                       <found-date>1913</found-date>
+                                                       <stats>around 600 mems</stats>
+                                                       <content-note style="NORMAL">operates and maintains c. 40% of US rail mileage</content-note>
+                                                       <role-group>
+                                                            <role>Pres.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Chuck</forename>
+                                                                      <surname>Baker</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Matthew O.</forename>
+                                                                      <surname>Walsh</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

@@ -1,0 +1,37 @@
+<org-entryref id="SL1756455" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1756454" slsdocid="78521" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1080" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CIVIL AVIATION" usage="ewyb usac">
+                                                  <data-protection date-added="14.09.2007" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Air Canada</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>7373 blvd de la Côte-Vertu ouest, Saint-Laurent, Québec, QC H4S 1Z3</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(514) 422-5000</telephone>
+                                                       <email>media@aircanada.ca</email>
+                                                       <internet>aircanada.com</internet>
+                                                  </address-block>
+                                                  <found-date>1937</found-date>
+                                                  <content-note style="NORMAL">fmrly Trans-Canada Air Lines</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Vagn</forename>
+                                                                 <surname>Sørensen</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Michael</forename>
+                                                                 <surname>Rousseau</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

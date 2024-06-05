@@ -1,0 +1,59 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8923636" sllink="SLSDOCRF" sllinkid="8923635" slsdocid="8923611" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <dir-section id="CA.DIR.1708525780" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="usac">
+                                   <heading>
+                
+                Selected Federal Crown Corporations
+              </heading>
+                                   <org-list>
+                                        <org-entryref id="SL8923618" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8923617" slsdocid="8923613" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1708525922" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Selected Federal Crown Corporations" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canada Deposit Insurance Corpn</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>50 O'Connor St, 17th Floor, POB 2340, Station D, Ottawa, ON K1P 6L2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 943-6456</telephone>
+                                                       <email>info@cdic.ca</email>
+                                                       <internet>www.cdic.ca</internet>
+                                                  </address-block>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                                   <p id="CA.DIR.USAC.23.171020051449.222">The Canada Deposit Insurance Corpn (CDIC) was established in 1967 by the Canada Deposit Insurance Corpn Act. The CDIC insures individual deposits against loss because of the insolvency of a member institution. Member institutions may be banks or trust and loan companies. The level of deposit insurance coverage per depositor in each member institution was raised from C $60,000 to $100,000 with effect from February 2005. The CDIC’s board comprises a chairperson (appointed by the Governor-in-Council), five ex officio directors (the Governor of the Bank of Canada, the Deputy Minister of Finance, the Superintendent of Financial Institutions, a Deputy Superintendent of Financial Institutions and the Commissioner of the Financial Consumer Agency of Canada) and five private sector members. Some 43 member institutions have failed since the CDIC’s creation. The amount of insured deposits at the end of March 2023 totalled $1,082,000m., covering 159 member institutions.</p>
+                                   
+                                   <org-list>
+                                        <org-entryref id="SL8923626" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8923625" slsdocid="8923620" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1708526056" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Selected Federal Crown Corporations" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canada Mortgage and Housing Corpn</org-entry-name>
+                                                       <abbr>CHMC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>700 Montreal Rd, Ottawa, ON K1A 0P7</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 748-2000</telephone>
+                                                       <fax>(613) 748-2098</fax>
+                                                       <email>info@cdic.ca</email>
+                                                       <internet>cmhc-schl.gc.ca</internet>
+                                                  </address-block>
+                                                  <role-group>
+                                                       <role>Acting Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Michael</forename>
+                                                                 <surname>Tremblay</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                                   <p id="CA.DIR.USAC.23.171020051449.2221">The Canada Mortgage and Housing Corpn was established as a federal crown corporation in 1946 to administer the National Housing Act. It administers numerous federal housing programmes, including a scheme of providing loans to first-time home buyers, the construction of `affordable’ housing, and the renovation of some areas of social housing.</p>
+                              </dir-section>
+                         </dir-sectref>

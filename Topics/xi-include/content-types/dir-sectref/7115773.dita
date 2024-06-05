@@ -1,0 +1,103 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8926892" sllink="SLSDOCRF" sllinkid="8926891" slsdocid="7115773" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <dir-section id="US.DIR.1590056015" id-root="us.dir" iso="us" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                                   <heading>Islam</heading>
+                                   <p>In 2020 there were an estimated 4.5m. Muslims in the USA, in an estimated 2,771 congregations.</p>
+                                   <org-list>
+                                        <org-entryref id="SL7115781" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7115780" slsdocid="249645" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="US.DIR.871" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ISLAM">
+                                                  
+                                                  <data-protection date-added="08.10.2008" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Council of Masajid of United States</org-entry-name>
+                                                       <abbr>CMUS</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>213 Patriots Path, Monroe Township, NJ 08831</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(732) 985-3304</telephone>
+                                                       <email>dawud11@comcast.net</email>
+                                                  </address-block>
+                                                  <found-date>1978</found-date>
+                                                  <content-note style="NORMAL">educational agency representing 650 local groups</content-note>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Dawud</forename>
+                                                                 <surname>Assad</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL7115784" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7115783" slsdocid="4305688" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="US.DIR.1388664813" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Islam">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Islamic Center of America</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>19500 Ford Rd, Dearborn, MI 48228</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(313) 593-0000</telephone>
+                                                       <email>contact@icofa.com</email>
+                                                       <internet>icofa.com</internet>
+                                                  </address-block>
+                                                  <found-date>1963</found-date>
+                                                  <role-group>
+                                                       <role>Religious Leader</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Imam</title>
+                                                                 <forename>Ahmad</forename>
+                                                                 <surname>Hammoud</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Haj</title>
+                                                                 <forename>Ibrahim</forename>
+                                                                 <surname>Abboud</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL7115791" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7115790" slsdocid="249643" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="US.DIR.873" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ISLAM" usage="usac">
+                                                  <data-protection date-added="12.09.2007" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Islamic Center of New York University</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>238 Thompson St, 4th Floor, New York, NY 10012</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(212) 998-4712</telephone>
+                                                       <email>info@icnyu.org</email>
+                                                       <internet>icnyu.org</internet>
+                                                  </address-block>
+                                                  <found-date>1966</found-date>
+                                                  <role-group>
+                                                       <role>Exec. Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Imam</title>
+                                                                 <forename>Khalid</forename>
+                                                                 <surname>Latif</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                         </dir-sectref>

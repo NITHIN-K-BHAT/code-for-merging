@@ -1,0 +1,28 @@
+<org-entryref id="SL3516789" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3516788" slsdocid="249149" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1394" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Infobase Publishing</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1000 NW St, Suite 1281-230, Wilmington, DE 19801</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 234-1340</telephone>
+                                             <email>info@infobase.com</email>
+                                             <internet>infobase.com</internet>
+                                        </address-block>
+                                        <found-date>1941</found-date>
+                                        <content-note style="NORMAL">imprints incl. Facts On File Inc, Ferguson Publishing, Chelsea Clubhouse Publrs, Bloom’s, and Omnigraphics</content-note>
+                                        <content-note style="NORMAL">educational, reference and electronic and digital products</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>John</forename>
+                                                       <surname>Donoghue</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

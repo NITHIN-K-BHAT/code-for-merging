@@ -1,0 +1,38 @@
+<org-entryref id="SL7796333" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7796332" slsdocid="7796308" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1637771594" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Selected Periodicals">
+                                             <org-entry-head>
+                                                  <org-entry-name>Tablet</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>POB 20079, New York, NY 10001</verbatim-address>
+                                                  </address>
+                                                  <email>info@tabletmag.com</email>
+                                                  <internet>tabletmag.com</internet>
+                                             </address-block>
+                                             <found-date>2009</found-date>
+                                             <content-note style="NORMAL">owned by NextBook Inc.</content-note>
+                                             <content-note style="NORMAL">online only</content-note>
+                                             
+                                             <content-note style="NORMAL">Jewish news, ideas and culture</content-note>
+                                             <role-group>
+                                                  <role>Publr</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Morton</forename>
+                                                            <surname>Landowne</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Alana</forename>
+                                                            <surname>Newhouse</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

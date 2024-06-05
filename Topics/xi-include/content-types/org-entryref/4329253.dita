@@ -1,0 +1,28 @@
+<org-entryref id="SL4329363" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4329362" slsdocid="4329253" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390294034" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Las Vegas Sun</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2275 Corporate Circle, Suite 300, Henderson, NV 89074</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(702) 385-3111</telephone>
+                                                       <fax>(702) 383-7264</fax>
+                                                       <email>letters@lasvegassun.com</email>
+                                                       <internet>lasvegassun.com</internet>
+                                                  </address-block>
+                                                  <found-date>1950</found-date>
+                                                  <frequency>Mon. to Fri. evening</frequency>
+                                                  <role-group>
+                                                       <role>CEO, Publr and Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Brian</forename>
+                                                                 <surname>Greenspun</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

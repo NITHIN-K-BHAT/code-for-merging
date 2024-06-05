@@ -1,0 +1,38 @@
+<org-entryref id="SL1759311" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759310" slsdocid="78981" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.575" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Nunatsiaq News</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>157 Nipisa St, POB 8, Iqaluit, NU X0A 0H0</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(867) 979-5357</telephone>
+                                                       <email>editors@nunatsiaq.com</email>
+                                                       <internet>nunatsiaq.com</internet>
+                                                  </address-block>
+                                                  <found-date>1975</found-date>
+                                                  <frequency>online only since 2020</frequency>
+                                                  <content-note style="NORMAL">English and Inuktitut</content-note>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Michael</forename>
+                                                                 <surname>Roberts</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Corey</forename>
+                                                                 <surname>Larocque</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

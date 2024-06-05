@@ -1,0 +1,26 @@
+<org-entryref id="SL209478" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="209477" slsdocid="182937" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="NI.DIR.131" id-root="ni.dir" iso="ni" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN NICARAGUA">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Km 5½, Carretera Sur, Apdo 327, Managua</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">2252-7100</telephone>
+                                             <fax>2252-7250</fax>
+                                             <internet>ni.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kevin</forename>
+                                                       <surname>O’Reilly</surname>
+                                                  </person-name>
+                                             </person>
+                                             
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

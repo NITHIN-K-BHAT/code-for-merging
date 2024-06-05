@@ -1,0 +1,28 @@
+<org-entryref id="SL1740823" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1740822" slsdocid="249940" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.2189" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Tourism" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>National Travel and Tourism Office</org-entry-name>
+                                                  <abbr>NTTO</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>US Dept of Commerce, 1401 Constitution Ave, NW, Washington, DC 20230</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 482-2867</telephone>
+                                                  <email>publicaffairs@trade.gov</email>
+                                                  <internet>bit.ly/48PH0fg</internet>
+                                             </address-block>
+                                             <found-date>1996</found-date>
+                                             <content-note style="NORMAL">fed. govt agency</content-note>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Brian</forename>
+                                                            <surname>Beall</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

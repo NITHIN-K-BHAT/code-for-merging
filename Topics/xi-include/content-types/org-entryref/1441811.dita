@@ -1,0 +1,37 @@
+<org-entryref id="SL1741048" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741047" slsdocid="1441811" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1132243172" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="National Newspaper Groups">
+                                             <org-entry-head>
+                                                  <org-entry-name>Cox Media Group</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>6205 Peachtree Dunwoody Rd, Atlanta, GA 30328</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(678) 645-0000</telephone>
+                                                  <email>cmgmediarelations@coxinc.com</email>
+                                                  <internet>coxmediagroup.com</internet>
+                                             </address-block>
+                                             <found-date>1898</found-date>
+                                             <role-group>
+                                                  <role>Exec. Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Steve J.</forename>
+                                                            <surname>Pruett</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Daniel</forename>
+                                                            <surname>York</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <content-note style="NORMAL">4 daily and 11 non-daily newspapers</content-note>
+                                             <content-note style="NORMAL">owns 14 broadcast TV stations, 61 radio stations and more than 100 digital services (2018)</content-note>
+                                        </org-entry>
+                                   </org-entryref>

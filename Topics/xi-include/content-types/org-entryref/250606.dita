@@ -1,0 +1,27 @@
+<org-entryref id="SL1745635" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745634" slsdocid="250606" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1501" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="27.04.2007" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>University of New Mexico Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1717 Roma Ave NE, Albuquerque, NM 87106</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(505) 277-3495</telephone>
+                                             <email>custserv@unm.edu</email>
+                                             <internet>unmpress.com</internet>
+                                        </address-block>
+                                        <found-date>1929</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Stephen</forename>
+                                                       <surname>Hull</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

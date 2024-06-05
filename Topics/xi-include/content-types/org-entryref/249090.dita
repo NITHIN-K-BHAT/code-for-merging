@@ -1,0 +1,26 @@
+<org-entryref id="SL1745223" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745222" slsdocid="249090" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1447" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Ohio University Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Alden Library, 30 Park Pl., Suite 101, Athens, OH 45701</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(740) 593-1154</telephone>
+                                             <email>oupress@ohio.edu</email>
+                                             <internet>ohioswallow.com</internet>
+                                        </address-block>
+                                        <found-date>1964</found-date>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ricky S.</forename>
+                                                       <surname>Huard</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

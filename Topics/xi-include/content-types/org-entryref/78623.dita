@@ -1,0 +1,35 @@
+<org-entryref id="SL101388" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101387" slsdocid="78623" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.968" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="UTILITIES">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Newfoundland and Labrador Hydro</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Hydro Pl., 500 Columbus Dr., POB 12400, St John’s, NL A1B 4K7</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(709) 737-1400</telephone>
+                                                       <email>hydro@nlh.nl.ca</email>
+                                                       <internet>nlhydro.com</internet>
+                                                  </address-block>
+                                                  <content-note style="NORMAL">state-owned electricity wholesaler</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Albert</forename>
+                                                                 <surname>Williams</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jennifer</forename>
+                                                                 <surname>Williams</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

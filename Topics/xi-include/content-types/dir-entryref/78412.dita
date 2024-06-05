@@ -1,0 +1,16 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8097691" sllink="SLSDOCRF" sllinkid="8097690" slsdocid="78412" slsdocty="dir-entry dir-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <dir-entry id="CA.DIR.84" id-root="ca.dir" iso="ca" section="Federal Legislature" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="THE SENATE">
+                                        <dir-entry-name>Speaker</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Raymonde</forename>
+                                                       <surname>Gagné</surname>
+                                                  </person-name>
+                                                  <person-note>Non-aff.</person-note>
+                                             </person>
+                                             
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>

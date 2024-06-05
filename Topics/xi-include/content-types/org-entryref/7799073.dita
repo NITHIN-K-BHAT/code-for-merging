@@ -1,0 +1,29 @@
+<org-entryref id="SL7799331" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799330" slsdocid="7799073" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637852011" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Organizations and Associations" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Localogy</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>901 Wilshire Dr., Suite 485, Troy, MI 48084</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(248) 244-6200</telephone>
+                                             <email>talk@localogy.com</email>
+                                             <internet>www.localogy.com</internet>
+                                        </address-block>
+                                        <found-date>1988 as Yellow Pages Publrs Asscn by merger of Asscn of North American Directory Publrs (f. 1898) and Nat. Yellow Pages Service Asscn (f. 1975)</found-date>
+                                        <content-note style="NORMAL">fmrly Yellow Pages Asscn, subsequently Local Search Asscn</content-note>
+                                        <content-note style="NORMAL">present name adopted 2020</content-note>
+                                        <stats>more than 300 mems</stats>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Sharon</forename>
+                                                       <surname>Sweeney</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

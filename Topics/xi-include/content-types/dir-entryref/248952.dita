@@ -1,0 +1,16 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8098079" sllink="SLSDOCRF" sllinkid="8098078" slsdocid="248952" slsdocty="dir-entry dir-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <dir-entry id="US.DIR.291" id-root="us.dir" iso="us" section="Legislature" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Senate">
+                                        <dir-entry-name>Minority Leader</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mitch</forename>
+                                                       <surname>McConnell</surname>
+                                                  </person-name>
+                                                  <person-note>Rep.</person-note>
+                                             </person>
+                                        </person-group>
+                                        
+                                   </dir-entry>
+                              </dir-entryref>

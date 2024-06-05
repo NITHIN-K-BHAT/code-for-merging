@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL89946" sllink="SLSDOCRF" sllinkid="89945" slsdocid="73692" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="AO.DIR.116" id-root="ao.dir" iso="ao" sect-type="legislature" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                    <heading>Legislature</heading>
+                    <dir-list>
+                         <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL4251189" sllink="SLSDOCRF" sllinkid="4251188" slsdocid="4251180" slsdocty="dir-entry dir-entrydtd">
+                              
+                              <dir-entry id="AO.DIR.1382347135" id-root="ao.dir" iso="ao" section="Legslature" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="Entries">
+                                   <dir-entry-name>National Assembly</dir-entry-name>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Av. Dr Antonio Agostinho Neto, Praia do Bispo, Luanda</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">923120140</telephone>
+                                        <email>assembleianacional@parlamento.ao</email>
+                                        <internet>www.parlamento.ao</internet>
+                                   </address-block>
+                              </dir-entry>
+                         </dir-entryref>
+                         <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL4251054" sllink="SLSDOCRF" sllinkid="4251053" slsdocid="73681" slsdocty="dir-entry dir-entrydtd">
+                              
+                              <dir-entry id="AO.DIR.120" id-root="ao.dir" iso="ao" section="President and Legislature" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="ASSEMBLÉIA NACIONAL">
+                                   <dir-entry-name>President</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Carolina</forename>
+                                                  <surname>Cerqueira</surname>
+                                             </person-name>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                         </dir-entryref>
+                    </dir-list>
+                    <table-blockref id="SL4251060" sllink="SLSDOCRF" sllinkid="4251059" slsdocid="73971" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN">
+                         
+                         <table-block id="AO.DIR.121" id-root="ao.dir" iso="ao" section="President and Legislature" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" subsection="ASSEMBLÉIA NACIONAL" type="ELECTION">
+                              <table-heading>General Election, 24 August 2022</table-heading>
+                              <table pgwide="NO" style="WITH-RULES">
+                                   <tgroup cols="4">
+                                        <colspec colwidth="10cm" />
+                                        <colspec colname="COLSPEC0" colwidth="3.3cm" />
+                                        <colspec colwidth="3.3cm" />
+                                        <colspec colwidth="3.3cm" />
+                                        <thead>
+                                             <row>
+                                                  <entry align="left" style="NO-DOT-LEADER">Party</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">Valid votes</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">% of valid votes</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">Seats</entry>
+                                             </row>
+                                        </thead>
+                                        <tbody>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Movimento Popular de Libertação de Angola (MPLA)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">3,209,429</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">51.17</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">124</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">União Nacional para a Independência Total de Angola (UNITA)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2,756,786</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">43.95</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">90</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Partido de Renovação Social (PRS)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">71,351</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">1.14</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Frente Nacional de Libertação de Angola (FNLA)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">66,337</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">1.06</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Partido Humanista de Angola (PHA)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">63,749</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">1.02</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Convergência Ampla de Salvação de Angola-Coligação Eleitoral (CASA-CE)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">47,446</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">0.76</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Aliança Patriótica Nacional (APN)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">30,139</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">0.48</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Partido Nacionalista para a Justiça em Angola (P-NJANGO)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">26,867</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">0.43</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">
+                                                       <b>Total</b>
+                                                  </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">
+                      6,272,104
+                      <endnoteref idref="AO.DIR.1504013278" ref-symbol="*" />
+                                                  </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">100.00</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">220</entry>
+                                             </row>
+                                        </tbody>
+                                   </tgroup>
+                              </table>
+                              <endnote id="AO.DIR.1504013278" ref-symbol="*">There were, in addition, a total of 182,005 invalid and blank votes.</endnote>
+                         </table-block>
+                    </table-blockref>
+               </dir-section>
+          </dir-sectref>
+          

@@ -1,0 +1,28 @@
+<org-entryref id="SL112330" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="112329" slsdocid="85766" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="DK.DIR.147" id-root="dk.dir" iso="dk" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN DENMARK">
+                                        
+                                        
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Dag Hammarskjölds Allé 24, 2100 Copenhagen Ø</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">33-41-71-00</telephone>
+                                             <email>usembassycopenhagen@state.gov</email>
+                                             <internet>dk.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Alan</forename>
+                                                       <surname>Leventhal</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

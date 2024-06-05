@@ -1,0 +1,34 @@
+<org-entryref id="SL3180581" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3180582" slsdocid="1445791" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1132743333" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>AARP The Magazine</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>601 East St, NW, Washington, DC 20049</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 434-3525</telephone>
+                                                  <email>member@aarp.org</email>
+                                                  <internet>aarp.org/magazine</internet>
+                                             </address-block>
+                                             <found-date>1958</found-date>
+                                             <frequency>six a year</frequency>
+                                             <content-note style="NORMAL">publ. of American Asscn of Retired Persons</content-note>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Robert</forename>
+                                                            <surname>Love</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 22,386,765 (2023)</stats>
+                                             <content-note style="NORMAL">
+                    AARP also publishes 
+                    <i>AARP Bulletin</i>
+                     (11 a year, circ. 22,078,961 in 2023)
+                  </content-note>
+                                        </org-entry>
+                                   </org-entryref>

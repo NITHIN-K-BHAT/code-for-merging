@@ -1,0 +1,29 @@
+<org-entryref id="SL260708" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260707" slsdocid="249339" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1219" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Family Handyman</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>2915 Commers Dr., Suite 700, Eagan, MN 55121</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(651) 454-9200</telephone>
+                                                  <email>customercare@familyhandyman.com</email>
+                                                  <internet>familyhandyman.com</internet>
+                                             </address-block>
+                                             <found-date>1951</found-date>
+                                             <frequency>10 a year</frequency>
+                                             <content-note style="NORMAL">publ. by Reader's Digest Asscn, Inc</content-note>
+                                             <role-group>
+                                                  <role>Dep. Editor</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Ryan</forename>
+                                                            <surname>Bibber</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 884,885</stats>
+                                        </org-entry>
+                                   </org-entryref>

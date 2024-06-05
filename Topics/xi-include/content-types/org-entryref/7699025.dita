@@ -1,0 +1,27 @@
+<org-entryref id="SL7699109" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7699108" slsdocid="7699025" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="BZ.DIR.1631010209" id-root="bz.dir" iso="bz" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                             <org-entry-head>
+                                                  <org-entry-name>National Evangelical Association of Belize</org-entry-name>
+                                                  <abbr>NEAB</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>38–40 Ambergris Ave, Belmopan</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">601-2381</telephone>
+                                                  <internet>neab.info</internet>
+                                             </address-block>
+                                             <found-date>2015 as breakaway org. from Belize Asscn of Evangelical Churches</found-date>
+                                             <content-note style="NORMAL">represents more than 245 churches</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Lance</forename>
+                                                            <surname>Lewis</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

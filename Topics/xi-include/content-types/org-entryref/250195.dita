@@ -1,0 +1,38 @@
+<org-entryref id="SL262594" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262593" slsdocid="250195" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1923" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <data-protection date-added="26.07.2005" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Forest Resources Association, Inc</org-entry-name>
+                                                       <abbr>FRA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1901 Pennsylvania Ave, NW, Suite 1007, Washington, DC 20006</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 296-3937</telephone>
+                                                       <email>info@forestresources.org</email>
+                                                       <internet>forestresources.org</internet>
+                                                  </address-block>
+                                                  <found-date>1934</found-date>
+                                                  <stats>c. 320 mem. orgs (2022)</stats>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Pete</forename>
+                                                                 <surname>Stewart</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Deb</forename>
+                                                                 <surname>Hawkinson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,37 @@
+<org-entryref id="SL7806380" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7806379" slsdocid="250586" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1519" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="15.02.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>University of Virginia Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>210 Sprigg Lane, POB 400318, Charlottesville, VA 22904-4318</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(434) 924-3468</telephone>
+                                             <fax>(434) 982-2655</fax>
+                                             <internet>upress.virginia.edu</internet>
+                                        </address-block>
+                                        <found-date>1963</found-date>
+                                        <content-note style="NORMAL">scholarly, arts and humanities</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Eric</forename>
+                                                       <surname>Brandt</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Man. Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ellen</forename>
+                                                       <surname>Satrom</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

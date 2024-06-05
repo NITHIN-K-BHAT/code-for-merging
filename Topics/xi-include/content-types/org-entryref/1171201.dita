@@ -1,0 +1,38 @@
+<org-entryref id="SL1760299" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1760298" slsdocid="1171201" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.1109764576" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <data-protection date-added="13.10.2009" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Wilfrid Laurier University Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>75 University Ave W, Waterloo, ON N2L 3C5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(519) 884-0710</telephone>
+                                             <fax>(519) 725-1399</fax>
+                                             <email>press@wlu.ca</email>
+                                             <internet>wlupress.wlu.ca</internet>
+                                        </address-block>
+                                        <found-date>1974</found-date>
+                                        <content-note style="NORMAL">academic and scholarly</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Lisa</forename>
+                                                       <surname>Quinn</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Man. Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Murray</forename>
+                                                       <surname>Tong</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

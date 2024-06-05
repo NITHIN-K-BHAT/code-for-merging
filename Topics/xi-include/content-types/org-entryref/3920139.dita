@@ -1,0 +1,29 @@
+<org-entryref id="SL3920303" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3920302" slsdocid="3920139" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1356104170" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies">
+                                                       
+                                                       <data-protection date-added="18.08.2009" ticked-box="Y" />
+                                                       <org-entry-head>
+                                                            <org-entry-name>TASS</org-entry-name>
+                                                            <content-note style="NORMAL">New York</content-note>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>780 3rd Ave, 19th Floor, New York, NY 10017</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(212) 245-4250</telephone>
+                                                            <fax>(212) 245-4258</fax>
+                                                            <email>washtass@gmail.com</email>
+                                                            <internet>tass.ru</internet>
+                                                       </address-block>
+                                                       <role-group>
+                                                            <role>Bureau Chief</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Vladimir</forename>
+                                                                      <surname>Kostyrev</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

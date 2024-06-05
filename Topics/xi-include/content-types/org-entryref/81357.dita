@@ -1,0 +1,26 @@
+<org-entryref id="SL105960" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="105959" slsdocid="81357" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="ca" id="CN.DIR.355" id-root="cn.dir" iso="cn" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN THE PEOPLE’S REPUBLIC OF CHINA">
+                                        <org-entry-head>
+                                             <org-entry-name>Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>19 Dong Zhi Men Wai Dajie, Chaoyang Qu, Beijing 100600</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(10) 51394000</telephone>
+                                             <fax>(10) 51394454</fax>
+                                             <email>beijing-pa@international.gc.ca</email>
+                                             <internet>www.canadainternational.gc.ca/china-chine</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jennifer</forename>
+                                                       <surname>May</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,30 @@
+<org-entryref id="SL7799154" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799153" slsdocid="7799040" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637847076" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        <data-protection date-added="13.09.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Herald Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>POB 866, Harrisonburg, VA 22803</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(540) 574-4874</telephone>
+                                             <fax>(877) 271-0760</fax>
+                                             <email>meghanf@mennomedia.org</email>
+                                             <internet>heraldpress.com</internet>
+                                        </address-block>
+                                        <found-date>1908</found-date>
+                                        <content-note style="NORMAL">owned by Mennonite Church USA and Mennonite Church Canada</content-note>
+                                        <content-note style="NORMAL">religious (Anabaptist)</content-note>
+                                        <role-group>
+                                             <role>Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Amy</forename>
+                                                       <surname>Gingerich</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

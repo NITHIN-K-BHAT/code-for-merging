@@ -1,0 +1,29 @@
+<org-entryref id="SL1760252" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1760251" slsdocid="78836" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.725" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <data-protection date-added="07.02.2008" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>University of Alberta Press</org-entry-name>
+                                             <abbr>UAP</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1-16 Rutherford Library S, 89 Ave NW, Suite 11204, Edmonton, AB T6G 2J4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(780) 492-3662</telephone>
+                                             <email>dhildebr@ualberta.ca</email>
+                                             <internet>uap.ualberta.ca</internet>
+                                        </address-block>
+                                        <found-date>1969</found-date>
+                                        <content-note style="NORMAL">higher academic, poetry and non-fiction</content-note>
+                                        <role-group>
+                                             <role>Dir and Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Douglas</forename>
+                                                       <surname>Hildebrand</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

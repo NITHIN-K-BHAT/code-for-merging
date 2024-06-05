@@ -1,0 +1,29 @@
+<org-entryref id="SL236166" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="236165" slsdocid="218304" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="PT.DIR.174" id-root="pt.dir" iso="pt" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN PORTUGAL">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Av. das Forças Armadas (Sete Rios), 1600-081 Lisbon</verbatim-address>
+                                             </address>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Apdo 43033, 1601-301 Lisbon</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(21) 7273300</telephone>
+                                             <fax>(21) 7269109</fax>
+                                             <email>lisbonweb@state.gov</email>
+                                             <internet>pt.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Randi Charno</forename>
+                                                       <surname>Levine</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

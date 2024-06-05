@@ -1,0 +1,28 @@
+<org-entryref id="SL7799244" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799243" slsdocid="7799055" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637849898" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>Rowman &amp; Littlefield Publishing Group, Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>4501 Forbes Blvd, Suite 200, Lanham, MD 20706</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 462-6420</telephone>
+                                             <fax>(800) 338-4550</fax>
+                                             <email>reviews@rowman.com</email>
+                                             <internet>rowman.com</internet>
+                                        </address-block>
+                                        <found-date>1949</found-date>
+                                        <content-note style="NORMAL">imprints incl. Bridge Works (f. 1992, trade fiction), Cooper Square Press (f. 1961, general interest trade), Derrydale Press (f. 1927, sports and outdoor pursuits), M. Evans and Co (f. 1960, adult fiction and non-fiction), Madison Books, Inc (f. 1985, general interest trade), Roberts Rinehart (f. 1983, history, literature, culture and politics of Ireland, the American West, natural history and national parks), Rowman &amp; Littlefield (f. 1949, academic and trade), and Sheed &amp; Ward (f. 1926, religious—Roman Catholic)</content-note>
+                                        <role-group>
+                                             <role>Pres. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jed</forename>
+                                                       <surname>Lyons</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

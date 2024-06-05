@@ -1,0 +1,39 @@
+<org-entryref id="SL3180842" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3180843" slsdocid="1447909" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1132938517" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Woman’s Day</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>300 W 57th St, 27th Floor, New York, NY 10019–5899</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 649-2000</telephone>
+                                                  <email>womansday@hearst.com</email>
+                                                  <internet>womansday.com</internet>
+                                             </address-block>
+                                             <found-date>1931</found-date>
+                                             <frequency>monthly</frequency>
+                                             <content-note style="NORMAL">owned by Hearst</content-note>
+                                             <content-note style="NORMAL">general</content-note>
+                                             <role-group>
+                                                  <role>Publr</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Patricia</forename>
+                                                            <surname>Haegele</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Megan B.</forename>
+                                                            <surname>Murphy</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 1,186,141</stats>
+                                        </org-entry>
+                                   </org-entryref>

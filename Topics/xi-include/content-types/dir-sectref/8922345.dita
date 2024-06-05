@@ -1,0 +1,45 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8922358" sllink="SLSDOCRF" sllinkid="8922357" slsdocid="8922345" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <dir-section id="CA.DIR.1708428979" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                                   <heading>Development Banks</heading>
+                                   <org-list>
+                                        <org-entryref id="SL8922350" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8922349" slsdocid="78761" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.813" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Business Development Bank of Canada</org-entry-name>
+                                                       <abbr>BDC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>5 pl. Ville Marie, Ground Floor, Suite 400, Montréal, QC H3B 5E7</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(514) 496-7974</telephone>
+                                                       <email>socialmedia@bdc.ca</email>
+                                                       <internet>bdc.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1944</found-date>
+                                                  <content-note style="NORMAL">fed. govt corpn</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Brian</forename>
+                                                                 <surname>O’Neil</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Isabelle</forename>
+                                                                 <surname>Hudon</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                         </dir-sectref>

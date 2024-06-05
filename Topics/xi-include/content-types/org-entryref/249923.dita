@@ -1,0 +1,45 @@
+<org-entryref id="SL4054910" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4054909" slsdocid="249923" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <org-entry id="US.DIR.565" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Reform Party of the USA</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>POB 660675, Dallas, TX 75266-0675</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(972) 275-9297</telephone>
+                                        <email>info@reformparty.org</email>
+                                        <internet>reformparty.org</internet>
+                                   </address-block>
+                                   <found-date>1995</found-date>
+                                   <content-note style="NORMAL">advocates reform of political system and ethical govt</content-note>
+                                   <role-group>
+                                        <role>Nat. Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Nicholas</forename>
+                                                  <surname>Hensley</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Sec.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Richard</forename>
+                                                  <surname>Walker</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Treas.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>David</forename>
+                                                  <surname>Collison</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>

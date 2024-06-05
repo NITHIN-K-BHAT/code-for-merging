@@ -1,0 +1,30 @@
+<org-entryref id="SL7532042" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7532041" slsdocid="7532036" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1619099543" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals">
+                                             <org-entry-head>
+                                                  <org-entry-name>First for Women</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>270 Sylvan Ave, Englewood Cliffs, NJ 07632</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(800) 929-8274</telephone>
+                                                  <email>contactus@firstforwomen.com</email>
+                                                  <internet>firstforwomen.com</internet>
+                                             </address-block>
+                                             <found-date>1989</found-date>
+                                             <content-note style="NORMAL">publ. by Bauer Publishing USA</content-note>
+                                             <content-note style="NORMAL">for women aged 45 years and older</content-note>
+                                             <content-note style="NORMAL">every three weeks</content-note>
+                                             <role-group>
+                                                  <role>Editor</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Carol</forename>
+                                                            <surname>Brooks</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <content-note style="NORMAL">circ. 887,652</content-note>
+                                        </org-entry>
+                                   </org-entryref>

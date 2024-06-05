@@ -1,0 +1,36 @@
+<org-entryref id="SL1739058" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1739057" slsdocid="249993" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2135" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INLAND WATERWAYS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>American Waterways Operators</org-entry-name>
+                                                       <abbr>AWO</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>801 N Quincy St, Suite 500, Arlington, VA 22203</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(703) 841-9300</telephone>
+                                                       <email>info@americanwaterways.com</email>
+                                                       <internet>americanwaterways.com</internet>
+                                                  </address-block>
+                                                  <found-date>1944</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jennifer A.</forename>
+                                                                 <surname>Carpenter</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Rick</forename>
+                                                                 <surname>Iuliucci</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,37 @@
+<org-entryref id="SL262450" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262449" slsdocid="250106" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2024" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="UTILITIES">
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Rural Water Association</org-entry-name>
+                                                       <abbr>NRWA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2915 S 13th St, Duncan, OK 73533</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(580) 252-0629</telephone>
+                                                       <fax>(580) 255-4476</fax>
+                                                       <email>webmaster@nrwa.org</email>
+                                                       <internet>nrwa.org</internet>
+                                                  </address-block>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>John</forename>
+                                                                 <surname> O'Connell</surname>
+                                                                 <gen-name>III</gen-name>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Matt</forename>
+                                                                 <surname>Holmes</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

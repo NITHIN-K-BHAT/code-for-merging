@@ -1,0 +1,35 @@
+<org-entryref id="SL2149010" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2149009" slsdocid="249141" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1401" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Gale</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>27555 Executive Dr., Suite 350, Farmington Hills, MI 48331</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 877-4253</telephone>
+                                             <fax>(877) 363-4253</fax>
+                                             <email>gale.customerexperience@cengage.com</email>
+                                             <internet>gale.com</internet>
+                                        </address-block>
+                                        <found-date>1954</found-date>
+                                        <content-note style="NORMAL">division of Cengage</content-note>
+                                        <content-note style="NORMAL">reference</content-note>
+                                        <role-group>
+                                             <role>Sr Vice-Pres</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Terry</forename>
+                                                       <surname>Robinson</surname>
+                                                  </person-name>
+                                             </person>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Paul</forename>
+                                                       <surname>Gazzolo</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,38 @@
+<org-entryref id="SL7799515" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799514" slsdocid="7799388" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1637858051" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Periodicals" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Wings</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>105 Donly Dr., POB 530, South Simcoe, ON N3Y 4N5</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(888) 599-2228</telephone>
+                                                       <fax>(519) 429-3094</fax>
+                                                       <email>mmcanulty@annexbusinessmedia.com</email>
+                                                       <internet>wingsmagazine.com</internet>
+                                                  </address-block>
+                                                  <found-date>1957</found-date>
+                                                  <frequency>6 a year</frequency>
+                                                  <content-note style="NORMAL">corporate, commercial and military aviation</content-note>
+                                                  <role-group>
+                                                       <role>Group Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Martin</forename>
+                                                                 <surname>McAnulty</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jon</forename>
+                                                                 <surname>Robinson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

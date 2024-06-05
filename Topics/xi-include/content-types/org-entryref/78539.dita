@@ -1,0 +1,35 @@
+<org-entryref id="SL8924616" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8924615" slsdocid="78539" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.1055" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="RAILWAYS">
+                                                       
+                                                       <data-protection date-added="25.08.2015" ticked-box="Y" />
+                                                       <org-entry-head>
+                                                            <org-entry-name>Ontario Northland</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>555 Oak St E, North Bay, ON P1B 8L3</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(705) 472-4500</telephone>
+                                                            <fax>(705) 476-5598</fax>
+                                                            <email>info@ontarionorthland.ca</email>
+                                                            <internet>ontarionorthland.ca</internet>
+                                                       </address-block>
+                                                       <found-date>1902</found-date>
+                                                       <content-note style="NORMAL">agency of Govt of Ontario</content-note>
+                                                       <stats>
+                        operates freight and passenger rail services over 
+                        
+                        1,086 km (675 miles) of track
+                      </stats>
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Alan</forename>
+                                                                      <surname>Spacek</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

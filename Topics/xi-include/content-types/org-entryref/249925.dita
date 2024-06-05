@@ -1,0 +1,45 @@
+<org-entryref id="SL1733044" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1733043" slsdocid="249925" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <org-entry id="US.DIR.563" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Libertarian Party</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>1444 Duke St, Alexandria, VA 22314-3403</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(800) 353-2887</telephone>
+                                        <email>info@lp.org</email>
+                                        <internet>lp.org</internet>
+                                   </address-block>
+                                   <found-date>1971</found-date>
+                                   <content-note style="NORMAL">advocates individual freedom, smaller govt and fewer taxes</content-note>
+                                   <role-group>
+                                        <role>Nat. Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Angela</forename>
+                                                  <surname>McArdle</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Sec.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Caryn Ann</forename>
+                                                  <surname>Harlos</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Treas.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Todd</forename>
+                                                  <surname>Hagopian</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>

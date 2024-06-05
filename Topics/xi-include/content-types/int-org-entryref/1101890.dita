@@ -1,0 +1,51 @@
+<int-org-entryref id="SL1115966" int-org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1115965" slsdocid="1101890" slsdocty="int-org-entry int-org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <int-org-entry id="WB02047.IO.TXT.200305091617" id-root="int-org_eu" iso="" print-style="COLUMN" sllink="SLSDOC" slsdocrf="INT-ORG-ENTRYREF" usage="ewyb edio casee">
+                    <int-org-entry-head>
+                         <int-org-name-group type="MAIN">
+                              <org-entry-name>Committee of the Regions </org-entry-name>
+                              <abbr>CoR</abbr>
+                         </int-org-name-group>
+                    </int-org-entry-head>
+                    <int-org-block>
+                         <address-block>
+                              <address type="POSTAL">
+                                   <verbatim-address>Bãtiment Jacques Delors, 99–101 rue Belliard, 1040 Brussels</verbatim-address>
+                              </address>
+                              <telephone alsofax="N">(2) 282-22-11</telephone>
+                              
+                              
+                              <internet>www.cor.europa.eu</internet>
+                         </address-block>
+                         <p id="WB02047.IO.TXT.354" usage="ewyb edio casee">The Treaty on European Union provided for a committee to be established, with advisory status, comprising representatives of regional and local bodies throughout the EU. The first meeting of the CoR was held in March 1994. It may be consulted on EU proposals concerning economic and social cohesion, trans-European networks, public health, education and culture, and may issue an opinion on any issue with regional implications. The CoR meets in plenary session up to six times a year.</p>
+                         <p>The entry into force of the Lisbon Treaty, in December 2009, empowered the CoR, on the basis of a simple majority vote, to challenge at the European Court of Justice any new EU legislation—relating to the policy areas where the Committee may be consulted—that is deemed to infringe the principle of `subsidiarity’, i.e. that decisions should be taken as closely as possible to the citizens.</p>
+                         <p id="WB02047.IO.TXT.355" usage="ewyb edio casee">The number of members of the CoR is currently 329. Members are appointed for a term of five years by the Council, acting unanimously on proposals from the respective member states. The Committee elects its principal officers from among its members. The President and Vice-President serve a 30-month term of office.</p>
+                         <dir-list>
+                              <dir-entry id="WB02047.IO.TXT.356" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb edio casee">
+                                   <dir-entry-name>President</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Vasco</forename>
+                                                  <surname>Alves Cordeiro</surname>
+                                             </person-name>
+                                             <person-note>Portugal</person-note>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                              <dir-entry id="WB02047.IO.TXT.357" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb edio">
+                                   <dir-entry-name>Secretary-General</dir-entry-name>
+                                   <person-group>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Petr</forename>
+                                                  <surname>Blížkovský</surname>
+                                             </person-name>
+                                             <person-note>Czech Republic</person-note>
+                                        </person>
+                                   </person-group>
+                              </dir-entry>
+                         </dir-list>
+                    </int-org-block>
+               </int-org-entry>
+          </int-org-entryref>

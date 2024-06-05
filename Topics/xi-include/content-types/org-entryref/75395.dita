@@ -1,0 +1,25 @@
+<org-entryref id="SL96004" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="96003" slsdocid="75395" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry country-id="us" id="BE.DIR.260" id-root="be.dir" iso="be" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN BELGIUM">
+                                             <org-entry-head>
+                                                  <org-entry-name>USA</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>27 blvd du Régent, 1000 Brussels</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 811-40-00</telephone>
+                                                  <fax>(2) 811-45-00</fax>
+                                                  <internet>be.usembassy.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Ambassador</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Michael M.</forename>
+                                                            <surname>Adler</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

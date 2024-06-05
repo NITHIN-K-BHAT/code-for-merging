@@ -1,0 +1,27 @@
+<org-entryref id="SL234520" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="234519" slsdocid="217419" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="PL.DIR.227" id-root="pl.dir" iso="pl" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN POLAND">
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>00-540 Warsaw, Al. Ujazdowskie 29/31</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(22) 5042000</telephone>
+                                             <fax>(22) 5042688</fax>
+                                             <email>publicwrw@state.gov</email>
+                                             <internet>pl.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mark</forename>
+                                                       <surname>Brzeziński</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

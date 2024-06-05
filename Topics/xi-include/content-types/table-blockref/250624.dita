@@ -1,0 +1,68 @@
+<table-blockref id="SL4391676" sllink="SLSDOCRF" sllinkid="4391675" slsdocid="250624" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                         
+                         <table-block id="US.DIR.283A" id-root="us.dir" iso="us" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER">
+                              <table-heading>
+              Presidential Election, 3 November 2020
+              <endnoteref idref="US.DIR.20210601A" ref-symbol="*" />
+                              </table-heading>
+                              <table style="WITH-RULES">
+                                   <tgroup cols="4">
+                                        <colspec colwidth="8.00cm" />
+                                        <colspec colname="COLSPEC4" colwidth="4.00cm" />
+                                        <colspec colname="COLSPEC3" colwidth="4.00cm" />
+                                        <colspec colwidth="4.00cm" />
+                                        <thead>
+                                             <row>
+                                                  <entry align="left" style="NO-DOT-LEADER" />
+                                                  <entry align="right" style="NO-DOT-LEADER">Popular Votes</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">% </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">
+                                                       
+                      Electoral College votes
+                    </entry>
+                                             </row>
+                                        </thead>
+                                        <tbody>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Joe Biden (Democrat)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">80,883,689</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">51.04</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">306</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">Donald Trump (Republican)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">73,920,380</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">46.64</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">232</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">Jo Jorgensen (Libertarian)</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">1,761,401</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">1.11</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                             </row>
+                                             <row>
+                                                  <entry style="DOT-LEADER">
+                      Others
+                      <endnoteref idref="US.DIR.20210602A" ref-symbol="†" />
+                                                  </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">1,916,218</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">1.21</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                             </row>
+                                             <row>
+                                                  <entry align="left" style="DOT-LEADER">
+                                                       <b>Total</b>
+                                                  </entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">158,481,688</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">100.00</entry>
+                                                  <entry align="right" style="NO-DOT-LEADER">538</entry>
+                                             </row>
+                                        </tbody>
+                                   </tgroup>
+                              </table>
+                              <content-note style="NORMAL">Note: The party designations and identifying labels listed above were the principal ones associated with each of the named candidates, but were not used in all states.</content-note>
+                              <endnote id="US.DIR.20210601A" ref-symbol="*">Including the decision of the Electoral College on 6–7 January 2021, which met to confirm the results of the popular voting.</endnote>
+                              <endnote id="US.DIR.20210602A" ref-symbol="†">Including write-in candidates, votes against all candidates, blank votes, void votes, under votes and over votes in certain states. In New York, the candidate of the Democratic Party stood additionally under the designation of Working Families, and that of the Republican Party additionally under the designation of Conservative; votes cast for the latter designations are in each case included under `others’.</endnote>
+                         </table-block>
+                    </table-blockref>

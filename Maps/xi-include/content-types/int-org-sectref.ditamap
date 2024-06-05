@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+    <booktitle>
+        <mainbooktitle>int-org-sectref</mainbooktitle>
+    </booktitle>
+    <chapter id="1103219" navtitle="1103219">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-activities-european-union.dita"/>
+    </chapter>
+    <chapter id="1103229" navtitle="1103229">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-activities-european-union.dita"/>
+    </chapter>
+    <chapter id="1103238" navtitle="1103238">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-activities-european-union.dita"/>
+    </chapter>
+    <chapter id="1103261" navtitle="1103261">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-activities-european-union.dita"/>
+    </chapter>
+    <chapter id="1103263" navtitle="1103263">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-activities-european-union.dita"/>
+    </chapter>
+    <chapter id="1103267" navtitle="1103267">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-activities-european-union.dita"/>
+    </chapter>
+    <chapter id="1103270" navtitle="1103270">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-activities-european-union.dita"/>
+    </chapter>
+    <chapter id="1103274" navtitle="1103274">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-activities-european-union.dita"/>
+    </chapter>
+    <chapter id="1103278" navtitle="1103278">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-activities-european-union.dita"/>
+    </chapter>
+    <chapter id="1103280" navtitle="1103280">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-activities-european-union.dita"/>
+    </chapter>
+    <chapter id="1103324" navtitle="1103324">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-activities-european-union.dita"/>
+    </chapter>
+    <chapter id="1103327" navtitle="1103327">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-activities-european-union.dita"/>
+    </chapter>
+    <chapter id="1103334" navtitle="1103334">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-activities-european-union.dita"/>
+    </chapter>
+    <chapter id="1103340" navtitle="1103340">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-activities-european-union.dita"/>
+    </chapter>
+    <chapter id="1103350" navtitle="1103350">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-activities-european-union.dita"/>
+    </chapter>
+    <chapter id="1103382" navtitle="1103382">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-external-relations-european-union.dita"/>
+    </chapter>
+    <chapter id="2883803" navtitle="2883803">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-external-relations-european-union.dita"/>
+    </chapter>
+    <chapter id="1103440" navtitle="1103440">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-external-relations-european-union.dita"/>
+    </chapter>
+    <chapter id="1103443" navtitle="1103443">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-external-relations-european-union.dita"/>
+    </chapter>
+    <chapter id="2824092" navtitle="2824092">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-external-relations-european-union.dita"/>
+    </chapter>
+    <chapter id="1103447" navtitle="1103447">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-external-relations-european-union.dita"/>
+    </chapter>
+    <chapter id="1103450" navtitle="1103450">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-external-relations-european-union.dita"/>
+    </chapter>
+    <chapter id="2839731" navtitle="2839731">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-external-relations-european-union.dita"/>
+    </chapter>
+    <chapter id="1103453" navtitle="1103453">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-external-relations-european-union.dita"/>
+    </chapter>
+    <chapter id="1103459" navtitle="1103459">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-external-relations-european-union.dita"/>
+    </chapter>
+    <chapter id="1103465" navtitle="1103465">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-external-relations-european-union.dita"/>
+    </chapter>
+    <chapter id="1103475" navtitle="1103475">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-finance.dita"/>
+    </chapter>
+    <chapter id="1103485" navtitle="1103485">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-finance.dita"/>
+    </chapter>
+    <chapter id="1103503" navtitle="1103503">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-finance.dita"/>
+    </chapter>
+    <chapter id="1117683" navtitle="1117683">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-finance.dita"/>
+    </chapter>
+    <chapter id="1117694" navtitle="1117694">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-finance.dita"/>
+    </chapter>
+    <chapter id="1115680" navtitle="1115680">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/eu.io-european-union-fundamental-other-treaties.dita"/>
+    </chapter>
+    <chapter id="1101769" navtitle="1101769">
+        <topicref href="../../../Topics/Region/int-org-entry/content-types/int-org-entry/wb02047.io.txt.dita"/>
+    </chapter>
+</bookmap>

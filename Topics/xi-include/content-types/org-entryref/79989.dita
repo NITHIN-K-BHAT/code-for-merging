@@ -1,0 +1,30 @@
+<org-entryref id="SL103618" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="103617" slsdocid="79989" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="ca" id="CH.DIR.74" id-root="ch.dir" iso="ch" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN SWITZERLAND">
+                                        
+                                        
+                                        
+                                        <data-protection date-added="02.09.2009" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Kirchenfeldstr. 88, 3005 Bern</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">313573200</telephone>
+                                             <fax>313573210</fax>
+                                             <email>bern@international.gc.ca</email>
+                                             <internet>www.international.gc.ca/country-pays/switzerland-suisse/index.aspx?lang=eng</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Patrick</forename>
+                                                       <surname>Wittmann</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

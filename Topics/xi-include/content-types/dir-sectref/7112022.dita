@@ -1,0 +1,36 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8926956" sllink="SLSDOCRF" sllinkid="8926955" slsdocid="7112022" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <dir-section id="CA.DIR.1589878656" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                                   <heading>Sikhism</heading>
+                                   <p>According to census figures, there were some 771,790 Sikhs in Canada in 2021.</p>
+                                   <org-list>
+                                        <org-entryref id="SL7112026" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7112025" slsdocid="1139441" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1107265327" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SIKHISM" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>World Sikh Organization of Canada</org-entry-name>
+                                                       <abbr>WSO Canada</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1181 Cecil Ave, Ottawa, ON K1H 7Z6</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 904-9110</telephone>
+                                                       <email>info@worldsikh.org</email>
+                                                       <internet>worldsikh.org</internet>
+                                                  </address-block>
+                                                  <found-date>1984</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tejinder Singh</forename>
+                                                                 <surname>Sidhu</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                         </dir-sectref>

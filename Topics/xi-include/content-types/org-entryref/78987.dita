@@ -1,0 +1,31 @@
+<org-entryref id="SL6909028" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6909027" slsdocid="78987" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.567" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>NWT News/North</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>POB 2820, Yellowknife, NT X1A 2R1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(867) 873-4031</telephone>
+                                                       <fax>(867) 873-8507</fax>
+                                                       <internet>nnsl.com/nwtnewsnorth</internet>
+                                                  </address-block>
+                                                  <found-date>
+                      1945 as 
+                      <i>News/North</i>
+                                                  </found-date>
+                                                  <content-note style="NORMAL">published by Northern News Services</content-note>
+                                                  <frequency>weekly</frequency>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mike W.</forename>
+                                                                 <surname>Bryant</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

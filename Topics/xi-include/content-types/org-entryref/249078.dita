@@ -1,0 +1,28 @@
+<org-entryref id="SL1745316" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745315" slsdocid="249078" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1458" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>Rand McNally</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>8770 W Bryn Mawr Ave, Chicago, IL 60631</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(877) 446-4863</telephone>
+                                             <email>mediarelations@randmcnally.com</email>
+                                             <internet>randmcnally.com</internet>
+                                        </address-block>
+                                        <found-date>1856</found-date>
+                                        <content-note style="NORMAL">maps, atlases, travel guides and educational</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Aaron</forename>
+                                                       <surname>Dannenbring</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

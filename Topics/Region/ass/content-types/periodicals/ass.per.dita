@@ -1,0 +1,3113 @@
+<?xml version="1.0"?>
+<periodicals id="ASS.PER" id-root="ass.per" usage="ass" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+     <heading>Select Bibliography (Periodicals)</heading>
+     <alt-heading type="SECTION-LONG-UPPERCASE" usage="ass">Regional Information</alt-heading>
+     <alt-heading type="COUNTRY-SHORT-TITLECASE" usage="ass">Select Bibliography (Periodicals)</alt-heading>
+     <org-list>
+          <org-entry id="ASS.PER.5" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <data-protection date-added="27.08.2009" ticked-box="Y" />
+               <org-entry-head>
+                    <org-entry-name>Africa</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>International African Institute, SOAS, Thornhaugh St, Russell Sq., London, WC1H 0XG, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 7898-4420</telephone>
+                    <email>africa@internationalafricaninstitute.org</email>
+                    <internet>www.internationalafricaninstitute.org</internet>
+               </address-block>
+               <found-date>1928</found-date>
+               <content-note style="NORMAL">study of African societies and culture</content-note>
+               <role-group>
+                    <role>Co-Editors</role>
+                    <person>
+                         <person-name>
+                              <forename>Julie</forename>
+                              <surname>Archambault</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <title>Dr</title>
+                              <forename>Maxim</forename>
+                              <surname>Bolt</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <title>Prof.</title>
+                              <forename>Joost</forename>
+                              <surname>Fontein</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Asonzeh</forename>
+                              <surname>Ukah</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>5 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.7" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Africa Confidential</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Asempa Ltd, Vine House, Fair Green, Reach, Cambridge, CB25 0JD, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(1638) 743633</telephone>
+                    <email>subscriptions@africa-confidential.com</email>
+                    <internet>www.africa-confidential.com</internet>
+               </address-block>
+               <found-date>1960</found-date>
+               <content-note style="NORMAL">political, economic and security news and analysis on Africa</content-note>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Patrick</forename>
+                              <surname>Smith</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>fortnightly</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.9" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Africa Development</org-entry-name>
+                    <alt-name>Afrique et Développement</alt-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Council for the Development of Social Science Research in Africa (CODESRIA), ave Cheikh Anta Diop, Canal IV, BP 3304, Dakar 18524, Senegal</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">33-825-9822</telephone>
+                    <email>publications@codesria.org</email>
+                    <internet>journals.codesria.org/index.php/ad</internet>
+               </address-block>
+               <found-date>1976</found-date>
+               <content-note style="NORMAL">in French and English</content-note>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <forename>Godwin Rapando</forename>
+                              <surname>iMurunga</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>quarterly</frequency>
+          </org-entry>
+          <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Africa Education Review</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxfordshire, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/raer20</internet>
+               </address-block>
+               <found-date>1972 as Educare</found-date>
+               <role-group>
+                    <role>Interim Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <title>Prof.</title>
+                              <forename>V. G.</forename>
+                              <surname>Gasa</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>6 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.12" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <data-protection date-added="20.08.2008" ticked-box="Y" />
+               <org-entry-head>
+                    <org-entry-name>Africa Health</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>
+            African Centre for Global Health and Social Transformation, Plot 13
+            <sc>b</sc>
+            , Acacia Ave, POB 9974, Kampala, Uganda
+          </verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(41) 4237225</telephone>
+                    <email>africahealth@achest.org</email>
+                    <internet>africa-health.com</internet>
+               </address-block>
+               <found-date>1978</found-date>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Bryan</forename>
+                              <surname>Pearson</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>6 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.13" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Africa Insight</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Africa Institute of South Africa, HSRC Bldg, 134 Pretorious St, Pretoria 0002, South Africa</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(12) 3022000</telephone>
+                    <email>publish@hsrc.ac.za</email>
+                    <internet>www.ajol.info/index.php/ai</internet>
+               </address-block>
+               <found-date>1971</found-date>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Solani</forename>
+                              <surname>Ngobeni</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>quarterly</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.16" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <data-protection date-added="05.08.2009" ticked-box="Y" />
+               <org-entry-head>
+                    <org-entry-name>Africa Renewal/Afrique Renouveau</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Africa Section, Dept of Global Communications, 10th Floor, United Nations, New York, NY 10017, USA</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(212) 963-6857</telephone>
+                    <email>africarenewal@un.org</email>
+                    <internet>www.un.org/africarenewal</internet>
+               </address-block>
+               <found-date>1987</found-date>
+               <content-note style="NORMAL">fmrly Africa Recovery</content-note>
+               <content-note style="NORMAL">in English and French</content-note>
+               <role-group>
+                    <role>Man. Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Kingsley</forename>
+                              <surname>Ighobor</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>quarterly</frequency>
+          </org-entry>
+          <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>The Africa Report</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>57 bis rue d’Auteuil, 75016 Paris, France</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">1-87-64-05-68</telephone>
+                    <email>editorial@theafricareport.com</email>
+                    <internet>www.theafricareport.com</internet>
+               </address-block>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <forename>Patrick</forename>
+                              <surname>Smith</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <role-group>
+                    <role>Man. Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Nicholas</forename>
+                              <surname>Norbrook</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+          </org-entry>
+          <org-entry id="ASS.PER.17" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <data-protection date-added="05.08.2009" ticked-box="Y" />
+               <org-entry-head>
+                    <org-entry-name>Africa Research Bulletin</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>6 Kiddicott, Crediton, Devon, EX17 2AY, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(1363) 775207</telephone>
+                    <email>editors@africaresearch.co.uk</email>
+                    <internet>onlinelibrary.wiley.com/journal/1467825x</internet>
+               </address-block>
+               <found-date>1964</found-date>
+               <content-note style="NORMAL">separate bulletins on political and economic topics</content-note>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Veronica</forename>
+                              <surname>Hoskins</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>monthly</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.43" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <data-protection date-added="26.06.2007" ticked-box="Y" />
+               <org-entry-head>
+                    <org-entry-name>Africa Spectrum</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>German Institute of Global and Area Studies, Institute of African Affairs, Neuer Jungfernstieg 21, Hamburg 20354, Germany</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(40) 42887418</telephone>
+                    <email>africa-spectrum@giga-hamburg.de</email>
+                    <internet>journals.sagepub.com/home/afr</internet>
+               </address-block>
+               <found-date>1966</found-date>
+               <content-note style="NORMAL">articles in English</content-note>
+               <role-group>
+                    <role>Editors-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <forename>Tim</forename>
+                              <surname>Glawion</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Martha</forename>
+                              <surname>Johnson</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>3 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.2105081217" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Africa Today</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>AMC House, 3rd Floor, Suite 6, 12 Cumberland Ave, London, NW10 7QL, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8838-5900</telephone>
+                    <email>publisher@africatoday.com</email>
+                    <internet>www.africatoday.com</internet>
+               </address-block>
+               <found-date>1995</found-date>
+               <role-group>
+                    <role>Founder and Publr</role>
+                    <person>
+                         <person-name>
+                              <forename>Kayode</forename>
+                              <surname>Soyinka</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>monthly</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.105445358889765" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Africa Today</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>355 N Eagleson Ave, SGIS GA 3081, Indiana University, Bloomington, IN 47405, USA</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(812) 855-8817</telephone>
+                    <email>afrtoday@indiana.edu</email>
+                    <internet>www.iupress.org/journals/africatoday</internet>
+               </address-block>
+               <found-date>1954</found-date>
+               <role-group>
+                    <role>Editors</role>
+                    <person>
+                         <person-name>
+                              <forename>Nana</forename>
+                              <surname>Amoah-Ramey</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Sergio</forename>
+                              <surname>Fernandez</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Maria</forename>
+                              <surname>Grosz-Ngaté</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Lauren&#160;M.</forename>
+                              <surname>Maclean</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Allison</forename>
+                              <surname>Martino</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Beth Lewis</forename>
+                              <surname>Samuelson</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Esi</forename>
+                              <surname>Thompson</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>quarterly</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.20" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <data-protection date-added="28.08.2008" ticked-box="Y" />
+               <org-entry-head>
+                    <org-entry-name>African Administrative Studies</org-entry-name>
+                    <alt-name>Cahiers Africains d’Administration</alt-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Centre Africain de Formation et de Recherche Administratives pour le Développement (CAFRAD), blvd Mohammed V, Pavillon International, BP 1796, Tangier, 90001 Morocco</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(53) 9322707</telephone>
+                    <email>cafrad@cafrad.org</email>
+                    <internet>cafrad.international</internet>
+               </address-block>
+               <found-date>1964</found-date>
+               <content-note style="NORMAL">in English and French</content-note>
+               <frequency>biannual</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.21" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>African Affairs</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Royal African Society, SOAS, 10 Thornhaugh St, London, WC1H 0XG</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 7074-5176</telephone>
+                    <email>ras@soas.ac.uk</email>
+                    <internet>royalafricansociety.org</internet>
+               </address-block>
+               <found-date>1901</found-date>
+               <content-note style="NORMAL">politics and international relations of sub-Saharan Africa</content-note>
+               <role-group>
+                    <role>Co-Editors</role>
+                    <person>
+                         <person-name>
+                              <forename>Ambreena</forename>
+                              <surname>Manji</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>George</forename>
+                              <surname>Bob-Milliar</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Scott</forename>
+                              <surname>Straus</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Jonathan</forename>
+                              <surname>Fisher</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>quarterly</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.3007091024" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <!--VD 20.09.2023 journal page under construction-->
+               <org-entry-head>
+                    <org-entry-name>African Agenda</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Third World Network-Africa, 9 Asmara St, East Legon, POB AN19452, Accra, Ghana</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(30) 2511189</telephone>
+                    <email>africanagenda@twnafrica.org</email>
+                    <internet>twnafrica.org</internet>
+               </address-block>
+               <found-date>1994</found-date>
+               <content-note style="NORMAL">analysis of economic and social issues</content-note>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <forename>Yao</forename>
+                              <surname>Graham</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Cornelius</forename>
+                              <surname>Adedze</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+          </org-entry>
+          <org-entry id="ASS.PER.22" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <data-protection date-added="30.10.2006" ticked-box="Y" />
+               <org-entry-head>
+                    <org-entry-name>African Arts</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>
+            James S. Coleman African Studies Center, 10244
+            <sc>a</sc>
+             Bunche Hall, Box 951310, University of California, Los Angeles, CA 90095-1310, USA
+          </verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(310) 825-1218</telephone>
+                    <email>afriartsedit@international.ucla.edu</email>
+                    <internet>www.international.ucla.edu/asc/africanarts</internet>
+               </address-block>
+               <found-date>1967</found-date>
+               <content-note style="NORMAL">promotes research and critical discourse on traditional, contemporary and popular African arts and expressive cultures</content-note>
+               <role-group>
+                    <role>Exec. Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Leslie Ellen</forename>
+                              <surname>Jones</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>quarterly</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.21092010" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>African and Black Diaspora</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/rabd20</internet>
+               </address-block>
+               <found-date>2008</found-date>
+               <content-note style="NORMAL">research on the lived experiences of people of African descent across the globe</content-note>
+               <role-group>
+                    <role>Editors</role>
+                    <person>
+                         <person-name>
+                              <title>Dr</title>
+                              <forename>Fassil</forename>
+                              <surname>Demissie</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <title>Dr</title>
+                              <forename>Sandra</forename>
+                              <surname>Jackson</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>3 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.23" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>The African Book Publishing Record</org-entry-name>
+                    <abbr>ABPR</abbr>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Petit Bersac, 24600 Ribérac, France</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">5-53-90-55-76</telephone>
+                    <email>africanbookpublishingrecord@gmail.com</email>
+                    <internet>www.degruyter.com/view/j/abpr</internet>
+               </address-block>
+               <found-date>1975</found-date>
+               <content-note style="NORMAL">bibliographic listings, book and journal reviews, news, reports and articles on book trade activities in Africa</content-note>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Cécile</forename>
+                              <surname>Lomer</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>4 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.24" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <data-protection date-added="10.06.2005" ticked-box="Y" />
+               <org-entry-head>
+                    <org-entry-name>African Business</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>7 Coldbath Sq., London, EC1R 4LQ, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 7841-3210</telephone>
+                    <email>editorial@icpublications.com</email>
+                    <internet>african.business</internet>
+               </address-block>
+               <found-date>1978</found-date>
+               <content-note style="NORMAL">economics, business, commerce and finance</content-note>
+               <content-note style="NORMAL">
+        sister publs include 
+        <i>New African Magazine</i>
+         and 
+        <i>Magazine de l’Afrique</i>
+               </content-note>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>David</forename>
+                              <surname>Thomas</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>monthly</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.27" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <data-protection date-added="28.08.2008" ticked-box="Y" />
+               <org-entry-head>
+                    <org-entry-name>African Farming and Food Processing</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Alain Charles Publishing Ltd, University House, 11–13 Lower Grosvenor Pl., London, SW1W 0EX, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 7834-7676</telephone>
+                    <email>post@alaincharles.com</email>
+                    <internet>www.africanfarming.net</internet>
+               </address-block>
+               <found-date>1980</found-date>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Madhuri</forename>
+                              <surname>Ramesh</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>6 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.1415180609" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>African Finance Journal</org-entry-name>
+                    <abbr>AFJ</abbr>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>The Cliffs Unit 13 Tygerfalls Niagara Way Bellville 7535, Cape Town, South Africa</verbatim-address>
+                    </address>
+                    <address type="POSTAL">
+                         <verbatim-address>POB 3628, Bellville 7536, South Africa</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(21) 9146778</telephone>
+                    <email>afj@africagrowth.com</email>
+                    <internet>www.africagrowth.com/afj.htm</internet>
+               </address-block>
+               <found-date>1999</found-date>
+               <content-note style="NORMAL">publ. by the Africagrowth Institute and the African Finance Asscn</content-note>
+               <content-note style="NORMAL">finance, accounting and economics</content-note>
+               <role-group>
+                    <role>Exec. Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Nicholas</forename>
+                              <surname>Biekpe</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <role-group>
+                    <role>Co-Editors</role>
+                    <person>
+                         <person-name>
+                              <forename>Kalu</forename>
+                              <surname>Ojah</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Issouf</forename>
+                              <surname>Soumaré</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>biannual</frequency>
+          </org-entry>
+          <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>African Historical Review</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/rahr20</internet>
+               </address-block>
+               <found-date>1969 as Kleio: A Journal of Historical Studies from Africa</found-date>
+               <content-note style="NORMAL">present name adopted in 2007</content-note>
+               <role-group>
+                    <role>Interim Editor</role>
+                    <person>
+                         <person-name>
+                              <title>Dr</title>
+                              <forename>Sipokazi</forename>
+                              <surname>Madida</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>biannual</frequency>
+          </org-entry>
+          <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>African Identities</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/cafi20</internet>
+               </address-block>
+               <found-date>2003</found-date>
+               <content-note style="NORMAL">social, political and cultural expressions of African identity</content-note>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Pal</forename>
+                              <surname>Ahluwalia</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>4 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.1030111207" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <data-protection date-added="05.08.2009" ticked-box="Y" />
+               <org-entry-head>
+                    <org-entry-name>African Journal of AIDS Research</org-entry-name>
+                    <abbr>AJAR</abbr>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/raar20</internet>
+               </address-block>
+               <found-date>2002</found-date>
+               <content-note style="NORMAL">co-publ. with NISC (Pty) Ltd, South Africa</content-note>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <forename>Alan</forename>
+                              <surname>Whiteside</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>4 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.1405180609" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>African Journal on Conflict Resolution</org-entry-name>
+                    <abbr>AJCR</abbr>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>c/o ACCORD, Private Bag X018, Umhlanga Rocks 4320, South Africa</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(31) 5023908</telephone>
+                    <email>info@accord.org.za</email>
+                    <internet>www.accord.org.za/ajcr</internet>
+               </address-block>
+               <found-date>1999</found-date>
+               <content-note style="NORMAL">publ. by the African Centre for the Constructive Resolution of Disputes (ACCORD)</content-note>
+               <content-note style="NORMAL">conflict transformation in Africa</content-note>
+               <role-group>
+                    <role>Chief Editor</role>
+                    <person>
+                         <person-name>
+                              <title>Dr</title>
+                              <forename>Cedric</forename>
+                              <surname>de Coning</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <role-group>
+                    <role>Man. Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Andrea</forename>
+                              <surname>Prah</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>biannual</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.28" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>African Journal of Health Sciences</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Kenya Medical Research Institute, POB 54840, 00200 Nairobi, Kenya</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 2722541</telephone>
+                    <email>africanjournal@kemri.org</email>
+                    <internet>www.kemri.go.ke/african-journal-of-health-sciences</internet>
+               </address-block>
+               <found-date>1994</found-date>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <title>Dr</title>
+                              <forename>Steve</forename>
+                              <surname>Wandiga</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>bimonthly</frequency>
+          </org-entry>
+          <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>African Journal of International and Comparative Law</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>
+            Edinburgh University Press, The Tun-Holyrood Rd, 12-2
+            <sc>f</sc>
+             Jackson’s Entry, Edinburgh, EH8 8PJ, UK
+          </verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(131) 650-4218</telephone>
+                    <email>journals@eup.ed.ac.uk</email>
+                    <internet>www.euppublishing.com/loi/ajicl</internet>
+               </address-block>
+               <found-date>2005</found-date>
+               <content-note style="NORMAL">in English and French</content-note>
+               <role-group>
+                    <role>Gen. Editors</role>
+                    <person>
+                         <person-name>
+                              <title>Prof.</title>
+                              <forename>Rachel</forename>
+                              <surname>Murray</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <title>Dr</title>
+                              <forename> Kofi Oteng</forename>
+                              <surname>Kufuor</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>quarterly</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.32" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>African Review: A Journal of African Politics, Development and International Affairs</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Dept of Political Science and Public Administration, University of Dar es Salaam, POB 35042, Dar es Salaam, Tanzania</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">659632365</telephone>
+                    <email>theafricanreview@udsm.ac.tz</email>
+                    <internet>brill.com/tare</internet>
+               </address-block>
+               <found-date>1971</found-date>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <title>Prof.</title>
+                              <forename>Alexander Boniface</forename>
+                              <surname>Makulilo</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>biannual</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.33" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <data-protection date-added="05.08.2009" ticked-box="Y" />
+               <org-entry-head>
+                    <org-entry-name>African Review of Business and Technology</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Alain Charles Publishing Ltd, University House, 11–13 Lower Grosvenor Pl., London, SW1W 0EX, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 7834-7676</telephone>
+                    <email>post@alaincharles.com</email>
+                    <internet>www.africanreview.com</internet>
+               </address-block>
+               <found-date>1965</found-date>
+               <role-group>
+                    <role>Publr</role>
+                    <person>
+                         <person-name>
+                              <forename>Nick</forename>
+                              <surname>Fordham</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Robert</forename>
+                              <surname>Daniels</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>11 a year</frequency>
+               <frequency>monthly</frequency>
+          </org-entry>
+          <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>African Security</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Taylor &amp; Francis Inc, 530 Walnut St, Suite 850, Philadelphia, PA 19106, USA</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(215) 625-8900</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/uafs20</internet>
+               </address-block>
+               <role-group>
+                    <role>Editors-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <forename>W. Andy</forename>
+                              <surname>Knight</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Temitope</forename>
+                              <surname>Oriola</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>4 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.34" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <data-protection date-added="05.08.2009" ticked-box="Y" />
+               <org-entry-head>
+                    <org-entry-name>African Security Review</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/rasr20</internet>
+               </address-block>
+               <found-date>1992</found-date>
+               <content-note style="NORMAL">human security in Africa</content-note>
+               <content-note style="NORMAL">affiliated with the Institute for Security Studies, South Africa</content-note>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <title>Dr</title>
+                              <forename>Lisa</forename>
+                              <surname>Otto</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <title>Prof.</title>
+                              <forename>Andreas</forename>
+                              <surname>Velthuizen</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>4 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.35" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>African Studies</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/cast20</internet>
+               </address-block>
+               <found-date>1921 as Bantu Studies</found-date>
+               <content-note style="NORMAL">present named adopted in 1942</content-note>
+               <content-note style="NORMAL">social and cultural studies of southern Africa</content-note>
+               <role-group>
+                    <role>Editors</role>
+                    <person>
+                         <person-name>
+                              <forename>Claudia</forename>
+                              <surname>Gastrow</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Khwezi</forename>
+                              <surname>Mkhize</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Senayon</forename>
+                              <surname>Olaoluwa</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Margot</forename>
+                              <surname>Rubin</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>4 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.37" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>African Studies Review</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Rutgers University, 54 Joyce Kilmer Ave, Piscataway, NJ 08854-8045</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(848) 445-8173</telephone>
+                    <email>usjournals@cambridge.org</email>
+                    <internet>www.cambridge.org/core/journals/african-studies-review</internet>
+               </address-block>
+               <found-date>1956</found-date>
+               <content-note style="NORMAL">publ. in association with the African Studies Association (USA)</content-note>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <forename>Cajetan</forename>
+                              <surname>Iheka</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>4 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.44" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <data-protection date-added="05.08.2009" ticked-box="Y" />
+               <org-entry-head>
+                    <org-entry-name>Afrika Süd</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>informationsstelle südliches afrika eV, Königswinterer Str. 116, D-53227 Bonn, Germany</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(228) 464369</telephone>
+                    <email>info@afrika-sued.org</email>
+                    <internet>www.afrika-sued.org</internet>
+               </address-block>
+               <found-date>1972</found-date>
+               <content-note style="NORMAL">political and social issues in southern Africa</content-note>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <forename>Lothar</forename>
+                              <surname>Berger</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>bimonthly</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.45" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <!--https://www.aai.uni-hamburg.de/afrika/ueber-die-abteilung/publikationen/afrika-und-uebersee.html-->
+               <org-entry-head>
+                    <org-entry-name>Afrika und Übersee, Trilingual Journal of African Languages and Cultures</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Asien-Afrika-Institut, Abteilung für Afrikanistik und Äthiopistik, Edmund-Siemers-Allee 1, 20146 Hamburg, Germany</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(40) 428382579</telephone>
+                    <email>afrikaunduebersee@uni-hamburg.de</email>
+                    <internet>journals.sub.uni-hamburg.de/hup1/afrikaunduebersee</internet>
+               </address-block>
+               <found-date>1910 as Zeitschrift für Kolonialsprachen</found-date>
+               <content-note style="NORMAL">African languages and linguistics and their social and historical contexts</content-note>
+               <content-note style="NORMAL">in German, English and French</content-note>
+               <role-group>
+                    <role>Editor-in-chief</role>
+                    <person>
+                         <person-name>
+                              <title>Prof. Dr</title>
+                              <forename>Roland</forename>
+                              <surname>Kiessling</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <role-group>
+                    <role>Co-Editors</role>
+                    <person>
+                         <person-name>
+                              <title>Prof. Dr</title>
+                              <forename>Henning</forename>
+                              <surname>Schreiber</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <title>Prof. Dr</title>
+                              <forename>Ludwig</forename>
+                              <surname>Gerhardt</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>biannual</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.46" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Afrique Agriculture</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>BP 90146, 57004 Metz, Cedex 1, France</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">3-87-69-18-18</telephone>
+                    <internet>www.afrique-agriculture.org</internet>
+               </address-block>
+               <found-date>1975</found-date>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <forename>Antoine</forename>
+                              <surname>Hervé</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>bimonthly</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.47" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Afrique-Asie</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>3 rue de l’Atlas, 75019 Paris, France</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">1-42-38-14-50</telephone>
+                    <internet>www.afrique-asie.fr</internet>
+               </address-block>
+               <found-date>1969</found-date>
+               <role-group>
+                    <role>Dir</role>
+                    <person>
+                         <person-name>
+                              <forename>Majed</forename>
+                              <surname>Nehmé</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>monthly</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.48" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Afrique Contemporaine</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Paris</verbatim-address>
+                    </address>
+                    <email>afcontemporaine@gmail.com</email>
+                    <internet>afrique-contemporaine.cairn.info</internet>
+               </address-block>
+               <found-date>1962</found-date>
+               <content-note style="NORMAL">in French</content-note>
+               <content-note style="NORMAL">publ. by Nouvelle Afrique contemporaine</content-note>
+               <content-note style="NORMAL">political, economic and sociological studies</content-note>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <forename>Pierre</forename>
+                              <surname>Jacquemot</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>annual</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.50" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <!--www.forumae.com-->
+               <org-entry-head>
+                    <org-entry-name>Afrique Expansion</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4629 rue Louis-B-Mayer, Suite 201, Laval, QC, H7P 6G5, Canada</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(450) 902-0527</telephone>
+                    <email>info@afriqueexpansion.com</email>
+                    <internet>afriqueexpansion.com</internet>
+               </address-block>
+               <found-date>1995</found-date>
+               <content-note style="NORMAL">communications</content-note>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Gerba</forename>
+                              <surname>Malam</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+          </org-entry>
+          <org-entry id="ASS.PER.504443333345" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Afrique Magazine</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>31 rue Poussin, 75016 Paris, France</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">1-53-84-41-81</telephone>
+                    <email>redaction@afriquemagazine.com</email>
+                    <internet>afriquemagazine.com</internet>
+               </address-block>
+               <found-date>1983</found-date>
+               <content-note style="NORMAL">African current affairs</content-note>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <forename>Zyad</forename>
+                              <surname>Limam</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>monthly</frequency>
+          </org-entry>
+          <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Agrekon</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/ragr20</internet>
+               </address-block>
+               <content-note style="NORMAL">publ. on behalf of the Agricultural Economics Asscn of South Africa</content-note>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <title>Prof.</title>
+                              <forename>Johann</forename>
+                              <surname>Kirsten</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>4 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.54" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <data-protection date-added="05.08.2009" ticked-box="Y" />
+               <org-entry-head>
+                    <org-entry-name>Botswana Notes and Records</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>The Botswana Society, POB 71, Gaborone, Botswana</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">3919745</telephone>
+                    <email>botsoc@info.bw</email>
+                    <internet>journals.ub.bw/index.php/bnr/index</internet>
+               </address-block>
+               <found-date>1969</found-date>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Christian John</forename>
+                              <surname>Makgala</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>annual</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.55" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <data-protection date-added="26.06.2007" ticked-box="Y" />
+               <org-entry-head>
+                    <org-entry-name>Bulletin of SOAS</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>SOAS, Thornhaugh St, Russell Sq., London, WC1H 0XG, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 7898-4064</telephone>
+                    <email>bsoas@soas.ac.uk</email>
+                    <internet>www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies</internet>
+               </address-block>
+               <found-date>1917</found-date>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <title>Prof.</title>
+                              <forename>Ayman</forename>
+                              <surname>Shihadeh</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>3 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.57" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Cahiers d’Etudes Africaines</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>IMAf-Bãtiment de recherche Sud, 4126, 5 rue des Humanités, 93300 Aubervilliers Cedex, France</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">1-88-12-02-21</telephone>
+                    <email>cahiers-afr@ehess.fr</email>
+                    <internet>journals.openedition.org/etudesafricaines</internet>
+               </address-block>
+               <found-date>1960</found-date>
+               <content-note style="NORMAL">publ. by Éditions de l’EHESS</content-note>
+               <content-note style="NORMAL">in French and English</content-note>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <forename>Eloi</forename>
+                              <surname>Ficquet</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>quarterly</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.58" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Canadian Journal of African Studies</org-entry-name>
+                    <alt-name>Revue canadienne des études africaines</alt-name>
+                    <abbr>CJAS/RCEA</abbr>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RNP, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/rcas20</internet>
+               </address-block>
+               <found-date>1967</found-date>
+               <content-note style="NORMAL">in French and English</content-note>
+               <content-note style="NORMAL">a journal of Canadian Asscn of African Studies</content-note>
+               <role-group>
+                    <role>Co-ordinating Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Belinda</forename>
+                              <surname>Dodson</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <role-group>
+                    <role>Man. Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Martin</forename>
+                              <surname>Evans</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>3 a year</frequency>
+          </org-entry>
+          <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Communicatio</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/rcsa20</internet>
+               </address-block>
+               <found-date>1975</found-date>
+               <content-note style="NORMAL">South African journal for communication theory and research</content-note>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <title>Prof.</title>
+                              <forename>Viola C.</forename>
+                              <surname>Milton</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>4 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.59" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Communications Africa/Afrique</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Alain Charles Publishing Ltd, University House, 11–13 Lower Grosvenor Pl., London, SW1W 0EX, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 7834-7676</telephone>
+                    <email>circulation@alaincharles.com</email>
+                    <internet>www.communicationsafrica.com</internet>
+               </address-block>
+               <found-date>1991</found-date>
+               <content-note style="NORMAL">telecommunications, broadcasting and information technology</content-note>
+               <content-note style="NORMAL">in French and English</content-note>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Vaughan</forename>
+                              <surname>O’Grady</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>bimonthly</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.106" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Contemporary Journal of African Studies</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Institute of African Studies, University of Ghana, POB LG73, Accra, Ghana</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(21) 4979233</telephone>
+                    <email>cjaseditor@ug.edu.gh</email>
+                    <internet>www.ajol.info/index.php/contjas</internet>
+               </address-block>
+               <found-date>1965</found-date>
+               <content-note style="NORMAL">fmrly Research Review of the Institute of African Studies</content-note>
+               <content-note style="NORMAL">present name adopted in 2013</content-note>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <title>Prof.</title>
+                              <forename>Akosua Adomako</forename>
+                              <surname>Ampofo</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>biannual</frequency>
+          </org-entry>
+          <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Critical Arts</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/rcrc20</internet>
+               </address-block>
+               <found-date>1980</found-date>
+               <content-note style="NORMAL">transdisciplinary epistemologies, debates on Africa and the South</content-note>
+               <role-group>
+                    <role>Co-Editors</role>
+                    <person>
+                         <person-name>
+                              <forename>Keyan G.</forename>
+                              <surname>Tomaselli</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Lauren</forename>
+                              <surname>Dyll</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>6 a year</frequency>
+          </org-entry>
+          <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <!--https://onlinelibrary.wiley.com/page/journal/14677679/homepage/editorialboard.html-->
+               <org-entry-head>
+                    <org-entry-name>Development Policy Review</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Overseas Development Institute, 203 Blackfriars Rd, London, SE1 8NJ, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 7922-0300</telephone>
+                    <email>publications@odi.org</email>
+                    <internet>odi.org</internet>
+               </address-block>
+               <found-date>1960</found-date>
+               <role-group>
+                    <role>Lead Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Annalisa</forename>
+                              <surname>Wiggins</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <role-group>
+                    <role>Co-Editors</role>
+                    <person>
+                         <person-name>
+                              <forename>Deborah</forename>
+                              <surname>Eade</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Colin</forename>
+                              <surname>Kirkpatrick</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Steve</forename>
+                              <surname>Wiggins</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>6 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.62" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <data-protection date-added="20.07.2004" ticked-box="Y" />
+               <org-entry-head>
+                    <org-entry-name>Development Southern Africa</org-entry-name>
+                    <abbr>DSA</abbr>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/cdsa20</internet>
+               </address-block>
+               <found-date>1984</found-date>
+               <content-note style="NORMAL">articles on policy solutions to local and regional socioeconomic development challenges in southern Africa</content-note>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Marié</forename>
+                              <surname>Kirsten</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>6 a year</frequency>
+          </org-entry>
+          <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>English Academy Review: Journal of English Studies</org-entry-name>
+                    <abbr>EAR</abbr>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/racr20</internet>
+               </address-block>
+               <found-date>1983</found-date>
+               <content-note style="NORMAL">co-publ. with Unisa Press on behalf of the English Academy of Southern Africa</content-note>
+               <content-note style="NORMAL">articles on language, philosophy and literature from southern Africa and across the globe</content-note>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <forename>Sopelekae</forename>
+                              <surname>Maithufi</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <role-group>
+                    <role>Man. Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Rosemary</forename>
+                              <surname>Gray</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>biannual</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.68" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>English Studies in Africa</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/reia20</internet>
+               </address-block>
+               <found-date>1958</found-date>
+               <content-note style="NORMAL">publ. on behalf of the University of the Witwatersrand</content-note>
+               <content-note style="NORMAL">covers the study of world literature in English within African contexts and promotion of African literature</content-note>
+               <role-group>
+                    <role>Man. Editors</role>
+                    <person>
+                         <person-name>
+                              <forename>Karl van</forename>
+                              <surname>Wyk</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Grace</forename>
+                              <surname>Musila</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>biannual</frequency>
+          </org-entry>
+          <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Estudios de Asia y África</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>El Colegio de México, AC, Carretera Picacho Ajusco 20, Ampliación Fuentes del Pedregal, Tlalpan 14110 Ciudad de México, Mexico</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(55) 5449-3000</telephone>
+                    <email>reaa@colmex.mx</email>
+                    <internet>estudiosdeasiayafrica.colmex.mx/index.php/eaa</internet>
+               </address-block>
+               <found-date>1966 as Estudios Orientales</found-date>
+               <content-note style="NORMAL">present name adopted in 1975</content-note>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Cynthia</forename>
+                              <surname>Godoy</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>quarterly</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.72" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <!--VD 22.09.2023 frequency unclear-->
+               <data-protection date-added="22.09.2009" ticked-box="Y" />
+               <org-entry-head>
+                    <org-entry-name>Horn of Africa Bulletin</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Life and Peace Institute, Kungsängsgatan 17, SE 753 22 Uppsala, Sweden</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(18) 660130</telephone>
+                    <email>info@life-peace.org</email>
+                    <internet>life-peace.org</internet>
+               </address-block>
+               <found-date>1989</found-date>
+               <role-group>
+                    <role>Editorial Leads</role>
+                    <person>
+                         <person-name>
+                              <forename>Aaron</forename>
+                              <surname>Stanley</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Eden</forename>
+                              <surname>Matiyas</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+          </org-entry>
+          <org-entry id="ASS.PER.1407180609" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <!--VD 14.10.2022 http://www.indilinga.org.za/ not working-->
+               <org-entry-head>
+                    <org-entry-name>Indilinga: African Journal of Indigenous Knowledge Systems</org-entry-name>
+                    <abbr>IAJIKS</abbr>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>POB 266, Msunduzi, Pietermaritzburg 3231, South Africa</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(33) 3413447</telephone>
+                    <email>editorinchief@indilinga-jiks.co.za</email>
+                    <internet>journals.co.za/journal/linga</internet>
+               </address-block>
+               <found-date>2002</found-date>
+               <content-note style="NORMAL">issues relating to the transmission and recognition of traditional knowledge systems</content-note>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <title>Prof.</title>
+                              <forename>Mishack</forename>
+                              <surname>Gumbo</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>biannual</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.97" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>International Development Policy</org-entry-name>
+                    <abbr>Revue internationale de politique de développement</abbr>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>CP 1672, 1211 Geneva 1, Switzerland</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(22) 9084364</telephone>
+                    <email>devpol@graduateinstitute.ch</email>
+                    <internet>journals.openedition.org/poldev</internet>
+               </address-block>
+               <found-date>2010</found-date>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <forename>Ugo</forename>
+                              <surname>Panizza</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>2–3 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.75" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>International Journal of African Historical Studies</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>African Studies Center, Boston University, 232 Bay State Rd, Boston, MA 02215, USA</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(617) 353-7306</telephone>
+                    <email>ascpub@bu.edu</email>
+                    <internet>www.bu.edu/africa/publications/ijahs</internet>
+               </address-block>
+               <found-date>
+        1968 as 
+        <i>African Historical Studies</i>
+               </found-date>
+               <content-note style="NORMAL">present name adopted in 1972</content-note>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <title>Dr</title>
+                              <forename>Michael</forename>
+                              <surname>DiBlasi</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>3 a year</frequency>
+          </org-entry>
+          <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>International Journal of African Renaissance Studies</org-entry-name>
+                    <abbr>IJARS</abbr>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/rars20</internet>
+               </address-block>
+               <found-date>2006</found-date>
+               <content-note style="NORMAL">covers multi-, inter- and transdisciplinary approaches in studying the African Renaissance</content-note>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Siphamandla</forename>
+                              <surname>Zondi</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>biannual</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.76" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Jeune Afrique L’Intelligent</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Groupe Jeune Afrique, 57 bis rue d’Auteuil, 75016 Paris, France</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">1-44-30-19-60</telephone>
+                    <email>redaction@jeuneafrique.com</email>
+                    <internet>www.jeuneafrique.com</internet>
+               </address-block>
+               <found-date>1960</found-date>
+               <role-group>
+                    <role>Man. Dir</role>
+                    <person>
+                         <person-name>
+                              <forename>Amir Ben</forename>
+                              <surname>Yahmed</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <forename>Anne</forename>
+                              <surname>Kappès-Grangé</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>monthly</frequency>
+          </org-entry>
+          <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Journal of African Business</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Taylor &amp; Francis Inc, 530 Walnut St, Suite 850, Philadelphia, PA 19106, USA</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(215) 625-8900</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/wjab20</internet>
+               </address-block>
+               <content-note style="NORMAL">official journal of the Academy of African Business and Development</content-note>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Moses</forename>
+                              <surname>Acquaah</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>4 a year</frequency>
+          </org-entry>
+          <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Journal of African Cultural Studies</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RNP, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/cjac20</internet>
+               </address-block>
+               <found-date>1988 as African Languages and Cultures</found-date>
+               <content-note style="NORMAL">present name adopted in 1998</content-note>
+               <content-note style="NORMAL">focuses on African culture, performance arts, visual arts, music, cinema, media, sociolinguistics and gender</content-note>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Carli</forename>
+                              <surname>Coetzee</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>4 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.77" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Journal of African Economies</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Oxford University Press, Great Clarendon St, Oxford, OX2 6DP, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(1865) 353907</telephone>
+                    <email>jnl.info@oup.co.uk</email>
+                    <internet>academic.oup.com/jae</internet>
+               </address-block>
+               <found-date>1992</found-date>
+               <content-note style="NORMAL">publ. on behalf of the Centre for the Study of African Economies, University of Oxford</content-note>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Francis</forename>
+                              <surname>Teal</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>5 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.7755533336678" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Journal of African Elections</org-entry-name>
+                    <abbr>JAE</abbr>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>EISA, POB 740, Auckland Park 2006, South Africa</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(11) 3816000</telephone>
+                    <email>jae@eisa.org</email>
+                    <internet>eisa.org.za/jae.php</internet>
+               </address-block>
+               <found-date>1996</found-date>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Denis</forename>
+                              <surname>Kadima</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>biannual</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.78" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Journal of African History</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>SOAS, Thornhaugh St, Russell Sq., London, WC1H 0XG, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 7637-2388</telephone>
+                    <email>journals@cambridge.org</email>
+                    <internet>www.cambridge.org/core/journals/journal-of-african-history</internet>
+               </address-block>
+               <found-date>1960</found-date>
+               <role-group>
+                    <role>Editors</role>
+                    <person>
+                         <person-name>
+                              <title>Prof.</title>
+                              <forename>Marissa</forename>
+                              <surname>Moorman</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <title>Prof.</title>
+                              <forename>Michelle</forename>
+                              <surname>Moyd</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <title>Prof.</title>
+                              <forename>Moses</forename>
+                              <surname>Ochonu</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>3 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.79" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Journal des Africanistes</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Société des Africanistes, Musée du Quai Branly, 222 rue de l’Université, 75007 Paris, France</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">1-56-61-71-17</telephone>
+                    <email>africanistes@yahoo.fr</email>
+                    <internet>journals.openedition.org/africanistes</internet>
+               </address-block>
+               <found-date>
+        1931 as 
+        <i>Journal de la Société des Africanistes</i>
+               </found-date>
+               <content-note style="NORMAL">present name adopted in 1976</content-note>
+               <content-note style="NORMAL">in English and French</content-note>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <forename>Luc</forename>
+                              <surname>Pecquet</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>biannual</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.80" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Journal of Asian and African Studies</org-entry-name>
+                    <abbr>JAAS</abbr>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>SAGE Publications Ltd, 1 Oliver’s Yard, 55 City Rd, London, EC1Y 1SP, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 7324-8500</telephone>
+                    <internet>journals.sagepub.com/home/jas</internet>
+               </address-block>
+               <found-date>1965</found-date>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Nigel C .</forename>
+                              <surname>Gibson</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>8 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.180220221732" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ass">
+               <org-entry-head>
+                    <org-entry-name>Journal of Black Studies</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>SAGE Publications Ltd, 2455 Teller Rd, Thousand Oaks, CA 91320, USA</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(800) 818-7243</telephone>
+                    <internet>journals.sagepub.com/home/jbs</internet>
+               </address-block>
+               <found-date>1970</found-date>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <forename>Christel</forename>
+                              <surname>Temple</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>bimonthly</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.170820222002" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Journal of Central and Eastern European African Studies</org-entry-name>
+                    <abbr>JCEEAS</abbr>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Africa Research Institute, Doctoral School on Safety and Security Sciences, Óbuda University, Népszínház str. 8, 1081 Budapest, Hungary</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(1) 666-5345</telephone>
+                    <internet>jceeas.bdi.uni-obuda.hu/index.php/jceeas/index</internet>
+               </address-block>
+               <content-note style="NORMAL">covers issues related to modern and contemporary Africa and its historical evolution</content-note>
+               <role-group>
+                    <role>Editorial Head</role>
+                    <person>
+                         <person-name>
+                              <forename>János</forename>
+                              <surname>Besenyő</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <role-group>
+                    <role>Publr</role>
+                    <person>
+                         <person-name>
+                              <forename>Zoltán</forename>
+                              <surname>Rajnai</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>quarterly</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.81" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <data-protection date-added="20.07.2004" ticked-box="Y" />
+               <org-entry-head>
+                    <org-entry-name>Journal of Contemporary African Studies</org-entry-name>
+                    <abbr>JCAS</abbr>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/cjca20</internet>
+               </address-block>
+               <role-group>
+                    <role>Chief Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Nthabiseng</forename>
+                              <surname>Motsemme</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>4 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.82" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>The Journal of Development Studies</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/fjds20</internet>
+               </address-block>
+               <found-date>1964</found-date>
+               <role-group>
+                    <role>Man. Editors</role>
+                    <person>
+                         <person-name>
+                              <forename>Jennifer</forename>
+                              <surname>Brass</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Lisa</forename>
+                              <surname>Chauvet</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Lisa</forename>
+                              <surname>Chauvet</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>David</forename>
+                              <surname>Fielding</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Oliver</forename>
+                              <surname>Morrissey</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Richard</forename>
+                              <surname>Palmer-Jones</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Emmanuel</forename>
+                              <surname>Teitelbaum</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>12 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.1533260607" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Journal of Eastern African Studies</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/rjea20</internet>
+               </address-block>
+               <found-date>2007</found-date>
+               <content-note style="NORMAL">publ. of the British Institute in Eastern Africa</content-note>
+               <role-group>
+                    <role>Man. Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Jason</forename>
+                              <surname>Mosley</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>4 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.84" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <data-protection date-added="10.11.2004" ticked-box="Y" />
+               <org-entry-head>
+                    <org-entry-name>The Journal of Imperial and Commonwealth History</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/fich20</internet>
+               </address-block>
+               <found-date>1972</found-date>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <title>Prof.</title>
+                              <forename>Stephen</forename>
+                              <surname>Howe</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>6 a year</frequency>
+          </org-entry>
+          <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Journal for Islamic Studies</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Dept of Religious Studies and Arabic, WMM Bldg, Rm 6-150, POB 392, Unisa 0003, South Africa</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(21) 6503889</telephone>
+                    <email>rafudma@unisa.ac.za</email>
+                    <internet>humanities.uct.ac.za/contemporary-islam/publications-journal-islamic-studies-jis/overview</internet>
+               </address-block>
+               <found-date>1980</found-date>
+               <content-note style="NORMAL">fmrly publ. by the Centre for Contemporary Islam, University of Cape Town, South Africa</content-note>
+               <content-note style="NORMAL">moved to University of South Africa in 2022</content-note>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Auwais</forename>
+                              <surname>Rafudeen</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>annual</frequency>
+          </org-entry>
+          <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Journal of Islamic Studies</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Oxford Centre for Islamic Studies, Marston Rd, Oxford, OX3 0EE, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(1865) 618500</telephone>
+                    <email>publications@oxcis.ac.uk</email>
+                    <internet>academic.oup.com/jis</internet>
+               </address-block>
+               <found-date>1990</found-date>
+               <content-note style="NORMAL">all aspects of Islam</content-note>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <title>Dr</title>
+                              <forename>Farhan</forename>
+                              <surname>Ahmad Nizami</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <role-group>
+                    <role>Editors</role>
+                    <person>
+                         <person-name>
+                              <title>Dr</title>
+                              <forename>Afifi</forename>
+                              <surname>al-Akiti</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <title>Dr</title>
+                              <forename>Moin Ahmad</forename>
+                              <surname>Nizami</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>3 a year</frequency>
+          </org-entry>
+          <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Journal of Literary Studies</org-entry-name>
+                    <abbr>JLS</abbr>
+                    <alt-name>Tydskrif vir Literatuurwetenskap</alt-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Dept of Afrikaans and Theory of Literature, Winnie Madikizela-Mandela Bldg, 10-80 Unisa, Preller St, Muckleneuk Ridge, Pretoria 0002, South Africa</verbatim-address>
+                    </address>
+                    <email>jls1@unisapressjournals.co.za</email>
+                    <internet>unisapressjournals.co.za/index.php/jls</internet>
+               </address-block>
+               <found-date>1985</found-date>
+               <content-note style="NORMAL">provides a forum for the discussion of literary theory, methodology, research and related matters</content-note>
+               <content-note style="NORMAL">in English and Afrikaans</content-note>
+               <content-note style="NORMAL">fmrly publ. by Taylor &amp; Francis, UK</content-note>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <title>Prof.</title>
+                              <forename>Alan</forename>
+                              <surname>Northover</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>quarterly</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.85" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <data-protection date-added="05.08.2009" ticked-box="Y" />
+               <org-entry-head>
+                    <org-entry-name>Journal of Modern African Studies</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Cambridge University Press, University Printing House, Shaftesbury Rd, Cambridge, CB2 8BS, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(1223) 358331</telephone>
+                    <email>csc34@cam.ac.uk</email>
+                    <internet>www.cambridge.org/core/journals/journal-of-modern-african-studies</internet>
+               </address-block>
+               <found-date>1963</found-date>
+               <content-note style="NORMAL">current issues in African politics, economies, societies and international relations</content-note>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Ebenezer</forename>
+                              <surname>Obadare</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>quarterly</frequency>
+          </org-entry>
+          <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Journal of the Musical Arts in Africa</org-entry-name>
+                    <abbr>JMAA</abbr>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/rmaa20</internet>
+               </address-block>
+               <content-note style="NORMAL">a publ. of the NISC (Pty) Ltd and South African College of Music, University of Cape Town</content-note>
+               <role-group>
+                    <role>Editors-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <forename>Wilhelm</forename>
+                              <surname>Delport</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Anri</forename>
+                              <surname>Herbst</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>biannual</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.86" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>The Journal of Peasant Studies</org-entry-name>
+                    <abbr>JPS</abbr>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/fjps20</internet>
+               </address-block>
+               <found-date>1973</found-date>
+               <role-group>
+                    <role>Editors</role>
+                    <person>
+                         <person-name>
+                              <forename>Shaila Seshia</forename>
+                              <surname>Galvin</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Jacobo</forename>
+                              <surname>Grajales</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Ricardo</forename>
+                              <surname>Jacobs</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Ruth</forename>
+                              <surname>Hall</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Sergio</forename>
+                              <surname>Sauer</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Annie</forename>
+                              <surname>Shattuck</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>7 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.87" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <data-protection date-added="26.06.2007" ticked-box="Y" />
+               <org-entry-head>
+                    <org-entry-name>Journal of Religion in Africa</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Brill, Plantijnstraat 2, 2321 JC, Leiden, Netherlands</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">715353500</telephone>
+                    <email>sales@brill.com</email>
+                    <internet>brill.com/view/journals/jra/jra-overview.xml</internet>
+               </address-block>
+               <found-date>1967</found-date>
+               <role-group>
+                    <role>Exec. Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Elias</forename>
+                              <surname>Bongmba</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>4 a year</frequency>
+          </org-entry>
+          <org-entry id="ZW.DIR.1102954939" id-root="zw.dir" iso="zw" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PERIODICALS">
+               <data-protection date-added="11.03.2008" ticked-box="N" />
+               <org-entry-head>
+                    <org-entry-name>Journal of Social Development in Africa</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>School of Social Work, University of Zimbabwe, Private Bag 66022, Kopje, Harare, Zimbabwe</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(24) 3552682</telephone>
+                    <email>editormanagingeditor@jsda.msu.ac.zw</email>
+                    <!--mupedziswars@yahoo.com-->
+               </address-block>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Victor</forename>
+                              <surname>Muzvidziwa</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>biannual</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.88" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <data-protection date-added="05.08.2009" ticked-box="Y" />
+               <org-entry-head>
+                    <org-entry-name>Journal of Southern African Studies</org-entry-name>
+                    <abbr>JSAS</abbr>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/cjss20</internet>
+               </address-block>
+               <found-date>1974</found-date>
+               <role-group>
+                    <role>Co-Chair.</role>
+                    <person>
+                         <person-name>
+                              <forename>Sara Rich</forename>
+                              <surname>Dorman</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Brian</forename>
+                              <surname>Raftopoulos</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>6 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.1041240408" id-root="za.dir" iso="za" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals">
+               <data-protection date-added="07.02.2008" ticked-box="N" />
+               <org-entry-head>
+                    <org-entry-name>Journal for the Study of Religion</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>APK Library, 3rd Floor, Auckland Park Kingsway Campus, University of Johannesburg, Johannesburg 2006, South Africa</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(11) 5592169</telephone>
+                    <email>editor@journals.uj.ac.za</email>
+                    <internet>journals.uj.ac.za/index.php/ReligionStudy/index</internet>
+               </address-block>
+               <content-note style="NORMAL">covers the study of religious traditions, movements and formations in southern Africa</content-note>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <title>Prof.</title>
+                              <forename>Maria</forename>
+                              <surname>Frahm-Arp</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>biannual</frequency>
+          </org-entry>
+          <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Language Matters</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/rlms20</internet>
+               </address-block>
+               <found-date>1991 as English Usage in Southern Africa</found-date>
+               <content-note style="NORMAL">present name adopted in 1993</content-note>
+               <content-note style="NORMAL">multilingualism in Africa</content-note>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Lawrie</forename>
+                              <surname>Barnes</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>3 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.94" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <data-protection date-added="10.06.2005" ticked-box="Y" />
+               <org-entry-head>
+                    <org-entry-name>New African</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>7 Coldbath Sq., London, EC1R 4LQ, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 7841-3210</telephone>
+                    <email>editorial@africasia.com</email>
+                    <internet>newafricanmagazine.com</internet>
+               </address-block>
+               <found-date>1966</found-date>
+               <content-note style="NORMAL">politics and general interest</content-note>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Anver</forename>
+                              <surname>Versi</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>monthly</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.96" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Nigrizia</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Vicolo Pozzo 1, 37129 Verona, Italy</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(45) 8092390</telephone>
+                    <email>redazione@nigrizia.it</email>
+                    <internet>www.nigrizia.it</internet>
+               </address-block>
+               <found-date>1883</found-date>
+               <role-group>
+                    <role>Dir</role>
+                    <person>
+                         <person-name>
+                              <forename>Giuseppe</forename>
+                              <surname>Cavallini</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>monthly</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.9677626254438" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Nordic Journal of African Studies</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Centre of African Studies, University of Copenhagen, South Campus, Karen Blixens Plads 16, 2300 DK, Copenhagen S, Denmark</verbatim-address>
+                    </address>
+                    <email>njas-info@njas.fi</email>
+                    <internet>www.njas.fi/njas</internet>
+               </address-block>
+               <found-date>1992 by the Nordic Association of African Studies</found-date>
+               <content-note style="NORMAL">transferred to the Nordic Africa Research Network in 2018</content-note>
+               <content-note style="NORMAL">online only</content-note>
+               <role-group>
+                    <role>Editors-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <title>Dr</title>
+                              <forename>Thera</forename>
+                              <surname>Crane</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <title>Dr</title>
+                              <forename>Jonna</forename>
+                              <surname>Katto</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>quarterly</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.102" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Politikon: South African Journal of Political Studies</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/cpsa20</internet>
+               </address-block>
+               <found-date>1974</found-date>
+               <content-note style="NORMAL">covers South African politics and international relations</content-note>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Christopher Afoke</forename>
+                              <surname>Isike</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>4 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.103" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Politique Africaine</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>22–24 blvd Arago, 75013 Paris, France</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">1-43-31-15-59</telephone>
+                    <email>politique-africaine@sciencespobordeaux.fr</email>
+                    <internet>www.cairn.info/revue-politique-africaine.htm</internet>
+               </address-block>
+               <found-date>1981</found-date>
+               <content-note style="NORMAL">political science and international relations</content-note>
+               <role-group>
+                    <role>Editors-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <forename>Séverine Awenengo</forename>
+                              <surname>Dalberto</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Nadine</forename>
+                              <surname>Machikou</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Sabine</forename>
+                              <surname>Planel</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Boris</forename>
+                              <surname>Samuel</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>3 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.104" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Red Cross Red Crescent</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>BP 303, 1211 Geneva 19, Switzerland</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(22) 7304222</telephone>
+                    <email>media@ifrc.org</email>
+                    <internet>www.rcrcmagazine.org</internet>
+               </address-block>
+               <content-note style="NORMAL">Arabic, English, French and Spanish edns</content-note>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <forename>Malcolm</forename>
+                              <surname>Lucard</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>3 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.105" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Research in African Literatures</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>The Ohio State University, 486 University Hall, 230 North Oval Mall, Columbus, OH 43210, USA</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(614) 292-9735</telephone>
+                    <email>reinhoudt.2@osu.edu</email>
+                    <internet>iupress.org/journals/ral</internet>
+               </address-block>
+               <found-date>1970</found-date>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Kwaku Larbi</forename>
+                              <surname>Korang</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>quarterly</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.107" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <!--roape.net-->
+               <data-protection date-added="07.09.2006" ticked-box="Y" />
+               <org-entry-head>
+                    <org-entry-name>Review of African Political Economy</org-entry-name>
+                    <abbr>ROAPE</abbr>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/crea20</internet>
+               </address-block>
+               <found-date>1974</found-date>
+               <content-note style="NORMAL">publ. on behalf of ROAPE Publications</content-note>
+               <role-group>
+                    <role>Chair. of Editorial Working Group</role>
+                    <person>
+                         <person-name>
+                              <forename>Hannah</forename>
+                              <surname>Cross</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>quarterly</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.111" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Revue Internationale des Études du Développement</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Institut d’Etude du Développement Economique et Social, 45 bis ave de la Belle Gabrielle, 94736 Nogent sur Marne Cédex, France</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">1-43-92-72-02</telephone>
+                    <email>revdev@univ-paris1.fr</email>
+                    <internet>iedespubli.hypotheses.org/la-revue</internet>
+               </address-block>
+               <found-date>1960 as Revue Tiers Monde</found-date>
+               <content-note style="NORMAL">present name adopted in 2017</content-note>
+               <content-note style="NORMAL">devt studies</content-note>
+               <content-note style="NORMAL">in French, English and Spanish</content-note>
+               <role-group>
+                    <role>Editors-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <forename>Claire</forename>
+                              <surname>Beaugrand</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Pierre</forename>
+                              <surname>Janin</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Jean-Michel</forename>
+                              <surname>Wachsberger</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>quarterly</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.114221092010" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Safundi</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/rsaf20</internet>
+               </address-block>
+               <found-date>2000</found-date>
+               <content-note style="NORMAL">covers research on South Africa and USA</content-note>
+               <role-group>
+                    <role>Lead Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Christopher J.</forename>
+                              <surname>Lee</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <role-group>
+                    <role>Co-Editors</role>
+                    <person>
+                         <person-name>
+                              <forename>Ruramisai</forename>
+                              <surname>Charumbira</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Simon van</forename>
+                              <surname>Schalkwyk</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>quarterly</frequency>
+          </org-entry>
+          <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name />
+                    <org-entry-name>Scrutiny2: Issues in English Studies in Southern Africa</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/rscr20</internet>
+               </address-block>
+               <found-date>1996</found-date>
+               <content-note style="NORMAL">theoretical and practical concerns in English studies in southern Africa, particularly tertiary education</content-note>
+               <content-note style="NORMAL">co-publ. with Unisa Press</content-note>
+               <role-group>
+                    <role>Man. Editors</role>
+                    <person>
+                         <person-name>
+                              <forename>Deirdre</forename>
+                              <surname>Byrne</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Gregory</forename>
+                              <surname>Graham-Smith</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <content-note style="NORMAL">3 a year</content-note>
+          </org-entry>
+          <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Social Dynamics</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/rsdy20</internet>
+               </address-block>
+               <found-date>1975</found-date>
+               <content-note style="NORMAL">publ. on behalf of the Centre for African Studies, University of Cape Town (South Africa)</content-note>
+               <content-note style="NORMAL">all aspects of humanities and social sciences with focus on the African continent</content-note>
+               <role-group>
+                    <role>Editors</role>
+                    <person>
+                         <person-name>
+                              <forename>Christopher</forename>
+                              <surname>Ouma</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Bernard</forename>
+                              <surname>Dubbeld</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Lauren</forename>
+                              <surname>Paremoer</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>3 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.1123007091106" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>South African Historical Journal</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/rshj20</internet>
+               </address-block>
+               <content-note style="NORMAL">incorporated the Journal of Natal and Zulu History in 2022</content-note>
+               <role-group>
+                    <role>Co-ordinating Editors</role>
+                    <person>
+                         <person-name>
+                              <forename>Prinisha</forename>
+                              <surname>Badassy</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Thula</forename>
+                              <surname>Simpson</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Sandra</forename>
+                              <surname>Swart</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Laura</forename>
+                              <surname>Phillips</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Kate</forename>
+                              <surname>Law</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>quarterly</frequency>
+          </org-entry>
+          <org-entry media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>South African Review of Sociology</org-entry-name>
+                    <abbr>SARS</abbr>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/rssr20</internet>
+               </address-block>
+               <found-date>1990 as the South African Journal of Sociology</found-date>
+               <content-note style="NORMAL">fmrly known as Society in Transition</content-note>
+               <content-note style="NORMAL">present name adopted in 2005</content-note>
+               <role-group>
+                    <role>Editorial Collective</role>
+                    <person>
+                         <person-name>
+                              <title>Prof.</title>
+                              <forename>David</forename>
+                              <surname>Cooper</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Tawanda</forename>
+                              <surname>Nyawasha</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <forename>Nomkhosi</forename>
+                              <surname>Xulu-Gama</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <title>Dr</title>
+                              <forename>Asanda</forename>
+                              <surname>Benya</surname>
+                         </person-name>
+                    </person>
+                    <person>
+                         <person-name>
+                              <title>Dr</title>
+                              <forename>Mosa</forename>
+                              <surname>Phadi</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>4 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.103811207" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Southern African Linguistics and Applied Language Studies</org-entry-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/rall20</internet>
+               </address-block>
+               <found-date>1983 as the South African Journal of Linguistics</found-date>
+               <content-note style="NORMAL">fmrly known as the Southern African Journal of Applied Language Studies</content-note>
+               <content-note style="NORMAL">present name adopted in 2001</content-note>
+               <content-note style="NORMAL">provides a forum for research on all southern African languages</content-note>
+               <content-note style="NORMAL">co-publ. with NISC (Pty) Ltd, South Africa</content-note>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <title>Prof.</title>
+                              <forename>Johanita</forename>
+                              <surname>Kirsten</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>4 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.120" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <org-entry-head>
+                    <org-entry-name>Third World Quarterly</org-entry-name>
+                    <abbr>TWQ</abbr>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>4 Park Sq., Milton Park, Abingdon, Oxon, OX14 4RN, UK</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(20) 8052-0500</telephone>
+                    <email>enquiries@taylorandfrancis.com</email>
+                    <internet>www.tandfonline.com/journals/ctwq20</internet>
+               </address-block>
+               <found-date>1978</found-date>
+               <content-note style="NORMAL">associated with the Third World Thematics journal</content-note>
+               <role-group>
+                    <role>Editor</role>
+                    <person>
+                         <person-name>
+                              <forename>Shahid</forename>
+                              <surname>Qadir</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>12 a year</frequency>
+          </org-entry>
+          <org-entry id="ASS.PER.122" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+               <!--https://vostokoriens.jes.su/-->
+               <org-entry-head>
+                    <org-entry-name>Vostok/Oriens</org-entry-name>
+                    <alt-name>The East</alt-name>
+               </org-entry-head>
+               <address-block>
+                    <address type="POSTAL">
+                         <verbatim-address>Russian Academy of Sciences, 107031 Moscow, ul. 12 Rozhdestvenka, Russian Federation</verbatim-address>
+                    </address>
+                    <telephone alsofax="N">(495) 625-51-46</telephone>
+                    <email>vostok.o@yandex.ru</email>
+                    <internet>vostokoriens.ru</internet>
+               </address-block>
+               <found-date>1955</found-date>
+               <content-note style="NORMAL">publ. by the Institute of Oriental Studies and the Institute of African Studies of the Russian Academy of Sciences</content-note>
+               <content-note style="NORMAL">text in Russian, summaries in English</content-note>
+               <role-group>
+                    <role>Editor-in-Chief</role>
+                    <person>
+                         <person-name>
+                              <title>Dr</title>
+                              <forename>
+              Vital
+              
+              ii
+            </forename>
+                              <surname>Naumkin</surname>
+                         </person-name>
+                    </person>
+               </role-group>
+               <frequency>6 a year</frequency>
+          </org-entry>
+          <!--West Africa Review removed - PLEASE DONT REINSTATE. IF 01.07.2020-->
+     </org-list>
+</periodicals>

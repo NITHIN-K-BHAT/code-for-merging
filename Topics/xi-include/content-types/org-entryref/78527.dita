@@ -1,0 +1,33 @@
+<org-entryref id="SL8927944" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8927943" slsdocid="78527" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.1072" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SHIPPING" usage="usac">
+                                                       <data-protection date-added="17.08.2009" ticked-box="Y" />
+                                                       <org-entry-head>
+                                                            <org-entry-name>Groupe Desgagnés Inc</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>21 rue du Marché-Champlain, Québec, QC G1K 8Z8</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(418) 692-1000</telephone>
+                                                            <fax>(418) 692-6044</fax>
+                                                            <email>info@desgagnes.com</email>
+                                                            <internet>groupedesgagnes.com</internet>
+                                                       </address-block>
+                                                       <found-date>1866</found-date>
+                                                       <content-note style="NORMAL">private co</content-note>
+                                                       <stats>19 vessels</stats>
+                                                       <role-group>
+                                                            <role>Chair. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>
+                              
+                              Louis-Marie
+                            </forename>
+                                                                      <surname>Beaulieu</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

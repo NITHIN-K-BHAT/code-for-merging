@@ -1,0 +1,38 @@
+<org-entryref id="SL262718" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262717" slsdocid="250127" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2002" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Association of Manufacturers</org-entry-name>
+                                                       <abbr>NAM</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>733 10th St, NW, Suite 700, Washington, DC 20001</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 637-3000</telephone>
+                                                       <fax>(202) 637-3182</fax>
+                                                       <email>info@nam.org</email>
+                                                       <internet>nam.org</internet>
+                                                  </address-block>
+                                                  <found-date>1895</found-date>
+                                                  <stats>over 14,000 mems (2023)</stats>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>James</forename>
+                                                                 <surname>Fitterling</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jay</forename>
+                                                                 <surname>Timmons</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

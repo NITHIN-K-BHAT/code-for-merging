@@ -1,0 +1,43 @@
+<org-entryref id="SL1744683" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1744682" slsdocid="249171" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1374" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="13.09.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Brookings Institution Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1775 Massachusetts Ave, NW, Washington, DC 20036</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(202) 797-6000</telephone>
+                                             <email>communications@brookings.edu</email>
+                                             <internet>brookings.edu</internet>
+                                        </address-block>
+                                        <found-date>1927</found-date>
+                                        <content-note style="NORMAL">economics, govt, foreign policy</content-note>
+                                        <role-group>
+                                             <role>Interim Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Cecilia</forename>
+                                                       <surname>Rouse</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Co-Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Glenn</forename>
+                                                       <surname>Hutchins</surname>
+                                                  </person-name>
+                                             </person>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Suzanne Nora</forename>
+                                                       <surname>Johnson</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

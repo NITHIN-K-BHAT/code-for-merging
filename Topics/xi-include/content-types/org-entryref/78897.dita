@@ -1,0 +1,28 @@
+<org-entryref id="SL1758985" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1758984" slsdocid="78897" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.664" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <data-protection date-added="02.03.2009" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Annick Press Ltd</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>388 Carlaw Ave, Suite 200, Toronto, ON M4M 2T4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(416) 221-4802</telephone>
+                                             <email>orders@annickpress.com</email>
+                                             <internet>annickpress.com</internet>
+                                        </address-block>
+                                        <found-date>1975</found-date>
+                                        <content-note style="NORMAL">children’s and young adults</content-note>
+                                        <role-group>
+                                             <role>Editorial Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Katie</forename>
+                                                       <surname>Hearn</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

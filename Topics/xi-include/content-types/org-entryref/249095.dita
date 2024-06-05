@@ -1,0 +1,28 @@
+<org-entryref id="SL8819471" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8819470" slsdocid="249095" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1443" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>W. W. Norton &amp; Co Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>500 5th Ave, New York, NY 10110</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 354-5500</telephone>
+                                             <fax>(212) 869-0856</fax>
+                                             <email>publicity@wwnorton.com</email>
+                                             <internet>wwnorton.com</internet>
+                                        </address-block>
+                                        <found-date>1923</found-date>
+                                        <content-note style="NORMAL">college textbooks, paperbacks, fiction and non-fiction</content-note>
+                                        <role-group>
+                                             <role>Chair. and Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Julia A.</forename>
+                                                       <surname>Reidhead</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

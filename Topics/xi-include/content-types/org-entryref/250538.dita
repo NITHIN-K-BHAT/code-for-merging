@@ -1,0 +1,31 @@
+<org-entryref id="SL8961377" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8961376" slsdocid="250538" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1569" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="RADIO" usage="ewyb usac">
+                                                       <data-protection date-added="15.07.2009" ticked-box="Y" />
+                                                       <org-entry-head>
+                                                            <org-entry-name>RFE/RL, Inc</org-entry-name>
+                                                            <alt-name>Radio Free Europe/Radio Liberty</alt-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>1201 Connecticut Ave, NW, Suite 400, Washington, DC 20036</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(202) 457-6900</telephone>
+                                                            <email>webteam@rferl.org</email>
+                                                            <internet>rferl.org</internet>
+                                                       </address-block>
+                                                       <found-date>1950</found-date>
+                                                       <content-note style="NORMAL">private, non-profit corpn financed by Congress via Broadcasting Board of Governors (BBG)</content-note>
+                                                       <content-note style="NORMAL">broadcasts in 27 languages to 23 countries</content-note>
+                                                       <role-group>
+                                                            <role>Pres.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Jeffrey</forename>
+                                                                      <surname>Gedmin</surname>
+                                                                 </person-name>
+                                                                 <person-note>acting</person-note>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

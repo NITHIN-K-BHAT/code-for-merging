@@ -1,0 +1,19 @@
+<org-entryref id="SL1759637" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759636" slsdocid="78916" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.641" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>TV Hebdo</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1600 Blvd de Maisonneuve est, Montréal, QC H2L 4P2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(514) 848-7000</telephone>
+                                                       <fax>(514) 848-7070</fax>
+                                                       <email>tvhebdo@tva.ca</email>
+                                                       <internet>www.tvhebdo.com</internet>
+                                                  </address-block>
+                                                  <found-date>1960</found-date>
+                                                  <frequency>weekly</frequency>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,28 @@
+<org-entryref id="SL266110" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="266109" slsdocid="253098" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="ca" id="ZA.DIR.171" id-root="za.dir" iso="za" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES AND HIGH COMMISSIONS IN SOUTH AFRICA">
+                                        <org-entry-head>
+                                             <org-entry-name>Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1103 Arcadia St, cnr Hilda St, Hatfield, Pretoria 0083</verbatim-address>
+                                             </address>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Private Bag X13, Hatfield, Pretoria 0028</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(12) 4223000</telephone>
+                                             <email>pret@international.gc.ca</email>
+                                             <internet>www.canadainternational.gc.ca/southafrica-afriquedusud</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>High Commissioner</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Christopher</forename>
+                                                       <surname>Cooter</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

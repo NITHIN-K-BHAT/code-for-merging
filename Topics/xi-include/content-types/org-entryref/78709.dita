@@ -1,0 +1,38 @@
+<org-entryref id="SL101546" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101545" slsdocid="78709" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="CA.DIR.869" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CHAMBER OF COMMERCE">
+                                             <data-protection date-added="14.09.2007" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>The Canadian Chamber of Commerce</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>275 Slater St, Suite 1700, Ottawa, ON K1P 5H9</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(613) 238-4000</telephone>
+                                                  <email>info@chamber.ca</email>
+                                                  <internet>chamber.ca</internet>
+                                             </address-block>
+                                             <found-date>1925</found-date>
+                                             <content-note style="NORMAL">part of Int. Chamber of Commerce, and of Business and Industry Advisory Cttee to Org. for Economic Co-operation and Devt (OECD)</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Candace</forename>
+                                                            <surname>Laing</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Perrin</forename>
+                                                            <surname>Beatty</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>over 400 mems (2023)</stats>
+                                        </org-entry>
+                                   </org-entryref>

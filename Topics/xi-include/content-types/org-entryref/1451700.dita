@@ -1,0 +1,30 @@
+<org-entryref id="SL7805469" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7805468" slsdocid="1451700" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1133868218" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Inc.</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>7 World Trade Center, New York, NY 10007-2195</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 389-5377</telephone>
+                                                  <email>socialmedia@inc.com</email>
+                                                  <internet>inc.com</internet>
+                                             </address-block>
+                                             <found-date>1987</found-date>
+                                             <frequency>monthly</frequency>
+                                             <content-note style="NORMAL">small business resources and advice</content-note>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jon</forename>
+                                                            <surname>Fine</surname>
+                                                       </person-name>
+                                                       <person-note>acting</person-note>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 300,564</stats>
+                                        </org-entry>
+                                   </org-entryref>

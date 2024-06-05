@@ -1,0 +1,29 @@
+<org-entryref id="SL260798" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260797" slsdocid="249289" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1264" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Outdoor Life</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>POB 6364, Harlan, IA 51593</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(515) 237-3697</telephone>
+                                                  <email>letters@outdoorlife.com</email>
+                                                  <internet>outdoorlife.com</internet>
+                                             </address-block>
+                                             <found-date>1898</found-date>
+                                             <frequency>4 a year</frequency>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Alex</forename>
+                                                            <surname>Robinson</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 428,019 (2020)</stats>
+                                        </org-entry>
+                                   </org-entryref>

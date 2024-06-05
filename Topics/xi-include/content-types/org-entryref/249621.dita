@@ -1,0 +1,33 @@
+<org-entryref id="SL1741089" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741088" slsdocid="249621" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.902" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="National Newspaper Groups">
+                                             <data-protection date-added="16.09.2008" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Tribune Publishing Co</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>160 N Stetson Ave, Chicago, IL 60611</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(312) 222-9100</telephone>
+                                                  <internet>tribpub.com</internet>
+                                             </address-block>
+                                             <found-date>2014 as successor of Tribune Co (f. 1847) and Times Mirror Co</found-date>
+                                             <content-note style="NORMAL">present name adopted 2018</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Heath</forename>
+                                                            <surname>Freeman</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <content-note style="NORMAL">
+                    publishes 8 daily newspapers incl. 
+                    <i>Chicago Tribune</i>
+                     and 
+                    <i>Baltimore Sun</i>
+                                             </content-note>
+                                        </org-entry>
+                                   </org-entryref>

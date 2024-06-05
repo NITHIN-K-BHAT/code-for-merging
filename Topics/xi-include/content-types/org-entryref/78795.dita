@@ -1,0 +1,39 @@
+<org-entryref id="SL1756506" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1756505" slsdocid="78795" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.767" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS" usage="usac">
+                                                  
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Saskatchewan Telecommunications International</org-entry-name>
+                                                       <abbr>SaskTel</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2121 Saskatchewan Dr., Regina, SK S4P 3Y2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 727-5835)</telephone>
+                                                       <email>corporate.comments@sasktel.com</email>
+                                                       <internet>sasktel.com</internet>
+                                                  </address-block>
+                                                  <found-date>1986</found-date>
+                                                  <content-note style="NORMAL">mobile, satellite and internet services</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Grant J.</forename>
+                                                                 <surname>Kook</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Charlene</forename>
+                                                                 <surname>Gavel</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

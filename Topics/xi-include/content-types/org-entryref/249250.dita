@@ -1,0 +1,38 @@
+<org-entryref id="SL260870" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260869" slsdocid="249250" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1300" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Time</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>225 Liberty St, New York, NY 10080</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(800) 843-8463</telephone>
+                                                  <email>feedback@time.com</email>
+                                                  <internet>time.com</internet>
+                                             </address-block>
+                                             <found-date>1923</found-date>
+                                             <frequency>weekly</frequency>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jessica</forename>
+                                                            <surname> Sibley</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Sam</forename>
+                                                            <surname>Jacobs</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 1,256,572</stats>
+                                             
+                                        </org-entry>
+                                   </org-entryref>

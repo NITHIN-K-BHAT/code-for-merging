@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL89952" sllink="SLSDOCRF" sllinkid="89951" slsdocid="73705" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="AO.DIR.193" id-root="ao.dir" iso="ao" sect-type="judicial" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                    <heading>Judicial System</heading>
+                    <p id="AO.DIR.194">The country’s highest judicial body is the Constitutional Court (Tribunal Constitucional), while there is also a Supreme Court (Tribunal Supremo), an Audit Court (Tribunal de Contas) and a Supreme Military Court (Supremo Tribunal Militar). There are also civil and criminal courts at the provincial level.</p>
+                    <org-list>
+                         <org-entryref id="SL2719287" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2719286" slsdocid="2719257" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="AO.DIR.1248859258" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--AU 24.11.2017 Tribunal Constitucional consists of 11 advisory judges, appointed from among jurists and magistrates for a non-renewable term of office of seven years-->
+                                   <org-entry-head>
+                                        <org-entry-name>Constitutional Court</org-entry-name>
+                                        <alt-name>Tribunal Constitucional</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Palácio da Justiça, 7–9° andares, Rua 17 de Setembro, Bairro do Saneamento, Luanda</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">222370877</telephone>
+                                        <email>info@tribunalconstitucional.ao</email>
+                                        <internet>tribunalconstitucional.ao</internet>
+                                   </address-block>
+                                   <found-date>2008</found-date>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Laurinda</forename>
+                                                  <surname>Cardoso</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL94184" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94183" slsdocid="73943" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="AO.DIR.195" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--VD 31.03.2023 temporarily removed https://www.verangola.net/va/en/032023/Defense/34870/Plenary-of-the-Supreme-Court-decides-to-remove-the-presiding-judge-under-investigation.htm-->
+                                   <org-entry-head>
+                                        <org-entry-name>Supreme Court</org-entry-name>
+                                        <alt-name>Tribunal Supremo</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Rua 17 de Setembro e Pinheiro Furtado, Cidade Alta, Luanda</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">222339079</telephone>
+                                        <email>geral@tribunalsupremo.ao</email>
+                                        <internet>tribunalsupremo.ao</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <title>Dr</title>
+                                                  <forename>Joel</forename>
+                                                  <surname>Leonardo</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL3925401" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3925400" slsdocid="3925376" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="AO.DIR.1357291132" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <!--tcontas@tcontas.ao-->
+                                   <org-entry-head>
+                                        <org-entry-name>Audit Court</org-entry-name>
+                                        <alt-name>Tribunal de Contas</alt-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Rua 17 de Setembro, Cidade Alta, Luanda</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">222371920</telephone>
+                                        <email>info@tcontas.ao</email>
+                                        <internet>www.tcontas.ao</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Sebastião Domingos</forename>
+                                                  <surname>Gunza</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                         <org-entryref id="SL94186" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="94185" slsdocid="73942" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="AO.DIR.196" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Judicial System" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Office of the Attorney-General</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Rua 17 de Setembro, Luanda</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">222333171</telephone>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Attorney-Gen.</role>
+                                        <person>
+                                             <person-name>
+                                                  <title>Gen.</title>
+                                                  <forename>Hélder Fernando</forename>
+                                                  <surname>Pitta Gróz</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

@@ -1,0 +1,28 @@
+<org-entryref id="SL260688" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260687" slsdocid="249350" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1209" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Country Living</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>2901 2nd Ave S, Suite 170, Birmingham, AL 35233</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 649-2000</telephone>
+                                                  <email>countryliving@hearst.com</email>
+                                                  <internet>countryliving.com</internet>
+                                             </address-block>
+                                             <found-date>1978</found-date>
+                                             <frequency>monthly</frequency>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Rachel Hardage</forename>
+                                                            <surname>Barrett</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 652,253</stats>
+                                        </org-entry>
+                                   </org-entryref>

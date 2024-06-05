@@ -1,0 +1,26 @@
+<org-entryref id="SL8317066" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8317065" slsdocid="249203" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1345" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NATIONAL ASSOCIATIONS" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Software and Information Industry Association</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1620 I St, NW, Washington, DC 20005</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 289-7442</telephone>
+                                                  <internet>www.siia.net</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">business, financial, and specialized information media</content-note>
+                                             <content-note style="NORMAL">absorbed Connectiv, Association Media and Publishing and Specialized Information Publishers Asscn in 2022</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Christopher</forename>
+                                                            <surname>Mohr</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

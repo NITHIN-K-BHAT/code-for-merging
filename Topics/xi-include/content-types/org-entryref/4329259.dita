@@ -1,0 +1,36 @@
+<org-entryref id="SL4329405" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4329404" slsdocid="4329259" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390294754" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>The Press of Atlantic City</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1201 New Rd, Suite 240, Linwood, NJ 08221</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(609) 272-7000</telephone>
+                                                       <email>letters@pressofac.com</email>
+                                                       <internet>pressofatlanticcity.com</internet>
+                                                  </address-block>
+                                                  <found-date>1895</found-date>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Michelle</forename>
+                                                                 <surname>Rice</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Buzz</forename>
+                                                                 <surname>Keough</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

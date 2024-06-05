@@ -1,0 +1,42 @@
+<org-entryref id="SL101482" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101481" slsdocid="78677" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.905" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS">
+                                                  <data-protection date-added="13.03.2006" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Meat Council/Conseil des Viandes du Canada</org-entry-name>
+                                                       <abbr>CMC/CVC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>
+                          220 Laurier Ave W, Suite 930, Ottawa, ON
+                          
+                           K1P 5Z9
+                        </verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 729-3911</telephone>
+                                                       <email>info@cmc-cvc.com</email>
+                                                       <internet>cmc-cvc.com</internet>
+                                                  </address-block>
+                                                  <found-date>1919</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Kerry</forename>
+                                                                 <surname>Towle</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Chris</forename>
+                                                                 <surname>White</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>61 regular, 100 assoc. mems and one retail/food service mem. (2023)</stats>
+                                             </org-entry>
+                                        </org-entryref>

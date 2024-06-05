@@ -1,0 +1,40 @@
+<org-entryref id="SL101394" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101393" slsdocid="78619" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.971" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="UTILITIES">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Ontario Power Generation, Inc</org-entry-name>
+                                                       <abbr>OPG</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>700 University Ave, Toronto, ON M5G 1X6</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 592-2555</telephone>
+                                                       <email>webmaster@opg.com</email>
+                                                       <internet>opg.com</internet>
+                                                  </address-block>
+                                                  <found-date>1907</found-date>
+                                                  <content-note style="NORMAL">present name since 1999</content-note>
+                                                  <content-note style="NORMAL">Crown corpn</content-note>
+                                                  <content-note style="NORMAL">Canada’s largest utility and main nuclear power producer</content-note>
+                                                  <content-note style="NORMAL">generating capacity of 18,236 MW (2023)</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Wendy</forename>
+                                                                 <surname>Kei</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ken</forename>
+                                                                 <surname>Hartwick</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

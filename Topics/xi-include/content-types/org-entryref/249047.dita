@@ -1,0 +1,19 @@
+<org-entryref id="SL1745560" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745559" slsdocid="249047" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1485" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>United Nations Publications</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>POB 960, Herndon, VA 20172</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(703) 661-1571</telephone>
+                                             <fax>(703) 996-1010</fax>
+                                             <email>order@un.org</email>
+                                             <internet>shop.un.org</internet>
+                                        </address-block>
+                                        <found-date>1946</found-date>
+                                        <content-note style="NORMAL">international trade, social questions, human rights, international law</content-note>
+                                   </org-entry>
+                              </org-entryref>

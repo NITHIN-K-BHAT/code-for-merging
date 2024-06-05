@@ -1,0 +1,20 @@
+<org-entryref id="SL1741223" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741222" slsdocid="249577" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.953" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <data-protection date-added="13.07.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Diario Las Américas</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>888 Brickell Ave, 5th Floor, Miami, FL 33131</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(305) 633-3341</telephone>
+                                                       <fax>(305) 374-8130</fax>
+                                                       <email>redacciondla@diariolasamericas.com</email>
+                                                       <internet>diariolasamericas.com</internet>
+                                                  </address-block>
+                                                  <found-date>1953</found-date>
+                                                  <content-note style="NORMAL">Spanish</content-note>
+                                             </org-entry>
+                                        </org-entryref>

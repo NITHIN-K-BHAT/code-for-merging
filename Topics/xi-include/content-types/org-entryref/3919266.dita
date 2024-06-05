@@ -1,0 +1,28 @@
+<org-entryref id="SL3919290" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3919289" slsdocid="3919266" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.USAC.39.4" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="National Associations" usage="usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>American Society of Business Publication Editors</org-entry-name>
+                                                  <abbr>ASBPE</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>2503 Southern Ave, 65544, Fayetteville, NC 28306</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(630) 510-4588</telephone>
+                                                  <email>info@asbpe.org</email>
+                                                  <internet>asbpe.org</internet>
+                                             </address-block>
+                                             <found-date>1964</found-date>
+                                             <content-note style="NORMAL">present name since 1997</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Cory</forename>
+                                                            <surname>Sekine-Pettite</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

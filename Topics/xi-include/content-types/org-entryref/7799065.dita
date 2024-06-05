@@ -1,0 +1,28 @@
+<org-entryref id="SL7799292" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799291" slsdocid="7799065" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637851423" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Organizations and Associations" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>American Society of Composers, Authors and Publishers</org-entry-name>
+                                             <abbr>ASCAP</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>250 W 57th St, New York, NY 10107</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 621-6000</telephone>
+                                             <email>ascapfoundation@ascap.com</email>
+                                             <internet>www.ascap.com</internet>
+                                        </address-block>
+                                        <found-date>1914</found-date>
+                                        <stats>over 680,000 mems</stats>
+                                        <role-group>
+                                             <role>Pres. and Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Paul</forename>
+                                                       <surname>Williams</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

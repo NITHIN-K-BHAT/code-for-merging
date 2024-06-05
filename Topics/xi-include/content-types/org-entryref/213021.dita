@@ -1,0 +1,26 @@
+<org-entryref id="SL230130" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="230129" slsdocid="213021" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="ca" id="PA.DIR.66" id-root="pa.dir" iso="pa" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN PANAMA">
+                                        <org-entry-head>
+                                             <org-entry-name>Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Edif. World Trade Center, Torres de las Américas, Torre A, 11°, Punta Pacífica, Apdo 0832-2446, Panamá</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">294-2500</telephone>
+                                             <fax>294-2514</fax>
+                                             <email>panam@international.gc.ca</email>
+                                             <internet>www.canadainternational.gc.ca/panama</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kim</forename>
+                                                       <surname>Ursu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

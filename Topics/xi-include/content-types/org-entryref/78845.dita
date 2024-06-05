@@ -1,0 +1,37 @@
+<org-entryref id="SL8830178" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8830177" slsdocid="78845" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.716" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <data-protection date-added="14.01.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Les Presses de l’Université de Montréal</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>5450 chemin Côte-des-Neiges, suite 100, Montréal, QC H3T 1Y6</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(514) 343-6933</telephone>
+                                             <email>pum@umontreal.ca</email>
+                                             <internet>pum.umontreal.ca</internet>
+                                        </address-block>
+                                        <found-date>1962</found-date>
+                                        <content-note style="NORMAL">scholarly and general</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Laurent J.</forename>
+                                                       <surname>Lewis</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Gen. Man.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Patrick</forename>
+                                                       <surname>Poirier</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

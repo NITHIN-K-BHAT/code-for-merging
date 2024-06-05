@@ -1,0 +1,204 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8926947" sllink="SLSDOCRF" sllinkid="8926946" slsdocid="7111973" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <dir-section id="CA.DIR.1589877221" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                                   <heading>Islam</heading>
+                                   <p>According to census figures, there were 1,775,715 Muslims in Canada in 2021.</p>
+                                   <org-list>
+                                        <org-entryref id="SL7111976" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7111975" slsdocid="79130" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.402" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ISLAM" usage="ewyb usac">
+                                                  <data-protection date-added="14.01.2008" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Ahmadiyya Muslim Jama`at (Canada)</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>10610 Jane St, Maple, ON L6A 3A2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(905) 303-4000</telephone>
+                                                       <email>info@ahmadiyya.ca</email>
+                                                       <internet>www.ahmadiyya.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1965</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Lal Khan</forename>
+                                                                 <surname>Malik</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL7111983" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7111982" slsdocid="2225221" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1202991510" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ISLAM" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Muslim Union</org-entry-name>
+                                                       <abbr>CMU</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Toronto, ON</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 558-4777</telephone>
+                                                       <email>secretary@muslimunion.ca</email>
+                                                  </address-block>
+                                                  <found-date>2006 following split from Muslim Canadian Congress</found-date>
+                                                  <role-group>
+                                                       <role>Sec.-Gen.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>El-Farouk</forename>
+                                                                 <surname>Khaki</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entry id="CA.DIR.USAC.36A.150.1" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Muslim Association of Canada</org-entry-name>
+                                                  <abbr>MAC</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>2380 Speakman Dr., Mississauga, ON L5K 1B4</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(905) 822-2626</telephone>
+                                                  <email>mac@macnet.ca</email>
+                                                  <internet>www.macnet.ca</internet>
+                                             </address-block>
+                                             <found-date>1997</found-date>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename> Mourad</forename>
+                                                            <surname>Mhiri</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Abdullatif</forename>
+                                                            <surname>Bakbak</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                        <org-entry id="CA.DIR.USAC.36A.150.2" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                             
+                                             
+                                             
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Muslim Canadian Congress</org-entry-name>
+                                                  <abbr>MCC</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Toronto, ON</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(416) 953-1798</telephone>
+                                                  <email>muslimcanadiancongress@gmail.com</email>
+                                                  <internet>www.muslimcanadiancongress.org</internet>
+                                             </address-block>
+                                             <found-date>2001</found-date>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Munir</forename>
+                                                            <surname>Pervaiz</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Sec.-Gen.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Salim</forename>
+                                                            <surname>Ahmad</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                        <org-entry id="CA.DIR.USAC.36A.150.4" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>National Council of Canadian Muslims</org-entry-name>
+                                                  <abbr>NCCM</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>POB 13219, Ottawa, ON K2K 1X4</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(866) 524-0004</telephone>
+                                                  <fax>(613) 254-9810</fax>
+                                                  <email>info@nccm.ca</email>
+                                                  <internet>www.nccm.ca</internet>
+                                             </address-block>
+                                             <found-date>1996</found-date>
+                                             <content-note style="NORMAL">fmrly Canadian Council on American-Islamic Relatons</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Kashif</forename>
+                                                            <surname>Ahmed</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Stephen</forename>
+                                                            <surname>Brown</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                        <org-entryref id="SL7111987" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7111986" slsdocid="79126" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.406" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ISLAM" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Organization of North American Shi`a Itha-Asheri Muslim Communities</org-entry-name>
+                                                       <abbr>NASIMCO</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>9200 Dufferin St, POB 20078, Concord, ON L4K 0C0</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(905) 763-7512</telephone>
+                                                       <email>info@nasimco.org</email>
+                                                       <internet>nasimco.org</internet>
+                                                  </address-block>
+                                                  <found-date>1980</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Arif</forename>
+                                                                 <surname>Jacksi</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Sec.-Gen.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mohamed Arif</forename>
+                                                                 <surname>Jagani</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>12 mem. orgs (2023)</stats>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                         </dir-sectref>

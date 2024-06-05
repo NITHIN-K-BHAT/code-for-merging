@@ -1,0 +1,26 @@
+<org-entryref id="SL254926" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="254925" slsdocid="245594" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="TD.DIR.102" id-root="td.dir" iso="td" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN CHAD">
+                                        <data-protection date-added="31.07.2019" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Rond-Point Chagoua, ave Félix Eboué, BP 413, N’Djamena</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">22-51-50-17</telephone>
+                                             <email>publicaffairs-ndjamena@state.gov</email>
+                                             <internet>td.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Alexander Mark</forename>
+                                                       <surname>Laskaris</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

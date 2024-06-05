@@ -1,0 +1,47 @@
+<org-entryref id="SL3693869" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3693868" slsdocid="249926" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <org-entry id="US.DIR.562" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Constitution Party</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>POB 1782, Lancaster, PA 17608</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(717) 390-1993</telephone>
+                                        <email>contactcp@constitutionparty.com</email>
+                                        <internet>constitutionparty.com</internet>
+                                   </address-block>
+                                   <found-date>1991</found-date>
+                                   <content-note style="NORMAL">adopted present name 1999</content-note>
+                                   <content-note style="NORMAL">conservative</content-note>
+                                   <content-note style="NORMAL">supports constitutionally limited govt</content-note>
+                                   <role-group>
+                                        <role>Nat. Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>James N.</forename>
+                                                  <surname>Clymer</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Nat. Sec.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Cindy</forename>
+                                                  <surname>Redburn</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Nat. Treas.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Gerald</forename>
+                                                  <surname>Kilpatrick</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>

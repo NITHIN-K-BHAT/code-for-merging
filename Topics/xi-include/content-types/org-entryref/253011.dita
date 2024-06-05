@@ -1,0 +1,30 @@
+<org-entryref id="SL266268" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="266267" slsdocid="253011" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="ZA.DIR.250" id-root="za.dir" iso="za" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES AND HIGH COMMISSIONS IN SOUTH AFRICA">
+                                        <data-protection date-added="09.03.2006" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>877 Pretorius St, Arcadia, Pretoria 0083</verbatim-address>
+                                             </address>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>POB 9536, Pretoria 0001</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(12) 4314000</telephone>
+                                             <email>protocolpretoria@state.gov</email>
+                                             <internet>za.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Reuben E.</forename>
+                                                       <surname>Brigety</surname>
+                                                       <gen-name>II</gen-name>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

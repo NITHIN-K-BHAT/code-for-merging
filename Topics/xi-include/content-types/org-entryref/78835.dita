@@ -1,0 +1,29 @@
+<org-entryref id="SL1760265" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1760264" slsdocid="78835" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.726" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <data-protection date-added="24.02.2006" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>University of British Columbia Press</org-entry-name>
+                                             <abbr>UBC Press</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>2029 W Mall, Vancouver, BC V6T 1Z2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(604) 822-5959</telephone>
+                                             <email>frontdesk@ubcpress.ca</email>
+                                             <internet>ubcpress.ca</internet>
+                                        </address-block>
+                                        <found-date>1971</found-date>
+                                        <content-note style="NORMAL">social sciences and humanities</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Melissa</forename>
+                                                       <surname>Pitts</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

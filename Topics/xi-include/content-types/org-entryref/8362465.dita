@@ -1,0 +1,35 @@
+<org-entryref id="SL8362861" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8362860" slsdocid="8362465" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.154" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL FEDERAL PARTIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Liberal Party of Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>350 Albert St, Suite 920, Ottawa, ON K1P 6M8</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(613) 627-2384</telephone>
+                                             <email>assistance@liberal.ca</email>
+                                             <internet>liberal.ca</internet>
+                                        </address-block>
+                                        <found-date>1867</found-date>
+                                        <role-group>
+                                             <role>Leader</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Justin</forename>
+                                                       <surname>Trudeau</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Sachit</forename>
+                                                       <surname>Mehra</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

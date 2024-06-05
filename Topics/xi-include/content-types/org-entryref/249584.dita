@@ -1,0 +1,38 @@
+<org-entryref id="SL1741205" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741204" slsdocid="249584" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.944" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <data-protection date-added="18.08.2016" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>New Haven Register</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>100 Gando Dr., New Haven, CT 06513</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(203) 789-5200</telephone>
+                                                       <fax>(203) 789-5705</fax>
+                                                       <email>letters@nhregister.com</email>
+                                                       <internet>nhregister.com</internet>
+                                                  </address-block>
+                                                  <found-date>1812</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mike</forename>
+                                                                 <surname>DeLuca</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Asst Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Karen</forename>
+                                                                 <surname>Hunter</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 48,491 (2016)</stats>
+                                             </org-entry>
+                                        </org-entryref>

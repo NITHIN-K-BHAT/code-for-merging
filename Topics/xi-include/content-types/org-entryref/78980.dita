@@ -1,0 +1,30 @@
+<org-entryref id="SL1759314" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759313" slsdocid="78980" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.577" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  <data-protection date-added="14.09.2007" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Anglican Journal</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>80 Hayden St, Toronto, ON M4Y 3G2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 924-9199</telephone>
+                                                       <email>editor@anglicanjournal.com</email>
+                                                       <internet>anglicanjournal.com</internet>
+                                                  </address-block>
+                                                  <found-date>1875</found-date>
+                                                  <frequency>10 a year</frequency>
+                                                  <content-note style="NORMAL">official publ. of Anglican Church of Canada</content-note>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tali</forename>
+                                                                 <surname>Folkins</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 170,000 (2022)</stats>
+                                             </org-entry>
+                                        </org-entryref>

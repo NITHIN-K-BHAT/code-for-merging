@@ -1,0 +1,27 @@
+<org-entryref id="SL1741505" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741504" slsdocid="249504" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1038" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Kansas City Star</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>4741 Central St, Suite 600, Kansas City, MO 64112</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(877) 962-7827</telephone>
+                                                       <email>customerservice@kcstar.com</email>
+                                                       <internet>kansascity.com</internet>
+                                                  </address-block>
+                                                  <found-date>1880</found-date>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Greg</forename>
+                                                                 <surname>Farmer</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 89,175, Sun. 109,438 (2020)</stats>
+                                             </org-entry>
+                                        </org-entryref>

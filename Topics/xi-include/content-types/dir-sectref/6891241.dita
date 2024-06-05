@@ -1,0 +1,402 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6891291" sllink="SLSDOCRF" sllinkid="6891290" slsdocid="6891241" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                         
+                         <dir-section id="US.DIR.1575908968" id-root="us.dir" iso="us" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                              <heading>Executive Office of the President</heading>
+                              
+                              <org-list>
+                                   <org-entryref id="SL6891244" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891243" slsdocid="249685" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.270" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EXECUTIVE OFFICE OF THE PRESIDENT" usage="ewyb usac">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>The White House Office</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1600 Pennsylvania Ave, NW, Washington, DC 20500</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 456-1414</telephone>
+                                                  <internet>www.whitehouse.gov</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL8629319" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8629318" slsdocid="249674" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.271" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EXECUTIVE OFFICE OF THE PRESIDENT" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Central Intelligence Agency</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Office of Public Affairs, Washington, DC 20505</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(703) 482-0623</telephone>
+                                                  <internet>www.cia.gov</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891250" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891249" slsdocid="249663" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.272" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EXECUTIVE OFFICE OF THE PRESIDENT" usage="ewyb usac">
+                                             <data-protection date-added="18.04.2006" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Council of Economic Advisers</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>The White House, 1600 Pennsylvania Ave, NW, Washington, DC 20500</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 456-4779</telephone>
+                                                  <internet>www.whitehouse.gov/cea</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891253" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891252" slsdocid="249650" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.273" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EXECUTIVE OFFICE OF THE PRESIDENT" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Council on Environmental Quality</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>722 Jackson Pl., Washington, DC 20503</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 395-5750</telephone>
+                                                  <internet>www.whitehouse.gov/ceq</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Brenda</forename>
+                                                            <surname>Mallory</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891256" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891255" slsdocid="249579" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.279" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Executive Office of the President" usage="ewyb usac">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Domestic Policy Council</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Eisenhower Executive Office Bldg, Rm 469, Washington, DC 20502</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 456-5594</telephone>
+                                                  <internet>www.whitehouse.gov/dpc</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Neera</forename>
+                                                            <surname>Tanden</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891259" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891258" slsdocid="1400981" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.1126887729" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Executive Office of the President" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>National Economic Council</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Eisenhower Executive Office Bldg, Rm 235, 1600 Pennsylvania Ave, NW, Washington, DC 20502</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 456-2800</telephone>
+                                                  <internet>www.whitehouse.gov/nec</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Lael</forename>
+                                                            <surname>Brainard</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891263" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891262" slsdocid="249636" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.274" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EXECUTIVE OFFICE OF THE PRESIDENT" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>National Security Council</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Eisenhower Executive Office Bldg, 1650 Pennsylvania Ave, NW, Washington, DC 20504</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 456-1414</telephone>
+                                                  <internet>www.whitehouse.gov/nsc</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Asst to Pres. for Nat. Security Affairs</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jake</forename>
+                                                            <surname>Sullivan</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL9044296" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="9044295" slsdocid="3696253" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.1336541892" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Independent Agencies">
+                                             <org-entry-head>
+                                                  <org-entry-name>Office of the Director of National Intelligence</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Washington, DC 20511</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(703) 733-8600</telephone>
+                                                  <fax>(703) 482-3254</fax>
+                                                  <internet>dni.gov</internet>
+                                             </address-block>
+                                             <found-date>2005</found-date>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL8731056" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8731055" slsdocid="1400914" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.1126886109" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Office of Faith-based and Neighborhood Partnerships</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>The White House, 1600 Pennsylvania Ave, NW, Washington, DC 20502</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 456-3394</telephone>
+                                                  <email>whpartnerships@who.eop.gov</email>
+                                             </address-block>
+                                             <found-date>2001 as Office of Faith-based and Community Initiatives</found-date>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Melissa</forename>
+                                                            <surname>Rogers</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL8731051" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8731050" slsdocid="8730789" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.1695717006" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EXECUTIVE OFFICE OF THE PRESIDENT">
+                                             <org-entry-head>
+                                                  <org-entry-name>Office of Gun Violence Prevention</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Washington, DC</verbatim-address>
+                                                  </address>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Vice President</title>
+                                                            <forename>Kamala</forename>
+                                                            <surname>Harris</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891269" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891268" slsdocid="249601" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.277" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EXECUTIVE OFFICE OF THE PRESIDENT" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Office of Management and Budget</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>725 17th St, NW, Washington, DC 20503</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 395-3080</telephone>
+                                                  <email>media@omb.eop.gov</email>
+                                                  <internet>www.whitehouse.gov/omb</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Shalanda Delores</forename>
+                                                            <surname>Young</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891272" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891271" slsdocid="249590" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.278" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EXECUTIVE OFFICE OF THE PRESIDENT" usage="ewyb usac">
+                                             <data-protection date-added="12.09.2007" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Office of National Drug Control Policy</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>The White House, 1600 Pennsylvania Ave, NW, Washington, DC 20500</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 395-6700</telephone>
+                                                  <internet>www.whitehouse.gov/ondcp</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Dr</title>
+                                                            <forename>Rahul</forename>
+                                                            <surname>Gupta</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891275" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891274" slsdocid="2964145" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.1271933698" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Executive Office of the President">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Office of Public Engagement</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Bureau of Global Public Affairs, Department of State, 2201 C St NW, Room 2206, Washington, DC 20520-2204</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 647-6575</telephone>
+                                                  <internet>www.whitehouse.gov/ope</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Stephen</forename>
+                                                            <surname>Benjamin</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891278" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891277" slsdocid="249568" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.280" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EXECUTIVE OFFICE OF THE PRESIDENT" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Office of Science and Technology Policy</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Eisenhower Executive Office Bldg, 1650 Pennsylvania Ave, NW, Washington, DC 20504</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 456-4444</telephone>
+                                                  <email>press@ostp.eop.gov</email>
+                                                  <internet>www.whitehouse.gov/ostp</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Dr</title>
+                                                            <forename>Arati</forename>
+                                                            <surname>Prabhakar</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891281" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891280" slsdocid="249557" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.281" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EXECUTIVE OFFICE OF THE PRESIDENT" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Office of the United States Trade Representative</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>600 17th St, NW, Washington, DC 20508</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 456-2793</telephone>
+                                                  <email>media@ustr.eop.gov</email>
+                                                  <internet>ustr.gov</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891296" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891295" slsdocid="2964093" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.1271932727" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Executive Office of the President">
+                                             <org-entry-head>
+                                                  <org-entry-name>Office of the Vice President</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Eisenhower Executive Office Bldg, 1600 Pennsylvania Ave, NW, Washington, DC 20501</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 456-7549</telephone>
+                                                  <internet>www.whitehouse.gov</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6998186" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6998185" slsdocid="250533" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.350" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Executive Office of the President" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Small Business Administration</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>409 3rd St, SW, Washington, DC 20416</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(800) 827-5722</telephone>
+                                                  <email>answerdesk@sba.gov</email>
+                                                  <internet>www.sba.gov</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891284" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891283" slsdocid="249546" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.282" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EXECUTIVE OFFICE OF THE PRESIDENT" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>United States Mission to the United Nations</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>799 United Nations Plaza, New York, NY 10017</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 415-4000</telephone>
+                                                  <internet>usun.usmission.gov</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891287" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891286" slsdocid="1400966" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.1126887124" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EXECUTIVE OFFICE OF THE PRESIDENT" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>White House Military Office</org-entry-name>
+                                                  
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Executive Office of the President, 1600 Pennsylvania Ave, NW, Washington, DC 20500</verbatim-address>
+                                                  </address>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Dir</role>
+                                                  <person>
+                                                       <vacancy />
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-sectref>

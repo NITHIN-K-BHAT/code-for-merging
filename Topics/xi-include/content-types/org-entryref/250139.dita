@@ -1,0 +1,43 @@
+<org-entryref id="SL7805304" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7805303" slsdocid="250139" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1988A" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS" usage="usac">
+                                             <data-protection date-added="07.01.2008" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>American Public Transportation Association</org-entry-name>
+                                                  <abbr>APTA</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        1300 I St, NW, Suite 1200
+                        <sc>e</sc>
+                        , Washington, DC 20005
+                      </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 496-4800</telephone>
+                                                  <email>info@apta.com</email>
+                                                  <internet>apta.com</internet>
+                                             </address-block>
+                                             <found-date>1882</found-date>
+                                             <stats>c. 1,500 mems (2022)</stats>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Dorvel R.</forename>
+                                                            <surname>Carter</surname>
+                                                            <gen-name>Jr</gen-name>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Paul P.</forename>
+                                                            <surname>Skoutelas</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

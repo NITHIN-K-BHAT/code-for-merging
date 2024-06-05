@@ -1,0 +1,36 @@
+<org-entryref id="SL101528" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101527" slsdocid="78652" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.934" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Retail Council of Canada</org-entry-name>
+                                                       <abbr>RCC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1881 Yonge St, Suite 800, Toronto, ON M4S 3C4</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 922-6678</telephone>
+                                                       <email>info@retailcouncil.org</email>
+                                                       <internet>retailcouncil.org</internet>
+                                                  </address-block>
+                                                  <found-date>1963</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Anne</forename>
+                                                                 <surname>Martin-Vachon</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Diane J.</forename>
+                                                                 <surname>Brisebois</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

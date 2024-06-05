@@ -1,0 +1,38 @@
+<org-entryref id="SL1745643" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745642" slsdocid="250604" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1503" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="13.09.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>University of Notre Dame Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>310 Flanner Hall, Notre Dame, IN 46556</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(574) 631-6346</telephone>
+                                             <fax>(574) 631-8148</fax>
+                                             <email>undpress@nd.edu</email>
+                                             <internet>undpress.nd.edu</internet>
+                                        </address-block>
+                                        <found-date>1949</found-date>
+                                        <content-note style="NORMAL">humanities and social sciences</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Stephen</forename>
+                                                       <surname>Wrinn</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Man. Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Matthew</forename>
+                                                       <surname>Dowd</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

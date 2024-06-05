@@ -1,0 +1,1492 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL101590" sllink="SLSDOCRF" sllinkid="101589" slsdocid="78472" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                         
+                         <dir-section id="CA.DIR.990" id-root="ca.dir" iso="ca" section="Trade and Industry" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                              <heading>Trade Unions</heading>
+                              
+                              <p id="CA.DIR.USAC.11.2" usage="ewyb usac">At the end of 2023 some 5,323,500 employees in Canada—30.4% of the total—were covered by a union collective bargaining agreement or union contract. More than two-thirds of unionized workers in 2015 were represented by the Canadian Labour Congress. In 2015 some 69.7% of unionized workers belonged to national unions and 24.9% belonged to international unions (with headquarters outside of Canada).</p>
+                              <p id="CA.DIR.202403151643" usage="usac">Unionization rates displayed considerable regional variation: in 2023 a total of 39.6% of employees in Newfoundland and Labrador, and 38.9% of employees in Québec, were covered by a collective agreement, while Alberta had the lowest union coverage rate, at 24.9%, behind Ontario (26.3%). In 2023 a total of 76.7% of public sector employees were covered by a collective agreement or union contract, compared with 15.5% of private sector employees.</p>
+                              
+                              <org-list>
+                                   <org-entryref id="SL101260" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101259" slsdocid="78598" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.993" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Canadian Labour Congress</org-entry-name>
+                                                  <abbr>CLC</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>2841 Riverside Dr., Ottawa, ON K1V 8X7</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(613) 521-3400</telephone>
+                                                  <fax>(613) 521-4655</fax>
+                                                  <email>media@clcctc.ca</email>
+                                                  <internet>canadianlabour.ca</internet>
+                                             </address-block>
+                                             <found-date>1956</found-date>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Bea</forename>
+                                                            <surname>Bruske</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Sec.-Treas.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Lily</forename>
+                                                            <surname>Chang</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>c. over 3m. mems (2024)</stats>
+                                             <org-list>
+                                                  <org-list-head>
+                      
+                      Major affiliated unions include
+                    </org-list-head>
+                                                  <org-entryref id="SL554941" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="554942" slsdocid="78597" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.995" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            <data-protection date-added="25.11.2019" ticked-box="Y" />
+                                                            <org-entry-head>
+                                                                 <org-entry-name>Amalgamated Transit Union</org-entry-name>
+                                                                 <abbr>ATU</abbr>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>61 International Blvd, Suite 210, Etobicoke, ON M9W 6K4</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(416) 679-8846</telephone>
+                                                                 <email>office@atucanada.ca</email>
+                                                                 <internet>atucanada.ca</internet>
+                                                            </address-block>
+                                                            <found-date>1892</found-date>
+                                                            <role-group>
+                                                                 <role>Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>John Di</forename>
+                                                                           <surname>Nino</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <role-group>
+                                                                 <role>Financial Sec.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Aleem</forename>
+                                                                           <surname>Tharani</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL554943" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="554944" slsdocid="78596" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.996" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            
+                                                            <org-entry-head>
+                                                                 <org-entry-name>American Federation of Musicians of the United States and Canada</org-entry-name>
+                                                                 <abbr>AFM</abbr>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>150 Ferrand Dr., Suite 202, Toronto, ON M3C 3E5</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(416) 391-5161</telephone>
+                                                                 <email>info@afm.org</email>
+                                                                 <internet>afm.org</internet>
+                                                            </address-block>
+                                                            <role-group>
+                                                                 <role>Int. Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Tino</forename>
+                                                                           <surname>Gagliardi</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <role-group>
+                                                                 <role>Vice-Pres. in Canada</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Alan</forename>
+                                                                           <surname>Willaert</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>80,000 mems (2022)</stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL3192659" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3192658" slsdocid="78556" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.1039" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>British Columbia Teachers’ Federation</org-entry-name>
+                                                                 <abbr>BCTF</abbr>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>550 W 6th Ave, Suite 100, Vancouver, BC V5Z 4P2</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(604) 871-2283</telephone>
+                                                                 <email>presidentsoffice@bctf.ca</email>
+                                                                 <internet>bctf.ca</internet>
+                                                            </address-block>
+                                                            <found-date>1917</found-date>
+                                                            <role-group>
+                                                                 <role>Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Clint</forename>
+                                                                           <surname>Johnston</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>represents 50,000 teachers (2024)</stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL6938290" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6938289" slsdocid="6938121" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.1579862051" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>
+                            Canadian Federation of Nurses
+                            
+                             Unions
+                          </org-entry-name>
+                                                                 <abbr>CFNU</abbr>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>2841 Riverside Dr., Ottawa, ON K1V 8X7</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(613) 526-4661</telephone>
+                                                                 <fax>(613) 526-1023</fax>
+                                                                 <email>media@nursesunions.ca</email>
+                                                                 <internet>nursesunions.ca</internet>
+                                                            </address-block>
+                                                            <found-date>1981</found-date>
+                                                            <content-note style="NORMAL">mem. of International Council of Nurses</content-note>
+                                                            <role-group>
+                                                                 <role>Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Linda</forename>
+                                                                           <surname>Silas</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>c. 250,000 mems (2024)</stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL2793737" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2793736" slsdocid="78581" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.1010" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>
+                            Canadian Office and Professional Employees Union/Syndicat Canadien des Employées et Employés Profess
+                            
+                            ionels et de Bureau
+                          </org-entry-name>
+                                                                 <abbr>COPE/SEPB</abbr>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>4501 Kingsway, Suite 301, Burnaby, BC V5H 0E5</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(604) 299-0378</telephone>
+                                                                 <fax>(604) 299-8211</fax>
+                                                                 <internet>copesepb.ca</internet>
+                                                            </address-block>
+                                                            <found-date>1933</found-date>
+                                                            <role-group>
+                                                                 <role>Nat. Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Annette</forename>
+                                                                           <surname>Toth</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <role-group>
+                                                                 <role>Nat. Sec.-Treas.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Pierrick</forename>
+                                                                           <surname>Choinière-Lapointe</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>35,000 mems (2024)</stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL554947" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="554948" slsdocid="78594" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.998" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            <data-protection date-added="27.03.2006" ticked-box="Y" />
+                                                            <org-entry-head>
+                                                                 <org-entry-name>Canadian Union of Postal Workers</org-entry-name>
+                                                                 <abbr>CUPW</abbr>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>377 Bank St, Ottawa, ON K2P 1Y3</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(613) 236-7238</telephone>
+                                                                 <fax>(613) 563-7861</fax>
+                                                                 <email>feedback@cupw-sttp.org</email>
+                                                                 <internet>cupw.ca</internet>
+                                                            </address-block>
+                                                            <found-date>1965</found-date>
+                                                            <role-group>
+                                                                 <role>Nat. Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Jan</forename>
+                                                                           <surname>Simpson</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <role-group>
+                                                                 <role>Nat. Sec.-Treas.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Bev</forename>
+                                                                           <surname>Collins</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>over 60,000 mems (2021)</stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL554949" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="554950" slsdocid="78593" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.999" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>Canadian Union of Public Employees</org-entry-name>
+                                                                 <abbr>CUPE</abbr>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>1375 St Laurent Blvd, Ottawa, ON K1G 0Z7</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(613) 237-1590</telephone>
+                                                                 <fax>(613) 237-5508</fax>
+                                                                 <internet>cupe.ca</internet>
+                                                            </address-block>
+                                                            <role-group>
+                                                                 <role>Nat. Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Mark</forename>
+                                                                           <surname>Hancock</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <role-group>
+                                                                 <role>Nat. Sec.-Treas.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Candace</forename>
+                                                                           <surname>Rennick</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>
+                          c. 7
+                          
+                          40,000 mems (2024)
+                        </stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL3192556" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3192555" slsdocid="78552" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.1042" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>Elementary Teachers' Federation of Ontario</org-entry-name>
+                                                                 <abbr>ETFO</abbr>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>136 Isabella St, Toronto, ON M4Y 0B5</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(416) 962-3836</telephone>
+                                                                 <fax>(416) 355-6767</fax>
+                                                                 <internet>etfo.ca</internet>
+                                                            </address-block>
+                                                            <found-date>1998</found-date>
+                                                            <role-group>
+                                                                 <role>Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Karen</forename>
+                                                                           <surname>Brown</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>83,000 mems (2024)</stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL3192551" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3192550" slsdocid="3192530" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.1288258830" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>FTQ Construction</org-entry-name>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>9671 blvd Métropolitain est, bureau 201, Montréal, QC H1J 3C1</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(514) 381-7300</telephone>
+                                                                 <email>info@ftqconstruction.org</email>
+                                                                 <internet>ftqconstruction.org</internet>
+                                                            </address-block>
+                                                            <found-date>1980</found-date>
+                                                            <role-group>
+                                                                 <role>Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Magali</forename>
+                                                                           <surname>Picard</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>76,000 mems (2021)</stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL554955" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="554956" slsdocid="78590" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.1002" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>International Association of Fire Fighters</org-entry-name>
+                                                                 <abbr>IAFF</abbr>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>350 Sparks St, Suite 403, Ottawa, ON K1R 7S8</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(613) 567-8988</telephone>
+                                                                 <email>feedback@iaff.org</email>
+                                                                 <internet>iaff.org</internet>
+                                                            </address-block>
+                                                            <content-note style="NORMAL">covers fire fighters and paramedics in USA and Canada</content-note>
+                                                            <role-group>
+                                                                 <role>Gen. Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Edward A.</forename>
+                                                                           <surname>Kelly</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>
+                          over 343,000 mems (2024
+                          
+                          )
+                        </stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL554957" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="554958" slsdocid="78589" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.1003" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>International Association of Machinists and Aerospace Workers</org-entry-name>
+                                                                 <abbr>IAM</abbr>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>18 Wynford Dr., Suite 310, Toronto, ON M3C 3S2</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(416) 386-1789</telephone>
+                                                                 <email>info@iamaw.ca</email>
+                                                                 <internet>iamaw.ca</internet>
+                                                            </address-block>
+                                                            <found-date>1890</found-date>
+                                                            <role-group>
+                                                                 <role>Gen. Vice-Pres. (Canada)</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>David</forename>
+                                                                           <surname>Chartrand</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <role-group>
+                                                                 <role>Sec.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Caroline</forename>
+                                                                           <surname>Ramos</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>over 40,000 mems (2022)</stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL6938316" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6938315" slsdocid="6938202" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.1579862684" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>International Association of Sheet Metal, Air, Rail and Transportation Workers</org-entry-name>
+                                                                 <abbr>SMART</abbr>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>176 McDonnel St, Main Floor, Peterborough, ON K9H 2V9</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(705) 743-4470</telephone>
+                                                                 <email>info@smart-union.ca</email>
+                                                                 <internet>smart-local.org/canada</internet>
+                                                            </address-block>
+                                                            <found-date>2008</found-date>
+                                                            <role-group>
+                                                                 <role>Dir (Canada)</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Chris</forename>
+                                                                           <surname>Paswisty</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>208,000 mems in USA and Canada (2024)</stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL554959" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="554960" slsdocid="78587" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.1004" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>International Brotherhood of Electrical Workers</org-entry-name>
+                                                                 <abbr>IBEW</abbr>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>1450 Meyerside Dr., Suite 300, Mississauga, ON L5T 2N5</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(905) 564-5441</telephone>
+                                                                 <fax>(905) 564-8114</fax>
+                                                                 <email>ivpd_01@ibew.org</email>
+                                                                 <internet>ibewcanada.ca</internet>
+                                                            </address-block>
+                                                            <found-date>1891</found-date>
+                                                            <role-group>
+                                                                 <role>Int. Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Kenneth W.</forename>
+                                                                           <surname>Cooper</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <role-group>
+                                                                 <role>Int. Vice-Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Russ</forename>
+                                                                           <surname>Shewchuk</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>65,000 mems (2022)</stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL554961" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="554962" slsdocid="78586" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.1005" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            
+                                                            <org-entry-head>
+                                                                 <org-entry-name>International Union of Operating Engineers</org-entry-name>
+                                                                 <abbr>IUOE</abbr>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>350 Sparks St, Suite 1102, Ottawa, ON K1R 7S8</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(613) 567-5544</telephone>
+                                                                 <fax>(613) 567–5577</fax>
+                                                                 <internet>iuoe.org</internet>
+                                                            </address-block>
+                                                            <found-date>1896</found-date>
+                                                            <content-note style="NORMAL">headquarters in USA</content-note>
+                                                            <role-group>
+                                                                 <role>Gen. Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>James T.</forename>
+                                                                           <surname>Callahan</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>c. 400,000 members in 123 local unions throughout N America (2024)</stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL554965" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="554966" slsdocid="78584" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.1007" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>Labourers’ International Union of North America</org-entry-name>
+                                                                 <abbr>LIUNA</abbr>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>44 Hughson St S, Hamilton, ON L8N 2A7</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(905) 522-7177</telephone>
+                                                                 <fax>(905) 522-9310</fax>
+                                                                 <email>info@liuna.ca</email>
+                                                                 <internet>liuna.ca</internet>
+                                                            </address-block>
+                                                            <content-note style="NORMAL">headquarters in USA</content-note>
+                                                            <role-group>
+                                                                 <role>Int. Vice-Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Joseph S.</forename>
+                                                                           <surname>Mancinelli</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>over 100,000 mems (2024)</stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL554969" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="554970" slsdocid="78582" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.1009" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>National Union of Public and General Employees</org-entry-name>
+                                                                 <abbr>NUPGE</abbr>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>15 Auriga Dr., Nepean, ON K2E 1B7</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(613) 228-9800</telephone>
+                                                                 <email>national@nupge.ca</email>
+                                                                 <internet>nupge.ca</internet>
+                                                            </address-block>
+                                                            <role-group>
+                                                                 <role>Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Bert</forename>
+                                                                           <surname>Blundon</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>425,000 mems (2024)</stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL554973" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="554974" slsdocid="78580" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.1011" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>Ontario English Catholic Teachers’ Association</org-entry-name>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>65 St Clair Ave E, Suite 400, Toronto, ON M4T 2Y8</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(416) 925-2493</telephone>
+                                                                 <fax>(416) 925-7764</fax>
+                                                                 <email>contact@catholicteachers.ca</email>
+                                                                 <internet>catholicteachers.ca</internet>
+                                                            </address-block>
+                                                            <found-date>1944</found-date>
+                                                            <role-group>
+                                                                 <role>Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>René</forename>
+                                                                           <surname>Jansen</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>c. 45,000 mems (2023)</stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL3192666" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3192665" slsdocid="78550" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.1044" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            <data-protection date-added="05.08.2009" ticked-box="Y" />
+                                                            <org-entry-head>
+                                                                 <org-entry-name>Ontario Nurses' Association</org-entry-name>
+                                                                 <abbr>ONA</abbr>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>85 Grenville St, Suite 400, Toronto, ON M5S 3A2</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(416) 964-8833</telephone>
+                                                                 <email>onamail@ona.org</email>
+                                                                 <internet>ona.org</internet>
+                                                            </address-block>
+                                                            <found-date>1973</found-date>
+                                                            <role-group>
+                                                                 <role>Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Erin</forename>
+                                                                           <surname>Ariss</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <role-group>
+                                                                 <role>CEO</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Andrea</forename>
+                                                                           <surname>Kay</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>68,000 registered nurses and 18,000 nursing students (2023)</stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL554975" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="554976" slsdocid="78579" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.1012" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            <data-protection date-added="04.08.2009" ticked-box="Y" />
+                                                            <org-entry-head>
+                                                                 <org-entry-name>Ontario Secondary School Teachers’ Federation</org-entry-name>
+                                                                 <abbr>OSSTF</abbr>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>49 Mobile Dr., Toronto, ON M4A 1H5</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(416) 751-8300</telephone>
+                                                                 <fax>(416) 751-3394</fax>
+                                                                 <internet>osstf.on.ca</internet>
+                                                            </address-block>
+                                                            <found-date>1919</found-date>
+                                                            <role-group>
+                                                                 <role>Pres. and CEO</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Karen</forename>
+                                                                           <surname>Littlewood</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>more than 60,000 mems (2024)</stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL3881935" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3881934" slsdocid="78549" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.1045" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>Professional Institute of the Public Service of Canada</org-entry-name>
+                                                                 <abbr>PIPSC</abbr>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>250 Tremblay Rd, Ottawa, ON K1G 3J8</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(613) 228-6310</telephone>
+                                                                 <email>president@pipsc.ca</email>
+                                                                 <internet>pipsc.ca</internet>
+                                                            </address-block>
+                                                            <found-date>1920</found-date>
+                                                            <role-group>
+                                                                 <role>Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Jennifer</forename>
+                                                                           <surname>Carr</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>over 70,000 mems (2024)</stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL554977" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="554978" slsdocid="78578" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.1013" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>Public Service Alliance of Canada</org-entry-name>
+                                                                 <abbr>PSAC</abbr>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>233 Gilmour St, Ottawa, ON K2P 0P1</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(613) 560-4200</telephone>
+                                                                 <email> media@psac-afpc.com</email>
+                                                                 <internet>psacunion.ca</internet>
+                                                            </address-block>
+                                                            <found-date>1966</found-date>
+                                                            <role-group>
+                                                                 <role>Nat. Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Chris</forename>
+                                                                           <surname>Aylward</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>c. 230,000 mems (2024)</stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL554979" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="554980" slsdocid="78576" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.1014" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            <data-protection date-added="14.09.2007" ticked-box="Y" />
+                                                            <org-entry-head>
+                                                                 <org-entry-name>Service Employees International Union—Local One Canada</org-entry-name>
+                                                                 <abbr>SEIU</abbr>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>125 Mural St, Suite 202, Richmond Hill, ON L4B 1M4</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(877) 672-7348</telephone>
+                                                                 <email>info@seiuhealthcare.ca</email>
+                                                                 <internet>seiuhealthcare.ca</internet>
+                                                            </address-block>
+                                                            <role-group>
+                                                                 <role>Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Sharleen</forename>
+                                                                           <surname>Stewart</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <role-group>
+                                                                 <role>Exec. Vice-Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Jackie</forename>
+                                                                           <surname>Walker</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>over 60,000 mems (2024)</stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL554981" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="554982" slsdocid="78575" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.1015" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>Teamsters Canada</org-entry-name>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>1750 rue Maurice-Gauvin, Suite 400, Laval, QC H7S 1Z5</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(450) 682-5521</telephone>
+                                                                 <email>info@teamsters.ca</email>
+                                                                 <internet>teamsters.ca</internet>
+                                                            </address-block>
+                                                            <found-date>1903</found-date>
+                                                            <role-group>
+                                                                 <role>Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>François</forename>
+                                                                           <surname>Laporte</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>
+                          over 125,000 mems (2024
+                          
+                          )
+                        </stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL4194042" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4194041" slsdocid="3192574" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.1378188471" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Trade Unions" usage="usac">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>Unifor Canada</org-entry-name>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>115 Gordon Baker Rd, Toronto, ON M2H 0A8</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(416) 497-4110</telephone>
+                                                                 <email>communications@unifor.org</email>
+                                                                 <internet>unifor.org</internet>
+                                                            </address-block>
+                                                            <found-date>2013 by merger of Canadian Auto Workers Union and Communications, Energy and Paperworkers Union of Canada</found-date>
+                                                            <content-note style="NORMAL">largest private sector union representing 25 economic sectors</content-note>
+                                                            <role-group>
+                                                                 <role>Nat. Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Lana</forename>
+                                                                           <surname>Payne</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <role-group>
+                                                                 <role>Nat. Sec.-Treas.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Len</forename>
+                                                                           <surname>Poirier</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>over 315,000 mems (2024)</stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL554983" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="554984" slsdocid="78574" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.1016" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            
+                                                            <org-entry-head>
+                                                                 <org-entry-name>UNITE-HERE</org-entry-name>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>12836 146 St NW, Edmonton, Alberta T5L 2H7</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(780) 453-2607</telephone>
+                                                                 <email>communications@unitehere.org</email>
+                                                                 <internet>unitehere.org</internet>
+                                                            </address-block>
+                                                            <found-date>2004 by merger of UNITE (fmrly Union of Needletrades, Industrial and Textile Employees) and HERE (Hotel Employees and Restaurant Employees International Union)</found-date>
+                                                            <role-group>
+                                                                 <role>Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>D.</forename>
+                                                                           <surname>Taylor</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <role-group>
+                                                                 <role>Sec.-Treas.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename> Gwen</forename>
+                                                                           <surname>Mills</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>300,000 mems across Canada and USA (2024)</stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL554985" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="554986" slsdocid="78573" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.1017" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry of the United States and Canada</org-entry-name>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>442 Gilmour St, Ottawa, ON K2P 0R8</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(613) 565-1100</telephone>
+                                                                 <internet>ua.org</internet>
+                                                            </address-block>
+                                                            <found-date>1889</found-date>
+                                                            <role-group>
+                                                                 <role>Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Mark</forename>
+                                                                           <surname>McManus</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <role-group>
+                                                                 <role>Dir of Canadian Affairs</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Terence N.</forename>
+                                                                           <surname>Snooks</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>c. 373,000 mems in the USA and Canada (2024)</stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL554989" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="554990" slsdocid="78571" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.1019" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            <data-protection date-added="11.09.2007" ticked-box="N" />
+                                                            <org-entry-head>
+                                                                 <org-entry-name>United Food and Commercial Workers Canada</org-entry-name>
+                                                                 <abbr>UFCW</abbr>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>61 International Blvd, Suite 300, Toronto, ON M9W 6K4</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(416) 675-1104</telephone>
+                                                                 <email>ufcw@ufcw.ca</email>
+                                                                 <internet>ufcw.ca</internet>
+                                                            </address-block>
+                                                            <found-date>1979</found-date>
+                                                            <role-group>
+                                                                 <role>Nat. Pres.</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Paul R.</forename>
+                                                                           <surname>Meinema</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>over 250,000 mems in 36 local unions (2021)</stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                                  <org-entryref id="SL554991" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="554992" slsdocid="78570" slsdocty="org-entry org-entrydtd">
+                                                       
+                                                       <org-entry id="CA.DIR.1020" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                            <org-entry-head>
+                                                                 <org-entry-name>United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied Industrial and Service Workers International Union</org-entry-name>
+                                                                 <abbr>USW</abbr>
+                                                                 <alt-name>United Steelworkers</alt-name>
+                                                            </org-entry-head>
+                                                            <address-block>
+                                                                 <address type="POSTAL">
+                                                                      <verbatim-address>234 Eglinton Ave E, 8th Floor, Toronto, ON M4P 1K7</verbatim-address>
+                                                                 </address>
+                                                                 <telephone alsofax="N">(416) 487-1571</telephone>
+                                                                 <email>info@usw.ca</email>
+                                                                 <internet>usw.ca</internet>
+                                                            </address-block>
+                                                            <found-date>1942</found-date>
+                                                            <role-group>
+                                                                 <role>Nat. Dir for Canada</role>
+                                                                 <person>
+                                                                      <person-name>
+                                                                           <forename>Marty</forename>
+                                                                           <surname>Warren</surname>
+                                                                      </person-name>
+                                                                 </person>
+                                                            </role-group>
+                                                            <stats>over 225,000 mems (2024)</stats>
+                                                       </org-entry>
+                                                  </org-entryref>
+                                             </org-list>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                              <dir-section id="CA.DIR.1021" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb">
+                                   <heading>Other Central Congresses</heading>
+                                   <org-list>
+                                        <org-entryref id="SL101318" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101317" slsdocid="78567" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1025" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS">
+                                                  <data-protection date-added="22.06.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Centrale des Syndicats Démocratiques</org-entry-name>
+                                                       <abbr>CSD</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>990 ave de Bourgogne, bureau 600, Québec, QC G1W 0E8</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(418) 529-2956</telephone>
+                                                       <fax>(418) 529-6323</fax>
+                                                       <email>info@csd.qc.ca</email>
+                                                       <internet>csd.qc.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1972</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Luc</forename>
+                                                                 <surname>Vachon</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>c. 72,250 mems (2022)</stats>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL2952445" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2952444" slsdocid="78569" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1022" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Centrale des Syndicats du Québec</org-entry-name>
+                                                       <abbr>CSQ</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>9405 rue Sherbrooke est, Montréal, QC H1L 6P3</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(514) 356-8888</telephone>
+                                                       <internet>lacsq.org</internet>
+                                                  </address-block>
+                                                  <found-date>1974</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Éric</forename>
+                                                                 <surname>Gingras</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>11 affiliated federations, 240 affiliated unions, over 225,000 mems (2024)</stats>
+                                                  <org-list>
+                                                       <org-entryref id="SL555024" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="555025" slsdocid="78568" slsdocty="org-entry org-entrydtd">
+                                                            
+                                                            <org-entry id="CA.DIR.1024" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                                 <org-entry-head>
+                                                                      <org-entry-name>Fédération des syndicats de l’enseignment</org-entry-name>
+                                                                      <abbr>FSE-CSQ</abbr>
+                                                                 </org-entry-head>
+                                                                 <address-block>
+                                                                      <address type="POSTAL">
+                                                                           <verbatim-address>320 rue St-Joseph est, Bureau 100, Québec, QC G1K 9E7</verbatim-address>
+                                                                      </address>
+                                                                      <telephone alsofax="N">(418) 649-8888</telephone>
+                                                                      <email>fse@fse.lacsq.org</email>
+                                                                      <internet>fse.lacsq.org</internet>
+                                                                 </address-block>
+                                                                 <role-group>
+                                                                      <role>Pres.</role>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Josée</forename>
+                                                                                <surname>Scalabrini</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </role-group>
+                                                                 <stats>
+                            over 95,000 mems (2024
+                            
+                            )
+                          </stats>
+                                                            </org-entry>
+                                                       </org-entryref>
+                                                  </org-list>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL101322" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101321" slsdocid="78564" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1027" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Confédération des Syndicats Nationaux</org-entry-name>
+                                                       <abbr>CSN</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1601 ave de Lorimier, Montréal, QC H2K 4M5</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(866) 646-7760</telephone>
+                                                       <email>csnexecutif@csn.qc.ca</email>
+                                                       <internet>csn.qc.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1921</found-date>
+                                                  <content-note style="NORMAL">present name adopted 1960</content-note>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Caroline</forename>
+                                                                 <surname>Senneville</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>c. 1,600 unions with over 330,000 mems (2024)</stats>
+                                                  <org-list>
+                                                       <org-entryref id="SL2501603" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2501602" slsdocid="78562" slsdocty="org-entry org-entrydtd">
+                                                            
+                                                            <org-entry id="CA.DIR.1030" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                                 <org-entry-head>
+                                                                      <org-entry-name>Fédération du Commerce</org-entry-name>
+                                                                 </org-entry-head>
+                                                                 <address-block>
+                                                                      <address type="POSTAL">
+                                                                           <verbatim-address>1601 ave de Lorimier, Montréal, QC H2K 4M5</verbatim-address>
+                                                                      </address>
+                                                                      <telephone alsofax="N">(514) 598-2181</telephone>
+                                                                      <fax>(514) 598-2304</fax>
+                                                                      <email>infofc@csn.qc.ca</email>
+                                                                      <internet>fc-csn.ca</internet>
+                                                                 </address-block>
+                                                                 <found-date>1938</found-date>
+                                                                 <role-group>
+                                                                      <role>Pres.</role>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Alexandre</forename>
+                                                                                <surname>Laviolette</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </role-group>
+                                                                 <stats>300,000 mems (2024)</stats>
+                                                            </org-entry>
+                                                       </org-entryref>
+                                                       <org-entryref id="SL555039" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="555040" slsdocid="78563" slsdocty="org-entry org-entrydtd">
+                                                            
+                                                            <org-entry id="CA.DIR.1029" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                                 <org-entry-head>
+                                                                      <org-entry-name>Fédération des Employées et Employés de Services Publics</org-entry-name>
+                                                                      <abbr>FEESP</abbr>
+                                                                 </org-entry-head>
+                                                                 <address-block>
+                                                                      <address type="POSTAL">
+                                                                           <verbatim-address>1601 ave de Lorimier, Montréal, QC H2K 4M5</verbatim-address>
+                                                                      </address>
+                                                                      <telephone alsofax="N">(514) 598-2231</telephone>
+                                                                      <fax>(514) 598-2398</fax>
+                                                                      <email>feesp.courrier@csn.qc.ca</email>
+                                                                      <internet>feesp.csn.qc.ca</internet>
+                                                                 </address-block>
+                                                                 <found-date>1947</found-date>
+                                                                 <role-group>
+                                                                      <role>Interim Pres.</role>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Stéphanie</forename>
+                                                                                <surname>Gratton</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </role-group>
+                                                                 <stats>
+                            over 425 affiliated unions and 65,000 mems (2024
+                            
+                            )
+                          </stats>
+                                                            </org-entry>
+                                                       </org-entryref>
+                                                       <org-entryref id="SL3529371" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3529370" slsdocid="3529368" slsdocty="org-entry org-entrydtd">
+                                                            
+                                                            <org-entry id="CA.DIR.1321028123" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                                 <org-entry-head>
+                                                                      <org-entry-name>Fédération de l'Industrie Manufacturière</org-entry-name>
+                                                                      <abbr>FIM-CSN</abbr>
+                                                                 </org-entry-head>
+                                                                 <address-block>
+                                                                      <address type="POSTAL">
+                                                                           <verbatim-address>1601 ave de Lorimier, suite 3500, Montréal, QC H2K 4M5</verbatim-address>
+                                                                      </address>
+                                                                      <telephone alsofax="N">(514) 529-4937</telephone>
+                                                                      <email>fim@csn.qc.ca</email>
+                                                                      <internet>fim.csn.qc.ca</internet>
+                                                                 </address-block>
+                                                                 <found-date>1943 as Fédération de la Métallurgie</found-date>
+                                                                 <content-note style="NORMAL">present name since 2011</content-note>
+                                                                 <role-group>
+                                                                      <role>Pres.</role>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Louis</forename>
+                                                                                <surname>Bégin</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </role-group>
+                                                                 <role-group>
+                                                                      <role>Gen. Sec.</role>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Jérémy</forename>
+                                                                                <surname>Temes-Dubé</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </role-group>
+                                                                 <stats>
+                            320 unions and over 25,000 mems (2024
+                            
+                            )
+                          </stats>
+                                                            </org-entry>
+                                                       </org-entryref>
+                                                       <org-entryref id="SL3529376" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3529375" slsdocid="3529373" slsdocty="org-entry org-entrydtd">
+                                                            
+                                                            <org-entry id="CA.DIR.1321028649" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                                 <data-protection date-added="15.08.2016" ticked-box="Y" />
+                                                                 <org-entry-head>
+                                                                      <org-entry-name>Fédération Nationale des Communications et de la Culture</org-entry-name>
+                                                                      <abbr>FNCC-CSN</abbr>
+                                                                 </org-entry-head>
+                                                                 <address-block>
+                                                                      <address type="POSTAL">
+                                                                           <verbatim-address>1601 ave de Lorimier, Montréal, QC H2K 4M5</verbatim-address>
+                                                                      </address>
+                                                                      <telephone alsofax="N">(514) 598-2132</telephone>
+                                                                      <email>fncc.reception@csn.qc.ca</email>
+                                                                      <internet>fncc.csn.qc.ca</internet>
+                                                                 </address-block>
+                                                                 <found-date>1972</found-date>
+                                                                 <role-group>
+                                                                      <role>Pres.</role>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Annick</forename>
+                                                                                <surname>Charette</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </role-group>
+                                                                 <stats>6,000 mems in 88 unions (2024)</stats>
+                                                            </org-entry>
+                                                       </org-entryref>
+                                                       <org-entryref id="SL555045" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="555046" slsdocid="78560" slsdocty="org-entry org-entrydtd">
+                                                            
+                                                            <org-entry id="CA.DIR.1032" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                                 <data-protection date-added="11.09.2007" ticked-box="Y" />
+                                                                 <org-entry-head>
+                                                                      <org-entry-name>Fédération de la Santé et des Services Sociaux</org-entry-name>
+                                                                      <abbr>FSSS</abbr>
+                                                                 </org-entry-head>
+                                                                 <address-block>
+                                                                      <address type="POSTAL">
+                                                                           <verbatim-address>1601 ave de Lorimier, Montréal, QC H2K 4M5</verbatim-address>
+                                                                      </address>
+                                                                      <telephone alsofax="N">(514) 598-2210</telephone>
+                                                                      <email>fsss.info@csn.qc.ca</email>
+                                                                      <internet>fsss.qc.ca</internet>
+                                                                 </address-block>
+                                                                 <role-group>
+                                                                      <role>Pres.</role>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Réjean</forename>
+                                                                                <surname>Leclerc</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </role-group>
+                                                                 <stats> 250 unions and over 140,000 mems (2024)</stats>
+                                                            </org-entry>
+                                                       </org-entryref>
+                                                  </org-list>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                                   <p id="CA.DIR.USAC.11.54">
+                The 
+                <xr pageref="N" ref="US.DIR.2028">American Federation of Labor and Congress of Industrial Organizations (AFL-CIO)</xr>
+                 and 
+                <xr pageref="N" ref="US.DIR.1144760925">Change to Win</xr>
+                , both headquartered in the USA, also represent workers in Canada.
+                
+                                        
+                                        
+                                   </p>
+                              </dir-section>
+                              <dir-section id="CA.DIR.1037" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="usac">
+                                   
+                                   <heading>Other Principal Unions</heading>
+                                   <org-list>
+                                        <org-entryref id="SL101336" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101335" slsdocid="78557" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1038" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Alberta Teachers' Association</org-entry-name>
+                                                       <abbr>ATA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>11010 142nd St NW, Edmonton, AB T5N 2R1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(780) 447-9400</telephone>
+                                                       <email>reception@ata.ab.ca</email>
+                                                       <internet>teachers.ab.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1918</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jason C.</forename>
+                                                                 <surname>Schilling</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Sec.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Dennis E.</forename>
+                                                                 <surname>Theobald</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL6892388" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892387" slsdocid="3192559" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1288259478" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Alberta Union of Provincial Employees</org-entry-name>
+                                                       <abbr>AUPE</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>10025–182 St NW, Edmonton</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(780) 930-3300</telephone>
+                                                       <email>co@aupe.org</email>
+                                                       <internet>aupe.org</internet>
+                                                  </address-block>
+                                                  <found-date>1919</found-date>
+                                                  <content-note style="NORMAL">present name since 1976</content-note>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Guy</forename>
+                                                                 <surname>Smith</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Carl</forename>
+                                                                 <surname>Soderstrom</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>over 95,000 mems (2024)</stats>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL6892392" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892391" slsdocid="78595" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.997" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>British Columbia Nurses’ Union</org-entry-name>
+                                                       <abbr>BCNU</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>4060 Regent St, Burnaby, BC V5C 6P5</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(604) 433-2268</telephone>
+                                                       <email>media@bcnu.org</email>
+                                                       <internet>bcnu.org</internet>
+                                                  </address-block>
+                                                  <found-date>1981</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Adriane</forename>
+                                                                 <surname>Gear</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>48,000 mems (2023)</stats>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL101342" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101341" slsdocid="78553" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1041" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Christian Labour Association of Canada</org-entry-name>
+                                                       <abbr>CLAC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>45 Commerce Court, Cambridge, ON N3C 4P7</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(519) 653-3002</telephone>
+                                                       <email>headoffice@clac.ca</email>
+                                                       <internet>clac.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1952</found-date>
+                                                  <role-group>
+                                                       <role>Exec. Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Wayne</forename>
+                                                                 <surname>Prins</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>over 60,000 mems (2024)</stats>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL101346" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101345" slsdocid="78551" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1043" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Fédération Interprofessionnelle de la Santé du Québec</org-entry-name>
+                                                       <abbr>FIQ</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1234 ave Papineau, Montréal, QC H2K 0A4</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(514) 987-1141</telephone>
+                                                       <email>info@fiqsante.qc.ca</email>
+                                                       <internet>fiqsante.qc.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1987</found-date>
+                                                  <content-note style="NORMAL">fmrly Fédération des Infirmières et Infirmiers du Québec</content-note>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Julie</forename>
+                                                                 <surname>Bouchard</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>c. 80,000 mems (2024)</stats>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL2793806" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2793805" slsdocid="2793796" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1256905065" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Ontario Public Service Employees Union</org-entry-name>
+                                                       <abbr>OPSEU</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>100 Lesmill Rd, Toronto, ON M3B 3P8</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 443-8888</telephone>
+                                                       <email>opseu@opseu.org</email>
+                                                       <internet>opseu.org</internet>
+                                                  </address-block>
+                                                  <found-date>1911</found-date>
+                                                  <content-note style="NORMAL">present name since 1975</content-note>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>J. P.</forename>
+                                                                 <surname>Hornick</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>c. 180,000 mems (2024)</stats>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL101352" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101351" slsdocid="78548" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.1046" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TRADE UNIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Syndicat de la Fonction Publique et Parapublique du Québec</org-entry-name>
+                                                       <abbr>SFPQ</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>5100 blvd des Gradins, Québec, QC G2J 1N4</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(418) 623-2424</telephone>
+                                                       <email>communication@sfpq.qc.ca</email>
+                                                       <internet>sfpq.qc.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1962</found-date>
+                                                  <role-group>
+                                                       <role>Gen. Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Christian</forename>
+                                                                 <surname>Daigle</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>c. 40,000 mems (2024)</stats>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                         </dir-section>
+                    </dir-sectref>

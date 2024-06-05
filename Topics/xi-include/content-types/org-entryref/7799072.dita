@@ -1,0 +1,37 @@
+<org-entryref id="SL7799326" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799325" slsdocid="7799072" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637851943" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Organizations and Associations" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Evangelical Christian Publishers' Association</org-entry-name>
+                                             <abbr>ECPA</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>9633 S 48th St, Suite 195, Phoenix, AZ 85044</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(480) 966-3998</telephone>
+                                             <email>info@ecpa.org</email>
+                                             <internet>ecpa.org</internet>
+                                        </address-block>
+                                        <found-date>1974</found-date>
+                                        <stats>134 corporate mems</stats>
+                                        <role-group>
+                                             <role>Chair.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dan Kok</forename>
+                                                       <surname>Crossway</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Pres. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jeff</forename>
+                                                       <surname>Crosby</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

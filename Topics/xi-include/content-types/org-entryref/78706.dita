@@ -1,0 +1,38 @@
+<org-entryref id="SL101430" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101429" slsdocid="78706" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.873" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS" usage="usac">
+                                                  <data-protection date-added="24.06.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canada Grains Council</org-entry-name>
+                                                       <abbr>CGC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>350 Sparks St, Suite 703, Ottawa, ON, K1R 7S8</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 422-0166</telephone>
+                                                       <email>office@canadagrainscouncil.ca</email>
+                                                       <internet>canadagrainscouncil.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1969</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Pierre</forename>
+                                                                 <surname>Petelle</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Erin</forename>
+                                                                 <surname>Gowriluk</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>39 mems (2024)</stats>
+                                             </org-entry>
+                                        </org-entryref>

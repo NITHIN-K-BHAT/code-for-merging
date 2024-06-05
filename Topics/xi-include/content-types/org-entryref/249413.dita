@@ -1,0 +1,27 @@
+<org-entryref id="SL1742139" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1742138" slsdocid="249413" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1145" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Lubbock Avalanche-Journal</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>710 Ave J, Lubbock, TX 79401</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(888) 448-5909</telephone>
+                                                       <email>newmedia@lubbockonline.com</email>
+                                                       <internet>lubbockonline.com</internet>
+                                                  </address-block>
+                                                  <found-date>1900</found-date>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename> Adam</forename>
+                                                                 <surname>Young</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 25,825 (2016)</stats>
+                                             </org-entry>
+                                        </org-entryref>

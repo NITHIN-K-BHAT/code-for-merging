@@ -1,0 +1,38 @@
+<org-entryref id="SL262518" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262517" slsdocid="250237" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1881" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <data-protection date-added="14.04.2003" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>American Society of Naval Engineers</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1423 Powhatan St, Suite 1, Alexandria, VA 22314</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(703) 836-6727</telephone>
+                                                       <email>asnehq@navalengineers.org</email>
+                                                       <internet>navalengineers.org</internet>
+                                                  </address-block>
+                                                  <found-date>1888</found-date>
+                                                  <stats>over 5,000 mems (2023)</stats>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Vice-Adm. (retd)</title>
+                                                                 <forename>David</forename>
+                                                                 <surname>Lewis</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Dale</forename>
+                                                                 <surname>Lumme</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,56 @@
+<org-entryref id="SL1741060" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741059" slsdocid="249627" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.897" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="National Newspaper Groups">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Hearst</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Hearst Tower, 12th Floor, 300 W 57th St, New York, NY 10019</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 649-2000</telephone>
+                                                  <internet>hearst.com</internet>
+                                             </address-block>
+                                             <found-date>1887</found-date>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>William R.</forename>
+                                                            <surname>Hearst</surname>
+                                                            <gen-name>III</gen-name>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Steven R.</forename>
+                                                            <surname>Swartz</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <content-note style="NORMAL">
+                    25 daily newspapers, incl. the 
+                    <i>Houston Chronicle</i>
+                     and 
+                    <i>San Francisco Chronicle</i>
+                    , and 63 weekly newspapers
+                  </content-note>
+                                             <content-note style="NORMAL">
+                    27 magazine titles in USA incl. 
+                    <i>Good Housekeeping</i>
+                    , 
+                    <i>Cosmopolitan</i>
+                    , 
+                    <i>O, The Oprah Magazine</i>
+                     and 
+                    <i>Redbook</i>
+                    , and almost 300 international edns
+                  </content-note>
+                                             <content-note style="NORMAL">TV division broadcasts to 21m. households in 39 states</content-note>
+                                             <content-note style="NORMAL">also entertainment, syndication, business media divisions</content-note>
+                                        </org-entry>
+                                   </org-entryref>

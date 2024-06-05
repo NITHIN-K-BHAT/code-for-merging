@@ -1,0 +1,18 @@
+<org-entryref id="SL7312446" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7312445" slsdocid="3930715" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.USAC.32.54" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Publishers" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Frederick Harris Music Co Ltd (RCM Publishing)</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>273 Bloor St W, Toronto, ON M5S 1W2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(416) 403-2824</telephone>
+                                             <email>bookstore@rcmusic.ca</email>
+                                             <internet>rcmusic.com/about-us/rcm-publishing</internet>
+                                        </address-block>
+                                        <found-date>1904</found-date>
+                                        <content-note style="NORMAL">official publishers of Royal Conservatory of Music</content-note>
+                                   </org-entry>
+                              </org-entryref>

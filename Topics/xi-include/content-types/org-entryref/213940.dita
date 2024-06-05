@@ -1,0 +1,26 @@
+<org-entryref id="SL231538" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="231537" slsdocid="213940" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="ca" id="PH.DIR.167" id-root="ph.dir" iso="ph" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN THE PHILIPPINES">
+                                        <org-entry-head>
+                                             <org-entry-name>Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>6th–8th Floors, Tower 2, RCBC Plaza, 6819 Ayala Ave, POB 2168, Makati City, 1261 Metro Manila</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 88579000</telephone>
+                                             <fax>(2) 88431082</fax>
+                                             <email>manil@international.gc.ca</email>
+                                             <internet>www.canadainternational.gc.ca/philippines</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>David</forename>
+                                                       <surname>Hartman</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

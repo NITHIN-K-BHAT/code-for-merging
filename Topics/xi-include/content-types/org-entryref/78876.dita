@@ -1,0 +1,30 @@
+<org-entryref id="SL8830132" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8830131" slsdocid="78876" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.685" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>Editions du Renouveau Pédagogique, Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1611 blvd Crémazie est, 10e étage, Montréal, QC H2M 2P2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(514) 334-2690</telephone>
+                                             <email>bienvenue@pearsonerpi.com</email>
+                                             <internet>erpi.com</internet>
+                                        </address-block>
+                                        <found-date>1965</found-date>
+                                        <content-note style="NORMAL">fmrly part of Pearson Education</content-note>
+                                        <content-note style="NORMAL">acquired by TC Media in 2022</content-note>
+                                        <content-note style="NORMAL">textbooks</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Normand</forename>
+                                                       <surname>Cléroux</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,248 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6891229" sllink="SLSDOCRF" sllinkid="6891228" slsdocid="6891178" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                         
+                         <dir-section id="US.DIR.1575907983" id-root="us.dir" iso="us" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                              <heading>Government Departments</heading>
+                              <org-list>
+                                   <org-entryref id="SL6891181" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891180" slsdocid="249817" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.255" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="GOVERNMENT DEPARTMENTS" usage="ewyb usac">
+                                             <data-protection date-added="12.09.2007" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Department of Agriculture</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1400 Independence Ave, SW, Washington, DC 20250</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 720-2791</telephone>
+                                                  <email>askusda@usda.gov</email>
+                                                  <internet>www.usda.gov</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891184" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891183" slsdocid="249806" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.256" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="GOVERNMENT DEPARTMENTS" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Department of Commerce</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1401 Constitution Ave, NW, Washington, DC 20230</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 482-2000</telephone>
+                                                  <email>webmaster@doc.gov</email>
+                                                  <internet>www.commerce.gov</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891187" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891186" slsdocid="249795" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.257" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="GOVERNMENT DEPARTMENTS" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Department of Defense</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1400 Defense Pentagon, Washington, DC 20301-1400</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(703) 697-9312</telephone>
+                                                  <internet>www.defense.gov</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891191" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891190" slsdocid="249784" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.258" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="GOVERNMENT DEPARTMENTS" usage="ewyb usac">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Department of Education</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>400 Maryland Ave, SW, 7E-247, Washington, DC 20202</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 401-2000</telephone>
+                                                  <email>edpubs@edpubs.ed.gov</email>
+                                                  <internet>www.ed.gov</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891194" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891193" slsdocid="249773" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.259" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="GOVERNMENT DEPARTMENTS" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Department of Energy</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1000 Independence Ave, SW, Washington, DC 20585</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 586-5000</telephone>
+                                                  <fax>(202) 586-4403</fax>
+                                                  <email>the.secretary@hq.doe.gov</email>
+                                                  <internet>www.energy.gov</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891197" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891196" slsdocid="249762" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.260" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="GOVERNMENT DEPARTMENTS" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Department of Health and Human Services</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Hubert H. Humphrey Bldg, 200 Independence Ave, SW, Washington, DC 20201</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 690-6162</telephone>
+                                                  <email>secretary@hhs.gov</email>
+                                                  <internet>www.hhs.gov</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891200" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891199" slsdocid="249612" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.276" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Government Departments" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Department of Homeland Security</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>2707 Martin Luther King Jr Ave, SE, Washington, DC 20528-0385</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 282-8000</telephone>
+                                                  <email>mediainquiry@hq.dhs.gov</email>
+                                                  <internet>www.dhs.gov</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891203" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891202" slsdocid="249751" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.261" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="GOVERNMENT DEPARTMENTS" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Department of Housing and Urban Development</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>451 7th St, SW, Washington, DC 20410</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 708-1112</telephone>
+                                                  <internet>hud.gov</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891206" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891205" slsdocid="249740" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.262" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="GOVERNMENT DEPARTMENTS" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Department of the Interior</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1849 C St, NW, Washington, DC 20240</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 208-3100</telephone>
+                                                  <email>feedback@ios.doi.gov</email>
+                                                  <internet>doi.gov</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891209" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891208" slsdocid="249731" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.263" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="GOVERNMENT DEPARTMENTS" usage="ewyb usac">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Department of Justice</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>950 Pennsylvania Ave, NW, Washington, DC 20530-0001</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 514-2000</telephone>
+                                                  <internet>www.justice.gov</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891212" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891211" slsdocid="249730" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.264" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="GOVERNMENT DEPARTMENTS" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Department of Labor</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Frances Perkins Bldg, 200 Constitution Ave, NW, Washington, DC 20210</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 693-6000</telephone>
+                                                  <email>executivesecretariat@dol.gov</email>
+                                                  <internet>www.dol.gov</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891216" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891215" slsdocid="249729" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.265" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="GOVERNMENT DEPARTMENTS" usage="ewyb usac">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Department of State</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>2201 C St, NW, Washington, DC 20520</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 647-4000</telephone>
+                                                  <internet>www.state.gov</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891219" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891218" slsdocid="249719" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.266" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="GOVERNMENT DEPARTMENTS" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Department of Transportation</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1200 New Jersey Ave, SE, Washington, DC 20590</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 366-4000</telephone>
+                                                  <internet>www.transportation.gov</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891222" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891221" slsdocid="249708" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.267" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="GOVERNMENT DEPARTMENTS" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Department of the Treasury</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1500 Pennsylvania Ave, NW, Washington, DC 20220</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 622-2000</telephone>
+                                                  <email>press@treasury.gov</email>
+                                                  <internet>home.treasury.gov</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6891225" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6891224" slsdocid="249697" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="US.DIR.268" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Executive" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="GOVERNMENT DEPARTMENTS" usage="ewyb usac">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Department of Veterans Affairs</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>810 Vermont Ave, NW, Washington, DC 20420</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(800) 827-1000</telephone>
+                                                  <internet>www.va.gov</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-sectref>

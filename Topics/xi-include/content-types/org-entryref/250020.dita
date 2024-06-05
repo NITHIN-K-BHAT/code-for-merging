@@ -1,0 +1,35 @@
+<org-entryref id="SL1738963" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1738962" slsdocid="250020" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.2106A" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>National Transportation Safety Board</org-entry-name>
+                                                  <abbr>NTSB</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>490 L’Enfant Plaza, SW, Washington, DC 20594</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 314-6000</telephone>
+                                                  <email>ntsbmediarelations@ntsb.gov</email>
+                                                  <internet>www.ntsb.gov</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jennifer L.</forename>
+                                                            <surname>Homendy</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Vice-Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Bruce</forename>
+                                                            <surname>Landsberg</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

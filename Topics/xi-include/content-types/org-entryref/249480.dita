@@ -1,0 +1,28 @@
+<org-entryref id="SL1741589" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741588" slsdocid="249480" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1069" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <data-protection date-added="19.06.2007" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Democrat and Chronicle</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>245 E Main St, Rochester, NY 14604</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 790-9565</telephone>
+                                                       <email>tspringer@gannett.com</email>
+                                                       <internet>democratandchronicle.com</internet>
+                                                  </address-block>
+                                                  <found-date>1833</found-date>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Michael</forename>
+                                                                 <surname>Kilian</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 27,569, Sun. 42,355 (2022)</stats>
+                                             </org-entry>
+                                        </org-entryref>

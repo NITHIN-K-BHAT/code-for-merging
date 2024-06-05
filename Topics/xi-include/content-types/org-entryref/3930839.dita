@@ -1,0 +1,36 @@
+<org-entryref id="SL3930870" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3930869" slsdocid="3930839" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="CA.DIR.USAC.32.126" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Publishers’ Organizations and Associations" usage="usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Association Nationale des Editeurs de Livres</org-entry-name>
+                                                  <abbr>ANEL</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>2514 blvd Rosemont, Montréal, QC H1Y 1K4</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(514) 273-8130</telephone>
+                                                  <email>info@anel.qc.ca</email>
+                                                  <internet>anel.qc.ca</internet>
+                                             </address-block>
+                                             <found-date>1992</found-date>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Geneviève</forename>
+                                                            <surname>Pigeon</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Dir-Gen.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Karine</forename>
+                                                            <surname>Vachon</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

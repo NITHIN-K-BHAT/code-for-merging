@@ -1,0 +1,29 @@
+<org-entryref id="SL3180587" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3180588" slsdocid="1448814" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1133365893" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>American Rifleman</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>11250 Waples Mill Rd, Fairfax, VA 22030–9400</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(703) 267-1329</telephone>
+                                                  <email>publications@nrahq.org</email>
+                                                  <internet>americanrifleman.org</internet>
+                                             </address-block>
+                                             <found-date>1885</found-date>
+                                             <frequency>monthly</frequency>
+                                             <content-note style="NORMAL">publ. of Nat. Rifle Asscn</content-note>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Brian C.</forename>
+                                                            <surname>Sheetz</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 1,504,881</stats>
+                                        </org-entry>
+                                   </org-entryref>

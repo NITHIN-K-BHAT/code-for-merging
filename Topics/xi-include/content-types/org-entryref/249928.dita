@@ -1,0 +1,43 @@
+<org-entryref id="SL1733026" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1733025" slsdocid="249928" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <org-entry id="US.DIR.560" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Democratic National Committee</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>430 S Capitol St, SE, Washington, DC 20003</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(202) 863-8000</telephone>
+                                        <internet>democrats.org</internet>
+                                   </address-block>
+                                   <found-date>1848</found-date>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Jaime</forename>
+                                                  <surname>Harrison</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Sec.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Jason</forename>
+                                                  <surname>Rae</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Treas.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Virginia</forename>
+                                                  <surname>McGregor</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>

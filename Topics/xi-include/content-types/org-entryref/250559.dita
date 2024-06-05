@@ -1,0 +1,37 @@
+<org-entryref id="SL2471082" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2471081" slsdocid="250559" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1546" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Frontier Communications Corpn</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>401 Merritt 7, Norwalk, CT 06851</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(203) 614-5600</telephone>
+                                                       <internet>frontier.com</internet>
+                                                  </address-block>
+                                                  <found-date>1935</found-date>
+                                                  <content-note style="NORMAL">present name adopted 2008</content-note>
+                                                  <content-note style="NORMAL">operates communication services in 29 states</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>John</forename>
+                                                                 <surname>Stratton</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Nick</forename>
+                                                                 <surname>Jeffery</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <content-note style="NORMAL">2.8m. broadband internet customers (2023)</content-note>
+                                             </org-entry>
+                                        </org-entryref>

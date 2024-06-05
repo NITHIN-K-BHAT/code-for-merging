@@ -1,0 +1,28 @@
+<org-entryref id="SL1745754" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745753" slsdocid="250572" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1533" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ORGANIZATIONS AND ASSOCIATIONS">
+                                        <org-entry-head>
+                                             <org-entry-name>Association of American University Presses, Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1412 Broadway, Suite 2135, New York, NY 10018</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 989-1010</telephone>
+                                             <fax>(212) 989-0275</fax>
+                                             <email>info@aaupnet.org</email>
+                                             <internet>aupresses.org</internet>
+                                        </address-block>
+                                        <found-date>1937</found-date>
+                                        <stats>c. 146 mems</stats>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Charles</forename>
+                                                       <surname>Watkinson</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

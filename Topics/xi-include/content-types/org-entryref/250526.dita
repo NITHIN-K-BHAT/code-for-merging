@@ -1,0 +1,39 @@
+<org-entryref id="SL8961497" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8961496" slsdocid="250526" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1583" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELEVISION" usage="ewyb usac">
+                                                       
+                                                       <org-entry-head>
+                                                            <org-entry-name>Spectrum</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>400 Washington Blvd, Stamford, CT 06902</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(855) 366–7132</telephone>
+                                                            <email>andrew.russell@charter.com</email>
+                                                            <internet>spectrum.com</internet>
+                                                       </address-block>
+                                                       <found-date>2014</found-date>
+                                                       <content-note style="NORMAL">cable TV system serving c. 26m. subscribers in 41 states</content-note>
+                                                       <content-note style="NORMAL">fmrly Time Warner Cable, Inc</content-note>
+                                                       <content-note style="NORMAL">owned by Charter Communications</content-note>
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Thomas M</forename>
+                                                                      <surname>Rutledge</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Pres.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Bill</forename>
+                                                                      <surname>Archer</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

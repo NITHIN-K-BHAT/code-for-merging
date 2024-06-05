@@ -1,0 +1,39 @@
+<org-entryref id="SL8956453" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8956452" slsdocid="1171984" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.1109777117" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ENTRIES">
+                                                       <data-protection date-added="29.08.2007" ticked-box="Y" />
+                                                       <org-entry-head>
+                                                            <org-entry-name>Aboriginal Peoples Television Network</org-entry-name>
+                                                            <abbr>APTN</abbr>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>339 Portage Ave, Winnipeg, MB R3B 0N6</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(204) 947-9331</telephone>
+                                                            <email>info@aptn.ca</email>
+                                                            <internet>www.aptn.ca</internet>
+                                                       </address-block>
+                                                       <found-date>1999</found-date>
+                                                       <content-note style="NORMAL">fmrly Television Northern Canada—TVNC</content-note>
+                                                       <content-note style="NORMAL">broadcasts in English, French and a number of aboriginal languages</content-note>
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Julie</forename>
+                                                                      <surname>Grenier</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Monika</forename>
+                                                                      <surname>Ille</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

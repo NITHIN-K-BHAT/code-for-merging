@@ -1,0 +1,38 @@
+<org-entryref id="SL3192995" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3192994" slsdocid="78800" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.762" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS" usage="ewyb usac">
+                                                  <data-protection date-added="11.09.2017" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Telesat</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>160 Elgin St, Suite 2100, Ottawa, ON, K2P 2P7</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 748-0123</telephone>
+                                                       <email>info@telesat.com</email>
+                                                       <internet>telesat.com</internet>
+                                                  </address-block>
+                                                  <found-date>1969 by Act of Parliament</found-date>
+                                                  <content-note style="NORMAL">owns 14 satellites and operates a further 13</content-note>
+                                                  <content-note style="NORMAL">carrier and distributor of more than 200 TV signals in North America</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mark H.</forename>
+                                                                 <surname>Rachesky</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Daniel S.</forename>
+                                                                 <surname>Goldberg</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

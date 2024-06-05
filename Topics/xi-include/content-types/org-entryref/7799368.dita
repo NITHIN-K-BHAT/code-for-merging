@@ -1,0 +1,39 @@
+<org-entryref id="SL7799424" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799423" slsdocid="7799368" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1637853785" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals" usage="usac">
+                                                  <data-protection date-added="20.08.2007" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Kayak—Canada’s History for Kids</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Bryce Hall, 515 Portage Ave, Winnipeg, MB R3B 2E9</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(204) 988-9300</telephone>
+                                                       <fax>(204) 988-9309</fax>
+                                                       <email>editors@canadashistory.ca</email>
+                                                       <internet>canadashistory.ca/youth</internet>
+                                                  </address-block>
+                                                  <found-date>2005</found-date>
+                                                  <frequency>4 a year</frequency>
+                                                  <content-note style="NORMAL">publ. by Canada’s National History Society</content-note>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Melony</forename>
+                                                                 <surname>Ward</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Nancy</forename>
+                                                                 <surname>Payne</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

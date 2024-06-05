@@ -1,0 +1,40 @@
+<org-entryref id="SL4326644" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4326643" slsdocid="4326577" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389959097" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Albany Herald</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>306 W Broad Ave, Albany, GA 31701</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(229) 888-9300</telephone>
+                                                       <fax>(229) 438-3200</fax>
+                                                       <email>news@albanyherald.com</email>
+                                                       <internet>albanyherald.com</internet>
+                                                  </address-block>
+                                                  <found-date>1891</found-date>
+                                                  <frequency>morning</frequency>
+                                                  <content-note style="NORMAL">owned by subsidiary of Triple Crown Media, Inc</content-note>
+                                                  <role-group>
+                                                       <role>Pres. and Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Scot</forename>
+                                                                 <surname>Morrissey</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Carlton</forename>
+                                                                 <surname>Fletcher</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Fri. 21,701, Sun. 24,820 (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

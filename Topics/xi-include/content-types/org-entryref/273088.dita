@@ -1,0 +1,39 @@
+<org-entryref id="SL8627446" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8627445" slsdocid="273088" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="RU.DIR.843" id-root="ru.dir" iso="ru" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MAJOR COMPANIES">
+                                                  <org-entry-head>
+                                                       <org-entry-name>FosAgro</org-entry-name>
+                                                       <alt-name>PhosAgro</alt-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>119333 Moscow, Leninskii pr. 55/1/1</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(495) 232-96-89</telephone>
+                                                       <fax>(495) 956-19-02</fax>
+                                                       <email>info@phosagro.ru</email>
+                                                       <internet>www.phosagro.ru</internet>
+                                                  </address-block>
+                                                  <found-date>2001</found-date>
+                                                  <content-note style="NORMAL">holding co for various organizations involved in the production of mineral fertilizers, etc.</content-note>
+                                                  <content-note style="NORMAL">subsidiary cos include Apatit OAO (brs in Kirov; Vologda; Balakovo, Saratov Obl., and Volkhov, Leningrad Obl), FosAgro-Region OOO, FosAgro-Trans OOO, FosAgro Engineering Centre OOO</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Viktor M.</forename>
+                                                                 <surname>Cherepov</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mikhail K.</forename>
+                                                                 <surname>Rybnikov</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

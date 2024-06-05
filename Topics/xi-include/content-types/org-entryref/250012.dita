@@ -1,0 +1,27 @@
+<org-entryref id="SL8924977" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8924976" slsdocid="250012" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.2113" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL RAILWAYS">
+                                                       <org-entry-head>
+                                                            <org-entry-name>CSX Transportation, Inc (Rail Transport)</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>500 Water St, 15th Floor, Jacksonville, FL 32202</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(904) 359-3200</telephone>
+                                                            <internet>csx.com</internet>
+                                                       </address-block>
+                                                       <found-date>1980</found-date>
+                                                       <content-note style="NORMAL">acquired Pan Am Railways in 2022</content-note>
+                                                       <stats>over 32,000 km (20,000 miles) of track across 23 US states E of the Mississippi River, in the District of Columbia, and in the Canadian provinces of Ontario and Québec</stats>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Joseph R.</forename>
+                                                                      <surname>Hinrichs</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

@@ -1,0 +1,36 @@
+<org-entryref id="SL8927951" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8927950" slsdocid="78526" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.1073" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SHIPPING" usage="usac">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Marine Atlantic Inc</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>10 Fort William Pl., Suite 302, Baine Johnston Centre, St John’s, NL A1C 1K4</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(800) 341-7981 </telephone>
+                                                            <email>customerrelations@marineatlantic.ca</email>
+                                                            <internet>marineatlantic.ca</internet>
+                                                       </address-block>
+                                                       <content-note style="NORMAL">state-owned</content-note>
+                                                       <content-note style="NORMAL">operates services between Newfoundland and Labrador and Nova Scotia</content-note>
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Gary Joseph</forename>
+                                                                      <surname>O’Brien</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Murray</forename>
+                                                                      <surname>Hupman</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

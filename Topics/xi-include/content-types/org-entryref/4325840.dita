@@ -1,0 +1,37 @@
+<org-entryref id="SL4326086" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4326085" slsdocid="4325840" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389952001" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Times-Standard</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>39 5th St, Eureka, CA 95501</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(707) 441-0500</telephone>
+                                                       <email>letters@times-standard.com</email>
+                                                       <internet>times-standard.com</internet>
+                                                  </address-block>
+                                                  <found-date>1854</found-date>
+                                                  <frequency>Tue. to Sun. print edition; Mon. digital only</frequency>
+                                                  <content-note style="NORMAL">owned by Digital First Media</content-note>
+                                                  <role-group>
+                                                       <role>Publr and Gen. Man.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>John</forename>
+                                                                 <surname>Richmond</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ruth</forename>
+                                                                 <surname>Schneider</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

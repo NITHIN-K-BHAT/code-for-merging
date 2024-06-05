@@ -1,0 +1,36 @@
+<org-entryref id="SL8773213" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8773212" slsdocid="8772372" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1697803800" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Energy" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Major Producers and Distributors">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Cenovus Energy Inc.</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>225 6 Ave SW, POB 766, Calgary, AB T2P 0M5</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(403) 766-2000</telephone>
+                                                       <email>questions&amp;comments@cenovus.com</email>
+                                                       <internet>cenovus.com</internet>
+                                                  </address-block>
+                                                  <found-date>2009</found-date>
+                                                  <content-note style="NORMAL">integrated oil and natural gas co</content-note>
+                                                  <role-group>
+                                                       <role>Exec. Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Alex</forename>
+                                                                 <surname>Pourbaix</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jon</forename>
+                                                                 <surname>McKenzie</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

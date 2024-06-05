@@ -1,0 +1,37 @@
+<org-entryref id="SL6956037" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6956036" slsdocid="6955712" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1580895655" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Sourcebooks, Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1935 Brookdale Rd, Suite 139, Naperville, IL 60563</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 432-7444</telephone>
+                                             <fax>(630) 961-2168</fax>
+                                             <email>marketing@sourcebooks.com</email>
+                                             <internet>sourcebooks.com</internet>
+                                        </address-block>
+                                        <found-date>1987</found-date>
+                                        <content-note style="NORMAL">imprints incl. Cumberland House, Simple Truths, Poisoned Pen Press, Little Pickle Press, Dawn Publications</content-note>
+                                        <role-group>
+                                             <role>Publr and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dominique</forename>
+                                                       <surname>Raccah</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Barbara</forename>
+                                                       <surname>Briel</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,33 @@
+<org-entryref id="SL1759318" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759317" slsdocid="78979" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.578" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Better Farming</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>
+                          52 Royal Rd, Unit 
+                          <sc>a</sc>
+                          , Guelph, ON N1H 1G3
+                        </verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(888) 248-4893</telephone>
+                                                       <email>admin@betterfarming.com</email>
+                                                       <internet>betterfarming.com</internet>
+                                                  </address-block>
+                                                  <found-date>1999</found-date>
+                                                  <frequency>11 per year</frequency>
+                                                  <role-group>
+                                                       <role>Publr and Editorial Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Paul</forename>
+                                                                 <surname>Nolan</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 37,766 (June 2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,28 @@
+<org-entryref id="SL4330975" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4330974" slsdocid="4330837" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390370847" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Waco Tribune-Herald</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>215 S 2nd St, Suite 301, POB 2588, Waco, TX 76702-2588</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(254) 757-5757</telephone>
+                                                       <fax>(254) 757-0302</fax>
+                                                       <email>sboggs@wacotrib.com</email>
+                                                       <internet>wacotrib.com</internet>
+                                                  </address-block>
+                                                  <found-date>1981</found-date>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Steve</forename>
+                                                                 <surname>Boggs</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

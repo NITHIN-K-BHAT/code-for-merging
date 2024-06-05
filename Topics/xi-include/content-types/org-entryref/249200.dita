@@ -1,0 +1,42 @@
+<org-entryref id="SL4254860" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4254859" slsdocid="249200" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1347" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NATIONAL ASSOCIATIONS" usage="ewyb usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Alliance for Audited Media</org-entry-name>
+                                                  <abbr>AAM</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        4513 Lincoln Ave, Suite 105
+                        <sc>b</sc>
+                        , Lisle, IL 60532
+                      </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(224) 366-6939</telephone>
+                                                  <email>corpcomm@auditedmedia.com</email>
+                                                  <internet>auditedmedia.com</internet>
+                                             </address-block>
+                                             <found-date>1914</found-date>
+                                             <content-note style="NORMAL">fmrly Audit Bureau of Circulations</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Christopher</forename>
+                                                            <surname>Black</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO, Pres. and Man. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Tom</forename>
+                                                            <surname>Drouillard</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>c. 4,000 mems (2019)</stats>
+                                        </org-entry>
+                                   </org-entryref>

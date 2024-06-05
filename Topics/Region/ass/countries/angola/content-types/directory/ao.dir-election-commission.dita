@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL1599884" sllink="SLSDOCRF" sllinkid="1599883" slsdocid="1465148" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="AO.DIR.1136996721" id-root="ao.dir" iso="ao" sect-type="legislature" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb ass">
+                    <heading>Election Commission</heading>
+                    <org-list>
+                         <org-entryref id="SL1465154" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1465153" slsdocid="1465120" slsdocty="org-entry org-entrydtd">
+                              
+                              <org-entry id="AO.DIR.1136996507" id-root="ao.dir" iso="ao" media="PRINTANDONLINE" print-only="NO" section="Election Commission" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="entry">
+                                   <org-entry-head>
+                                        <org-entry-name>Comissão Nacional Eleitoral</org-entry-name>
+                                        <abbr>CNE</abbr>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>Edif. Margaret Anstee, Rua dos Coqueiros 203, Luanda</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">990000000</telephone>
+                                        <email>geral@cne.com</email>
+                                        <internet>www.cne.ao</internet>
+                                   </address-block>
+                                   <found-date>2005</found-date>
+                                   <content-note style="NORMAL">govt agency</content-note>
+                                   <role-group>
+                                        <role>Pres.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Manuel Pereira</forename>
+                                                  <surname>da Silva</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>
+                    </org-list>
+               </dir-section>
+          </dir-sectref>
+          

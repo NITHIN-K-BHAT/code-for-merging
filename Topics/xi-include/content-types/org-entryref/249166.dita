@@ -1,0 +1,27 @@
+<org-entryref id="SL1744696" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1744695" slsdocid="249166" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1378" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Caxton Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>312 Main St, Caldwell, ID 83605</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 657-6465</telephone>
+                                             <email>orders@caxtonpress.com</email>
+                                             <internet>caxtonpress.com</internet>
+                                        </address-block>
+                                        <found-date>1907</found-date>
+                                        <content-note style="NORMAL">Western Americana</content-note>
+                                        <role-group>
+                                             <role>Pres. and Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Scott</forename>
+                                                       <surname>Gipson</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

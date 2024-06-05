@@ -1,0 +1,26 @@
+<org-entryref id="SL6904378" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6904377" slsdocid="249398" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1162" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>News Tribune</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2602 S 38th St, Suite A, PMB 3, Tacoma, WA 98409</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(253) 597-8742</telephone>
+                                                       <email>customerservice@thenewstribune.com</email>
+                                                       <internet>thenewstribune.com</internet>
+                                                  </address-block>
+                                                  <found-date>1883</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Stephanie</forename>
+                                                                 <surname>Pedersen</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

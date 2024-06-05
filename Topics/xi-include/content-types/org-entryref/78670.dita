@@ -1,0 +1,28 @@
+<org-entryref id="SL1140044" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1140043" slsdocid="78670" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.913" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Forest Products Association of Canada/Association des Produits Forestiers du Canada</org-entry-name>
+                                                       <abbr>FPAC/APFC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>99 Bank St, Suite 410, Ottawa, ON KIP 6B9</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 563-1441</telephone>
+                                                       <email>ottawa@fpac.ca</email>
+                                                       <internet>fpac.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1913; fmrly Canadian Pulp and Paper Asscn</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Derek</forename>
+                                                                 <surname>Nighbor</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>16 mem. cos (2024)</stats>
+                                             </org-entry>
+                                        </org-entryref>

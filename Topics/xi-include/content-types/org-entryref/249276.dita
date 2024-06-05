@@ -1,0 +1,29 @@
+<org-entryref id="SL260822" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260821" slsdocid="249276" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1276" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Progressive Farmer</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>11400 Rupp Dr., Burnsville, MN 55337</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(800) 485-4000</telephone>
+                                                  <email>pfmcustserv@cdsfulfillment.com</email>
+                                                  <internet>dtnpf.com/agriculture</internet>
+                                             </address-block>
+                                             <found-date>1886</found-date>
+                                             <frequency>monthly</frequency>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Gregg</forename>
+                                                            <surname>Hillyer</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 383,171 (2021)</stats>
+                                        </org-entry>
+                                   </org-entryref>

@@ -1,0 +1,29 @@
+<org-entryref id="SL7799234" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799233" slsdocid="7799053" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637849645" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Picador</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>120 Bdwy, New York, NY 10271</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 221-7945</telephone>
+                                             <fax>(212) 388-9065</fax>
+                                             <email>info@pgcbooks.ca</email>
+                                             <internet>us.macmillan.com/picador</internet>
+                                        </address-block>
+                                        <found-date>1995</found-date>
+                                        <content-note style="NORMAL">division of Macmillan Publrs, part of Verlagsgruppe Georg von Holtzbrinck Publishing Group (Germany)</content-note>
+                                        <content-note style="NORMAL">fiction and non-fiction in paperback</content-note>
+                                        <role-group>
+                                             <role>Man. Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kolt</forename>
+                                                       <surname>Beringer</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

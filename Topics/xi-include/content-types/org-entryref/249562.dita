@@ -1,0 +1,28 @@
+<org-entryref id="SL1741305" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741304" slsdocid="249562" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.968" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  
+                                                  <data-protection date-added="08.10.2008" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Augusta Chronicle</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>725 Broad St, Augusta, GA 30901</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(706) 722-5620</telephone>
+                                                       <internet>augustachronicle.com</internet>
+                                                  </address-block>
+                                                  <found-date>1785</found-date>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>John</forename>
+                                                                 <surname>Gogick</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 18,177, Sun. 21,166 (2018)</stats>
+                                             </org-entry>
+                                        </org-entryref>

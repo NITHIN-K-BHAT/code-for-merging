@@ -1,0 +1,30 @@
+<org-entryref id="SL8925062" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8925061" slsdocid="250004" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.2122A" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL RAILWAYS">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Association of American Railroads</org-entry-name>
+                                                            <abbr>AAR</abbr>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>425 3rd St, SW, Suite 1000, Washington, DC 20024</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(202) 639-2345</telephone>
+                                                            <email>media@aar.org</email>
+                                                            <internet>aar.org</internet>
+                                                       </address-block>
+                                                       <found-date>1934</found-date>
+                                                       <stats>18 mems and 21 affiliate mems</stats>
+                                                       <content-note style="NORMAL">membership represents virtually all major railroads in USA, Canada and Mexico</content-note>
+                                                       <content-note style="NORMAL">oversees 225,308 km of track</content-note>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Ian</forename>
+                                                                      <surname>Jefferies</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

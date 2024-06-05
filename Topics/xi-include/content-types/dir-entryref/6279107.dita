@@ -1,0 +1,15 @@
+<dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6279173" sllink="SLSDOCRF" sllinkid="6279172" slsdocid="6279107" slsdocty="dir-entry dir-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <dir-entry id="RU-AST.2" id-root="ru.dir" iso="ru" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                             <dir-entry-name>Governor</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Igor Yu.</forename>
+                                                            <surname>Babushkin</surname>
+                                                       </person-name>
+                                                  </person>
+                                                  
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>

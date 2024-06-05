@@ -1,0 +1,28 @@
+<org-entryref id="SL1744717" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1744716" slsdocid="249161" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1383" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>The Creative Co</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>POB 227, Mankato, MN 56002</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 445-6209</telephone>
+                                             <fax>(507) 388-2746</fax>
+                                             <email>info@thecreativecompany.us</email>
+                                             <internet>thecreativecompany.us</internet>
+                                        </address-block>
+                                        <found-date>1932</found-date>
+                                        <content-note style="NORMAL">juvenile</content-note>
+                                        <role-group>
+                                             <role>Pres. and Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Tom</forename>
+                                                       <surname>Peterson</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

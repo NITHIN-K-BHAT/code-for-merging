@@ -1,0 +1,27 @@
+<org-entryref id="SL1744598" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1744597" slsdocid="249188" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1358" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Abrams</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>195 Bdwy, 9th Floor, New York, NY 10007</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 206-7715</telephone>
+                                             <email>abrams@abramsbooks.com</email>
+                                             <internet>abramsbooks.com</internet>
+                                        </address-block>
+                                        <found-date>1949</found-date>
+                                        <content-note style="NORMAL">imprints incl. Abrams Books (art, photography, fashion, design, nature, science), Stewart, Tabori &amp; Chang (cooking, design, gardening, crafts, pets, health, sports, popular culture), Amulet Books (youth fiction and non-fiction) and Abrams Image (music, humour, reference, popular culture)</content-note>
+                                        <role-group>
+                                             <role>Pres. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mary</forename>
+                                                       <surname>McAveney</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

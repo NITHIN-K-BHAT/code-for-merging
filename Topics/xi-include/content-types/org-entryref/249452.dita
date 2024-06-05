@@ -1,0 +1,28 @@
+<org-entryref id="SL1741987" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741986" slsdocid="249452" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1101" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <data-protection date-added="12.09.2007" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Toledo Blade</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>541 N Superior St, Toledo, OH 43660</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(419) 724-6000</telephone>
+                                                       <email>letters@theblade.com</email>
+                                                       <internet>toledoblade.com</internet>
+                                                  </address-block>
+                                                  <found-date>1835</found-date>
+                                                  <role-group>
+                                                       <role>Exec. Editor, Pres. and Gen. Man.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Kurt G.</forename>
+                                                                 <surname>Franck</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 54,095, Sun 87,392 (2019)</stats>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,27 @@
+<org-entryref id="SL6018899" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6018898" slsdocid="6018856" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <org-entry id="US.DIR.1515394683" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   
+                                   <org-entry-head>
+                                        <org-entry-name>Working Families Party</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>77 Sands St, No. 6, Brooklyn, New York, NY 11201</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(718) 222-3796</telephone>
+                                        <email>reply@workingfamilies.org</email>
+                                        <internet>workingfamilies.org</internet>
+                                   </address-block>
+                                   <found-date>1998</found-date>
+                                   <role-group>
+                                        <role>Nat. Dir</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Maurice</forename>
+                                                  <surname>Mitchell</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>

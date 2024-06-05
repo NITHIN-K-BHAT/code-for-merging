@@ -1,0 +1,26 @@
+<org-entryref id="SL6405092" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6405091" slsdocid="3167561" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1286257806" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Square One Publishers</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>115 Herricks Rd, Garden City Park, New York, NY 11040</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(516) 535-2010</telephone>
+                                             <internet>squareonepublishers.com</internet>
+                                        </address-block>
+                                        <found-date>2002</found-date>
+                                        <content-note style="NORMAL">health, cooking, parenting, self-help</content-note>
+                                        <role-group>
+                                             <role>Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Rudy</forename>
+                                                       <surname>Shur</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

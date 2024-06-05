@@ -1,0 +1,41 @@
+<org-entryref id="SL101498" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101497" slsdocid="78669" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.914" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Wood Council</org-entry-name>
+                                                       <abbr>CWC/CCB</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>99 Bank St, Suite 400, Ottawa, ON K1P 6B9</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 747-5544</telephone>
+                                                       <fax>(613) 747-6264</fax>
+                                                       <internet>cwc.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1959</found-date>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Kevin</forename>
+                                                                 <surname>Pankratz</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Rick</forename>
+                                                                 <surname>Jeffery</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>
+                      14 mem. asscns (2024
+                      
+                      )
+                    </stats>
+                                             </org-entry>
+                                        </org-entryref>

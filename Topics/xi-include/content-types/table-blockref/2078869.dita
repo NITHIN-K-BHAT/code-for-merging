@@ -1,0 +1,102 @@
+<table-blockref id="SL7946850" sllink="SLSDOCRF" sllinkid="7946849" slsdocid="2078869" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <table-block id="MF.T.3" id-root="mf.t" iso="mf" section="The Government" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" subsection="Entries" type="ELECTION">
+                                   <table-heading>
+                Elections, Territorial Council, 20 and 27 March 2022
+                
+                                   </table-heading>
+                                   <table pgwide="NO" style="WITH-RULES">
+                                        <tgroup cols="5">
+                                             <colspec colwidth="10.5cm" />
+                                             <colspec colname="COLSPEC0" colwidth="3cm" />
+                                             <colspec colname="COLSPEC2" colwidth="0.5cm" />
+                                             <colspec colname="COLSPEC1" colwidth="3cm" />
+                                             <colspec colname="COLSPEC3" colwidth="3cm" />
+                                             <thead>
+                                                  <row>
+                                                       <entry align="left" style="NO-DOT-LEADER" />
+                                                       <entry align="right" style="NO-DOT-LEADER">% of first round votes</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER" />
+                                                       <entry align="right" style="NO-DOT-LEADER">% of second round votes</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">Seats</entry>
+                                                  </row>
+                                             </thead>
+                                             <tbody>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">
+                        Rassemblement Saint-Martinois
+                        <endnoteref idref="FR-SM.T.3.1" ref-symbol="*" />
+                         
+                      </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">25.38</entry>
+                                                       <entry align="right" morerows="1" style="NO-DOT-LEADER">
+                                                            <rbrace height="2" />
+                                                       </entry>
+                                                       <entry align="right" morerows="1" style="NO-DOT-LEADER">49.11</entry>
+                                                       <entry align="right" morerows="1" style="NO-DOT-LEADER">
+                        
+                        16
+                      </entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">
+                        Alternative 2022
+                        <endnoteref idref="FR-SM.T.3.1" ref-symbol="*" />
+                                                       </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">11.15</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">Team Gibbs 2022</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">24.70</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER" />
+                                                       <entry align="right" style="NO-DOT-LEADER">33.31</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">5</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">
+                        Génération Hope
+                        <endnoteref idref="FR-SM.T.3.2" ref-symbol="†" />
+                                                       </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">17.57</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER" />
+                                                       <entry align="right" style="NO-DOT-LEADER">17.58</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">2</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry style="DOT-LEADER">
+                        Saint-Martin avec Vous
+                        <endnoteref idref="FR-SM.T.3.2" ref-symbol="†" />
+                                                       </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">13.80</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER" />
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry align="left" style="DOT-LEADER">
+                        Avenir Saint-Martin
+                        <endnoteref idref="FR-SM.T.3.2" ref-symbol="†" />
+                         
+                      </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">7.49</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER" />
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                  </row>
+                                                  <row>
+                                                       <entry align="left" style="DOT-LEADER">
+                                                            <b>Total</b>
+                         
+                      </entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">100.00</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER" />
+                                                       <entry align="right" style="NO-DOT-LEADER">100.00</entry>
+                                                       <entry align="right" style="NO-DOT-LEADER">23</entry>
+                                                  </row>
+                                             </tbody>
+                                        </tgroup>
+                                   </table>
+                                   <endnote id="FR-SM.T.3.1" ref-symbol="*">Rassemblement Saint-Martinois and Alternative 2022 contested the second round ballot together as Rassemblement Saint-Martinois-Alternative.</endnote>
+                                   <endnote id="FR-SM.T.3.2" ref-symbol="†">Saint-Martin avec Vous and Avenir Saint-Martin contested the second round in alliance with Génération Hope.</endnote>
+                              </table-block>
+                         </table-blockref>

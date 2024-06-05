@@ -1,0 +1,37 @@
+<org-entryref id="SL2789660" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2789659" slsdocid="1749896" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1159799036" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Tourism" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>US Travel Association</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1100 New York Ave, NW, Suite 450, Washington, DC 20005</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(202) 408-8422</telephone>
+                                                  <email>feedback@ustravel.org</email>
+                                                  <internet>ustravel.org</internet>
+                                             </address-block>
+                                             <found-date>2009</found-date>
+                                             <content-note style="NORMAL">promotes travel to and within USA</content-note>
+                                             <role-group>
+                                                  <role>Nat. Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Chris</forename>
+                                                            <surname>Nassetta</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres.and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Geoff</forename>
+                                                            <surname>Freeman</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

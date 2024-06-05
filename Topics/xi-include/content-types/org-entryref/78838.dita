@@ -1,0 +1,37 @@
+<org-entryref id="SL1759946" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759945" slsdocid="78838" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.723" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <data-protection date-added="05.09.2005" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Thistledown Press Ltd</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>220 20th St W, Saskatoon, SK S7M 0W9</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(306) 244-1722</telephone>
+                                             <email>tdpress@thistledownpress.com</email>
+                                             <internet>thistledownpress.com</internet>
+                                        </address-block>
+                                        <found-date>1975</found-date>
+                                        <content-note style="NORMAL">fiction, non-fiction and poetry for adults, young adult and juvenile readers</content-note>
+                                        <role-group>
+                                             <role>Editorial Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Elizabeth</forename>
+                                                       <surname>Philips</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Man. Editor</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Rilla</forename>
+                                                       <surname>Friesen</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

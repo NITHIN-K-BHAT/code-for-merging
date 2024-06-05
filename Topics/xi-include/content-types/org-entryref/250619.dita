@@ -1,0 +1,28 @@
+<org-entryref id="SL1745577" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745576" slsdocid="250619" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1489" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="12.09.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>University of Arkansas Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>McIlroy House, 105 N McIlroy Ave, Fayetteville, AR 72701</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(479) 575-7544</telephone>
+                                             <email>uapress@uark.edu</email>
+                                             <internet>uapress.com</internet>
+                                        </address-block>
+                                        <found-date>1980</found-date>
+                                        <content-note style="NORMAL">humanities, natural history, African American studies, Middle Eastern studies, poetry, civil rights, US history</content-note>
+                                        <role-group>
+                                             <role>Dir and Publr</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mike</forename>
+                                                       <surname>Bieker</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

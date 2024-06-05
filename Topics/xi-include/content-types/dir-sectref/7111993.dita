@@ -1,0 +1,66 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8926951" sllink="SLSDOCRF" sllinkid="8926950" slsdocid="7111993" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <dir-section id="CA.DIR.1589877849" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                                   <heading>Judaism</heading>
+                                   <p>According to census figures, there were some 335,295 Jews in Canada in 2021.</p>
+                                   <org-list>
+                                        <org-entryref id="SL7111996" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7111995" slsdocid="79123" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.410" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="JUDAISM" usage="ewyb usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Reform Jewish Community of Canada</org-entry-name>
+                                                       <abbr>RJCC</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>3845 Bathurst St, Suite 301, Toronto, ON M3H 3N2</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 630-0375</telephone>
+                                                       <fax>(416) 630-5089</fax>
+                                                       <email>info@therjcc.ca</email>
+                                                       <internet>therjcc.ca</internet>
+                                                  </address-block>
+                                                  <content-note style="NORMAL">mem. of the Union for Reform Judaism</content-note>
+                                                  <content-note style="NORMAL">fmrly Canadian Council for Reform Judaism</content-note>
+                                                  <found-date>1988</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Len</forename>
+                                                                 <surname>Bates</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>25 congregations</stats>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL7111999" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7111998" slsdocid="79124" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="CA.DIR.409" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="JUDAISM" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>United Synagogue of Conservative Judaism</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1700 Bathurst St, ON M5P 3K3</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 781-3514</telephone>
+                                                       <internet>uscj.org</internet>
+                                                  </address-block>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <title>Rabbi</title>
+                                                                 <forename>Jacob</forename>
+                                                                 <surname>Blumenthal</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                         </dir-sectref>

@@ -1,0 +1,37 @@
+<org-entryref id="SL1741630" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741629" slsdocid="249485" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1062" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                       <org-entry-head>
+                                                            <org-entry-name>The Wall Street Journal</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>1211 Ave of the Americas, New York, NY 10036</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(212) 416-2000</telephone>
+                                                            <email>wsjcontact@wsj.com</email>
+                                                            <internet>wsj.com</internet>
+                                                       </address-block>
+                                                       <found-date>1889</found-date>
+                                                       <frequency>morning</frequency>
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Rupert</forename>
+                                                                      <surname>Murdoch</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Editor-in-Chief</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Emma</forename>
+                                                                      <surname>Tucker</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <stats>circ. 609,650 (2023)</stats>
+                                                  </org-entry>
+                                             </org-entryref>

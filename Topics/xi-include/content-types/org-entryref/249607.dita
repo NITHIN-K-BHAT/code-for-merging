@@ -1,0 +1,27 @@
+<org-entryref id="SL1741138" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741137" slsdocid="249607" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.921" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Fresno Bee</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>710 Van Ness Ave, Suite 293, Fresno, CA 93721S</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(559) 441-6111</telephone>
+                                                       <email>staff@fresnobee.com</email>
+                                                       <internet>fresnobee.com</internet>
+                                                  </address-block>
+                                                  <found-date>1922</found-date>
+                                                  <role-group>
+                                                       <role>Sr Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Christopher</forename>
+                                                                 <surname>Kirkpatrick</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Sat. 41,792, Sun. 42,052 (2020)</stats>
+                                             </org-entry>
+                                        </org-entryref>

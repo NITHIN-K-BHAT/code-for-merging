@@ -1,0 +1,38 @@
+<org-entryref id="SL4327588" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4327587" slsdocid="4327528" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390194177" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Herald-News</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1100 Essington Rd, Suite 4, Joliet, IL 60435</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(815) 280-4100</telephone>
+                                                       <fax>(815) 729-2019</fax>
+                                                       <email>news@theherald-news.com</email>
+                                                       <internet>shawlocal.com/the-herald-news</internet>
+                                                  </address-block>
+                                                  <found-date>1839</found-date>
+                                                  <content-note style="NORMAL">part of Shaw Media</content-note>
+                                                  <frequency>Mon. to Sat. evening, Sun. morning</frequency>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Steve</forename>
+                                                                 <surname>Vanisko</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Group Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Joe</forename>
+                                                                 <surname>Biesk</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

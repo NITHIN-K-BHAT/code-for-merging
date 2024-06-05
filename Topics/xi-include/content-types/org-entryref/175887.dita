@@ -1,0 +1,26 @@
+<org-entryref id="SL198074" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="198073" slsdocid="175887" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="KR.DIR.180" id-root="kr.dir" iso="kr" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN THE REPUBLIC OF KOREA">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>188, Sejong-daero, Jongno-gu, Seoul 03141</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 397-4114</telephone>
+                                             <fax>(2) 738-8845</fax>
+                                             <email>embassyseoulpa@state.gov</email>
+                                             <internet>kr.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Philip</forename>
+                                                       <surname>Goldberg</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

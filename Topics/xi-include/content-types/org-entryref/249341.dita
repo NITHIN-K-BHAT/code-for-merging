@@ -1,0 +1,43 @@
+<org-entryref id="SL260704" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260703" slsdocid="249341" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1217" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Essence</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        34 35th St, Suite 5
+                        <sc>a</sc>
+                        , Brooklyn, NY 11232
+                      </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 642-0600</telephone>
+                                                  <email>webmaster@essence.com</email>
+                                                  <internet>essence.com</internet>
+                                             </address-block>
+                                             <found-date>1970</found-date>
+                                             <frequency>10 a year</frequency>
+                                             <content-note style="NORMAL">African American women’s general interest</content-note>
+                                             <role-group>
+                                                  <role>Pres. and Publr</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Richelieu</forename>
+                                                            <surname>Dennis</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Constance C. R.</forename>
+                                                            <surname>White</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 963,264</stats>
+                                        </org-entry>
+                                   </org-entryref>

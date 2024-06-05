@@ -1,0 +1,29 @@
+<org-entryref id="SL1759326" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759325" slsdocid="78976" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.581" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canada Gazette</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>350 Albert St, 5th Floor, Ottawa, ON K1A 0S5</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(613) 996-2495</telephone>
+                                                       <email>info.gazette@tpsgc-pwgsc.gc.ca</email>
+                                                       <internet>canadagazette.gc.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1841</found-date>
+                                                  <frequency>weekly</frequency>
+                                                  <content-note style="NORMAL">official newspaper of fed. Govt</content-note>
+                                                  <content-note style="NORMAL">English and French</content-note>
+                                                  <role-group>
+                                                       <role>Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Alexandra</forename>
+                                                                 <surname>LaGroix</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

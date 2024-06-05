@@ -1,0 +1,29 @@
+<org-entryref id="SL4327547" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4327546" slsdocid="4327521" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390192444" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Beacon-News</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>495 N Commons Dr., Aurora, IL 60504</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(630) 978-8149</telephone>
+                                                       <email>beaconnews@tribpub.com</email>
+                                                       <internet>www.chicagotribune.com/suburbs/aurora-beacon-news</internet>
+                                                  </address-block>
+                                                  <found-date>1846</found-date>
+                                                  <content-note style="NORMAL">owned by Chicago Tribune Media Group</content-note>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Anne</forename>
+                                                                 <surname>Halston</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 41,000 (2022)</stats>
+                                             </org-entry>
+                                        </org-entryref>

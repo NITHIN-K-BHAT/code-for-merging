@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+     <booktitle>
+          <mainbooktitle>Region overview</mainbooktitle>
+     </booktitle>
+     <chapter id="ass.ro" navtitle="Region overview">
+          <topicref href="../../../../Topics/Region/ass/content-types/region-overview/ass.ro.dita" navtitle="Region overview" keyscope="region-overview" keys="region-overview" format="dita" />
+     </chapter>
+</bookmap>

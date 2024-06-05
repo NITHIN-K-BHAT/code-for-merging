@@ -1,0 +1,38 @@
+<org-entryref id="SL4325810" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4325809" slsdocid="4325568" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389948913" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Herald</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2555 Garden Rd, Suite D, Monterey, CA 93940</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(831) 372-3311</telephone>
+                                                       <fax>(831) 372-8401</fax>
+                                                       <email>mheditor@montereyherald.com</email>
+                                                       <internet>montereyherald.com</internet>
+                                                  </address-block>
+                                                  <found-date>1922</found-date>
+                                                  <content-note style="NORMAL">publ. by Digital First Media</content-note>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mazi</forename>
+                                                                 <surname>Kavoosi</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>David</forename>
+                                                                 <surname>Kellogg</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

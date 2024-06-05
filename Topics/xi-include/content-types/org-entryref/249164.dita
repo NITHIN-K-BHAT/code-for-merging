@@ -1,0 +1,30 @@
+<org-entryref id="SL1744706" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1744705" slsdocid="249164" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1380" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Concordia Publishing House</org-entry-name>
+                                             <abbr>CPH</abbr>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>3558 S Jefferson Ave, St Louis, MO 63118</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(314) 268-1268</telephone>
+                                             <fax>(314) 268-1202</fax>
+                                             <email>order@cph.org</email>
+                                             <internet>cph.org</internet>
+                                        </address-block>
+                                        <found-date>1869</found-date>
+                                        <content-note style="NORMAL">Publr of Lutheran Church—Missouri Synod</content-note>
+                                        <content-note style="NORMAL">religious, children’s books, devotionals and curriculum music</content-note>
+                                        <role-group>
+                                             <role>Pres. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jonathan D.</forename>
+                                                       <surname>Schultz</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

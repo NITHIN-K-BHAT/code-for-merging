@@ -1,0 +1,28 @@
+<org-entryref id="SL4000205" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4000204" slsdocid="3930850" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.USAC.231011" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Civil Aviation" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Jazz Aviation LP</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>310 Goudey Dr., Enfield, NS B2T 1M6</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(902) 873-5000</telephone>
+                                                       <email>websupport@flyjazz.ca</email>
+                                                       <internet>flyjazz.ca</internet>
+                                                  </address-block>
+                                                  <found-date>2002</found-date>
+                                                  <content-note style="NORMAL">owned by Chorus Aviation Inc</content-note>
+                                                  <content-note style="NORMAL">operates regional air services on behalf of Air Canada as Air Canada Express</content-note>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Randolph</forename>
+                                                                 <surname>Degooyer</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

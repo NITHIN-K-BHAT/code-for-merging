@@ -1,0 +1,31 @@
+<org-entryref id="SL260890" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260889" slsdocid="249239" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1310" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>VIA</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>POB 24502, Oakland, CA 94623</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(800) 922-8228</telephone>
+                                                  <email>viamail@viamagazine.com</email>
+                                                  <internet>mwg.aaa.com/via</internet>
+                                             </address-block>
+                                             <found-date>1917</found-date>
+                                             <frequency>quarterly</frequency>
+                                             <content-note style="NORMAL">western US travel, car safety</content-note>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Whitney</forename>
+                                                            <surname>Phaneuf</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 3m. (2017)</stats>
+                                        </org-entry>
+                                   </org-entryref>

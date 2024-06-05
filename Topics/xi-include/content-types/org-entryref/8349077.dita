@@ -1,0 +1,28 @@
+<org-entryref id="SL8362689" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8362688" slsdocid="8349077" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.1670241984" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Political Organisations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL PROVINCIAL AND TERRITORIAL PARTIES">
+                                        <org-entry-head>
+                                             <org-entry-name>British Columbia New Democratic Party</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>34 W 7th Ave, Suite 320, Vancouver, BC V5Y 1L6</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(604) 430-8600</telephone>
+                                             <fax>(778) 379-4842</fax>
+                                             <email>contact@bcndp.ca</email>
+                                             <internet>www.bcndp.ca</internet>
+                                        </address-block>
+                                        <found-date>1933</found-date>
+                                        <content-note style="NORMAL">present name since 1961</content-note>
+                                        <role-group>
+                                             <role>Leader</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>David</forename>
+                                                       <surname>Eby</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

@@ -1,0 +1,28 @@
+<org-entryref id="SL1418098" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1418097" slsdocid="1418092" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1128614529" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Employers Organizations">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Association of Equipment Manufacturers</org-entry-name>
+                                                       <abbr>AEM</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>6737 W Washington St, Suite 2400, Milwaukee, WI 53214-5647</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(414) 272-0943</telephone>
+                                                       <email>aem@aem.org</email>
+                                                       <internet>aem.org</internet>
+                                                  </address-block>
+                                                  <found-date>2002</found-date>
+                                                  <stats>over 1,000 mem. cos (2023)</stats>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Rob</forename>
+                                                                 <surname>Schrader</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

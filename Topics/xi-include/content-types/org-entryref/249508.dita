@@ -1,0 +1,37 @@
+<org-entryref id="SL1741493" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741492" slsdocid="249508" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1032" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <data-protection date-added="28.09.2011" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Duluth News Tribune</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>424 W 1st St, Duluth, MN 55802</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(218) 723-5281</telephone>
+                                                       <email>news@duluthnews.com</email>
+                                                       <internet>duluthnewstribune.com</internet>
+                                                  </address-block>
+                                                  <found-date>1869</found-date>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Neal</forename>
+                                                                 <surname>Ronquist</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Rick</forename>
+                                                                 <surname>Lubbers</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 15,157 (2023)</stats>
+                                             </org-entry>
+                                        </org-entryref>

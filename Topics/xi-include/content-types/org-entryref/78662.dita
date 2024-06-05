@@ -1,0 +1,38 @@
+<org-entryref id="SL101510" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="101509" slsdocid="78662" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.922" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Association of Petroleum Producers</org-entry-name>
+                                                       <abbr>CAPP</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>350 7th Ave, SW, Suite 2100, Calgary, AB T2P 3N9</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(403) 267-1100</telephone>
+                                                       <email>communication@capp.ca</email>
+                                                       <internet>capp.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1952</found-date>
+                                                  <content-note style="NORMAL">represents upstream petroleum and natural gas industries</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Paul</forename>
+                                                                 <surname>Myers</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Lisa</forename>
+                                                                 <surname>Baiton</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>37 producer and 41 assoc. mems (2024)</stats>
+                                             </org-entry>
+                                        </org-entryref>

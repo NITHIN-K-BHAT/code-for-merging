@@ -1,0 +1,39 @@
+<org-entryref id="SL1745624" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745623" slsdocid="250608" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1499" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        
+                                        <data-protection date-added="12.09.2007" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>University of Missouri Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>113 Heinkel Bldg, 201 S 7th St, Columbia, MO 65211</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(573) 882-7641</telephone>
+                                             <fax>(573) 884-4498</fax>
+                                             <email>upress@missouri.edu</email>
+                                             <internet>upress.missouri.edu</internet>
+                                        </address-block>
+                                        <found-date>1958</found-date>
+                                        <content-note style="NORMAL">scholarly</content-note>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>David M.</forename>
+                                                       <surname>Rosenbaum</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Andrew</forename>
+                                                       <surname>Davidson</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

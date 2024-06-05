@@ -1,0 +1,29 @@
+<org-entryref id="SL8961512" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8961511" slsdocid="6437141" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1544519022" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELEVISION" usage="ewyb usac">
+                                                       <org-entry-head>
+                                                            <org-entry-name>YouTube TV</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>901 Cherry Ave, San Bruno, CA 94066</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(650) 253-0000</telephone>
+                                                            <fax>(650) 253-0001</fax>
+                                                            <internet>tv.youtube.com</internet>
+                                                       </address-block>
+                                                       <found-date>2017</found-date>
+                                                       <content-note style="NORMAL">online TV streaming service</content-note>
+                                                       <stats>more than 100 live TV networks</stats>
+                                                       <role-group>
+                                                            <role>CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Neal</forename>
+                                                                      <surname>Mohan</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <content-note style="NORMAL">5m. subs (2022)</content-note>
+                                                  </org-entry>
+                                             </org-entryref>

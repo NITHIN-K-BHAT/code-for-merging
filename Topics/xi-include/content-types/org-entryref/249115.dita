@@ -1,0 +1,29 @@
+<org-entryref id="SL1745135" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745134" slsdocid="249115" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1425" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>Johns Hopkins University Press</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>2715 N Charles St, Baltimore, MD 21218</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(410) 516-6900</telephone>
+                                             <fax>(410) 516-6968</fax>
+                                             <email>webmaster@jhupress.jhu.edu</email>
+                                             <internet>press.jhu.edu</internet>
+                                        </address-block>
+                                        <found-date>1878</found-date>
+                                        <content-note style="NORMAL">social and physical sciences, humanities, health sciences, education, classics, history</content-note>
+                                        <role-group>
+                                             <role>Exec. Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Barbara</forename>
+                                                       <surname>Kline Pope</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

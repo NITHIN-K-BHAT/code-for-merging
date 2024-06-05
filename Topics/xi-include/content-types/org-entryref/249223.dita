@@ -1,0 +1,20 @@
+<org-entryref id="SL5961633" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5961632" slsdocid="249223" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1324" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="NEWS AGENCIES" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Andrews McMeel Syndication</org-entry-name>
+                                                       <abbr>UU</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1130 Walnut St, Kansas City, MO 64106-2109</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(816) 581-7358</telephone>
+                                                       <email>universalreprints@amuniversal.com</email>
+                                                       <internet>syndication.andrewsmcmeel.com</internet>
+                                                  </address-block>
+                                                  <found-date>1970 as Universal Press Syndicate</found-date>
+                                                  <content-note style="NORMAL">present name adopted 2017</content-note>
+                                                  <content-note style="NORMAL">licensing and syndication of news, editorial features and comic strips</content-note>
+                                             </org-entry>
+                                        </org-entryref>

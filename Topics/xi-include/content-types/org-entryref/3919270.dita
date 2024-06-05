@@ -1,0 +1,37 @@
+<org-entryref id="SL3919319" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3919318" slsdocid="3919270" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.USAC.40.314" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="National Association" usage="usac">
+                                             <org-entry-head>
+                                                  <org-entry-name>Association of Community Publishers</org-entry-name>
+                                                  <abbr>ACP</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>8119 Circuit Rider Path, Cicero, NY 13039</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(877) 203-2327</telephone>
+                                                  <email>cassey@communitypublishers.com</email>
+                                                  <internet>www.communitypublishers.com</internet>
+                                             </address-block>
+                                             <found-date>1950</found-date>
+                                             <content-note style="NORMAL">fmrly Asscn of Free Community Papers</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Manuel</forename>
+                                                            <surname>Karam</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Loren</forename>
+                                                            <surname>Colburn</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

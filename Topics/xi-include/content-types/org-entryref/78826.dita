@@ -1,0 +1,28 @@
+<org-entryref id="SL1760321" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1760320" slsdocid="78826" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="CA.DIR.735" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="ORGANIZATIONS AND ASSOCIATIONS" usage="ewyb usac">
+                                             <data-protection date-added="17.10.2006" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Association of Canadian University Presses</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>542 King Edward Ave, Ottawa, ON K1N 6N5</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(780) 288-2697</telephone>
+                                                  <email>admin@acup-apuc.ca</email>
+                                                  <internet>acup-apuc.ca</internet>
+                                             </address-block>
+                                             <found-date>1965</found-date>
+                                             <stats>17 mems (2023)</stats>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Brian</forename>
+                                                            <surname>Scrivener</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

@@ -1,0 +1,27 @@
+<org-entryref id="SL1745197" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745196" slsdocid="249098" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1440" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>New Directions Publishing Corpn</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>80 8th Ave, New York, NY 10011</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 255-0230</telephone>
+                                             <email>editorial@ndbooks.com</email>
+                                             <internet>ndbooks.com</internet>
+                                        </address-block>
+                                        <found-date>1936</found-date>
+                                        <content-note style="NORMAL">modern literature, poetry and criticism</content-note>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Barbara</forename>
+                                                       <surname>Epler</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

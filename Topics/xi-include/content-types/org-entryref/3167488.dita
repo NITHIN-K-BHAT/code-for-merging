@@ -1,0 +1,26 @@
+<org-entryref id="SL3167505" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3167504" slsdocid="3167488" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1286253870" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Goodheart-Willcox Co, Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>18604 W Creek Dr., Tinley Park, IL 60477-6243</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(708) 687-5000</telephone>
+                                             <internet>g-w.com</internet>
+                                        </address-block>
+                                        <found-date>1921</found-date>
+                                        <content-note style="NORMAL">technology and consumer sciences, business and marketing</content-note>
+                                        <role-group>
+                                             <role>Pres. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>John F.</forename>
+                                                       <surname>Flanagan</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

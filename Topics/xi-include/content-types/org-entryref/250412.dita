@@ -1,0 +1,36 @@
+<org-entryref id="SL8923449" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8923448" slsdocid="250412" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1712" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Finance" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="BANKING">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Wells Fargo Bank NA</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>101 N Phillips Ave, Sioux Falls, SD 57104</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(605) 575-6900</telephone>
+                                                       <email>investorrelations@wellsfargo.com</email>
+                                                       <internet>wellsfargo.com</internet>
+                                                  </address-block>
+                                                  <found-date>1960</found-date>
+                                                  <content-note style="NORMAL">present name since 2004</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Steven D.</forename>
+                                                                 <surname>Black</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Charles W.</forename>
+                                                                 <surname>Scharf</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

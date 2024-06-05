@@ -1,0 +1,39 @@
+<org-entryref id="SL3930916" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3930915" slsdocid="3930847" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="CA.DIR.USAC.32.121" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Publishers’ Organizations and Associations" usage="usac">
+                                             <data-protection date-added="10.10.2018." ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Book Publishers Association of Alberta</org-entry-name>
+                                                  <abbr>BPAA</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>11759 Groat Rd NW, 2nd Floor, Edmonton, T5M 3K6</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(780) 424-5060</telephone>
+                                                  <email>info@bookpublishers.ab.ca</email>
+                                                  <internet>bookpublishers.ab.ca</internet>
+                                             </address-block>
+                                             <found-date>1975</found-date>
+                                             <content-note style="NORMAL">affiliated to ACP</content-note>
+                                             <stats>over 30 mem. cos (2023)</stats>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Matt</forename>
+                                                            <surname>Bowes</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Kieran</forename>
+                                                            <surname>Leblanc</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

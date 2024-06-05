@@ -1,0 +1,41 @@
+<org-entryref id="SL7028678" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7028677" slsdocid="78638" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.954" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="UTILITIES">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canada Energy Regulator</org-entry-name>
+                                                       <abbr>CER</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>517 10th Ave SW, Suite 210, Calgary, AB T2R 0A8</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(403) 292-4800</telephone>
+                                                       <email>info@cer-rec.gc.ca</email>
+                                                       <internet>cer-rec.gc.ca</internet>
+                                                  </address-block>
+                                                  <found-date>
+                      2019 to replace Nat.
+                      
+                       Energy Bd
+                    </found-date>
+                                                  <content-note style="NORMAL">federal regulatory agency</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>George</forename>
+                                                                 <surname>Vegh</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Tracy</forename>
+                                                                 <surname>Sletto</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

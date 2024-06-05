@@ -1,0 +1,29 @@
+<org-entryref id="SL4326097" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4326096" slsdocid="4325844" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389952188" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>The Tribune</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>3940 Broad St, Suite 7, PMB 325, San Luis Obispo, CA 93401</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(805) 781-7800</telephone>
+                                                       <email>newsroom@thetribunenews.com</email>
+                                                       <internet>sanluisobispo.com</internet>
+                                                  </address-block>
+                                                  <found-date>1869</found-date>
+                                                  <content-note style="NORMAL">owned by The McClatchy Co</content-note>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Joe</forename>
+                                                                 <surname>Tarica</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. Mon. to Fri. 27,408, Sun. 38,564 (2022)</stats>
+                                             </org-entry>
+                                        </org-entryref>

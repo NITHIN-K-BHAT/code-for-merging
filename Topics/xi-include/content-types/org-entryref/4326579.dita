@@ -1,0 +1,39 @@
+<org-entryref id="SL4326661" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4326660" slsdocid="4326579" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389959408" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Marietta Daily Journal</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>47 Waddell St SE, POB 449, Marietta, GA 30061</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(770) 428-9411</telephone>
+                                                       <email>customerservice@mdjonline.com</email>
+                                                       <internet>mdjonline.com</internet>
+                                                  </address-block>
+                                                  <found-date>1866</found-date>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Otis A.</forename>
+                                                                 <surname>Brumby</surname>
+                                                                 <gen-name>III</gen-name>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Sr Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jon</forename>
+                                                                 <surname>Gillooly</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 13,300 (2018)</stats>
+                                             </org-entry>
+                                        </org-entryref>

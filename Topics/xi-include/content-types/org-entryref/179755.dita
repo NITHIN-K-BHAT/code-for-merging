@@ -1,0 +1,25 @@
+<org-entryref id="SL204378" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="204377" slsdocid="179755" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="MW.DIR.95" id-root="mw.dir" iso="mw" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES AND HIGH COMMISSIONS IN MALAWI">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>16 Jomo Kenyatta Rd, Lilongwe 3</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">884774166</telephone>
+                                             <email>consularlilong@state.gov</email>
+                                             <internet>mw.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Chargé d'affaires a.i.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Amy</forename>
+                                                       <surname>Diaz</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

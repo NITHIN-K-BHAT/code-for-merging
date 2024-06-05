@@ -1,0 +1,40 @@
+<org-entryref id="SL260818" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260817" slsdocid="249278" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1274" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Popular Science</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>2 Park Ave, 9th Floor, New York, NY 10016</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(212) 779-5000</telephone>
+                                                  <fax>(212) 779-5108</fax>
+                                                  <email>letters@popsci.com</email>
+                                                  <internet>popsci.com</internet>
+                                             </address-block>
+                                             <found-date>1872</found-date>
+                                             <frequency>monthly</frequency>
+                                             <content-note style="NORMAL">publ. by Bonnier Corpn</content-note>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Annie</forename>
+                                                            <surname>Colbert</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Editor</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Stan</forename>
+                                                            <surname>Horaczek</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 566,779 (2020)</stats>
+                                        </org-entry>
+                                   </org-entryref>

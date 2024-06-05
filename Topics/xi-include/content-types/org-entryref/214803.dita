@@ -1,0 +1,17 @@
+<org-entryref id="SL5495562" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5495561" slsdocid="214803" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="PH.DIR.92.1" id-root="ph.dir" iso="ph" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                             <org-entry-head>
+                                                  <org-entry-name>National Economic and Development Authority (NEDA—Department of Socioeconomic Planning)</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>12 St Josemaria Escriva Dr., Ortigas Center, Pasig City, 1605 Metro Manila</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(2) 86310945</telephone>
+                                                  <fax>(2) 86313282</fax>
+                                                  <email>nedapr@neda.gov.ph</email>
+                                                  <internet>www.neda.gov.ph</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>

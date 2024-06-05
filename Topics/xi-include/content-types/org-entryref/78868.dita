@@ -1,0 +1,28 @@
+<org-entryref id="SL2614141" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2614140" slsdocid="78868" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.693" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries" usage="ewyb usac">
+                                        <data-protection date-added="14.09.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Pearson Clinical Assessment Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>357 Bay St, 3rd Floor, Toronto, ON M5H 4A6</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(866) 335-8418</telephone>
+                                             <email>cs.canada@pearson.com</email>
+                                             <internet>pearsonclinical.ca</internet>
+                                        </address-block>
+                                        <found-date>1922</found-date>
+                                        <content-note style="NORMAL">psychological, medical, educational, schol­arly</content-note>
+                                        <role-group>
+                                             <role>CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Andy</forename>
+                                                       <surname>Bird</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

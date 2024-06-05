@@ -1,0 +1,34 @@
+<org-entryref id="SL3167531" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3167530" slsdocid="3167508" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1286254874" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <org-entry-head>
+                                             <org-entry-name>Melville House Publishing</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>46 John St, Brooklyn, NY 11201</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(718) 722-9204</telephone>
+                                             <fax>(718) 722-9205</fax>
+                                             <email>info@mhpbooks.com</email>
+                                             <internet>mhpbooks.com</internet>
+                                        </address-block>
+                                        <found-date>2001</found-date>
+                                        <content-note style="NORMAL">fiction, poetry and non-fiction</content-note>
+                                        <role-group>
+                                             <role>Publrs</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dennis Loy</forename>
+                                                       <surname>Johnson</surname>
+                                                  </person-name>
+                                             </person>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Valerie</forename>
+                                                       <surname>Merians</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

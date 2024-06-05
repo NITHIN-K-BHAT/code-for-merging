@@ -1,0 +1,27 @@
+<org-entryref id="SL8770844" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8770843" slsdocid="7799062" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637850912" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>BW Walch</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>35 Foden Rd, Suite 3, South Portland, ME 04106</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(207) 828-8800</telephone>
+                                             <email>customerservice@bwwalch.com</email>
+                                             <internet>bwwalch.com</internet>
+                                        </address-block>
+                                        <found-date>2022 by merger of BoomWriter Media (UK) and Walch Education</found-date>
+                                        <content-note style="NORMAL">educational</content-note>
+                                        <role-group>
+                                             <role>Pres. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Al</forename>
+                                                       <surname>Noyes</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

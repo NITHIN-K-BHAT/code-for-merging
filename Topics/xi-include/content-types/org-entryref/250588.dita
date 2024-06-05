@@ -1,0 +1,36 @@
+<org-entryref id="SL1745698" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745697" slsdocid="250588" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1517" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        <data-protection date-added="24.06.2009" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>University Press of Mississippi</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>3825 Ridgewood Rd, Jackson, MS 39211</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(601) 432-6205</telephone>
+                                             <email>press@mississippi.edu</email>
+                                             <internet>www.upress.state.ms.us</internet>
+                                        </address-block>
+                                        <found-date>1970</found-date>
+                                        <role-group>
+                                             <role>Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Craig W.</forename>
+                                                       <surname>Gill</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Editor-in-Chief</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Katie E.</forename>
+                                                       <surname>Keene</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

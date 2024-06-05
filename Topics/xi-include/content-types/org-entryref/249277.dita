@@ -1,0 +1,30 @@
+<org-entryref id="SL260820" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260819" slsdocid="249277" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1275" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Prevention</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>300 W 57th St, New York, NY 10019</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(800) 813-8070</telephone>
+                                                  <email>letters@prevention.com</email>
+                                                  <internet>prevention.com</internet>
+                                             </address-block>
+                                             <found-date>1950</found-date>
+                                             <frequency>monthly</frequency>
+                                             <content-note style="NORMAL">publ. by Hearst Corpn</content-note>
+                                             <content-note style="NORMAL">health care</content-note>
+                                             <role-group>
+                                                  <role>Editor-in-Chief</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Sarah</forename>
+                                                            <surname>Smith</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <stats>circ. 454,434</stats>
+                                        </org-entry>
+                                   </org-entryref>

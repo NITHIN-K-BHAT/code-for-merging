@@ -1,0 +1,27 @@
+<org-entryref id="SL1968488" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1968487" slsdocid="78604" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.987" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="UTILITIES">
+                                                  <data-protection date-added="16.04.2007" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Water Resources Management Division, Newfoundland and Labrador Department of Environment and Climate Change</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Confederation Bldg, W Block, 4th Floor, POB 8700, St John’s, NL A1B 4J6</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(709) 729-2563</telephone>
+                                                       <email>water@gov.nl.ca</email>
+                                                       <internet>gov.nl.ca/ecc/waterres</internet>
+                                                  </address-block>
+                                                  <found-date>1949</found-date>
+                                                  <role-group>
+                                                       <role>Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Haseen</forename>
+                                                                 <surname>Khan</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

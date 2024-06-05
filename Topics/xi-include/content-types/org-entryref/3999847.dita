@@ -1,0 +1,26 @@
+<org-entryref id="SL3999883" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3999882" slsdocid="3999847" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.USAC.14.49332" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Utilities">
+                                                  <data-protection date-added="24.09.2008" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Water Resources Section, Yukon Department of Environment</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>POB 2703, Whitehorse, YT Y1A 2C6</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(867) 668-3271</telephone>
+                                                       <email>resources@yukonwater.ca</email>
+                                                       <internet>yukonwater.ca</internet>
+                                                  </address-block>
+                                                  <role-group>
+                                                       <role>Dir</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Heather</forename>
+                                                                 <surname>Jirousek</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

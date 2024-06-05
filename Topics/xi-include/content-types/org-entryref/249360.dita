@@ -1,0 +1,18 @@
+<org-entryref id="SL260670" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260669" slsdocid="249360" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1200" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Catholic Digest</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1564 Fencorp Dr., Fenton, MO 63026</verbatim-address>
+                                                  </address>
+                                                  <email>customerservice@bayardfaithresources.com</email>
+                                                  <internet>catholicdigest.com</internet>
+                                             </address-block>
+                                             <found-date>1936</found-date>
+                                             <frequency>nine a year</frequency>
+                                             <content-note style="NORMAL">publ. by Bayard Inc</content-note>
+                                        </org-entry>
+                                   </org-entryref>

@@ -1,0 +1,37 @@
+<org-entryref id="SL8924610" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8924609" slsdocid="78541" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.1053" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="RAILWAYS">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Canadian National Railway Co</org-entry-name>
+                                                            <abbr>CN</abbr>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>935 rue de la Gauchetière ouest, Montréal, QC H3B 2M9</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(800) 361-0198</telephone>
+                                                            <internet>www.cn.ca</internet>
+                                                       </address-block>
+                                                       <found-date>1919</found-date>
+                                                       <content-note style="NORMAL">investor-owned</content-note>
+                                                       <stats>32,186 km of track (2023)</stats>
+                                                       <role-group>
+                                                            <role>Chair.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Shauneen</forename>
+                                                                      <surname>Bruder</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Pres. and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Tracy</forename>
+                                                                      <surname>Robinson</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

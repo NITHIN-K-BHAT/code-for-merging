@@ -1,0 +1,28 @@
+<org-entryref id="SL4330791" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4330790" slsdocid="4330289" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390367213" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Herald</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>572 John Ross Pkwy, Suite 107, POB 148, Rock Hill, SC 29730</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(803) 329-4000</telephone>
+                                                       <email>assignmentdesk@heraldonline.com</email>
+                                                       <internet>heraldonline.com</internet>
+                                                  </address-block>
+                                                  <found-date>1871</found-date>
+                                                  <frequency>morning</frequency>
+                                                  <content-note style="NORMAL">owned by McClatchy</content-note>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Cliff</forename>
+                                                                 <surname>Harrington</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

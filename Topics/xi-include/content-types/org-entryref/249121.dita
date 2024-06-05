@@ -1,0 +1,30 @@
+<org-entryref id="SL1745041" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1745040" slsdocid="249121" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1419" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>Houghton Mifflin Harcourt</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>125 High St, Boston, MA 02110</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(617) 351-5000</telephone>
+                                             <internet>hmhco.com</internet>
+                                        </address-block>
+                                        <found-date>1919 as Harcourt Inc</found-date>
+                                        <content-note style="NORMAL">present name adopted in 2007</content-note>
+                                        <content-note style="NORMAL">owned by Education Media and Publishing Group</content-note>
+                                        <content-note style="NORMAL">general, educational</content-note>
+                                        <role-group>
+                                             <role>Pres., CEO and Dir</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>John J.</forename>
+                                                       <surname>Lynch</surname>
+                                                       <gen-name>Jr</gen-name>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

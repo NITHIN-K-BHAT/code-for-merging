@@ -1,0 +1,18 @@
+<org-entryref id="SL7799531" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799530" slsdocid="7799392" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1637858342" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Coup de Pouce</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>CP 11041, Anjou, QC H1K 0C4</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(514) 392-9000</telephone>
+                                                       <internet>coupdepouce.com</internet>
+                                                  </address-block>
+                                                  <frequency>monthly</frequency>
+                                                  <content-note style="NORMAL">general lifestyle</content-note>
+                                                  <stats>circ. 130,043 (June 2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

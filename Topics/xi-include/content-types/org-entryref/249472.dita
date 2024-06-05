@@ -1,0 +1,36 @@
+<org-entryref id="SL1741610" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741609" slsdocid="249472" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1078" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                       <org-entry-head>
+                                                            <org-entry-name>New York Post</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>1211 Ave of the Americas, New York, NY 10036-8790</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(212) 930-8288</telephone>
+                                                            <email>letters@nypost.com</email>
+                                                            <internet>nypost.com</internet>
+                                                       </address-block>
+                                                       <found-date>1801</found-date>
+                                                       <role-group>
+                                                            <role>Publr and CEO</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Sean</forename>
+                                                                      <surname>Giancola</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <role-group>
+                                                            <role>Editor-in-Chief</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Keith</forename>
+                                                                      <surname>Poole</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                       <stats>circ. 135,980 (2023)</stats>
+                                                  </org-entry>
+                                             </org-entryref>

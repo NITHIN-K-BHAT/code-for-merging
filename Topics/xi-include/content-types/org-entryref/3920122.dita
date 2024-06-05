@@ -1,0 +1,28 @@
+<org-entryref id="SL3920232" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3920231" slsdocid="3920122" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="US.DIR.1356102459" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="News Agencies">
+                                                       
+                                                       
+                                                       <org-entry-head>
+                                                            <org-entry-name>Xinhua (New China) News Agency</org-entry-name>
+                                                            <content-note style="NORMAL">New York</content-note>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>1540 Bdwy, New York, NY 10001</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(718) 335-8388</telephone>
+                                                            <fax>(718) 335-8778</fax>
+                                                            <email>xinhua.ny@gmail.com</email>
+                                                       </address-block>
+                                                       <role-group>
+                                                            <role>Bureau Chief</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Xinguo</forename>
+                                                                      <surname>Guan</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

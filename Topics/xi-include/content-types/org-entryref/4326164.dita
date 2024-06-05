@@ -1,0 +1,38 @@
+<org-entryref id="SL4326341" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4326340" slsdocid="4326164" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389955238" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Advocate</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>301 Merritt 7, Suite 1, Norwalk, CT 06851-1075</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(203) 842-2500</telephone>
+                                                       <email>localnews@stamfordadvocate.com</email>
+                                                       <internet>stamfordadvocate.com</internet>
+                                                  </address-block>
+                                                  <found-date>1829</found-date>
+                                                  <content-note style="NORMAL">publ. by Hearst Corpn</content-note>
+                                                  <frequency>Mon. to Fri. all day, Sat. and Sun. morning</frequency>
+                                                  <role-group>
+                                                       <role>Group Publr and Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mike</forename>
+                                                                 <surname>DeLuca</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Claire</forename>
+                                                                 <surname>Racine</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

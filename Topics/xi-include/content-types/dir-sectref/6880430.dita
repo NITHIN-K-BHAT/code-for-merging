@@ -1,0 +1,95 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6880443" sllink="SLSDOCRF" sllinkid="6880442" slsdocid="6880430" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                         
+                         <dir-section id="US.DIR.1574700583" id-root="us.dir" iso="us" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                              <heading>Head of State</heading>
+                              <dir-list>
+                                   <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6880433" sllink="SLSDOCRF" sllinkid="6880432" slsdocid="248958" slsdocty="dir-entry dir-entrydtd">
+                                        
+                                        <dir-entry id="US.DIR.229" id-root="us.dir" iso="us" section="The Executive" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" subsection="HEAD OF STATE">
+                                             <dir-entry-name>President</dir-entry-name>
+                                             <person-group>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Joseph R.</forename>
+                                                            <surname>Biden</surname>
+                                                            <gen-name>Jr</gen-name>
+                                                       </person-name>
+                                                       <person-note>took office 20 January 2021</person-note>
+                                                  </person>
+                                             </person-group>
+                                        </dir-entry>
+                                   </dir-entryref>
+                              </dir-list>
+                              <dir-section id="US.DIR.15747006581" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="usac">
+                                   <heading>Most Recent Election</heading>
+                                   <table-blockref id="SL6880439" sllink="SLSDOCRF" sllinkid="6880438" slsdocid="250624" slsdocty="table-block table-blockrefdtd" table-blockrefdtd="-//Semantico//DTD SGML EWYB document 1.0//EN">
+                                        
+                                        <table-block id="US.DIR.283" id-root="us.dir" iso="us" sllink="SLSDOC" slsdocrf="TABLE-BLOCKREF" type="OTHER">
+                                             <table-heading>
+                    Presidential Election, 3 November 2020
+                    <endnoteref idref="US.DIR.20210601" ref-symbol="*" />
+                                             </table-heading>
+                                             <table style="WITH-RULES">
+                                                  <tgroup cols="4">
+                                                       <colspec colwidth="8.00cm" />
+                                                       <colspec colname="COLSPEC4" colwidth="4.00cm" />
+                                                       <colspec colname="COLSPEC3" colwidth="4.00cm" />
+                                                       <colspec colwidth="4.00cm" />
+                                                       <thead>
+                                                            <row>
+                                                                 <entry align="left" style="NO-DOT-LEADER" />
+                                                                 <entry align="right" style="NO-DOT-LEADER">Popular Votes</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">% </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">
+                                                                      
+                            Electoral College votes
+                          </entry>
+                                                            </row>
+                                                       </thead>
+                                                       <tbody>
+                                                            <row>
+                                                                 <entry align="left" style="DOT-LEADER">Joe Biden (Democrat)</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">80,883,689</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">51.04</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">306</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry align="left" style="DOT-LEADER">Donald Trump (Republican)</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">73,920,380</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">46.64</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">232</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">Jo Jorgensen (Libertarian)</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">1,761,401</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">1.11</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry style="DOT-LEADER">
+                            Others
+                            <endnoteref idref="US.DIR.20210602" ref-symbol="†" />
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">1,916,218</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">1.21</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">—</entry>
+                                                            </row>
+                                                            <row>
+                                                                 <entry align="left" style="DOT-LEADER">
+                                                                      <b>Total</b>
+                                                                 </entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">158,481,688</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">100.00</entry>
+                                                                 <entry align="right" style="NO-DOT-LEADER">538</entry>
+                                                            </row>
+                                                       </tbody>
+                                                  </tgroup>
+                                             </table>
+                                             <content-note style="NORMAL">Note: The party designations and identifying labels listed above were the principal ones associated with each of the named candidates, but were not used in all states.</content-note>
+                                             <endnote id="US.DIR.20210601" ref-symbol="*">Including the decision of the Electoral College on 6–7 January 2021, which met to confirm the results of the popular voting.</endnote>
+                                             <endnote id="US.DIR.20210602" ref-symbol="†">Including write-in candidates, votes against all candidates, blank votes, void votes, under votes and over votes in certain states. In New York, the candidate of the Democratic Party stood additionally under the designation of Working Families, and that of the Republican Party additionally under the designation of Conservative; votes cast for the latter designations are in each case included under `others’.</endnote>
+                                        </table-block>
+                                   </table-blockref>
+                              </dir-section>
+                         </dir-section>
+                    </dir-sectref>

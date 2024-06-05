@@ -1,0 +1,38 @@
+<org-entryref id="SL1741180" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741179" slsdocid="249592" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.935" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>San Jose Mercury News</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>75 E Santa Clara St, Suite 1100, San Jose, CA 95113</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(408) 920-5000</telephone>
+                                                       <fax>(408) 288-8060</fax>
+                                                       <email>themerc@mercurynews.com</email>
+                                                       <internet>mercurynews.com</internet>
+                                                  </address-block>
+                                                  <found-date>1851</found-date>
+                                                  <content-note style="NORMAL">owned by Digital First Media</content-note>
+                                                  <role-group>
+                                                       <role>Pres. and Publr</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Sharon</forename>
+                                                                 <surname>Ryan</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Exec. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Frank</forename>
+                                                                 <surname>Pine</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 110,206 (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

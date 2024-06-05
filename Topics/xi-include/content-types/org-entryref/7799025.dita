@@ -1,0 +1,27 @@
+<org-entryref id="SL7799096" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799095" slsdocid="7799025" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637846189" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        <data-protection date-added="03.10.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>The Conference Board, Inc</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>845 3rd Ave, New York, NY 10022-6600</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(212) 759-0900</telephone>
+                                             <internet>conference-board.org</internet>
+                                        </address-block>
+                                        <found-date>1916</found-date>
+                                        <content-note style="NORMAL">studies in management practices, economics and public affairs</content-note>
+                                        <role-group>
+                                             <role>Pres. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Steve</forename>
+                                                       <surname>Odland</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

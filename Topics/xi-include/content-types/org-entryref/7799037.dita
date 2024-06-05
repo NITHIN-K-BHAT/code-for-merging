@@ -1,0 +1,29 @@
+<org-entryref id="SL7799145" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799144" slsdocid="7799037" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637846910" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishers" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" usage="usac">
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>HarperCollins Christian Publishing</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>POB 141000, Nashville, TN 37214</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(615) 902-1109</telephone>
+                                             <email>customercare@harpercollins.com</email>
+                                             <internet>harpercollinschristian.com</internet>
+                                        </address-block>
+                                        <found-date>2012 following acquisition of Thomas Nelson and Zondervan</found-date>
+                                        <content-note style="NORMAL">division of HarperCollins Publrs</content-note>
+                                        <content-note style="NORMAL">religious, youth and trade</content-note>
+                                        <role-group>
+                                             <role>Pres. and CEO</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mark</forename>
+                                                       <surname>Schoenwald</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

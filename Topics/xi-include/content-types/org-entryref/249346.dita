@@ -1,0 +1,29 @@
+<org-entryref id="SL260696" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="260695" slsdocid="249346" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                        
+                                        <org-entry id="US.DIR.1213" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS">
+                                             <data-protection date-added="12.09.2007" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Elks Magazine</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>2750 N Lakeview Ave, Chicago, IL 60614-1889</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(773) 755-4700</telephone>
+                                                  <fax>(773) 755–4790</fax>
+                                                  <internet>elks.org/elksmag</internet>
+                                             </address-block>
+                                             <found-date>1922</found-date>
+                                             <frequency>10 a year</frequency>
+                                             <content-note style="NORMAL">publ. by Benevolent and Protective Order of Elks of USA</content-note>
+                                             <role-group>
+                                                  <role>Publr and Editor</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>John P.</forename>
+                                                            <surname>Sheridan</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>

@@ -1,0 +1,28 @@
+<org-entryref id="SL3930834" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3930833" slsdocid="3930723" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="CA.DIR.USAC.32.93" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Publishers" usage="usac">
+                                        
+                                        <org-entry-head>
+                                             <org-entry-name>Self-Counsel Press Ltd</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1481 Charlotte Rd, North Vancouver, BC V7J 1H1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(604) 986-3366</telephone>
+                                             <email>orders@self-counsel.com</email>
+                                             <internet>self-counsel.com</internet>
+                                        </address-block>
+                                        <found-date>1971</found-date>
+                                        <content-note style="NORMAL">reference, self-help, business, law</content-note>
+                                        <role-group>
+                                             <role>Gen. Man.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Tyler</forename>
+                                                       <surname>Douglas</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

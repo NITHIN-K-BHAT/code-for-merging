@@ -1,0 +1,27 @@
+<org-entryref id="SL1787260" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1787259" slsdocid="78648" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.941.32" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="INDUSTRIAL AND TRADE ASSOCIATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Vehicle Manufacturers’ Association</org-entry-name>
+                                                       <abbr>CVMA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>116 Albert St, Suite 300, Ottawa, ON K1P 5G3</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(416) 364-9333</telephone>
+                                                       <email>info@cvma.ca</email>
+                                                       <internet>cvma.ca</internet>
+                                                  </address-block>
+                                                  <found-date>1926</found-date>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Brian</forename>
+                                                                 <surname>Kingston</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

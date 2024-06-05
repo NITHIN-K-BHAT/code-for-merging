@@ -1,0 +1,26 @@
+<org-entryref id="SL3161712" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3161711" slsdocid="269280" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <org-entry country-id="us" id="AZ.DIR.166" id-root="az.dir" iso="az" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN AZERBAIJAN">
+                                   <org-entry-head>
+                                        <org-entry-name>USA</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>1007 Baku, AzadlIq pr. 111</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(12) 488-33-00</telephone>
+                                        <fax>(12) 488-33-30</fax>
+                                        <email>bakuwebmaster@state.gov</email>
+                                        <internet>az.usembassy.gov</internet>
+                                   </address-block>
+                                   <role-group>
+                                        <role>Ambassador</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Mark W.</forename>
+                                                  <surname>Libby</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>

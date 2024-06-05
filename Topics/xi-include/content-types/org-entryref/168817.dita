@@ -1,0 +1,27 @@
+<org-entryref id="SL185710" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="185709" slsdocid="168817" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="AU.DIR.229" id-root="au.dir" iso="au" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES AND HIGH COMMISSIONS IN AUSTRALIA">
+                                        <data-protection date-added="24.08.2009" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Moonah Pl, Yarralumla, ACT 2600</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(2) 6214-5600</telephone>
+                                             <fax>(2) 6214-5930</fax>
+                                             <email>AskEmbassyCanberra@state.gov</email>
+                                             <internet>au.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Caroline</forename>
+                                                       <surname>Kennedy</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

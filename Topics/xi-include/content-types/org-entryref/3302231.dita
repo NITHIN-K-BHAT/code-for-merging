@@ -1,0 +1,26 @@
+<org-entryref id="SL3302296" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3302295" slsdocid="3302231" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="AN-SA.DIR.1300950262" id-root="an-sa.dir" iso="an-sa" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                        <org-entry-head>
+                                             <org-entry-name>National Office for the Caribbean Netherlands Saba</org-entry-name>
+                                             <alt-name>Rijksdienst Caribisch Nederland Saba</alt-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Captain Mathew Levenstone St, Old Antique Inn, The Bottom</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">715-333</telephone>
+                                             <email>info@rijksdienstcn.com</email>
+                                             <internet>www.rijksdienstcn.com</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Kingdom Rep. (resident in Bonaire)</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jan</forename>
+                                                       <surname>Helmond</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

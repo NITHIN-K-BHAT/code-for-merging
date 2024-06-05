@@ -1,0 +1,29 @@
+<org-entryref id="SL1739106" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1739105" slsdocid="249982" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2149" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="OCEAN SHIPPING" usage="ewyb usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>Chevron Shipping Co</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>6001 Bollinger Canyon Rd, San Ramon, CA 94583</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(925) 842-1000</telephone>
+                                                       <internet>chevron.com/worldwide/united-states</internet>
+                                                  </address-block>
+                                                  <found-date>1895</found-date>
+                                                  <content-note style="NORMAL">subsidiary of Chevron Corpn</content-note>
+                                                  <content-note style="NORMAL">worldwide tanker services</content-note>
+                                                  <stats>45 vessels</stats>
+                                                  <role-group>
+                                                       <role>Chair. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Michael K.</forename>
+                                                                 <surname>Wirth</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

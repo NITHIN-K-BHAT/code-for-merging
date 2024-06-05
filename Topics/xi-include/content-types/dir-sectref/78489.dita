@@ -1,0 +1,2080 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL7599327" sllink="SLSDOCRF" sllinkid="7599326" slsdocid="78489" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+               
+               <dir-section id="CA.DIR.16" id-root="ca.dir" iso="ca" sect-type="government" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                    <heading>The Government</heading>
+                    <dir-section id="CA.DIR.93932" sect-type="government" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                         <heading>Head of State</heading>
+                         <dir-list>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL3088568" sllink="SLSDOCRF" sllinkid="3088567" slsdocid="1446238" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1132763544" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>Sovereign</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <title>HM King</title>
+                                                       <forename>Charles III</forename>
+                                                  </person-name>
+                                                  <person-note>succeeded to the throne 8 September 2022</person-note>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL3088581" sllink="SLSDOCRF" sllinkid="3088580" slsdocid="3087645" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1279197678" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>
+                  Governor 
+                  
+                  General
+                </dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename> Mary</forename>
+                                                       <surname>Simon</surname>
+                                                  </person-name>
+                                                  <person-note>installed 26 July 2021</person-note>
+                                             </person>
+                                             
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                         </dir-list>
+                    </dir-section>
+                    <dir-section id="CA.DIR.007" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                         <heading>Federal Ministry</heading>
+                         <heading-note>May 2024</heading-note>
+                         <p>The Ministry is formed by the Liberal Party of Canada.</p>
+                         
+                         <dir-list>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL5102147" sllink="SLSDOCRF" sllinkid="5102146" slsdocid="5102139" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1446035628" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Prime Minister</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Justin</forename>
+                                                       <surname>Trudeau</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6889428" sllink="SLSDOCRF" sllinkid="6889427" slsdocid="6291090" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1533199494" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Deputy Prime Minister and Minister of Finance</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Chrystia</forename>
+                                                       <surname>Freeland</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8634640" sllink="SLSDOCRF" sllinkid="8634639" slsdocid="1447367" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1132847032" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>President of the King’s Privy Council for Canada, Minister of Emergency Preparedness and Minister responsible for the Pacific Economic Development Agency of Canada</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Harjit S.</forename>
+                                                       <surname>Sajjan</surname>
+                                                       
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8634654" sllink="SLSDOCRF" sllinkid="8634653" slsdocid="1447464" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1132850078" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>President of the Treasury Board</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Anita</forename>
+                                                       <surname>Anand</surname>
+                                                  </person-name>
+                                                  
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8634674" sllink="SLSDOCRF" sllinkid="8634673" slsdocid="5889610" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1503996501" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>Interim Leader of the Government in the House of Commons</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Steven</forename>
+                                                       <surname>MacKinnon</surname>
+                                                  </person-name>
+                                             </person>
+                                             
+                                             
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8634951" sllink="SLSDOCRF" sllinkid="8634950" slsdocid="1447324" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1132846461" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>Minister of Agriculture and Agri-Food</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Lawrence</forename>
+                                                       <surname>MacAulay</surname>
+                                                  </person-name>
+                                             </person>
+                                             
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8634957" sllink="SLSDOCRF" sllinkid="8634956" slsdocid="1446599" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1132766541" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>Minister of Canadian Heritage</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Pascale</forename>
+                                                       <surname>St-Onge</surname>
+                                                  </person-name>
+                                             </person>
+                                             
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8634962" sllink="SLSDOCRF" sllinkid="8634961" slsdocid="8632799" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1690441322" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Minister of Citizens' Services </dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Terry</forename>
+                                                       <surname>Beech</surname>
+                                                  </person-name>
+                                             </person>
+                                             
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8634965" sllink="SLSDOCRF" sllinkid="8634964" slsdocid="6472035" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1547531673" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>Minister of Crown-Indigenous Relations</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gary</forename>
+                                                       <surname>Anandasangaree</surname>
+                                                  </person-name>
+                                                  
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8635044" sllink="SLSDOCRF" sllinkid="8635043" slsdocid="8632990" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1690444727" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Minister of Diversity, Inclusion and Persons with Disabilities</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Kamal</forename>
+                                                       <surname>Khera</surname>
+                                                  </person-name>
+                                             </person>
+                                             
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8634970" sllink="SLSDOCRF" sllinkid="8634969" slsdocid="1447580" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1132852009" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>Minister of Employment, Workforce Development and Official Languages</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Randy</forename>
+                                                       <surname>Boissonnault</surname>
+                                                  </person-name>
+                                             </person>
+                                             
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8634986" sllink="SLSDOCRF" sllinkid="8634985" slsdocid="5110161" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1446714198" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Minister of Energy and Natural Resources</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jonathan</forename>
+                                                       <surname>Wilkinson</surname>
+                                                       
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8634995" sllink="SLSDOCRF" sllinkid="8634994" slsdocid="1447387" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1132847394" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>Minister of Environment and Climate Change</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Steven</forename>
+                                                       <surname>Guilbeault</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8634977" sllink="SLSDOCRF" sllinkid="8634976" slsdocid="1447507" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1132850636" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>Minister of Export Promotion, International Trade and Economic Development</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mary</forename>
+                                                       <surname>Ng</surname>
+                                                  </person-name>
+                                             </person>
+                                             
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8635003" sllink="SLSDOCRF" sllinkid="8635002" slsdocid="1447442" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1132849655" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>Minister of Families, Children and Social Development</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jenna</forename>
+                                                       <surname>Sudds</surname>
+                                                  </person-name>
+                                             </person>
+                                             
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8635010" sllink="SLSDOCRF" sllinkid="8635009" slsdocid="6291112" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1533200131" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Minister of Fisheries, Oceans and the Canadian Coast Guard</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Diane</forename>
+                                                       <surname>Lebouthillier</surname>
+                                                       
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8635015" sllink="SLSDOCRF" sllinkid="8635014" slsdocid="1446535" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1132765877" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>Minister of Foreign Affairs</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mélanie</forename>
+                                                       <surname>Joly</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8635026" sllink="SLSDOCRF" sllinkid="8635025" slsdocid="5110009" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1446705110" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Minister of Health</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Mark</forename>
+                                                       <surname>Holland</surname>
+                                                  </person-name>
+                                                  
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8635037" sllink="SLSDOCRF" sllinkid="8635036" slsdocid="1447562" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1132851749" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>Minister of Housing, Infrastructure and Communities</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Sean</forename>
+                                                       <surname>Fraser</surname>
+                                                  </person-name>
+                                             </person>
+                                             
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8635049" sllink="SLSDOCRF" sllinkid="8635048" slsdocid="1447432" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1132849460" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>Minister of Immigration, Refugees and Citizenship</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marc</forename>
+                                                       <surname>Miller</surname>
+                                                  </person-name>
+                                             </person>
+                                             
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8635054" sllink="SLSDOCRF" sllinkid="8635053" slsdocid="1446449" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1132765303" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>Minister of Indigenous Services and Minister responsible for the Federal Economic Development Agency for Northern Ontario</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Patty</forename>
+                                                       <surname>Hajdu</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8635058" sllink="SLSDOCRF" sllinkid="8635057" slsdocid="3378838" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1305805493" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>Minister of Innovation, Science and Industry</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>François-Philippe</forename>
+                                                       <surname>Champagne</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8635062" sllink="SLSDOCRF" sllinkid="8635061" slsdocid="6290907" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1533160218" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Minister of International Development</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ahmed</forename>
+                                                       <surname>Hussen</surname>
+                                                  </person-name>
+                                             </person>
+                                             
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8635067" sllink="SLSDOCRF" sllinkid="8635066" slsdocid="1446487" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1132765584" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>Minister of Justice and Attorney General of Canada</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Arif</forename>
+                                                       <surname>Virani</surname>
+                                                  </person-name>
+                                             </person>
+                                             
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8635076" sllink="SLSDOCRF" sllinkid="8635075" slsdocid="1447454" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1132849859" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>Minister of Labour and Seniors</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Seamus</forename>
+                                                       <surname>O’Regan</surname>
+                                                       <gen-name>Jr</gen-name>
+                                                       
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8635080" sllink="SLSDOCRF" sllinkid="8635079" slsdocid="1446579" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1132766350" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>Minister of Mental Health and Addictions and Associate Minister of Health</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ya'ara</forename>
+                                                       <surname>Saks</surname>
+                                                  </person-name>
+                                             </person>
+                                             
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8635091" sllink="SLSDOCRF" sllinkid="8635090" slsdocid="6874603" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1574328833" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Minister of National Defence</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Bill</forename>
+                                                       <surname>Blair</surname>
+                                                  </person-name>
+                                                  
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8635086" sllink="SLSDOCRF" sllinkid="8635085" slsdocid="1446609" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1132766707" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>Minister of National Revenue</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marie-Claude</forename>
+                                                       <surname>Bibeau</surname>
+                                                  </person-name>
+                                                  
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8635099" sllink="SLSDOCRF" sllinkid="8635098" slsdocid="1447646" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1132853499" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>Minister of Northern Affairs, Minister responsible for Prairies Economic Development Canada and Minister responsible for the Canadian Northern Economic Development Agency</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dan</forename>
+                                                       <surname>Vandal</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8635102" sllink="SLSDOCRF" sllinkid="8635101" slsdocid="1446420" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1132765005" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>Minister of Public Safety, Democratic Institutions and Intergovernmental Affairs</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dominic</forename>
+                                                       <surname>LeBlanc</surname>
+                                                  </person-name>
+                                             </person>
+                                             
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8635107" sllink="SLSDOCRF" sllinkid="8635106" slsdocid="1447396" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1132847717" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>Minister of Public Services and Procurement</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Jean-Yves</forename>
+                                                       <surname>Duclos</surname>
+                                                  </person-name>
+                                             </person>
+                                             
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8635115" sllink="SLSDOCRF" sllinkid="8635114" slsdocid="6291121" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1533200472" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Minister of Rural Economic Development and Minister responsible for the Atlantic Canada Opportunities Agency</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Gudie</forename>
+                                                       <surname>Hutchings</surname>
+                                                  </person-name>
+                                                  
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8635118" sllink="SLSDOCRF" sllinkid="8635117" slsdocid="8632841" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1690442088" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Minister of Small Business</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Rechie</forename>
+                                                       <surname>Valdez</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                        
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8635122" sllink="SLSDOCRF" sllinkid="8635121" slsdocid="7774237" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1635318451" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Minister of Sport and Physical Activity</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Carla</forename>
+                                                       <surname>Qualtrough</surname>
+                                                  </person-name>
+                                             </person>
+                                             
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8635131" sllink="SLSDOCRF" sllinkid="8635130" slsdocid="1447421" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1132849246" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>Minister of Tourism and Minister responsible for the Economic Development Agency of Canada for the Regions of Québec</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Soraya</forename>
+                                                       <surname>Martinez Ferrada</surname>
+                                                  </person-name>
+                                             </person>
+                                             
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8635137" sllink="SLSDOCRF" sllinkid="8635136" slsdocid="1447518" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1132850931" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>Minister of Transport and Québec Lieutenant</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Pablo</forename>
+                                                       <surname>Rodriguez</surname>
+                                                  </person-name>
+                                                  
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6889433" sllink="SLSDOCRF" sllinkid="6889432" slsdocid="1447316" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1132846218" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF" usage="ewyb usac">
+                                        <dir-entry-name>Minister of Veterans Affairs and Associate Minister of National Defence</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Ginette</forename>
+                                                       <surname>Petitpas Taylor</surname>
+                                                  </person-name>
+                                             </person>
+                                             
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL6889538" sllink="SLSDOCRF" sllinkid="6889537" slsdocid="6290901" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DUR.1533159871" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Minister for Women and Gender Equality and Youth</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Marci</forename>
+                                                       <surname>Ien</surname>
+                                                  </person-name>
+                                             </person>
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                              
+                              <dir-entryref dir-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8634618" sllink="SLSDOCRF" sllinkid="8634617" slsdocid="7774223" slsdocty="dir-entry dir-entrydtd">
+                                   
+                                   <dir-entry id="CA.DIR.1635318056" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-ENTRYREF">
+                                        <dir-entry-name>Minister responsible for the Federal Economic Development Agency for Southern Ontario</dir-entry-name>
+                                        <person-group>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Filomena</forename>
+                                                       <surname>Tassi</surname>
+                                                  </person-name>
+                                             </person>
+                                             
+                                        </person-group>
+                                   </dir-entry>
+                              </dir-entryref>
+                         </dir-list>
+                    </dir-section>
+                    <dir-section id="CA.DIR.017" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                         <heading>Cabinet-level Departments and Agencies</heading>
+                         
+                         <org-list>
+                              <org-entryref id="SL102414" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="102413" slsdocid="79023" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.60" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Office of the Prime Minister</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Langevin Block, 80 Wellington St, Ottawa, ON K1A 0A2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(613) 992-4211</telephone>
+                                             <fax>(613) 941-6900</fax>
+                                             <email>pm@pm.gc.ca</email>
+                                             <internet>pm.gc.ca</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL102416" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="102415" slsdocid="78922" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.61" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <data-protection date-added="22.07.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Agriculture and Agri-Food Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>1341 Baseline Rd, Ottawa, ON K1A 0C5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(613) 773-2600</telephone>
+                                             <fax>(613) 773-1081</fax>
+                                             <email>aafc.info.aac@agr.gc.ca</email>
+                                             <internet>agriculture.canada.ca</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1046375" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1046374" slsdocid="79165" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.76" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Canada Revenue Agency</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Office of the Minister of National Revenue, 7th Floor, 555 McKenzie Ave, Ottawa, ON K1A 0L5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(613) 952-9184</telephone>
+                                             <internet>www.canada.ca/en/revenue-agency.html</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL102418" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="102417" slsdocid="78817" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.62" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Canadian Heritage</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>15 rue Eddy, Gatineau, QC K1A 0M5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(819) 997-0055</telephone>
+                                             <email>info@pch.gc.ca</email>
+                                             <internet>www.canada.ca/en/canadian-heritage.html</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL102420" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="102419" slsdocid="78710" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.63" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Immigration, Refugees and Citizenship Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Jean Edmonds Towers, 21st Floor, 365 Laurier Ave W, Ottawa, ON K1A 1L1</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(613) 954-1064</telephone>
+                                             <internet>bit.ly/3jTZu4w</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL6291191" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6291190" slsdocid="6291183" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.1533203260" id-root="ca.diir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Ministries">
+                                        <org-entry-head>
+                                             <org-entry-name>Crown-Indigenous Relations and Northern Affairs Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10 rue Wellington, Gatineau, QC K1A 0H4</verbatim-address>
+                                             </address>
+                                             <fax>(819) 934-2352</fax>
+                                             <email>aadnc.infopubs.aandc@canada.ca</email>
+                                             <internet>bit.ly/3lNZ3t7</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL2952728" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="2952727" slsdocid="79276" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.66" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Department of Finance Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>90 Elgin St, Ottawa, ON K1A 0G5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(613) 369-3230</telephone>
+                                             <email>financepublic-financepublique@fin.gc.ca</email>
+                                             <internet>bit.ly/3lIZuol</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL102422" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="102421" slsdocid="78600" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.64" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Department of Justice</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>E Memorial Bldg, 284 Wellington St, Ottawa, ON K1A 0H8</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(613) 957-4222</telephone>
+                                             <fax>(613) 954-0811</fax>
+                                             <email>mcu@justice.gc.ca</email>
+                                             <internet>justice.gc.ca</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL737548" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="737547" slsdocid="79198" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.73" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Department of National Defence and the Canadian Armed Forces</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Maj.-Gen. George R. Pearkes Bldg, 101 Col By Dr., Ottawa, ON K1A 0K2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(613) 995-2534</telephone>
+                                             <fax>(613) 992-4739</fax>
+                                             <email>information@forces.gc.ca</email>
+                                             <internet>forces.gc.ca</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL4157956" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4157955" slsdocid="737440" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.1073407104" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Employment and Social Development Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Phase IV, 140 promenade du Portage, Gatineau, QC K1A 0J9</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(819) 994-5559</telephone>
+                                             <email>media@hrsdc-rhdcc.gc.ca</email>
+                                             <internet>bit.ly/2Fu1L7w</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL102424" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="102423" slsdocid="78509" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.65" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <data-protection date-added="11.09.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Environment and Climate Change Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Fontaine Bldg, 12th Floor, 200 blvd Sacré-Coeur, Gatineau, QC K1A 0H3</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(819) 938-3338</telephone>
+                                             <email>enviroinfo@ec.gc.ca</email>
+                                             <internet>bit.ly/2H5gxSI</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL102428" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="102427" slsdocid="79265" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.67" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Fisheries and Oceans Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Centennial Towers, 200 Kent St, Ottawa, ON K1A 0E6</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(613) 993-0999</telephone>
+                                             <email>dfo.minister-ministre.mpo@dfo-mpo.gc.ca</email>
+                                             <internet>dfo-mpo.gc.ca</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL102430" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="102429" slsdocid="79254" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.68" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Global Affairs Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Lester B. Pearson Bldg, 125 Sussex Dr., Ottawa, ON K1A 0G2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(800) 267-8376</telephone>
+                                             <email>info@international.gc.ca</email>
+                                             <internet>international.gc.ca</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL102432" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="102431" slsdocid="79243" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.69" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Health Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Address Locator 1801B, Ottawa, ON K1A 0K9</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(613) 957-2991</telephone>
+                                             <fax>(613) 941-5366</fax>
+                                             <email>hcinfo.infosc@canada.ca</email>
+                                             <internet>www.hc-sc.gc.ca</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL5893748" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5893747" slsdocid="79221" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.71" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Indigenous Services Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Terrasses de la Chaudière, 10 rue Wellington, Tour Nord, Gatineau, QC K1A 0H4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(819) 664-</telephone>
+                                             <email>infopubs@sac-isc.gc.ca</email>
+                                             <internet>sac-isc.gc.ca</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL5739897" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="5739896" slsdocid="3881258" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.1351494251" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Infrastructure Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>180 Kent St, Suite 1100, Ottawa, ON K1P 0B6</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(613) 948-1148</telephone>
+                                             <email>info@infc.gc.ca</email>
+                                             <internet>infrastructure.gc.ca</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL102438" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="102437" slsdocid="79210" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.72" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Innovation, Science and Economic Development Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>C. D. Howe Bldg, E Tower, 4th Floor, 235 Queen St, Ottawa, ON K1A 0H5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(343) 291-1887</telephone>
+                                             <fax>(343) 291-2469</fax>
+                                             <email>ised-isde@ised-isde.gc.ca</email>
+                                             <internet>
+                    ised-isde.canada.ca
+                    
+                  </internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL3881803" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="3881802" slsdocid="1046276" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.1095176308" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Intergovernmental Affairs</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>Privy Council Office, Rm 1000, 85 Sparks St, Ottawa, ON K1A 0A3</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(343) 644-9905</telephone>
+                                             <fax>(613) 957-5043</fax>
+                                             <email>iga.minister-ministre.aig@pco-bcp.gc.ca</email>
+                                             <internet>bit.ly/3jUckQ4</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL102442" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="102441" slsdocid="79187" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.74" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Natural Resources Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>580 Booth St, Ottawa, ON K1A 0E4</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(343) 292-6096</telephone>
+                                             <email>questions@nrcan-rncan.gc.ca</email>
+                                             <internet>nrcan.gc.ca</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL1046309" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1046308" slsdocid="1046305" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.1095177882" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <data-protection date-added="16.01.2008" ticked-box="Y" />
+                                        <org-entry-head>
+                                             <org-entry-name>Public Safety Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>269 Laurier Ave W, Ottawa, ON K1A 0P8</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(613) 944-4875</telephone>
+                                             <internet>publicsafety.gc.ca</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL102444" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="102443" slsdocid="79176" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.75" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Public Services and Procurement Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>11 rue Laurier, PDP III, Gatineau, QC K1A 0S5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(866) 212-2271</telephone>
+                                             <email>questions@tpsgc-pwgsc.gc.ca</email>
+                                             <internet>tpsgc-pwgsc.gc.ca</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL102450" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="102449" slsdocid="79153" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.78" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Transport Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>330 Sparks St, Ottawa, ON K1A 0N5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(613) 990-2309</telephone>
+                                             <fax>(613) 954-4731</fax>
+                                             <email>questions@tc.gc.ca</email>
+                                             <internet>tc.canada.ca</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL102452" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="102451" slsdocid="79152" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.79" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Treasury Board of Canada Secretariat</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>90 Elgin St, 7th Floor, Ottawa, ON K1A 0R5</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(613) 9371</telephone>
+                                             <email>questions@tbs-sct.gc.ca</email>
+                                             <internet>bit.ly/48VtzKH</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL102454" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="102453" slsdocid="79151" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.80" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <org-entry-head>
+                                             <org-entry-name>Veterans Affairs Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>134 Kent St, POB 7700, Charlottetown, PE C1A 1N2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(902) 566-8677</telephone>
+                                             <email>information@veterans.gc.ca</email>
+                                             <internet>veterans.gc.ca</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                              <org-entryref id="SL6995243" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6995242" slsdocid="1495179" slsdocty="org-entry org-entrydtd">
+                                   
+                                   <org-entry id="CA.DIR.1140452369" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                        <data-protection date-added="11.09.2007" ticked-box="N" />
+                                        <org-entry-head>
+                                             <org-entry-name>Women and Gender Equality Canada</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>POB 8097, Ottawa, ON K1G 3H6</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(613) 420-6905</telephone>
+                                             <email>wage.communications.fegc@wage-fegc.gc.ca</email>
+                                             <internet>women-gender-equality.canada.ca</internet>
+                                        </address-block>
+                                   </org-entry>
+                              </org-entryref>
+                         </org-list>
+                    </dir-section>
+                    <dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8890945" sllink="SLSDOCRF" sllinkid="8890944" slsdocid="6892159" slsdocty="dir-section dir-sectiondtd">
+                         
+                         <dir-section id="CA.DIR.1575976609" id-root="ca.dir" iso="ca" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="usac">
+                              <heading>Selected Federal Government Agencies and Boards</heading>
+                              <org-list>
+                                   <org-entryref id="SL6892162" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892161" slsdocid="737468" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1095180277" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                             <org-entry-head>
+                                                  <org-entry-name>Atlantic Canada Opportunities Agency</org-entry-name>
+                                                  <abbr>ACOA</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Blue Cross Centre, 3rd Floor, 644 Main St, POB 6051, Moncton, NB E1C 9J8</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(800) 561-7862</telephone>
+                                                  <email>information@acoa-apeca.gc.ca</email>
+                                                  <internet>www.acoa-apeca.gc.ca</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Catherine</forename>
+                                                            <surname>Blewett</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6892165" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892164" slsdocid="3388328" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1306506653" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED FEDERAL GOVERNMENT AGENCIES AND BOARDS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Atomic Energy of Canada Ltd</org-entry-name>
+                                                  <abbr>AECL</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        286 Plant Rd, Stn 508
+                        <sc>a</sc>
+                        , Chalk River, ON K0J 1J0
+                      </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(888) 220-2465</telephone>
+                                                  <email>communications@aecl.ca</email>
+                                                  <internet>www.aecl.ca</internet>
+                                             </address-block>
+                                             <found-date>1952</found-date>
+                                             <content-note style="NORMAL">
+                    designer of 
+                    <xr pageref="N" ref="CA.DIR.USAC.13.73">CANDU</xr>
+                     (Canadian deuterium uranium) reactor technology
+                  </content-note>
+                                             <content-note style="NORMAL">primarily responsible for overseeing contracts to manage the fmr AECL nuclear laboratories</content-note>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Fred</forename>
+                                                            <surname>Dermarkar</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>
+                          
+                          James
+                        </forename>
+                                                            <surname>Burpee</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6892168" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892167" slsdocid="3531715" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1321376013" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED FEDERAL GOVERNMENT AGENCIES AND BOARDS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Canada Border Services Agency</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Ottawa, ON K1A 0L8</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(204) 983-3500</telephone>
+                                                  <email>contact@cbsa.gc.ca</email>
+                                                  <internet>cbsa.gc.ca</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">manages access of people and goods across Canada’s borders</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Erin</forename>
+                                                            <surname>O’Gorman</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6892171" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892170" slsdocid="3388409" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1306509045" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED FEDERAL GOVERNMENT AGENCIES AND BOARDS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Canada Council for the Arts</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>
+                        150 Elgin St, POB 1047, Ottawa
+                        
+                        , ON K1P 5V8
+                      </verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(613) 566-4414</telephone>
+                                                  <email>info@canadacouncil.ca</email>
+                                                  <internet>canadacouncil.ca</internet>
+                                             </address-block>
+                                             <found-date>1957</found-date>
+                                             <content-note style="NORMAL">promotes and fosters arts in Canada</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jesse</forename>
+                                                            <surname>Wente</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Dir and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Michelle</forename>
+                                                            <surname>Chawla</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6892175" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892174" slsdocid="1046398" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1095180707" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                             <data-protection date-added="11.09.2007" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Canada Economic Development for Québec Regions</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>800 blvd René-Lévesque ouest, bureau 500, Montréal, QC H3B 1X9</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(800) 561-0633</telephone>
+                                                  <email>dec.media.ced@canada.ca</email>
+                                                  <internet>dec.canada.ca</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Sony</forename>
+                                                            <surname>Perron</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6892179" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892178" slsdocid="3388462" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1306511178" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED FEDERAL GOVERNMENT AGENCIES AND BOARDS">
+                                             <data-protection date-added="12.09.2007" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Canada Industrial Relations Board</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>C. D. Howe Bldg, 4th Floor W, 240 Sparks St, Ottawa, ON K1A 0X8</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(800) 575-9696</telephone>
+                                                  <email>info@cirb-ccri.gc.ca</email>
+                                                  <internet>cirb-ccri.gc.ca</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Ginette</forename>
+                                                            <surname>Brazeau</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entry-simple id="CA.DIR.1306502015">
+                                        <org-entry-name>Canadian Dairy Commission/Commission canadienne du lait</org-entry-name>
+                                        <org-entry-name>(CDC/CCL)</org-entry-name>
+                                        <content-note style="NORMAL">
+                  see 
+                  <xr pageref="Y" ref="CA.DIR.USAC.7.17">Selected Agricultural, Forestry, Fisheries and Fur Trade Organizations</xr>
+                                        </content-note>
+                                   </org-entry-simple>
+                                   <org-entryref id="SL6892185" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892184" slsdocid="3388380" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1306508350" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED FEDERAL GOVERNMENT AGENCIES AND BOARDS">
+                                             
+                                             <data-protection date-added="14.09.2007" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Canadian Grain Commission</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>303 Main St, Suite 600, Winnipeg, MB R3C 3G8</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(204) 984-0506</telephone>
+                                                  <email>contact@grainscanada.gc.ca</email>
+                                                  <internet>grainscanada.gc.ca</internet>
+                                             </address-block>
+                                             <found-date>1912</found-date>
+                                             <content-note style="NORMAL">regulates grain handling in Canada and establishes and maintains quality standards for Canadian grains through Grain Research Laboratory</content-note>
+                                             <role-group>
+                                                  <role>Chief Commr</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>David</forename>
+                                                            <surname>Hunt</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>COO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jocelyn</forename>
+                                                            <surname>Beaudette</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6892189" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892188" slsdocid="3914381" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.USAC.2.77" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED FEDERAL GOVERNMENT AGENCIES AND BOARDS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Canadian Human Rights Commission</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>344 Slater St, 8th Floor, Ottawa, ON K1A 1E1</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(613) 995-1151</telephone>
+                                                  <fax>(613) 996-9661</fax>
+                                                  <email>communications@chrc-ccdp.gc.ca</email>
+                                                  <internet>www.chrc-ccdp.gc.ca</internet>
+                                             </address-block>
+                                             <found-date>1977</found-date>
+                                             <role-group>
+                                                  <role>Chief Commr</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Charlotte-Anne</forename>
+                                                            <surname>Malischewski</surname>
+                                                       </person-name>
+                                                       <person-note>acting</person-note>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6892194" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892193" slsdocid="2813853" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1259838357" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Government Agencies">
+                                             <org-entry-head>
+                                                  <org-entry-name>Canadian Northern Economic Development Agency</org-entry-name>
+                                                  <alt-name>CanNor</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Allavvik Bldg, 2nd Floor, 1106 Iqaluit, NU X0A 0H0</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(867) 975-3757</telephone>
+                                                  <email>operations@cannor.gc.ca</email>
+                                                  <internet>cannor.gc.ca</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">
+                    devt of 
+                    
+                    northern territories
+                  </content-note>
+                                             <content-note style="NORMAL">brs in Yellowknife and Whitehorse</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jimi</forename>
+                                                            <surname>Onalik</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entry-simple id="CA.DIR.1134342015">
+                                        <org-entry-name>Canadian Transportation Agency</org-entry-name>
+                                        <content-note style="NORMAL">
+                  see 
+                  <xr pageref="Y" ref="CA.DIR.1050">Transport—Co-ordinating Bodies and Transport Associations</xr>
+                                        </content-note>
+                                   </org-entry-simple>
+                                   <org-entryref id="SL6892198" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892197" slsdocid="3914394" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.USAC.2.81" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED FEDERAL GOVERNMENT AGENCIES AND BOARDS">
+                                             <data-protection date-added="14.09.2007" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Correctional Service of Canada</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>340 Laurier Ave W, Ottawa, ON K1A 0P9</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(613) 992-5891</telephone>
+                                                  <fax>(613) 943-1630</fax>
+                                                  <internet>www.csc-scc.gc.ca</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">
+                    responsible for 
+                    
+                    treatment and rehabilitation of offenders
+                  </content-note>
+                                             <role-group>
+                                                  <role>Commr</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Anne</forename>
+                                                            <surname>Kelly</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6892209" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892208" slsdocid="1497511" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1140603432" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Election Commission" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF">
+                                             <data-protection date-added="13.04.2007" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Elections Canada</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>30 rue Victoria, Gatineau, QC K1A 0M6</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(613) 993-2975</telephone>
+                                                  <fax>(613) 954-8584</fax>
+                                                  <email>info@elections.ca</email>
+                                                  <internet>elections.ca</internet>
+                                             </address-block>
+                                             <found-date>1920</found-date>
+                                             <content-note style="NORMAL">independent</content-note>
+                                             <role-group>
+                                                  <role>Chief Electoral Officer</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Stéphane</forename>
+                                                            <surname>Perrault</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Commr</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Caroline J.</forename>
+                                                            <surname>Simard</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6892213" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892212" slsdocid="3388433" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1306510386" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED FEDERAL GOVERNMENT AGENCIES AND BOARDS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Export Development Canada</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>150 Slater St, Ottawa, ON K1A 1K3</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(613) 598-2500</telephone>
+                                                  <email>socialmedia@edc.ca</email>
+                                                  <internet>edc.ca</internet>
+                                             </address-block>
+                                             <found-date>1944</found-date>
+                                             <content-note style="NORMAL">trade finance and risk management services</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Vivian</forename>
+                                                            <surname>Abdelmessih</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Mairead</forename>
+                                                            <surname>Lavery</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6892216" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892215" slsdocid="3388425" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1306509490" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED FEDERAL GOVERNMENT AGENCIES AND BOARDS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Farm Credit Canada</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1800 Hamilton St, POB 4320, Regina, SK S4P 4L3</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(306) 780-8100</telephone>
+                                                  <email>csc@fcc-fac.ca</email>
+                                                  <internet>fcc-fac.ca</internet>
+                                             </address-block>
+                                             <found-date>1959</found-date>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jane</forename>
+                                                            <surname>Halford</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Justine</forename>
+                                                            <surname>Hendricks</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6892221" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892220" slsdocid="3388391" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1306508598" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED FEDERAL GOVERNMENT AGENCIES AND BOARDS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Farm Products Council of Canada</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>960 Carling Ave, Bldg 59, Ottawa, ON K1A 0C6</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(613) 759-1555</telephone>
+                                                  <email>aafc.fpcc-cpac.aac@agr.gc.ca</email>
+                                                  <internet>canada.ca/en/farm-products-council.html</internet>
+                                             </address-block>
+                                             <found-date>1972</found-date>
+                                             <content-note style="NORMAL">advises Minister of Agriculture and Agri-Food on establishment and operation of national agricultural marketing agencies</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Brian</forename>
+                                                            <surname>Douglas</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6892226" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892225" slsdocid="4402994" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1395814961" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="GOVERNMENT AGENCIES">
+                                             <org-entry-head>
+                                                  <org-entry-name>Federal Economic Development Agency for Southern Ontario</org-entry-name>
+                                                  <abbr>FedDev Ontario</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>139 Northfield Dr. W, Suite 101, Waterloo, ON N2L 5A6</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(866) 593-5505</telephone>
+                                                  <email>info@feddevontario.gc.ca</email>
+                                                  <internet>feddevontario.gc.ca</internet>
+                                             </address-block>
+                                             <found-date>2009</found-date>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Nancy</forename>
+                                                            <surname>Gardiner</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6892229" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892228" slsdocid="4403086" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1395816942" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="GOVERNMENT AGENCIES">
+                                             
+                                             <org-entry-head>
+                                                  <org-entry-name>Federal Economic Development Agency For Northern Ontario</org-entry-name>
+                                                  <abbr>FedNor</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>19 Lisgar St, Suite 307, Sudbury, ON P3E 3L4</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(877) 333-6673</telephone>
+                                                  <email>fednor@ic.gc.ca</email>
+                                                  <internet>fednor.ic.gc.ca</internet>
+                                             </address-block>
+                                             <found-date>1987</found-date>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Valerie</forename>
+                                                            <surname>Gideon</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entry-simple id="CA.DIR.113992015">
+                                        <org-entry-name>G3 Canada Ltd</org-entry-name>
+                                        <content-note style="NORMAL">
+                  fmrly Canadian Wheat Board, see 
+                  <xr pageref="Y" ref="CA.DIR.1139915277">Selected Agricultural, Forestry, Fisheries and Fur Trade Organizations</xr>
+                                        </content-note>
+                                   </org-entry-simple>
+                                   <org-entryref id="SL6892233" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892232" slsdocid="3914396" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.USAC.2.87" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED FEDERAL GOVERNMENT AGENCIES AND BOARDS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Immigration and Refugee Board</org-entry-name>
+                                                  <abbr>IRB</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Canada Bldg, 12th Floor, Minto Pl., 344 Slater St, Ottawa, ON K1A 0K1</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(613) 995-6486</telephone>
+                                                  <fax>(613) 943-1550</fax>
+                                                  <internet>irb-cisr.gc.ca</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Richard</forename>
+                                                            <surname>Wex</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Exec. Dir</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Ross</forename>
+                                                            <surname>Pattee</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6892237" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892236" slsdocid="3914398" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.USAC.2.88" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED FEDERAL GOVERNMENT AGENCIES AND BOARDS">
+                                             <org-entry-head>
+                                                  <org-entry-name>International Boundary Commission</org-entry-name>
+                                                  <alt-name>Canadian Section</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>588 Booth St, Suite 210, Ottawa, ON K1A 0Y7</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(343) 543-6619</telephone>
+                                                  <email>ibc-cfi@nrcan.gc.ca</email>
+                                                  <internet>internationalboundarycommission.org</internet>
+                                             </address-block>
+                                             <found-date>1908</found-date>
+                                             <content-note style="NORMAL">jt US–Canadian agency</content-note>
+                                             <content-note style="NORMAL">has jurisdiction over regulation and maintenance of the Canada–USA boundary</content-note>
+                                             <role-group>
+                                                  <role>Commr (Canadian Section)</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Jean</forename>
+                                                            <surname>Gagnon</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entry-simple id="CA.DIR.3920141">
+                                        <org-entry-name>National Energy Board</org-entry-name>
+                                        <content-note style="NORMAL">
+                  see 
+                  <xr pageref="Y" ref="CA.DIR.954">Energy—Regulatory and Co-ordinating Authorities</xr>
+                                        </content-note>
+                                   </org-entry-simple>
+                                   <org-entryref id="SL6892244" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892243" slsdocid="3388417" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1306509186" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED FEDERAL GOVERNMENT AGENCIES AND BOARDS">
+                                             <org-entry-head>
+                                                  <org-entry-name>National Film Board of Canada</org-entry-name>
+                                                  <abbr>NFBC</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>1501 rue de Bleury, Montréal, QC H3A 0H3</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(514) 287-9000</telephone>
+                                                  <internet>nfb.ca</internet>
+                                             </address-block>
+                                             <found-date>1939</found-date>
+                                             <content-note style="NORMAL">initiates and promotes production and distribution of films in nat. interest</content-note>
+                                             <role-group>
+                                                  <role>Film Commr and Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Claude</forename>
+                                                            <surname>Joli-Coeur</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6892249" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892248" slsdocid="3388442" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1306510552" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED FEDERAL GOVERNMENT AGENCIES AND BOARDS">
+                                             <org-entry-head>
+                                                  <org-entry-name>National Research Council Canada</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Bldg M58, 1200 Montréal Rd, Ottawa, ON K1A 0R6</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(613) 993-9101</telephone>
+                                                  <email>info@nrc-cnrc.gc.ca</email>
+                                                  <internet>nrc.canada.ca</internet>
+                                             </address-block>
+                                             <found-date>1916</found-date>
+                                             <content-note style="NORMAL">carries out research and devt in life sciences, physical sciences, engineering, information technology, technology and industry support</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Mitch</forename>
+                                                            <surname>Davies</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Sec.-Gen.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Shannon</forename>
+                                                            <surname>Quinn</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6892253" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892252" slsdocid="3388451" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1306510947" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED FEDERAL GOVERNMENT AGENCIES AND BOARDS">
+                                             <data-protection date-added="11.09.2007" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Natural Sciences and Engineering Research Council</org-entry-name>
+                                                  <abbr>NSERC</abbr>
+                                                  <alt-name>Science and Engineering Research Canada</alt-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>125 Zaida Eddy Private, 2nd Floor, Ottawa, ON K1R 0E3</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(855) 275-2861</telephone>
+                                                  <email>webapp@nserc-crsng.gc.ca</email>
+                                                  <internet>nserc-crsng.gc.ca</internet>
+                                             </address-block>
+                                             <found-date>1978</found-date>
+                                             <content-note style="NORMAL">promotes investment in science and technology research</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <title>Dr</title>
+                                                            <forename>Alejandro</forename>
+                                                            <surname>Alem</surname>
+                                                       </person-name>
+                                                       <person-note>acting</person-note>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Vice-Pres. and Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Charmaine</forename>
+                                                            <surname>Dean</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6892258" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892257" slsdocid="3388343" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1306507129" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED FEDERAL GOVERNMENT AGENCIES AND BOARDS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Office of the Auditor General of Canada</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>240 Sparks St, Ottawa, ON K1A 0G6</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(613) 952-0213</telephone>
+                                                  <email>communications@oag-bvg.gc.ca</email>
+                                                  <internet>oag-bvg.gc.ca</internet>
+                                             </address-block>
+                                             <role-group>
+                                                  <role>Auditor Gen.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Karen</forename>
+                                                            <surname>Hogan</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6892261" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892260" slsdocid="3388352" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1306507399" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED FEDERAL GOVERNMENT AGENCIES AND BOARDS">
+                                             <data-protection date-added="14.09.2007" ticked-box="Y" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Office of the Commissioner of Official Languages</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>30 rue Victoria, 6th Floor, Gatineau, QC K1A 0T8</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(819) 420-4879</telephone>
+                                                  <email>media@clo-ocol.gc.ca</email>
+                                                  <internet>ocol-clo.gc.ca</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">ensures respect for English and French as official languages of Canada in fed. institutions</content-note>
+                                             <role-group>
+                                                  <role>Commr</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Raymond</forename>
+                                                            <surname>Théberge</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6892264" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892263" slsdocid="3388360" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1306507646" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED FEDERAL GOVERNMENT AGENCIES AND BOARDS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Office of the Privacy Commissioner</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>30 rue Victoria, Gatineau, QC K1A 1H3</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(819) 994-5444</telephone>
+                                                  <email>communications@priv.gc.ca</email>
+                                                  <internet>priv.gc.ca</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">investigates complaints from individuals who allege their privacy has been violated, oversees fed. govt compliance with Privacy Act (for public sector) and Personal Information and Protection and Electronic Documents Act (for private sector)</content-note>
+                                             <role-group>
+                                                  <role>Privacy Commr</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Philippe</forename>
+                                                            <surname>Dufresne</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6892268" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892267" slsdocid="3914400" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.USAC.2.1020" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED FEDERAL GOVERNMENT AGENCIES AND BOARDS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Privy Council Office</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>85 Sparks St, Rm 1000, Ottawa, ON K1A 0A3</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(613) 957-5153</telephone>
+                                                  <email>info@pco-bcp.gc.ca</email>
+                                                  <internet>pco-bcp.gc.ca</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">provides public support to Prime Minister, ministers within Prime Minister’s portfolio and Cabinet; responsible for fed.-provincial relations since 1993</content-note>
+                                             <role-group>
+                                                  <role>Clerk of the Privy Council and Sec. to the Cabinet</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>John F .G.</forename>
+                                                            <surname>Hannaford</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6892271" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892270" slsdocid="3388471" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.1306511339" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED FEDERAL GOVERNMENT AGENCIES AND BOARDS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Public Service Commission</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>22 rue Eddy, Gatineau, QC K1A 0M7</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(819) 420-8784</telephone>
+                                                  <email>cfp.media.psc@cfp-psc.gc.ca</email>
+                                                  <internet>canada.ca/en/public-service-commission.html</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">independent agency to safeguard integrity of public service staffing system and non-partisan public service</content-note>
+                                             <role-group>
+                                                  <role>Pres.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Marie-Chantal</forename>
+                                                            <surname>Girard</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Commrs</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Fiona</forename>
+                                                            <surname>Spencer</surname>
+                                                       </person-name>
+                                                  </person>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Hélène</forename>
+                                                            <surname>Laurendeau</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6892275" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892274" slsdocid="3914402" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.USAC.2.104" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED FEDERAL GOVERNMENT AGENCIES AND BOARDS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Royal Canadian Mint</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>320 Sussex Dr., Ottawa, ON K1A 0G8</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(613) 993-5259</telephone>
+                                                  <email>customerservice.web@mint.ca</email>
+                                                  <internet>mint.ca</internet>
+                                             </address-block>
+                                             <found-date>1969</found-date>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Phyllis</forename>
+                                                            <surname>Clark</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>Pres. and CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Marie</forename>
+                                                            <surname>Lemay</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6892279" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892278" slsdocid="3914404" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.USAC.2.105" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED FEDERAL GOVERNMENT AGENCIES AND BOARDS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Royal Canadian Mounted Police</org-entry-name>
+                                                  <abbr>RCMP</abbr>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Headquarters Bldg, 73 Leikin Dr., Ottawa, ON K1A 0R2</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(613) 993-7267</telephone>
+                                                  <fax>(613) 993-0260</fax>
+                                                  <internet>rcmp-grc.gc.ca</internet>
+                                             </address-block>
+                                             <found-date>1873 as North-West Mounted Police, present name since 1920</found-date>
+                                             <role-group>
+                                                  <role>Commr</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Mike</forename>
+                                                            <surname>Duheme</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entry-simple id="CA.DIR.3920142">
+                                        <org-entry-name>St Lawrence Seaway Management Corpn</org-entry-name>
+                                        <content-note style="NORMAL">
+                  see 
+                  <xr pageref="Y" ref="CA.DIR.1064">Transport—Inland Waterways</xr>
+                                        </content-note>
+                                   </org-entry-simple>
+                                   <org-entryref id="SL6892282" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892281" slsdocid="3914406" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.USAC.2.107" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED FEDERAL GOVERNMENT AGENCIES AND BOARDS">
+                                             <org-entry-head>
+                                                  <org-entry-name>Standards Council of Canada</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>55 Metcalfe St, Suite 600, Ottawa, ON K1P 6L5</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(613) 238-3222</telephone>
+                                                  <email>info@scc.ca</email>
+                                                  <internet>scc.ca</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">promotes voluntary standardization in specific fields for products and other goods not expressly provided for by law</content-note>
+                                             <role-group>
+                                                  <role>Chair.</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Colin</forename>
+                                                            <surname>Clark</surname>
+                                                       </person-name>
+                                                       <person-note>acting</person-note>
+                                                  </person>
+                                             </role-group>
+                                             <role-group>
+                                                  <role>CEO</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>Chantal</forename>
+                                                            <surname>Guay</surname>
+                                                       </person-name>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entryref id="SL6892286" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892285" slsdocid="3914408" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.USAC.2.108" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED FEDERAL GOVERNMENT AGENCIES AND BOARDS">
+                                             
+                                             <data-protection date-added="14.09.2007" ticked-box="N" />
+                                             <org-entry-head>
+                                                  <org-entry-name>Statistics Canada</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>150 Tunney's Pasture Driveway, Ottawa, ON K1A 0T6</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(514) 283-8300</telephone>
+                                                  <email>infostats@statcan.ca</email>
+                                                  <internet>statcan.gc.ca</internet>
+                                             </address-block>
+                                             <content-note style="NORMAL">nat. statistical agency</content-note>
+                                             <role-group>
+                                                  <role>Chief Statistician of Canada</role>
+                                                  <person>
+                                                       <person-name>
+                                                            <forename>André</forename>
+                                                            <surname>Loranger</surname>
+                                                       </person-name>
+                                                       <person-note>interim</person-note>
+                                                  </person>
+                                             </role-group>
+                                        </org-entry>
+                                   </org-entryref>
+                                   <org-entry-simple id="CA.DIR.114442015">
+                                        <org-entry-name>Transportation Safety Board of Canada</org-entry-name>
+                                        <content-note style="NORMAL">
+                  see 
+                  <xr pageref="Y" ref="CA.DIR.1306511836">Transport—Co-ordinating Bodies and Transport Associations</xr>
+                                        </content-note>
+                                   </org-entry-simple>
+                                   <org-entry-simple id="CA.DIR.3920143">
+                                        <org-entry-name>VIA Rail Canada, Inc</org-entry-name>
+                                        <content-note style="NORMAL">
+                  see 
+                  <xr pageref="Y" ref="CA.DIR.1056">Transport—Railways</xr>
+                                        </content-note>
+                                   </org-entry-simple>
+                                   <org-entryref id="SL6892290" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6892289" slsdocid="79150" slsdocty="org-entry org-entrydtd">
+                                        
+                                        <org-entry id="CA.DIR.81" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Government" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="MINISTRIES">
+                                             <org-entry-head>
+                                                  <org-entry-name>Western Economic Diversification Canada</org-entry-name>
+                                             </org-entry-head>
+                                             <address-block>
+                                                  <address type="POSTAL">
+                                                       <verbatim-address>Canada Pl., 9700 Jasper Ave, Suite 1500, Edmonton, AB T5J 4H7</verbatim-address>
+                                                  </address>
+                                                  <telephone alsofax="N">(780) 495-4164</telephone>
+                                                  <email>wd.contactus-contactez-nous.deo@canada.ca</email>
+                                                  <internet>wd-deo.gc.ca</internet>
+                                             </address-block>
+                                        </org-entry>
+                                   </org-entryref>
+                              </org-list>
+                         </dir-section>
+                    </dir-sectref>
+               </dir-section>
+          </dir-sectref>

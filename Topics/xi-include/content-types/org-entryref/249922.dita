@@ -1,0 +1,54 @@
+<org-entryref id="SL1733059" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1733058" slsdocid="249922" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <org-entry id="US.DIR.566" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Political Organizations" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Entries">
+                                   <org-entry-head>
+                                        <org-entry-name>Republican National Committee</org-entry-name>
+                                   </org-entry-head>
+                                   <address-block>
+                                        <address type="POSTAL">
+                                             <verbatim-address>310 1st St, SE, Washington, DC 20003</verbatim-address>
+                                        </address>
+                                        <telephone alsofax="N">(202) 863-8500</telephone>
+                                        <fax>(202) 863-8820</fax>
+                                        <email>info@gop.com</email>
+                                        <internet>gop.com</internet>
+                                   </address-block>
+                                   <found-date>1854</found-date>
+                                   <role-group>
+                                        <role>Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Michael</forename>
+                                                  <surname>Whatley</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Co-Chair.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Lara</forename>
+                                                  <surname>Trump</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Treas.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>K. C.</forename>
+                                                  <surname>Crosbie</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                                   <role-group>
+                                        <role>Sec.</role>
+                                        <person>
+                                             <person-name>
+                                                  <forename>Vicki</forename>
+                                                  <surname>Drummond</surname>
+                                             </person-name>
+                                        </person>
+                                   </role-group>
+                              </org-entry>
+                         </org-entryref>

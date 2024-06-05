@@ -1,0 +1,36 @@
+<org-entryref id="SL7799357" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799356" slsdocid="7799354" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry id="US.DIR.1637852423" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Publishing" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Organizations and Associations" usage="usac">
+                                        <org-entry-head>
+                                             <org-entry-name>Women's National Book Association</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>POB 237, FDR Station, New York, NY 10150</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="Y">(866) 610-9622</telephone>
+                                             <email>info@wnba-books.org</email>
+                                             <internet>wnba-books.org</internet>
+                                        </address-block>
+                                        <found-date>1917</found-date>
+                                        <stats>800 mems</stats>
+                                        <role-group>
+                                             <role>Pres.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Natalie</forename>
+                                                       <surname>Obando-Desai</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                        <role-group>
+                                             <role>Sec.</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Dayna</forename>
+                                                       <surname>Bennett</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>

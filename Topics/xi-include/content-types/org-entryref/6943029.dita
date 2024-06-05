@@ -1,0 +1,28 @@
+<org-entryref id="SL6943110" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="6943109" slsdocid="6943029" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1580298413" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Transport" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="CIVIL AVIATION" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Spirit Airlines, Inc</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>2800 Executive Way, Miramar, FL 33025</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(954) 447-7920</telephone>
+                                                       <email>investorrelations@spirit.com</email>
+                                                       <internet>spirit.com</internet>
+                                                  </address-block>
+                                                  <found-date>1980</found-date>
+                                                  <content-note style="NORMAL">domestic and regional services</content-note>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ted</forename>
+                                                                 <surname>Christie</surname>
+                                                                 <gen-name>III</gen-name>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

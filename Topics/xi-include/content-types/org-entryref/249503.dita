@@ -1,0 +1,28 @@
+<org-entryref id="SL1741508" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1741507" slsdocid="249503" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1039" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="PRINCIPAL DAILY AND SUNDAY NEWSPAPERS" usage="ewyb usac">
+                                                  
+                                                  <data-protection date-added="08.10.2008" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>News-Leader</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>901 E St. Louis St, Suite 1100, Springfield, MO 65806</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(800) 695-2005</telephone>
+                                                       <email>webeditor@news-leader.com</email>
+                                                       <internet>news-leader.com</internet>
+                                                  </address-block>
+                                                  <found-date>1933</found-date>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Amos</forename>
+                                                                 <surname>Bridges</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

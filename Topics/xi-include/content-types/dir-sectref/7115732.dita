@@ -1,0 +1,139 @@
+<dir-sectref dir-sectiondtd="-//Semantico//DTD SGML EWYB document 1.0//EN" id="SL8926888" sllink="SLSDOCRF" sllinkid="8926887" slsdocid="7115732" slsdocty="dir-section dir-sectiondtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                              
+                              <dir-section id="US.DIR.1590054641" id-root="us.dir" iso="us" sllink="SLSDOC" slsdocrf="DIR-SECTREF" usage="ewyb usac">
+                                   <heading>Hinduism</heading>
+                                   <p>In 2020 there were an estimated 831,229 Hindus in the USA, in 433 congregations.</p>
+                                   <org-list>
+                                        <org-entryref id="SL7117610" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7117609" slsdocid="4305707" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="US.DIR.1388665294" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Hinduism" usage="usac">
+                                                  <data-protection date-added="08.07.2009" ticked-box="Y" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Ananda Marga</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>149-02 Melbourne Ave, Flushing, NY 11367-1356</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(718) 898-1603</telephone>
+                                                       <email>sosny@anandamarga.us</email>
+                                                       <internet>anandamarga.us</internet>
+                                                  </address-block>
+                                                  
+                                                  <found-date>1955</found-date>
+                                                  <stats>50 state groups, 100 local groups</stats>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <verbatim-name>Acarya Vishvadevanada Avadhuta</verbatim-name>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL7115744" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7115743" slsdocid="7115739" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="US.DIR.1590055065" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Hinduism">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Hindu Temple Society of North America</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>45–57 Bowne Street, Flushing, New York, NY 11355</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(718) 460-8484</telephone>
+                                                       <fax>(718) 461-8055</fax>
+                                                       <email>hts@nyganeshtemple.org</email>
+                                                       <internet>nyganeshtemple.org</internet>
+                                                  </address-block>
+                                                  <found-date>1970</found-date>
+                                                  
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Chitti R.</forename>
+                                                                 <surname>Moorthy</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Uma</forename>
+                                                                 <surname>Mysorekar</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL7115735" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7115734" slsdocid="249647" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="US.DIR.868" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="HINDUISM" usage="usac">
+                                                  
+                                                  <data-protection date-added="04.01.2008" ticked-box="N" />
+                                                  <org-entry-head>
+                                                       <org-entry-name>Ramakrishna-Vivekananda Center of New York</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>17 E 94th St, New York, NY 10128</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(212) 534-9445</telephone>
+                                                       <email>rvcenternewyork@gmail.com</email>
+                                                       <internet>ramakrishna.org</internet>
+                                                  </address-block>
+                                                  <found-date>1933</found-date>
+                                                  <content-note style="NORMAL">teachings based on Vedanta system</content-note>
+                                                  
+                                                  <role-group>
+                                                       <role>Minister and Spiritual Leader</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Swami</forename>
+                                                                 <surname>Yuktatmananda</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                        <org-entryref id="SL7115765" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7115764" slsdocid="4305689" slsdocty="org-entry org-entrydtd">
+                                             
+                                             <org-entry id="US.DIR.1388664679" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Religion" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Hinduism" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Vishwa Hindu Parishad of America, Inc—World Hindu Council of America</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>200 New Bond St, Sugar Grove, IL 60554-9171</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(732) 744-0851</telephone>
+                                                       <email>gensecy@vhp-america.org</email>
+                                                       <internet>vhp-america.org</internet>
+                                                  </address-block>
+                                                  <found-date>1970</found-date>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ajay</forename>
+                                                                 <surname>Shah</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Gen. Sec.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Amitabh</forename>
+                                                                 <surname>Mittal</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>
+                                   </org-list>
+                              </dir-section>
+                         </dir-sectref>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+     <booktitle>
+          <mainbooktitle>Essay</mainbooktitle>
+     </booktitle>
+     <chapter id="ass.essay.7" navtitle="A century of development: policy and process in sub saharan africa">
+          <topicref href="../../../../Topics/Region/ass/content-types/essay/ass.essay.7.dita" navtitle="A century of development: policy and process in sub saharan africa" keyscope="essay" keys="essay" format="dita" />
+     </chapter>
+     <chapter id="ass.essay.17" navtitle="Brazils declining engagement with africa">
+          <topicref href="../../../../Topics/Region/ass/content-types/essay/ass.essay.17.dita" navtitle="Brazils declining engagement with africa" keyscope="essay" keys="essay" format="dita" />
+     </chapter>
+     <chapter id="ass.essay.8" navtitle="State failure in africa: causes, consequences and responses">
+          <topicref href="../../../../Topics/Region/ass/content-types/essay/ass.essay.8.dita" navtitle="State failure in africa: causes, consequences and responses" keyscope="essay" keys="essay" format="dita" />
+     </chapter>
+     <chapter id="ass.essay.2" navtitle="Economic trends in africa south of the sahara">
+          <topicref href="../../../../Topics/Region/ass/content-types/essay/ass.essay.2.dita" navtitle="Economic trends in africa south of the sahara" keyscope="essay" keys="essay" format="dita" />
+     </chapter>
+     <chapter id="ass.essay.5" navtitle="European colonial rule in africa">
+          <topicref href="../../../../Topics/Region/ass/content-types/essay/ass.essay.5.dita" navtitle="European colonial rule in africa" keyscope="essay" keys="essay" format="dita" />
+     </chapter>
+     <chapter id="ass.essay.30" navtitle="Beyond franafrique&amp;mdash;the state of relations between france and africa">
+          <topicref href="../../../../Topics/Region/ass/content-types/essay/ass.essay.30.dita" navtitle="Beyond franafrique&amp;mdash;the state of relations between france and africa" keyscope="essay" keys="essay" format="dita" />
+     </chapter>
+     <chapter id="ass.essay.40" navtitle="An analysis of the rule of law in sub saharan africa">
+          <topicref href="../../../../Topics/Region/ass/content-types/essay/ass.essay.40.dita" navtitle="An analysis of the rule of law in sub saharan africa" keyscope="essay" keys="essay" format="dita" />
+     </chapter>
+</bookmap>

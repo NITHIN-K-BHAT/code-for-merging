@@ -1,0 +1,26 @@
+<org-entryref id="SL8956577" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="8956576" slsdocid="2225850" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                                  
+                                                  <org-entry id="CA.DIR.1203003538" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELEVISION" usage="ewyb usac">
+                                                       <org-entry-head>
+                                                            <org-entry-name>Taqramiut Nipingat Inc</org-entry-name>
+                                                       </org-entry-head>
+                                                       <address-block>
+                                                            <address type="POSTAL">
+                                                                 <verbatim-address>455 Fénelon blvd, Suite 304, Dorval, QC H9S 5T8</verbatim-address>
+                                                            </address>
+                                                            <telephone alsofax="N">(514) 636-0999</telephone>
+                                                            <internet>tni-rtn.com</internet>
+                                                       </address-block>
+                                                       <found-date>1975</found-date>
+                                                       <content-note style="NORMAL">broadcasts programming in Inuktitut, French and English to Arctic regions of Québec (Nunavik)</content-note>
+                                                       <role-group>
+                                                            <role>Dir-Gen.</role>
+                                                            <person>
+                                                                 <person-name>
+                                                                      <forename>Julie</forename>
+                                                                      <surname>Grenier</surname>
+                                                                 </person-name>
+                                                            </person>
+                                                       </role-group>
+                                                  </org-entry>
+                                             </org-entryref>

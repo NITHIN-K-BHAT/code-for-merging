@@ -1,0 +1,39 @@
+<org-entryref id="SL262658" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262657" slsdocid="250160" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1961" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>American Public Works Association</org-entry-name>
+                                                       <abbr>APWA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1200 Main St, Suite 1400, Kansas City, MO 64105-2100</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(816) 472-6100</telephone>
+                                                       <fax>(816) 472-1600</fax>
+                                                       <email>social@apwa.net</email>
+                                                       <internet>apwa.net</internet>
+                                                  </address-block>
+                                                  <found-date>1937</found-date>
+                                                  <stats>over 31,500 mems (2023)</stats>
+                                                  <role-group>
+                                                       <role>Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>W. Gary</forename>
+                                                                 <surname>Losier</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Scott</forename>
+                                                                 <surname>Grayson</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

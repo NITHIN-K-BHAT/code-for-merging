@@ -1,0 +1,64 @@
+<org-entryref id="SL1756522" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1756521" slsdocid="78793" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.769" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS" usage="ewyb usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>TELUS</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>510 Georgia St W, Vancouver, BC V6B 0M3</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(604) 697-8044</telephone>
+                                                       <internet>telus.com</internet>
+                                                  </address-block>
+                                                  <found-date>2001</found-date>
+                                                  <content-note style="NORMAL">subsidiary co: TELUS Québec</content-note>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>John</forename>
+                                                                 <surname>Manley</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Darren</forename>
+                                                                 <surname>Entwistle</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>9.4m. mobile phone, 2.3m. internet, 1.2m. TV customers (2022)</stats>
+                                                  <org-list>
+                                                       <org-entryref id="SL119570" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="119569" slsdocid="78791" slsdocty="org-entry org-entrydtd">
+                                                            
+                                                            <org-entry id="CA.DIR.771" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS" usage="usac">
+                                                                 <org-entry-head>
+                                                                      <org-entry-name>TELUS Québec</org-entry-name>
+                                                                 </org-entry-head>
+                                                                 <address-block>
+                                                                      <address type="POSTAL">
+                                                                           <verbatim-address>9 rue Jules-A.-Brillant, CP 2070, Rimouski, QC G5L 7E4</verbatim-address>
+                                                                      </address>
+                                                                      <telephone alsofax="N">(418) 318-6102</telephone>
+                                                                      <internet>telus.com/fr/residentiel</internet>
+                                                                 </address-block>
+                                                                 <content-note style="NORMAL">telecommunications for Québec</content-note>
+                                                                 <role-group>
+                                                                      <role>Pres. and CEO</role>
+                                                                      <person>
+                                                                           <person-name>
+                                                                                <forename>Darren</forename>
+                                                                                <surname>Entwistle</surname>
+                                                                           </person-name>
+                                                                      </person>
+                                                                 </role-group>
+                                                            </org-entry>
+                                                       </org-entryref>
+                                                  </org-list>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,39 @@
+<org-entryref id="SL4326442" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4326441" slsdocid="4326168" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1389956535" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  
+                                                  <org-entry-head>
+                                                       <org-entry-name>News-Times</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>301 Merritt 7, Suite 1, Norwalk, CT 06851-1075</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(203) 842-2500</telephone>
+                                                       <fax>(203) 738-1230</fax>
+                                                       <email>jalcott@ctpost.com</email>
+                                                       <internet>newstimes.com</internet>
+                                                  </address-block>
+                                                  <found-date>1883</found-date>
+                                                  <frequency>morning</frequency>
+                                                  <role-group>
+                                                       <role>Group Publr and Pres.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Mike</forename>
+                                                                 <surname>DeLuca</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Interim Man. Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Julia</forename>
+                                                                 <surname>Perkins</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 30,000 (2021)</stats>
+                                             </org-entry>
+                                        </org-entryref>

@@ -1,0 +1,20 @@
+<org-entryref id="SL7799449" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="7799448" slsdocid="7799373" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.1637855750" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Periodicals" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Canadian Manager</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>80 Bradford St, Suite 311, Barrie, ON L4N 6S7</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(705) 725-8926</telephone>
+                                                       <fax>(705) 725-8196</fax>
+                                                       <email>office@cim.ca</email>
+                                                       <internet>bit.ly/3o9DHd8</internet>
+                                                  </address-block>
+                                                  <found-date>1942</found-date>
+                                                  <content-note style="NORMAL">publ. by Chartered Managers Canada (CIM)</content-note>
+                                                  <frequency>quarterly</frequency>
+                                             </org-entry>
+                                        </org-entryref>

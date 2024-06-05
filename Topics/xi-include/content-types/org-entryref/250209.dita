@@ -1,0 +1,42 @@
+<org-entryref id="SL262568" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262567" slsdocid="250209" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1907" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMPLOYERS’ ORGANIZATIONS">
+                                                  <org-entry-head>
+                                                       <org-entry-name>National Grocers Association</org-entry-name>
+                                                       <abbr>NGA</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>
+                          601 Pennsylvania Ave, NW, Suite 375
+                          <sc>n</sc>
+                          , Washington, DC 20004
+                        </verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(202) 938-2570</telephone>
+                                                       <fax>(202) 938-2574</fax>
+                                                       <email>admin@nationalgrocers.org</email>
+                                                       <internet>nationalgrocers.org</internet>
+                                                  </address-block>
+                                                  <found-date>1982</found-date>
+                                                  <stats>over 1,700 mems (2023)</stats>
+                                                  <role-group>
+                                                       <role>Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Ted</forename>
+                                                                 <surname>Balistreri</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Greg</forename>
+                                                                 <surname>Ferrara</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

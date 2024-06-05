@@ -1,0 +1,36 @@
+<org-entryref id="SL262440" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="262439" slsdocid="250111" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.2018" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Trade and Industry" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="UTILITIES">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Gas Technology Institute</org-entry-name>
+                                                       <abbr>GTI</abbr>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1700 S Mount Prospect Rd, Des Plaines, IL 60018-1804</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(847) 768-0500</telephone>
+                                                       <email>publicrelations@gti.energy</email>
+                                                       <internet>gti.energy</internet>
+                                                  </address-block>
+                                                  <found-date>2000</found-date>
+                                                  <role-group>
+                                                       <role>Exec. Chair.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Carlos A.</forename>
+                                                                 <surname>Cabrera</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Pres. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Paula A.</forename>
+                                                                 <surname>Grant</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                             </org-entry>
+                                        </org-entryref>

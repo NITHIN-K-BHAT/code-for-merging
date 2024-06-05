@@ -1,0 +1,27 @@
+<org-entryref id="SL1740046" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1740045" slsdocid="1302685" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1119869905" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="Broadcasting and Communications" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="TELECOMMUNICATIONS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Comcast Corpn</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>Comcast Center, 1701 JFK Blvd, Philadelphia, PA 19103</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(215) 286-1700</telephone>
+                                                       <internet>corporate.comcast.com</internet>
+                                                  </address-block>
+                                                  <found-date>1963</found-date>
+                                                  <content-note style="NORMAL">present name adopted 1969</content-note>
+                                                  <role-group>
+                                                       <role>Chair. and CEO</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Brian L.</forename>
+                                                                 <surname>Roberts</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <content-note style="NORMAL">18.9m. cable TV customers (2021) and over 32m. broadband internet customers (2022)</content-note>
+                                             </org-entry>
+                                        </org-entryref>

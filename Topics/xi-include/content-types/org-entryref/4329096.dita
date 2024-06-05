@@ -1,0 +1,37 @@
+<org-entryref id="SL4329168" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="4329167" slsdocid="4329096" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="US.DIR.1390288421" id-root="us.dir" iso="us" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="Principal Daily and Sunday Newspapers" usage="usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Post-Bulletin</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>1700 Greenview Dr. SW, Rochester, MN 55902</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(507) 285-7600</telephone>
+                                                       <email>letters@postbulletin.com</email>
+                                                       <internet>postbulletin.com</internet>
+                                                  </address-block>
+                                                  <found-date>1859</found-date>
+                                                  <frequency>online daily, Tuesday and Saturday print edns</frequency>
+                                                  <role-group>
+                                                       <role>Gen. Man.</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Steve</forename>
+                                                                 <surname>Lange</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <role-group>
+                                                       <role>Editor</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Jeff</forename>
+                                                                 <surname>Pieters</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 11,651 (2023)</stats>
+                                             </org-entry>
+                                        </org-entryref>

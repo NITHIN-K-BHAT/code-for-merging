@@ -1,0 +1,28 @@
+<org-entryref id="SL1759554" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="1759553" slsdocid="78933" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                             
+                                             <org-entry id="CA.DIR.625" id-root="ca.dir" iso="ca" media="PRINTANDONLINE" print-only="NO" section="The Press" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="SELECTED PERIODICALS" usage="ewyb usac">
+                                                  <org-entry-head>
+                                                       <org-entry-name>Les Affaires</org-entry-name>
+                                                  </org-entry-head>
+                                                  <address-block>
+                                                       <address type="POSTAL">
+                                                            <verbatim-address>355 rue Sainte-Catherine ouest, Suite 501, Montréal, QC H3B 1A5</verbatim-address>
+                                                       </address>
+                                                       <telephone alsofax="N">(514) 392-2009</telephone>
+                                                       <email>redactionlesaffaires@groupecontex.ca</email>
+                                                       <internet>lesaffaires.com</internet>
+                                                  </address-block>
+                                                  <found-date>1928</found-date>
+                                                  <frequency>monthly</frequency>
+                                                  <role-group>
+                                                       <role>Editor-in-Chief</role>
+                                                       <person>
+                                                            <person-name>
+                                                                 <forename>Marine</forename>
+                                                                 <surname>Thomas</surname>
+                                                            </person-name>
+                                                       </person>
+                                                  </role-group>
+                                                  <stats>circ. 46,618 (June 2022)</stats>
+                                             </org-entry>
+                                        </org-entryref>

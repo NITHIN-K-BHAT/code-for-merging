@@ -1,0 +1,26 @@
+<org-entryref id="SL66470" org-entrydtd="-//Semantico//DTD SGML EWYB document 1.0//EN" sllink="SLSDOCRF" sllinkid="66469" slsdocid="58778" slsdocty="org-entry org-entrydtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:pubid:EuropaWorld.com:doctypes:dita:europaworld.xsd">
+                                   
+                                   <org-entry country-id="us" id="HR.DIR.188" id-root="hr.dir" iso="hr" media="PRINTANDONLINE" print-only="NO" section="Diplomatic Representation" sllink="SLSDOC" slsdocrf="ORG-ENTRYREF" subsection="EMBASSIES IN CROATIA">
+                                        <org-entry-head>
+                                             <org-entry-name>USA</org-entry-name>
+                                        </org-entry-head>
+                                        <address-block>
+                                             <address type="POSTAL">
+                                                  <verbatim-address>10010 Zagreb, ul. Thomasa Jeffersona 2</verbatim-address>
+                                             </address>
+                                             <telephone alsofax="N">(1) 6612200</telephone>
+                                             <fax>(1) 6612371</fax>
+                                             <email>protocolembzgb@state.gov</email>
+                                             <internet>hr.usembassy.gov</internet>
+                                        </address-block>
+                                        <role-group>
+                                             <role>Ambassador</role>
+                                             <person>
+                                                  <person-name>
+                                                       <forename>Nathalie</forename>
+                                                       <surname>Rayes</surname>
+                                                  </person-name>
+                                             </person>
+                                        </role-group>
+                                   </org-entry>
+                              </org-entryref>
