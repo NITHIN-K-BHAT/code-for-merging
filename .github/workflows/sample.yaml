@@ -24,6 +24,9 @@ jobs:
       
     - name: Run Java code
       run: java DitaMapProcessor
-      
-    - name: Copy output file
-      run: cp <outputFilePath> ${{ github.workspace }}
+
+    - name: Upload output files
+      uses: actions/upload-artifact@v2
+      with:
+        name: dita-output-files
+        path: '*.dita'
