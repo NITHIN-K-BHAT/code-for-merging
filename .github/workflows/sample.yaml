@@ -40,7 +40,9 @@ jobs:
         shell: bash
 
       - name: List files in workspace
-        run: ls -R
+        run: |
+            echo "Listing files in workspace"
+            ls -R
       
       - name: Upload output file
         uses: actions/upload-artifact@v2
