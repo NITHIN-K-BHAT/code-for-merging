@@ -2,14 +2,14 @@ import org.w3c.dom.*;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 
-
 import java.io.*;
 
 public class DitaMapProcessor {
 
     public static void main(String[] args) {
         String inputFilePath = "Maps\\Region\\ass\\countries\\angola\\content-types\\directory.ditamap";
-        String outputFilePath = "output.dita";
+        String outputFilePath = ""; // Output file path
+
         try {
             // Parse the input XML file
             DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
@@ -18,6 +18,27 @@ public class DitaMapProcessor {
 
             // Get the root element
             Element root = document.getDocumentElement();
+
+            // Get the country name from inputFilePath
+            String[] pathComponents = inputFilePath.split("\\\\");
+            System.out.println("inputFilePath " + inputFilePath);
+            String countryName = ""; 
+            boolean foundCountries = false; 
+            for (int i = 0; i < pathComponents.length; i++) {
+                String component = pathComponents[i];
+                if (foundCountries) { 
+                    countryName = component; 
+                    break; 
+                }
+                if (component.equalsIgnoreCase("countries")) { 
+                    foundCountries = true; 
+                }
+            }
+
+
+            // Set output file path with the country name
+            outputFilePath = countryName + ".dita";
+            System.out.println("outputFilePath " + outputFilePath);
 
             // Get all the topicref elements
             NodeList topicrefs = document.getElementsByTagName("topicref");

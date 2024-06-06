@@ -5,7 +5,7 @@ on:
     branches:
       - Main
   pull_request:
-    branches: 
+    branches:
       - Main
 
 jobs:
@@ -13,28 +13,34 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-    - name: Set up JDK 17.0.11
-      uses: actions/setup-java@v2
-      with:
-        distribution: 'adopt' 
-        java-version: '17.0.11'
+      - name: Set up JDK 17.0.11
+        uses: actions/setup-java@v2
+        with:
+          distribution: 'adopt'
+          java-version: '17.0.11'
 
-    - name: Compile Java code
-      run: |
-        javac -d out DitaMapProcessor.java
+      - name: Compile Java code
+        run: |
+          javac -d out DitaMapProcessor.java
 
-    - name: Run Java program
-      run: |
-        java -cp out DitaMapProcessor
-      env:
-        INPUT_FILE_PATH: "Maps/Region/ass/countries/angola/content-types/directory.ditamap"
-        OUTPUT_FILE_PATH: "output.dita"
+      - name: Run Java program and capture output file name
+        id: run_java
+        run: |
+          java -cp out DitaMapProcessor
+        env:
+          INPUT_FILE_PATH: "Maps/Region/ass/countries/angola/content-types/directory.ditamap"
+        shell: bash
 
-    - name: Upload output file
-      uses: actions/upload-artifact@v2
-      with:
-        name: output-dita
-        path: output.dita
+      - name: Read output file name
+        id: read_output
+        run: echo "::set-output name=outputFileName::$(cat outputFileName.txt)"
+        shell: bash
+
+      - name: Upload output file
+        uses: actions/upload-artifact@v2
+        with:
+          name: ${{ steps.read_output.outputs.outputFileName }}
+          path: ${{ steps.read_output.outputs.outputFileName }}
