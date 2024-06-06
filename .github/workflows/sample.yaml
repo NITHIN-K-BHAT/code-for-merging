@@ -39,6 +39,9 @@ jobs:
         run: echo "::set-output name=outputFileName::$(cat outputFileName.txt)"
         shell: bash
 
+      - name: List files in workspace
+        run: ls -R
+      
       - name: Upload output file
         uses: actions/upload-artifact@v2
         with:
