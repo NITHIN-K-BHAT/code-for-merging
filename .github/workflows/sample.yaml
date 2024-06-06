@@ -23,14 +23,9 @@ jobs:
       run: javac DitaMapProcessor.java
       
     - name: Run Java code
-      run: |
-         pwd 
-         ls 
+      run: | 
          java DitaMapProcessor
-         # cd DitaMapProcessor.class
-         pwd
-         
-         ls
+
 
 
     - name: Upload output files
