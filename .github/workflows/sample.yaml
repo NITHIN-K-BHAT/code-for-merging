@@ -26,8 +26,8 @@ jobs:
       run: |
          pwd 
          ls -a
-         java .\DitaMapProcessor.java
-         # java DitaMapProcessor.java
+         java DitaMapProcessor
+       
          pwd
          ls
 
