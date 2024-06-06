@@ -22,19 +22,20 @@ jobs:
         distribution: 'adopt'
         java-version: '17.0.11'
 
-    - name: List directory contents
-      run: ls -R
-      # Optional: Specify the directory to list
-      # run: ls -R "java code for merging in runner 1"
-
-    - name: Compile Java code
+    - name: Verify file path
       run: |
+        echo "Listing contents of the current directory:"
+        ls -R
         if [ -f "java code for merging in runner 1/DitaMapProcessor.java" ]; then
-          javac -d out "java code for merging in runner 1/DitaMapProcessor.java"
+          echo "File found: java code for merging in runner 1/DitaMapProcessor.java"
         else
           echo "File not found: java code for merging in runner 1/DitaMapProcessor.java"
           exit 1
         fi
+
+    - name: Compile Java code
+      run: |
+        javac -d out "java code for merging in runner 1/DitaMapProcessor.java"
 
     - name: Run Java program
       run: |
