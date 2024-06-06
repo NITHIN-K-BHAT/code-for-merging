@@ -4,12 +4,12 @@
           <mainbooktitle>Country survey</mainbooktitle>
      </booktitle>
      <chapter id="ao.ge" navtitle="Physical and social geography">
-          <topicref href="../../../../../../Topics/Region/ass/countries/angola/content-types/country-survey/ao.ge.dita" navtitle="Physical and social geography" keyscope="country-survey" keys="country-survey" format="dita" />
+          <topicref href="Topics/Region/ass/countries/angola/content-types/country-survey/ao.ge.dita" navtitle="Physical and social geography" keyscope="country-survey" keys="country-survey" format="dita" />
      </chapter>
      <chapter id="ao.hi" navtitle="History">
-          <topicref href="../../../../../../Topics/Region/ass/countries/angola/content-types/country-survey/ao.hi.dita" navtitle="History" keyscope="country-survey" keys="country-survey" format="dita" />
+          <topicref href="Topics/Region/ass/countries/angola/content-types/country-survey/ao.hi.dita" navtitle="History" keyscope="country-survey" keys="country-survey" format="dita" />
      </chapter>
      <chapter id="ao.ec" navtitle="Economy">
-          <topicref href="../../../../../../Topics/Region/ass/countries/angola/content-types/country-survey/ao.ec.dita" navtitle="Economy" keyscope="country-survey" keys="country-survey" format="dita" />
+          <topicref href="Topics/Region/ass/countries/angola/content-types/country-survey/ao.ec.dita" navtitle="Economy" keyscope="country-survey" keys="country-survey" format="dita" />
      </chapter>
 </bookmap>

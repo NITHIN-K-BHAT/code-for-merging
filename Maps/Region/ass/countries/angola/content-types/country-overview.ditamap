@@ -4,6 +4,6 @@
           <mainbooktitle>Country overview</mainbooktitle>
      </booktitle>
      <chapter id="ao.co" navtitle="Country overview">
-          <topicref href="../../../../../../Topics/Region/ass/countries/angola/content-types/country-overview/ao.co.dita" navtitle="Country overview" keyscope="country-overview" keys="country-overview" format="dita" />
+          <topicref href="Topics/Region/ass/countries/angola/content-types/country-overview/ao.co.dita" navtitle="Country overview" keyscope="country-overview" keys="country-overview" format="dita" />
      </chapter>
 </bookmap>
