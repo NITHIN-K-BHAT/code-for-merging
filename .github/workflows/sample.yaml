@@ -24,8 +24,10 @@ jobs:
       
     - name: Run Java code
       run: |
+         pwd 
+         ls -a
          java .\DitaMapProcessor.java
-         java DitaMapProcessor.java
+         # java DitaMapProcessor.java
          pwd
          ls
 
