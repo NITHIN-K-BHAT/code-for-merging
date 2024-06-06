@@ -23,7 +23,11 @@ jobs:
       run: javac DitaMapProcessor.java
       
     - name: Run Java code
-      run: java DitaMapProcessor.java
+      run: |
+         java DitaMapProcessor.java
+         ls-a 
+         ls
+
 
     - name: Upload output files
       uses: actions/upload-artifact@v2
