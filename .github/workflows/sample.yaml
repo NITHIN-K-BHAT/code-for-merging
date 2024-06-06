@@ -25,11 +25,11 @@ jobs:
     - name: Run Java code
       run: |
          pwd 
-         ls -a
+         ls 
          java DitaMapProcessor
          # cd DitaMapProcessor.class
          pwd
-         ls -a
+         
          ls
 
 
