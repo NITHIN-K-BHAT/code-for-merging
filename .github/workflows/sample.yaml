@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
 
     steps:
     - name: Checkout code
@@ -26,8 +26,8 @@ jobs:
       run: |
          pwd 
          ls -a
-         java DitaMapProcessor.java
-         cd DitaMapProcessor.class
+         java DitaMapProcessor
+         # cd DitaMapProcessor.class
          pwd
          ls -a
          ls
