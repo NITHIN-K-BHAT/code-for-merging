@@ -1,14 +1,12 @@
 import org.w3c.dom.*;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
-
 import java.io.*;
 
 public class DitaMapProcessor {
 
     public static void main(String[] args) {
         String inputFilePath = "Maps\\Region\\ass\\countries\\angola\\content-types\\directory.ditamap";
-        String outputFilePath = ""; // Output file path
 
         try {
             // Parse the input XML file
@@ -18,62 +16,51 @@ public class DitaMapProcessor {
 
             // Get the root element
             Element root = document.getDocumentElement();
-
-            // Get the country name from inputFilePath
-            String[] pathComponents = inputFilePath.split("\\\\");
-            System.out.println("inputFilePath " + inputFilePath);
-            String countryName = ""; 
-            boolean foundCountries = false; 
-            for (int i = 0; i < pathComponents.length; i++) {
-                String component = pathComponents[i];
-                if (foundCountries) { 
-                    countryName = component; 
-                    break; 
-                }
-                if (component.equalsIgnoreCase("countries")) { 
-                    foundCountries = true; 
-                }
-            }
-
-
-            // Set output file path with the country name
-            outputFilePath = countryName + ".dita";
-            System.out.println("outputFilePath " + outputFilePath);
-
-            // Get all the topicref elements
             NodeList topicrefs = document.getElementsByTagName("topicref");
+            NodeList chapters = document.getElementsByTagName("chapter");
 
-            // Process each topicref element
-            for (int i = 0; i < topicrefs.getLength(); i++) {
-                Element topicref = (Element) topicrefs.item(i);
-                String href = topicref.getAttribute("href");
+            // Process each chapter element to create output filenames
+            for (int i = 0; i < chapters.getLength(); i++) {
+                Element chapter = (Element) chapters.item(i);
+                String chapterId = chapter.getAttribute("id"); // Get the id attribute of chapter
 
-                // Extract the filename from href
-                String filename = href.substring(href.lastIndexOf('/') + 1);
-                if (filename.endsWith(".dita")) {
-                    // Remove the extension and add '.dita'
-                    filename = filename.substring(0, filename.length() - 5) + ".dita";
-                } else {
-                    filename += ".dita";
+                if (chapterId != null && !chapterId.isEmpty()) {
+                    String chapterFilename = chapterId + ".dita";
+                    System.out.println("Chapter filename: " + chapterFilename);
+
+                    // Process each topicref element
+                    for (int j = 0; j < topicrefs.getLength(); j++) {
+                        Element topicref = (Element) topicrefs.item(j);
+                        String href = topicref.getAttribute("href");
+
+                        // Extract the filename from href
+                        String filename = href.substring(href.lastIndexOf('/') + 1);
+                        if (!filename.startsWith("countries/")) { // Skip filenames with "countries/"
+                            
+
+                            // Read content from the referenced file
+                            String contentFilePath = "" + href.replace('/', File.separatorChar);
+                            StringBuilder content = new StringBuilder();
+                            BufferedReader reader = new BufferedReader(new FileReader(contentFilePath));
+                            String line;
+                            while ((line = reader.readLine()) != null) {
+                                content.append(line).append("\n");
+                            }
+                            reader.close();
+
+                            // Append the content to the chapter file
+                            BufferedWriter writer = new BufferedWriter(new FileWriter(chapterFilename, true));
+                            writer.write(content.toString());
+                            writer.close();
+                        }
+                    }
+
+                    // Print the id of the chapter
+                    System.out.println("ID for chapter: " + chapterId);
                 }
-
-                // Read content from the referenced file
-                String contentFilePath = "" + href.replace('/', File.separatorChar);
-                StringBuilder content = new StringBuilder();
-                BufferedReader reader = new BufferedReader(new FileReader(contentFilePath));
-                String line;
-                while ((line = reader.readLine()) != null) {
-                    content.append(line).append("\n");
-                }
-                reader.close();
-
-                // Append the content to the output file
-                BufferedWriter writer = new BufferedWriter(new FileWriter(outputFilePath, true));
-                writer.write(content.toString());
-                writer.close();
             }
 
-            System.out.println("Content copied from inputFilePath to " + outputFilePath);
+            System.out.println("Content copied from inputFilePath to chapter files.");
 
         } catch (Exception e) {
             e.printStackTrace();
