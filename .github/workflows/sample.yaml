@@ -28,9 +28,8 @@ jobs:
          ls -a
          java DitaMapProcessor.java
          cd DitaMapProcessor.class
-
          pwd
-           ls -a
+         ls -a
          ls
 
 
